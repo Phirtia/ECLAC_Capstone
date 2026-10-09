@@ -5,3 +5,4 @@ __pycache__/
 Databases/raw/
 Databases/*.db
 Databases/*.parquet
+Databases/*.gz
