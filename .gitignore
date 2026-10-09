@@ -2,6 +2,6 @@
 **/.DS_Store
 .ipynb_checkpoints/
 __pycache__/
-Databases/
-*.db
-*.parquet
+Databases/raw/
+Databases/*.db
+Databases/*.parquet

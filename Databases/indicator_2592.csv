@@ -1,0 +1,1357 @@
+﻿value,source_id,notes_ids,iso3,dim_208,dim_29117,dim_88230,dim_28637,dim_10295,Household type,Country__ESTANDAR,Type of work,Sex,Years__ESTANDAR
+59.22229004,,,COL,225,29182,88234,28642,10301,One person,Colombia,Total working time,Male,2012
+48.15039825,,,COL,225,29182,88234,28642,10302,One person,Colombia,Total working time,Female,2012
+43.30061722,,,COL,225,29182,88234,28643,10301,One person,Colombia,Paid work time,Male,2012
+22.80574036,,,COL,225,29182,88234,28643,10302,One person,Colombia,Paid work time,Female,2012
+15.92167377,,,COL,225,29182,88234,28641,10301,One person,Colombia,Unpaid work time,Male,2012
+25.34465599,,,COL,225,29182,88234,28641,10302,One person,Colombia,Unpaid work time,Female,2012
+56.58243179,,,COL,225,29182,88235,28642,10301,Couple with children,Colombia,Total working time,Male,2012
+55.02368927,,,COL,225,29182,88235,28642,10302,Couple with children,Colombia,Total working time,Female,2012
+47.17341232,,,COL,225,29182,88235,28643,10301,Couple with children,Colombia,Paid work time,Male,2012
+18.35286713,,,COL,225,29182,88235,28643,10302,Couple with children,Colombia,Paid work time,Female,2012
+9.409017563,,,COL,225,29182,88235,28641,10301,Couple with children,Colombia,Unpaid work time,Male,2012
+36.67082596,,,COL,225,29182,88235,28641,10302,Couple with children,Colombia,Unpaid work time,Female,2012
+46.16016388,,,COL,225,29182,88236,28642,10301,Lone parent,Colombia,Total working time,Male,2012
+55.3680191,,,COL,225,29182,88236,28642,10302,Lone parent,Colombia,Total working time,Female,2012
+35.58821487,,,COL,225,29182,88236,28643,10301,Lone parent,Colombia,Paid work time,Male,2012
+26.80115318,,,COL,225,29182,88236,28643,10302,Lone parent,Colombia,Paid work time,Female,2012
+10.57194614,,,COL,225,29182,88236,28641,10301,Lone parent,Colombia,Unpaid work time,Male,2012
+28.56686592,,,COL,225,29182,88236,28641,10302,Lone parent,Colombia,Unpaid work time,Female,2012
+53.74687195,,,COL,225,29182,88237,28642,10301,Couple without children,Colombia,Total working time,Male,2012
+50.09605026,,,COL,225,29182,88237,28642,10302,Couple without children,Colombia,Total working time,Female,2012
+43.6905899,,,COL,225,29182,88237,28643,10301,Couple without children,Colombia,Paid work time,Male,2012
+18.76359558,,,COL,225,29182,88237,28643,10302,Couple without children,Colombia,Paid work time,Female,2012
+10.05628204,,,COL,225,29182,88237,28641,10301,Couple without children,Colombia,Unpaid work time,Male,2012
+31.33245659,,,COL,225,29182,88237,28641,10302,Couple without children,Colombia,Unpaid work time,Female,2012
+51.55791092,,,COL,225,29182,88238,28642,10301,Extended family,Colombia,Total working time,Male,2012
+51.22813034,,,COL,225,29182,88238,28642,10302,Extended family,Colombia,Total working time,Female,2012
+42.63280106,,,COL,225,29182,88238,28643,10301,Extended family,Colombia,Paid work time,Male,2012
+20.12616348,,,COL,225,29182,88238,28643,10302,Extended family,Colombia,Paid work time,Female,2012
+8.925109863,,,COL,225,29182,88238,28641,10301,Extended family,Colombia,Unpaid work time,Male,2012
+31.10196686,,,COL,225,29182,88238,28641,10302,Extended family,Colombia,Unpaid work time,Female,2012
+53.58612442,,,COL,225,29182,88231,28642,10301,Translation in progress...,Colombia,Total working time,Male,2012
+51.50130844,,,COL,225,29182,88231,28642,10302,Translation in progress...,Colombia,Total working time,Female,2012
+45.73849487,,,COL,225,29182,88231,28643,10301,Translation in progress...,Colombia,Paid work time,Male,2012
+20.44554901,,,COL,225,29182,88231,28643,10302,Translation in progress...,Colombia,Paid work time,Female,2012
+7.847630978,,,COL,225,29182,88231,28641,10301,Translation in progress...,Colombia,Unpaid work time,Male,2012
+31.05576134,,,COL,225,29182,88231,28641,10302,Translation in progress...,Colombia,Unpaid work time,Female,2012
+50.91425705,,,COL,225,29182,88232,28642,10301,Translation in progress...,Colombia,Total working time,Male,2012
+45.5412178,,,COL,225,29182,88232,28642,10302,Translation in progress...,Colombia,Total working time,Female,2012
+40.58158875,,,COL,225,29182,88232,28643,10301,Translation in progress...,Colombia,Paid work time,Male,2012
+18.5775032,,,COL,225,29182,88232,28643,10302,Translation in progress...,Colombia,Paid work time,Female,2012
+10.33266735,,,COL,225,29182,88232,28641,10301,Translation in progress...,Colombia,Unpaid work time,Male,2012
+26.96371651,,,COL,225,29182,88232,28641,10302,Translation in progress...,Colombia,Unpaid work time,Female,2012
+58.133255,1327.0,8037,COL,225,29187,88234,28642,10301,One person,Colombia,Total working time,Male,2017
+47.04097366,1327.0,8037,COL,225,29187,88234,28642,10302,One person,Colombia,Total working time,Female,2017
+41.68761826,1327.0,8037,COL,225,29187,88234,28643,10301,One person,Colombia,Paid work time,Male,2017
+22.92151833,,,COL,225,29187,88234,28643,10302,One person,Colombia,Paid work time,Female,2017
+16.44563675,1327.0,8037,COL,225,29187,88234,28641,10301,One person,Colombia,Unpaid work time,Male,2017
+24.11945534,,,COL,225,29187,88234,28641,10302,One person,Colombia,Unpaid work time,Female,2017
+57.18738556,1327.0,8037,COL,225,29187,88235,28642,10301,Couple with children,Colombia,Total working time,Male,2017
+55.68322754,1327.0,8037,COL,225,29187,88235,28642,10302,Couple with children,Colombia,Total working time,Female,2017
+45.71036911,1327.0,8037,COL,225,29187,88235,28643,10301,Couple with children,Colombia,Paid work time,Male,2017
+18.24389267,,,COL,225,29187,88235,28643,10302,Couple with children,Colombia,Paid work time,Female,2017
+11.47701931,1327.0,8037,COL,225,29187,88235,28641,10301,Couple with children,Colombia,Unpaid work time,Male,2017
+37.43933487,,,COL,225,29187,88235,28641,10302,Couple with children,Colombia,Unpaid work time,Female,2017
+46.63312912,1327.0,8037,COL,225,29187,88236,28642,10301,Lone parent,Colombia,Total working time,Male,2017
+54.92222595,1327.0,8037,COL,225,29187,88236,28642,10302,Lone parent,Colombia,Total working time,Female,2017
+35.1626091,1327.0,8037,COL,225,29187,88236,28643,10301,Lone parent,Colombia,Paid work time,Male,2017
+25.28595734,,,COL,225,29187,88236,28643,10302,Lone parent,Colombia,Paid work time,Female,2017
+11.47052097,1327.0,8037,COL,225,29187,88236,28641,10301,Lone parent,Colombia,Unpaid work time,Male,2017
+29.63626862,,,COL,225,29187,88236,28641,10302,Lone parent,Colombia,Unpaid work time,Female,2017
+54.07955551,1327.0,8037,COL,225,29187,88237,28642,10301,Couple without children,Colombia,Total working time,Male,2017
+50.10434341,1327.0,8037,COL,225,29187,88237,28642,10302,Couple without children,Colombia,Total working time,Female,2017
+42.51951599,1327.0,8037,COL,225,29187,88237,28643,10301,Couple without children,Colombia,Paid work time,Male,2017
+19.19412804,,,COL,225,29187,88237,28643,10302,Couple without children,Colombia,Paid work time,Female,2017
+11.56004047,1327.0,8037,COL,225,29187,88237,28641,10301,Couple without children,Colombia,Unpaid work time,Male,2017
+30.91021347,,,COL,225,29187,88237,28641,10302,Couple without children,Colombia,Unpaid work time,Female,2017
+51.94617462,1327.0,8037,COL,225,29187,88238,28642,10301,Extended family,Colombia,Total working time,Male,2017
+51.51717758,1327.0,8037,COL,225,29187,88238,28642,10302,Extended family,Colombia,Total working time,Female,2017
+41.8927002,1327.0,8037,COL,225,29187,88238,28643,10301,Extended family,Colombia,Paid work time,Male,2017
+19.16553879,,,COL,225,29187,88238,28643,10302,Extended family,Colombia,Paid work time,Female,2017
+10.05347157,1327.0,8037,COL,225,29187,88238,28641,10301,Extended family,Colombia,Unpaid work time,Male,2017
+32.35163879,,,COL,225,29187,88238,28641,10302,Extended family,Colombia,Unpaid work time,Female,2017
+57.68757248,1327.0,8037,COL,225,29187,88231,28642,10301,Translation in progress...,Colombia,Total working time,Male,2017
+50.34438705,1327.0,8037,COL,225,29187,88231,28642,10302,Translation in progress...,Colombia,Total working time,Female,2017
+47.20049286,1327.0,8037,COL,225,29187,88231,28643,10301,Translation in progress...,Colombia,Paid work time,Male,2017
+18.81168556,,,COL,225,29187,88231,28643,10302,Translation in progress...,Colombia,Paid work time,Female,2017
+10.48707676,1327.0,8037,COL,225,29187,88231,28641,10301,Translation in progress...,Colombia,Unpaid work time,Male,2017
+31.53270149,,,COL,225,29187,88231,28641,10302,Translation in progress...,Colombia,Unpaid work time,Female,2017
+52.33050156,1327.0,8037,COL,225,29187,88232,28642,10301,Translation in progress...,Colombia,Total working time,Male,2017
+46.11346054,1327.0,8037,COL,225,29187,88232,28642,10302,Translation in progress...,Colombia,Total working time,Female,2017
+39.85235214,1327.0,8037,COL,225,29187,88232,28643,10301,Translation in progress...,Colombia,Paid work time,Male,2017
+18.80952835,,,COL,225,29187,88232,28643,10302,Translation in progress...,Colombia,Paid work time,Female,2017
+12.47814846,1327.0,8037,COL,225,29187,88232,28641,10301,Translation in progress...,Colombia,Unpaid work time,Male,2017
+27.30393219,,,COL,225,29187,88232,28641,10302,Translation in progress...,Colombia,Unpaid work time,Female,2017
+57.85247803,1327.0,"8024,8037",COL,225,29191,88234,28642,10301,One person,Colombia,Total working time,Male,2021
+47.03267288,1327.0,"8024,8037",COL,225,29191,88234,28642,10302,One person,Colombia,Total working time,Female,2021
+40.15625,1327.0,"8024,8037",COL,225,29191,88234,28643,10301,One person,Colombia,Paid work time,Male,2021
+21.3817234,,,COL,225,29191,88234,28643,10302,One person,Colombia,Paid work time,Female,2021
+17.69622993,1327.0,"8024,8037",COL,225,29191,88234,28641,10301,One person,Colombia,Unpaid work time,Male,2021
+25.65094757,,,COL,225,29191,88234,28641,10302,One person,Colombia,Unpaid work time,Female,2021
+53.88048935,1327.0,"8024,8037",COL,225,29191,88235,28642,10301,Couple with children,Colombia,Total working time,Male,2021
+53.73010635,1327.0,"8024,8037",COL,225,29191,88235,28642,10302,Couple with children,Colombia,Total working time,Female,2021
+42.09088135,1327.0,"8024,8037",COL,225,29191,88235,28643,10301,Couple with children,Colombia,Paid work time,Male,2021
+15.02359867,,,COL,225,29191,88235,28643,10302,Couple with children,Colombia,Paid work time,Female,2021
+11.789608,1327.0,"8024,8037",COL,225,29191,88235,28641,10301,Couple with children,Colombia,Unpaid work time,Male,2021
+38.70650864,,,COL,225,29191,88235,28641,10302,Couple with children,Colombia,Unpaid work time,Female,2021
+44.85076141,1327.0,"8024,8037",COL,225,29191,88236,28642,10301,Lone parent,Colombia,Total working time,Male,2021
+53.7178421,1327.0,"8024,8037",COL,225,29191,88236,28642,10302,Lone parent,Colombia,Total working time,Female,2021
+32.4105835,1327.0,"8024,8037",COL,225,29191,88236,28643,10301,Lone parent,Colombia,Paid work time,Male,2021
+21.60594368,,,COL,225,29191,88236,28643,10302,Lone parent,Colombia,Paid work time,Female,2021
+12.44017887,1327.0,"8024,8037",COL,225,29191,88236,28641,10301,Lone parent,Colombia,Unpaid work time,Male,2021
+32.11190033,,,COL,225,29191,88236,28641,10302,Lone parent,Colombia,Unpaid work time,Female,2021
+51.33050537,1327.0,"8024,8037",COL,225,29191,88237,28642,10301,Couple without children,Colombia,Total working time,Male,2021
+47.89836121,1327.0,"8024,8037",COL,225,29191,88237,28642,10302,Couple without children,Colombia,Total working time,Female,2021
+39.10048676,1327.0,"8024,8037",COL,225,29191,88237,28643,10301,Couple without children,Colombia,Paid work time,Male,2021
+15.94473743,,,COL,225,29191,88237,28643,10302,Couple without children,Colombia,Paid work time,Female,2021
+12.23001957,1327.0,"8024,8037",COL,225,29191,88237,28641,10301,Couple without children,Colombia,Unpaid work time,Male,2021
+31.95362473,,,COL,225,29191,88237,28641,10302,Couple without children,Colombia,Unpaid work time,Female,2021
+48.78419876,1327.0,"8024,8037",COL,225,29191,88238,28642,10301,Extended family,Colombia,Total working time,Male,2021
+49.21657181,1327.0,"8024,8037",COL,225,29191,88238,28642,10302,Extended family,Colombia,Total working time,Female,2021
+37.86057663,1327.0,"8024,8037",COL,225,29191,88238,28643,10301,Extended family,Colombia,Paid work time,Male,2021
+16.0645504,,,COL,225,29191,88238,28643,10302,Extended family,Colombia,Paid work time,Female,2021
+10.92362118,1327.0,"8024,8037",COL,225,29191,88238,28641,10301,Extended family,Colombia,Unpaid work time,Male,2021
+33.1520195,,,COL,225,29191,88238,28641,10302,Extended family,Colombia,Unpaid work time,Female,2021
+51.9740715,1327.0,"8024,8037",COL,225,29191,88231,28642,10301,Translation in progress...,Colombia,Total working time,Male,2021
+48.17110825,1327.0,"8024,8037",COL,225,29191,88231,28642,10302,Translation in progress...,Colombia,Total working time,Female,2021
+41.6590271,1327.0,"8024,8037",COL,225,29191,88231,28643,10301,Translation in progress...,Colombia,Paid work time,Male,2021
+16.17581558,,,COL,225,29191,88231,28643,10302,Translation in progress...,Colombia,Paid work time,Female,2021
+10.31504631,1327.0,"8024,8037",COL,225,29191,88231,28641,10301,Translation in progress...,Colombia,Unpaid work time,Male,2021
+31.99529457,,,COL,225,29191,88231,28641,10302,Translation in progress...,Colombia,Unpaid work time,Female,2021
+50.21310043,1327.0,"8024,8037",COL,225,29191,88232,28642,10301,Translation in progress...,Colombia,Total working time,Male,2021
+45.78410721,1327.0,"8024,8037",COL,225,29191,88232,28642,10302,Translation in progress...,Colombia,Total working time,Female,2021
+36.22484589,1327.0,"8024,8037",COL,225,29191,88232,28643,10301,Translation in progress...,Colombia,Paid work time,Male,2021
+17.37389565,,,COL,225,29191,88232,28643,10302,Translation in progress...,Colombia,Paid work time,Female,2021
+13.98825455,1327.0,"8024,8037",COL,225,29191,88232,28641,10301,Translation in progress...,Colombia,Unpaid work time,Male,2021
+28.41021347,,,COL,225,29191,88232,28641,10302,Translation in progress...,Colombia,Unpaid work time,Female,2021
+46.3910675,,,ARG,216,29183,88234,28642,10301,One person,Argentina,Total working time,Male,2013
+36.52772522,,,ARG,216,29183,88234,28642,10302,One person,Argentina,Total working time,Female,2013
+28.85310936,,,ARG,216,29183,88234,28643,10301,One person,Argentina,Paid work time,Male,2013
+13.85606289,,,ARG,216,29183,88234,28643,10302,One person,Argentina,Paid work time,Female,2013
+17.53795815,,,ARG,216,29183,88234,28641,10301,One person,Argentina,Unpaid work time,Male,2013
+22.67166138,,,ARG,216,29183,88234,28641,10302,One person,Argentina,Unpaid work time,Female,2013
+58.05647659,,,ARG,216,29183,88235,28642,10301,Couple with children,Argentina,Total working time,Male,2013
+68.73857117,,,ARG,216,29183,88235,28642,10302,Couple with children,Argentina,Total working time,Female,2013
+40.55533981,,,ARG,216,29183,88235,28643,10301,Couple with children,Argentina,Paid work time,Male,2013
+15.94897652,,,ARG,216,29183,88235,28643,10302,Couple with children,Argentina,Paid work time,Female,2013
+17.50113678,,,ARG,216,29183,88235,28641,10301,Couple with children,Argentina,Unpaid work time,Male,2013
+52.78959274,,,ARG,216,29183,88235,28641,10302,Couple with children,Argentina,Unpaid work time,Female,2013
+43.72672272,,,ARG,216,29183,88236,28642,10301,Lone parent,Argentina,Total working time,Male,2013
+58.11120224,,,ARG,216,29183,88236,28642,10302,Lone parent,Argentina,Total working time,Female,2013
+30.40176773,,,ARG,216,29183,88236,28643,10301,Lone parent,Argentina,Paid work time,Male,2013
+20.73118591,,,ARG,216,29183,88236,28643,10302,Lone parent,Argentina,Paid work time,Female,2013
+13.32495499,,,ARG,216,29183,88236,28641,10301,Lone parent,Argentina,Unpaid work time,Male,2013
+37.38001633,,,ARG,216,29183,88236,28641,10302,Lone parent,Argentina,Unpaid work time,Female,2013
+42.81888199,,,ARG,216,29183,88237,28642,10301,Couple without children,Argentina,Total working time,Male,2013
+43.50980759,,,ARG,216,29183,88237,28642,10302,Couple without children,Argentina,Total working time,Female,2013
+28.35820007,,,ARG,216,29183,88237,28643,10301,Couple without children,Argentina,Paid work time,Male,2013
+15.3292532,,,ARG,216,29183,88237,28643,10302,Couple without children,Argentina,Paid work time,Female,2013
+14.46068001,,,ARG,216,29183,88237,28641,10301,Couple without children,Argentina,Unpaid work time,Male,2013
+28.18055344,,,ARG,216,29183,88237,28641,10302,Couple without children,Argentina,Unpaid work time,Female,2013
+51.14655685,,,ARG,216,29183,88238,28642,10301,Extended family,Argentina,Total working time,Male,2013
+61.58559036,,,ARG,216,29183,88238,28642,10302,Extended family,Argentina,Total working time,Female,2013
+37.48175049,,,ARG,216,29183,88238,28643,10301,Extended family,Argentina,Paid work time,Male,2013
+15.03668785,,,ARG,216,29183,88238,28643,10302,Extended family,Argentina,Paid work time,Female,2013
+13.66480541,,,ARG,216,29183,88238,28641,10301,Extended family,Argentina,Unpaid work time,Male,2013
+46.5489006,,,ARG,216,29183,88238,28641,10302,Extended family,Argentina,Unpaid work time,Female,2013
+51.64153671,,,ARG,216,29183,88231,28642,10301,Translation in progress...,Argentina,Total working time,Male,2013
+61.71444321,,,ARG,216,29183,88231,28642,10302,Translation in progress...,Argentina,Total working time,Female,2013
+32.99067307,,,ARG,216,29183,88231,28643,10301,Translation in progress...,Argentina,Paid work time,Male,2013
+13.70948792,,,ARG,216,29183,88231,28643,10302,Translation in progress...,Argentina,Paid work time,Female,2013
+18.65086365,,,ARG,216,29183,88231,28641,10301,Translation in progress...,Argentina,Unpaid work time,Male,2013
+48.00495148,,,ARG,216,29183,88231,28641,10302,Translation in progress...,Argentina,Unpaid work time,Female,2013
+43.4849205,,,ARG,216,29183,88232,28642,10301,Translation in progress...,Argentina,Total working time,Male,2013
+44.84606171,,,ARG,216,29183,88232,28642,10302,Translation in progress...,Argentina,Total working time,Female,2013
+30.22960663,,,ARG,216,29183,88232,28643,10301,Translation in progress...,Argentina,Paid work time,Male,2013
+15.99104691,,,ARG,216,29183,88232,28643,10302,Translation in progress...,Argentina,Paid work time,Female,2013
+13.25531387,,,ARG,216,29183,88232,28641,10301,Translation in progress...,Argentina,Unpaid work time,Male,2013
+28.85501671,,,ARG,216,29183,88232,28641,10302,Translation in progress...,Argentina,Unpaid work time,Female,2013
+44.40348816,,,BRA,222,29182,88234,28642,10301,One person,Brazil,Total working time,Male,2012
+37.70554733,,,BRA,222,29182,88234,28642,10302,One person,Brazil,Total working time,Female,2012
+31.42534637,,,BRA,222,29182,88234,28643,10301,One person,Brazil,Paid work time,Male,2012
+17.04459,,,BRA,222,29182,88234,28643,10302,One person,Brazil,Paid work time,Female,2012
+12.97814369,,,BRA,222,29182,88234,28641,10301,One person,Brazil,Unpaid work time,Male,2012
+20.66095734,,,BRA,222,29182,88234,28641,10302,One person,Brazil,Unpaid work time,Female,2012
+44.0365448,,,BRA,222,29182,88235,28642,10301,Couple with children,Brazil,Total working time,Male,2012
+45.55379868,,,BRA,222,29182,88235,28642,10302,Couple with children,Brazil,Total working time,Female,2012
+39.06894684,,,BRA,222,29182,88235,28643,10301,Couple with children,Brazil,Paid work time,Male,2012
+20.43295479,,,BRA,222,29182,88235,28643,10302,Couple with children,Brazil,Paid work time,Female,2012
+4.967600346,,,BRA,222,29182,88235,28641,10301,Couple with children,Brazil,Unpaid work time,Male,2012
+25.12084389,,,BRA,222,29182,88235,28641,10302,Couple with children,Brazil,Unpaid work time,Female,2012
+39.49771118,,,BRA,222,29182,88236,28642,10301,Lone parent,Brazil,Total working time,Male,2012
+43.65497208,,,BRA,222,29182,88236,28642,10302,Lone parent,Brazil,Total working time,Female,2012
+32.36044693,,,BRA,222,29182,88236,28643,10301,Lone parent,Brazil,Paid work time,Male,2012
+22.62781906,,,BRA,222,29182,88236,28643,10302,Lone parent,Brazil,Paid work time,Female,2012
+7.137264252,,,BRA,222,29182,88236,28641,10301,Lone parent,Brazil,Unpaid work time,Male,2012
+21.02715302,,,BRA,222,29182,88236,28641,10302,Lone parent,Brazil,Unpaid work time,Female,2012
+42.54931259,,,BRA,222,29182,88237,28642,10301,Couple without children,Brazil,Total working time,Male,2012
+43.57122803,,,BRA,222,29182,88237,28642,10302,Couple without children,Brazil,Total working time,Female,2012
+35.8198204,,,BRA,222,29182,88237,28643,10301,Couple without children,Brazil,Paid work time,Male,2012
+18.92341042,,,BRA,222,29182,88237,28643,10302,Couple without children,Brazil,Paid work time,Female,2012
+6.729489803,,,BRA,222,29182,88237,28641,10301,Couple without children,Brazil,Unpaid work time,Male,2012
+24.64781952,,,BRA,222,29182,88237,28641,10302,Couple without children,Brazil,Unpaid work time,Female,2012
+41.2729454,,,BRA,222,29182,88238,28642,10301,Extended family,Brazil,Total working time,Male,2012
+41.57771683,,,BRA,222,29182,88238,28642,10302,Extended family,Brazil,Total working time,Female,2012
+36.54218292,,,BRA,222,29182,88238,28643,10301,Extended family,Brazil,Paid work time,Male,2012
+18.66770935,,,BRA,222,29182,88238,28643,10302,Extended family,Brazil,Paid work time,Female,2012
+4.730761528,,,BRA,222,29182,88238,28641,10301,Extended family,Brazil,Unpaid work time,Male,2012
+22.91000557,,,BRA,222,29182,88238,28641,10302,Extended family,Brazil,Unpaid work time,Female,2012
+41.46709824,,,BRA,222,29182,88231,28642,10301,Translation in progress...,Brazil,Total working time,Male,2012
+42.1505127,,,BRA,222,29182,88231,28642,10302,Translation in progress...,Brazil,Total working time,Female,2012
+36.99094009,,,BRA,222,29182,88231,28643,10301,Translation in progress...,Brazil,Paid work time,Male,2012
+19.86826897,,,BRA,222,29182,88231,28643,10302,Translation in progress...,Brazil,Paid work time,Female,2012
+4.476156235,,,BRA,222,29182,88231,28641,10301,Translation in progress...,Brazil,Unpaid work time,Male,2012
+22.28224564,,,BRA,222,29182,88231,28641,10302,Translation in progress...,Brazil,Unpaid work time,Female,2012
+42.98165894,,,BRA,222,29182,88232,28642,10301,Translation in progress...,Brazil,Total working time,Male,2012
+38.65705872,,,BRA,222,29182,88232,28642,10302,Translation in progress...,Brazil,Total working time,Female,2012
+35.09513474,,,BRA,222,29182,88232,28643,10301,Translation in progress...,Brazil,Paid work time,Male,2012
+18.5456295,,,BRA,222,29182,88232,28643,10302,Translation in progress...,Brazil,Paid work time,Female,2012
+7.886526585,,,BRA,222,29182,88232,28641,10301,Translation in progress...,Brazil,Unpaid work time,Male,2012
+20.11142731,,,BRA,222,29182,88232,28641,10302,Translation in progress...,Brazil,Unpaid work time,Female,2012
+41.55098724,,,BRA,222,29187,88234,28642,10301,One person,Brazil,Total working time,Male,2017
+33.97091293,,,BRA,222,29187,88234,28642,10302,One person,Brazil,Total working time,Female,2017
+26.71997452,,,BRA,222,29187,88234,28643,10301,One person,Brazil,Paid work time,Male,2017
+14.14262199,,,BRA,222,29187,88234,28643,10302,One person,Brazil,Paid work time,Female,2017
+14.83101463,,,BRA,222,29187,88234,28641,10301,One person,Brazil,Unpaid work time,Male,2017
+19.82829094,,,BRA,222,29187,88234,28641,10302,One person,Brazil,Unpaid work time,Female,2017
+41.44745255,,,BRA,222,29187,88235,28642,10301,Couple with children,Brazil,Total working time,Male,2017
+40.46465302,,,BRA,222,29187,88235,28642,10302,Couple with children,Brazil,Total working time,Female,2017
+31.14102936,,,BRA,222,29187,88235,28643,10301,Couple with children,Brazil,Paid work time,Male,2017
+17.83240509,,,BRA,222,29187,88235,28643,10302,Couple with children,Brazil,Paid work time,Female,2017
+10.30642223,,,BRA,222,29187,88235,28641,10301,Couple with children,Brazil,Unpaid work time,Male,2017
+22.63224983,,,BRA,222,29187,88235,28641,10302,Couple with children,Brazil,Unpaid work time,Female,2017
+33.94026184,,,BRA,222,29187,88236,28642,10301,Lone parent,Brazil,Total working time,Male,2017
+39.37068939,,,BRA,222,29187,88236,28642,10302,Lone parent,Brazil,Total working time,Female,2017
+23.2985363,,,BRA,222,29187,88236,28643,10301,Lone parent,Brazil,Paid work time,Male,2017
+19.02444649,,,BRA,222,29187,88236,28643,10302,Lone parent,Brazil,Paid work time,Female,2017
+10.64172554,,,BRA,222,29187,88236,28641,10301,Lone parent,Brazil,Unpaid work time,Male,2017
+20.3462429,,,BRA,222,29187,88236,28641,10302,Lone parent,Brazil,Unpaid work time,Female,2017
+38.95449066,,,BRA,222,29187,88237,28642,10301,Couple without children,Brazil,Total working time,Male,2017
+38.19942856,,,BRA,222,29187,88237,28642,10302,Couple without children,Brazil,Total working time,Female,2017
+26.75279236,,,BRA,222,29187,88237,28643,10301,Couple without children,Brazil,Paid work time,Male,2017
+16.08160782,,,BRA,222,29187,88237,28643,10302,Couple without children,Brazil,Paid work time,Female,2017
+12.20169926,,,BRA,222,29187,88237,28641,10301,Couple without children,Brazil,Unpaid work time,Male,2017
+22.11781883,,,BRA,222,29187,88237,28641,10302,Couple without children,Brazil,Unpaid work time,Female,2017
+35.80697632,,,BRA,222,29187,88238,28642,10301,Extended family,Brazil,Total working time,Male,2017
+35.86399078,,,BRA,222,29187,88238,28642,10302,Extended family,Brazil,Total working time,Female,2017
+26.42640877,,,BRA,222,29187,88238,28643,10301,Extended family,Brazil,Paid work time,Male,2017
+15.11942101,,,BRA,222,29187,88238,28643,10302,Extended family,Brazil,Paid work time,Female,2017
+9.380569458,,,BRA,222,29187,88238,28641,10301,Extended family,Brazil,Unpaid work time,Male,2017
+20.74456787,,,BRA,222,29187,88238,28641,10302,Extended family,Brazil,Unpaid work time,Female,2017
+36.73100662,,,BRA,222,29187,88231,28642,10301,Translation in progress...,Brazil,Total working time,Male,2017
+36.07807159,,,BRA,222,29187,88231,28642,10302,Translation in progress...,Brazil,Total working time,Female,2017
+27.63479233,,,BRA,222,29187,88231,28643,10301,Translation in progress...,Brazil,Paid work time,Male,2017
+17.74271584,,,BRA,222,29187,88231,28643,10302,Translation in progress...,Brazil,Paid work time,Female,2017
+9.096215248,,,BRA,222,29187,88231,28641,10301,Translation in progress...,Brazil,Unpaid work time,Male,2017
+18.33535576,,,BRA,222,29187,88231,28641,10302,Translation in progress...,Brazil,Unpaid work time,Female,2017
+37.66841507,,,BRA,222,29187,88232,28642,10301,Translation in progress...,Brazil,Total working time,Male,2017
+34.61256409,,,BRA,222,29187,88232,28642,10302,Translation in progress...,Brazil,Total working time,Female,2017
+26.46548843,,,BRA,222,29187,88232,28643,10301,Translation in progress...,Brazil,Paid work time,Male,2017
+14.64655685,,,BRA,222,29187,88232,28643,10302,Translation in progress...,Brazil,Paid work time,Female,2017
+11.20292759,,,BRA,222,29187,88232,28641,10301,Translation in progress...,Brazil,Unpaid work time,Male,2017
+19.96600723,,,BRA,222,29187,88232,28641,10302,Translation in progress...,Brazil,Unpaid work time,Female,2017
+40.34509659,,,BRA,222,29189,88234,28642,10301,One person,Brazil,Total working time,Male,2019
+33.79909134,,,BRA,222,29189,88234,28642,10302,One person,Brazil,Total working time,Female,2019
+25.40346909,,,BRA,222,29189,88234,28643,10301,One person,Brazil,Paid work time,Male,2019
+13.71328545,,,BRA,222,29189,88234,28643,10302,One person,Brazil,Paid work time,Female,2019
+14.94163036,,,BRA,222,29189,88234,28641,10301,One person,Brazil,Unpaid work time,Male,2019
+20.0858078,,,BRA,222,29189,88234,28641,10302,One person,Brazil,Unpaid work time,Female,2019
+41.94835281,,,BRA,222,29189,88235,28642,10301,Couple with children,Brazil,Total working time,Male,2019
+41.58926392,,,BRA,222,29189,88235,28642,10302,Couple with children,Brazil,Total working time,Female,2019
+31.29152679,,,BRA,222,29189,88235,28643,10301,Couple with children,Brazil,Paid work time,Male,2019
+18.11720848,,,BRA,222,29189,88235,28643,10302,Couple with children,Brazil,Paid work time,Female,2019
+10.65682793,,,BRA,222,29189,88235,28641,10301,Couple with children,Brazil,Unpaid work time,Male,2019
+23.47205353,,,BRA,222,29189,88235,28641,10302,Couple with children,Brazil,Unpaid work time,Female,2019
+34.44696045,,,BRA,222,29189,88236,28642,10301,Lone parent,Brazil,Total working time,Male,2019
+39.6569519,,,BRA,222,29189,88236,28642,10302,Lone parent,Brazil,Total working time,Female,2019
+23.5531292,,,BRA,222,29189,88236,28643,10301,Lone parent,Brazil,Paid work time,Male,2019
+18.91165543,,,BRA,222,29189,88236,28643,10302,Lone parent,Brazil,Paid work time,Female,2019
+10.89383221,,,BRA,222,29189,88236,28641,10301,Lone parent,Brazil,Unpaid work time,Male,2019
+20.74529457,,,BRA,222,29189,88236,28641,10302,Lone parent,Brazil,Unpaid work time,Female,2019
+38.65000534,,,BRA,222,29189,88237,28642,10301,Couple without children,Brazil,Total working time,Male,2019
+38.64874649,,,BRA,222,29189,88237,28642,10302,Couple without children,Brazil,Total working time,Female,2019
+26.30245972,,,BRA,222,29189,88237,28643,10301,Couple without children,Brazil,Paid work time,Male,2019
+16.37228394,,,BRA,222,29189,88237,28643,10302,Couple without children,Brazil,Paid work time,Female,2019
+12.34754562,,,BRA,222,29189,88237,28641,10301,Couple without children,Brazil,Unpaid work time,Male,2019
+22.27646065,,,BRA,222,29189,88237,28641,10302,Couple without children,Brazil,Unpaid work time,Female,2019
+35.56658936,,,BRA,222,29189,88238,28642,10301,Extended family,Brazil,Total working time,Male,2019
+36.60803986,,,BRA,222,29189,88238,28642,10302,Extended family,Brazil,Total working time,Female,2019
+25.86085129,,,BRA,222,29189,88238,28643,10301,Extended family,Brazil,Paid work time,Male,2019
+14.8467598,,,BRA,222,29189,88238,28643,10302,Extended family,Brazil,Paid work time,Female,2019
+9.705739021,,,BRA,222,29189,88238,28641,10301,Extended family,Brazil,Unpaid work time,Male,2019
+21.76127815,,,BRA,222,29189,88238,28641,10302,Extended family,Brazil,Unpaid work time,Female,2019
+36.43674469,,,BRA,222,29189,88231,28642,10301,Translation in progress...,Brazil,Total working time,Male,2019
+36.69999695,,,BRA,222,29189,88231,28642,10302,Translation in progress...,Brazil,Total working time,Female,2019
+26.74847221,,,BRA,222,29189,88231,28643,10301,Translation in progress...,Brazil,Paid work time,Male,2019
+17.29878235,,,BRA,222,29189,88231,28643,10302,Translation in progress...,Brazil,Paid work time,Female,2019
+9.688271523,,,BRA,222,29189,88231,28641,10301,Translation in progress...,Brazil,Unpaid work time,Male,2019
+19.40121651,,,BRA,222,29189,88231,28641,10302,Translation in progress...,Brazil,Unpaid work time,Female,2019
+37.36914825,,,BRA,222,29189,88232,28642,10301,Translation in progress...,Brazil,Total working time,Male,2019
+34.8245697,,,BRA,222,29189,88232,28642,10302,Translation in progress...,Brazil,Total working time,Female,2019
+26.03200722,,,BRA,222,29189,88232,28643,10301,Translation in progress...,Brazil,Paid work time,Male,2019
+14.77631664,,,BRA,222,29189,88232,28643,10302,Translation in progress...,Brazil,Paid work time,Female,2019
+11.33714294,,,BRA,222,29189,88232,28641,10301,Translation in progress...,Brazil,Unpaid work time,Male,2019
+20.04825211,,,BRA,222,29189,88232,28641,10302,Translation in progress...,Brazil,Unpaid work time,Female,2019
+53.57688141,,,CHL,224,29185,88234,28642,10301,One person,Chile,Total working time,Male,2015
+48.28056717,,,CHL,224,29185,88234,28642,10302,One person,Chile,Total working time,Female,2015
+35.39847946,,,CHL,224,29185,88234,28643,10301,One person,Chile,Paid work time,Male,2015
+18.47482681,,,CHL,224,29185,88234,28643,10302,One person,Chile,Paid work time,Female,2015
+18.17839813,,,CHL,224,29185,88234,28641,10301,One person,Chile,Unpaid work time,Male,2015
+29.80573845,,,CHL,224,29185,88234,28641,10302,One person,Chile,Unpaid work time,Female,2015
+58.42317963,,,CHL,224,29185,88235,28642,10301,Couple with children,Chile,Total working time,Male,2015
+67.18730927,,,CHL,224,29185,88235,28642,10302,Couple with children,Chile,Total working time,Female,2015
+38.19406891,,,CHL,224,29185,88235,28643,10301,Couple with children,Chile,Paid work time,Male,2015
+18.99311256,,,CHL,224,29185,88235,28643,10302,Couple with children,Chile,Paid work time,Female,2015
+20.22911263,,,CHL,224,29185,88235,28641,10301,Couple with children,Chile,Unpaid work time,Male,2015
+48.19419479,,,CHL,224,29185,88235,28641,10302,Couple with children,Chile,Unpaid work time,Female,2015
+42.41712189,,,CHL,224,29185,88236,28642,10301,Lone parent,Chile,Total working time,Male,2015
+61.239254,,,CHL,224,29185,88236,28642,10302,Lone parent,Chile,Total working time,Female,2015
+25.74400711,,,CHL,224,29185,88236,28643,10301,Lone parent,Chile,Paid work time,Male,2015
+24.04880142,,,CHL,224,29185,88236,28643,10302,Lone parent,Chile,Paid work time,Female,2015
+16.67311287,,,CHL,224,29185,88236,28641,10301,Lone parent,Chile,Unpaid work time,Male,2015
+37.19045258,,,CHL,224,29185,88236,28641,10302,Lone parent,Chile,Unpaid work time,Female,2015
+48.19626617,,,CHL,224,29185,88237,28642,10301,Couple without children,Chile,Total working time,Male,2015
+55.92189026,,,CHL,224,29185,88237,28642,10302,Couple without children,Chile,Total working time,Female,2015
+29.46475792,,,CHL,224,29185,88237,28643,10301,Couple without children,Chile,Paid work time,Male,2015
+19.02438354,,,CHL,224,29185,88237,28643,10302,Couple without children,Chile,Paid work time,Female,2015
+18.73150826,,,CHL,224,29185,88237,28641,10301,Couple without children,Chile,Unpaid work time,Male,2015
+36.89750671,,,CHL,224,29185,88237,28641,10302,Couple without children,Chile,Unpaid work time,Female,2015
+53.92670822,,,CHL,224,29185,88238,28642,10301,Extended family,Chile,Total working time,Male,2015
+63.71826553,,,CHL,224,29185,88238,28642,10302,Extended family,Chile,Total working time,Female,2015
+34.46028519,,,CHL,224,29185,88238,28643,10301,Extended family,Chile,Paid work time,Male,2015
+19.76554871,,,CHL,224,29185,88238,28643,10302,Extended family,Chile,Paid work time,Female,2015
+19.46642303,,,CHL,224,29185,88238,28641,10301,Extended family,Chile,Unpaid work time,Male,2015
+43.95271683,,,CHL,224,29185,88238,28641,10302,Extended family,Chile,Unpaid work time,Female,2015
+55.92888641,,,CHL,224,29185,88231,28642,10301,Translation in progress...,Chile,Total working time,Male,2015
+68.47851563,,,CHL,224,29185,88231,28642,10302,Translation in progress...,Chile,Total working time,Female,2015
+34.99856949,,,CHL,224,29185,88231,28643,10301,Translation in progress...,Chile,Paid work time,Male,2015
+18.8695755,,,CHL,224,29185,88231,28643,10302,Translation in progress...,Chile,Paid work time,Female,2015
+20.93031502,,,CHL,224,29185,88231,28641,10301,Translation in progress...,Chile,Unpaid work time,Male,2015
+49.60894012,,,CHL,224,29185,88231,28641,10302,Translation in progress...,Chile,Unpaid work time,Female,2015
+50.76395035,,,CHL,224,29185,88232,28642,10301,Translation in progress...,Chile,Total working time,Male,2015
+51.465271,,,CHL,224,29185,88232,28642,10302,Translation in progress...,Chile,Total working time,Female,2015
+31.35726166,,,CHL,224,29185,88232,28643,10301,Translation in progress...,Chile,Paid work time,Male,2015
+17.78460503,,,CHL,224,29185,88232,28643,10302,Translation in progress...,Chile,Paid work time,Female,2015
+19.40668678,,,CHL,224,29185,88232,28641,10301,Translation in progress...,Chile,Unpaid work time,Male,2015
+33.68066788,,,CHL,224,29185,88232,28641,10302,Translation in progress...,Chile,Unpaid work time,Female,2015
+60.93078232,,,CRI,226,29181,88234,28642,10301,One person,Costa Rica,Total working time,Male,2011
+43.91748047,,,CRI,226,29181,88234,28642,10302,One person,Costa Rica,Total working time,Female,2011
+38.15265274,,,CRI,226,29181,88234,28643,10301,One person,Costa Rica,Paid work time,Male,2011
+14.36501408,,,CRI,226,29181,88234,28643,10302,One person,Costa Rica,Paid work time,Female,2011
+22.77812958,,,CRI,226,29181,88234,28641,10301,One person,Costa Rica,Unpaid work time,Male,2011
+29.55246544,,,CRI,226,29181,88234,28641,10302,One person,Costa Rica,Unpaid work time,Female,2011
+58.09018707,,,CRI,226,29181,88235,28642,10301,Couple with children,Costa Rica,Total working time,Male,2011
+64.46277618,,,CRI,226,29181,88235,28642,10302,Couple with children,Costa Rica,Total working time,Female,2011
+39.62265396,,,CRI,226,29181,88235,28643,10301,Couple with children,Costa Rica,Paid work time,Male,2011
+18.55791092,,,CRI,226,29181,88235,28643,10302,Couple with children,Costa Rica,Paid work time,Female,2011
+18.46753311,,,CRI,226,29181,88235,28641,10301,Couple with children,Costa Rica,Unpaid work time,Male,2011
+45.90486145,,,CRI,226,29181,88235,28641,10302,Couple with children,Costa Rica,Unpaid work time,Female,2011
+50.54047394,,,CRI,226,29181,88236,28642,10301,Lone parent,Costa Rica,Total working time,Male,2011
+62.43722153,,,CRI,226,29181,88236,28642,10302,Lone parent,Costa Rica,Total working time,Female,2011
+31.38154602,,,CRI,226,29181,88236,28643,10301,Lone parent,Costa Rica,Paid work time,Male,2011
+25.04118729,,,CRI,226,29181,88236,28643,10302,Lone parent,Costa Rica,Paid work time,Female,2011
+19.15892792,,,CRI,226,29181,88236,28641,10301,Lone parent,Costa Rica,Unpaid work time,Male,2011
+37.39603424,,,CRI,226,29181,88236,28641,10302,Lone parent,Costa Rica,Unpaid work time,Female,2011
+59.78765488,,,CRI,226,29181,88237,28642,10301,Couple without children,Costa Rica,Total working time,Male,2011
+58.16623306,,,CRI,226,29181,88237,28642,10302,Couple without children,Costa Rica,Total working time,Female,2011
+38.5008812,,,CRI,226,29181,88237,28643,10301,Couple without children,Costa Rica,Paid work time,Male,2011
+22.5852356,,,CRI,226,29181,88237,28643,10302,Couple without children,Costa Rica,Paid work time,Female,2011
+21.28677177,,,CRI,226,29181,88237,28641,10301,Couple without children,Costa Rica,Unpaid work time,Male,2011
+35.58099747,,,CRI,226,29181,88237,28641,10302,Couple without children,Costa Rica,Unpaid work time,Female,2011
+58.54891968,,,CRI,226,29181,88238,28642,10301,Extended family,Costa Rica,Total working time,Male,2011
+63.74908829,,,CRI,226,29181,88238,28642,10302,Extended family,Costa Rica,Total working time,Female,2011
+40.49475861,,,CRI,226,29181,88238,28643,10301,Extended family,Costa Rica,Paid work time,Male,2011
+20.08271027,,,CRI,226,29181,88238,28643,10302,Extended family,Costa Rica,Paid work time,Female,2011
+18.05415916,,,CRI,226,29181,88238,28641,10301,Extended family,Costa Rica,Unpaid work time,Male,2011
+43.66637802,,,CRI,226,29181,88238,28641,10302,Extended family,Costa Rica,Unpaid work time,Female,2011
+55.78512955,,,CRI,226,29181,88232,28642,10301,Translation in progress...,Costa Rica,Total working time,Male,2011
+56.36462784,,,CRI,226,29181,88232,28642,10302,Translation in progress...,Costa Rica,Total working time,Female,2011
+35.3698349,,,CRI,226,29181,88232,28643,10301,Translation in progress...,Costa Rica,Paid work time,Male,2011
+18.55919075,,,CRI,226,29181,88232,28643,10302,Translation in progress...,Costa Rica,Paid work time,Female,2011
+20.41529465,,,CRI,226,29181,88232,28641,10301,Translation in progress...,Costa Rica,Unpaid work time,Male,2011
+37.80543518,,,CRI,226,29181,88232,28641,10302,Translation in progress...,Costa Rica,Unpaid work time,Female,2011
+57.0459404,1929.0,7986,CRI,226,29187,88234,28642,10301,One person,Costa Rica,Total working time,Male,2017
+61.46125031,1929.0,7986,CRI,226,29187,88234,28642,10302,One person,Costa Rica,Total working time,Female,2017
+34.7028656,1929.0,7986,CRI,226,29187,88234,28643,10301,One person,Costa Rica,Paid work time,Male,2017
+17.31833649,,,CRI,226,29187,88234,28643,10302,One person,Costa Rica,Paid work time,Female,2017
+22.3430748,1929.0,7986,CRI,226,29187,88234,28641,10301,One person,Costa Rica,Unpaid work time,Male,2017
+44.14291,,,CRI,226,29187,88234,28641,10302,One person,Costa Rica,Unpaid work time,Female,2017
+55.23381805,1929.0,7986,CRI,226,29187,88235,28642,10301,Couple with children,Costa Rica,Total working time,Male,2017
+51.85779572,1929.0,7986,CRI,226,29187,88235,28642,10302,Couple with children,Costa Rica,Total working time,Female,2017
+40.13676453,1929.0,7986,CRI,226,29187,88235,28643,10301,Couple with children,Costa Rica,Paid work time,Male,2017
+16.42411804,,,CRI,226,29187,88235,28643,10302,Couple with children,Costa Rica,Paid work time,Female,2017
+15.09705067,1929.0,7986,CRI,226,29187,88235,28641,10301,Couple with children,Costa Rica,Unpaid work time,Male,2017
+35.43367767,,,CRI,226,29187,88235,28641,10302,Couple with children,Costa Rica,Unpaid work time,Female,2017
+45.21036148,1929.0,7986,CRI,226,29187,88236,28642,10301,Lone parent,Costa Rica,Total working time,Male,2017
+52.46577454,1929.0,7986,CRI,226,29187,88236,28642,10302,Lone parent,Costa Rica,Total working time,Female,2017
+31.66830254,1929.0,7986,CRI,226,29187,88236,28643,10301,Lone parent,Costa Rica,Paid work time,Male,2017
+18.35682106,,,CRI,226,29187,88236,28643,10302,Lone parent,Costa Rica,Paid work time,Female,2017
+13.54205704,1929.0,7986,CRI,226,29187,88236,28641,10301,Lone parent,Costa Rica,Unpaid work time,Male,2017
+34.10895538,,,CRI,226,29187,88236,28641,10302,Lone parent,Costa Rica,Unpaid work time,Female,2017
+62.15204239,1929.0,7986,CRI,226,29187,88237,28642,10301,Couple without children,Costa Rica,Total working time,Male,2017
+59.66685867,1929.0,7986,CRI,226,29187,88237,28642,10302,Couple without children,Costa Rica,Total working time,Female,2017
+44.09194946,1929.0,7986,CRI,226,29187,88237,28643,10301,Couple without children,Costa Rica,Paid work time,Male,2017
+13.54097939,,,CRI,226,29187,88237,28643,10302,Couple without children,Costa Rica,Paid work time,Female,2017
+18.06009293,1929.0,7986,CRI,226,29187,88237,28641,10301,Couple without children,Costa Rica,Unpaid work time,Male,2017
+46.1258812,,,CRI,226,29187,88237,28641,10302,Couple without children,Costa Rica,Unpaid work time,Female,2017
+50.9592247,1929.0,7986,CRI,226,29187,88238,28642,10301,Extended family,Costa Rica,Total working time,Male,2017
+55.07588577,1929.0,7986,CRI,226,29187,88238,28642,10302,Extended family,Costa Rica,Total working time,Female,2017
+34.14414597,1929.0,7986,CRI,226,29187,88238,28643,10301,Extended family,Costa Rica,Paid work time,Male,2017
+17.97600746,,,CRI,226,29187,88238,28643,10302,Extended family,Costa Rica,Paid work time,Female,2017
+16.81508064,1929.0,7986,CRI,226,29187,88238,28641,10301,Extended family,Costa Rica,Unpaid work time,Male,2017
+37.09988022,,,CRI,226,29187,88238,28641,10302,Extended family,Costa Rica,Unpaid work time,Female,2017
+55.0798912,1929.0,7986,CRI,226,29187,88232,28642,10301,Translation in progress...,Costa Rica,Total working time,Male,2017
+54.65684891,1929.0,7986,CRI,226,29187,88232,28642,10302,Translation in progress...,Costa Rica,Total working time,Female,2017
+38.73174286,1929.0,7986,CRI,226,29187,88232,28643,10301,Translation in progress...,Costa Rica,Paid work time,Male,2017
+17.91692162,,,CRI,226,29187,88232,28643,10302,Translation in progress...,Costa Rica,Paid work time,Female,2017
+16.34814644,1929.0,7986,CRI,226,29187,88232,28641,10301,Translation in progress...,Costa Rica,Unpaid work time,Male,2017
+36.73992538,,,CRI,226,29187,88232,28641,10302,Translation in progress...,Costa Rica,Unpaid work time,Female,2017
+59.29376221,,,ECU,229,29182,88234,28642,10301,One person,Ecuador,Total working time,Male,2012
+51.33658218,,,ECU,229,29182,88234,28642,10302,One person,Ecuador,Total working time,Female,2012
+37.52278519,,,ECU,229,29182,88234,28643,10301,One person,Ecuador,Paid work time,Male,2012
+20.82588768,,,ECU,229,29182,88234,28643,10302,One person,Ecuador,Paid work time,Female,2012
+21.77097511,,,ECU,229,29182,88234,28641,10301,One person,Ecuador,Unpaid work time,Male,2012
+30.5106945,,,ECU,229,29182,88234,28641,10302,One person,Ecuador,Unpaid work time,Female,2012
+51.19942093,,,ECU,229,29182,88235,28642,10301,Couple with children,Ecuador,Total working time,Male,2012
+57.72253799,,,ECU,229,29182,88235,28642,10302,Couple with children,Ecuador,Total working time,Female,2012
+41.85463715,,,ECU,229,29182,88235,28643,10301,Couple with children,Ecuador,Paid work time,Male,2012
+16.71708488,,,ECU,229,29182,88235,28643,10302,Couple with children,Ecuador,Paid work time,Female,2012
+9.344783783,,,ECU,229,29182,88235,28641,10301,Couple with children,Ecuador,Unpaid work time,Male,2012
+41.0054512,,,ECU,229,29182,88235,28641,10302,Couple with children,Ecuador,Unpaid work time,Female,2012
+41.74209595,,,ECU,229,29182,88236,28642,10301,Lone parent,Ecuador,Total working time,Male,2012
+61.10261154,,,ECU,229,29182,88236,28642,10302,Lone parent,Ecuador,Total working time,Female,2012
+30.94062233,,,ECU,229,29182,88236,28643,10301,Lone parent,Ecuador,Paid work time,Male,2012
+26.70185089,,,ECU,229,29182,88236,28643,10302,Lone parent,Ecuador,Paid work time,Female,2012
+10.80147266,,,ECU,229,29182,88236,28641,10301,Lone parent,Ecuador,Unpaid work time,Male,2012
+34.40076065,,,ECU,229,29182,88236,28641,10302,Lone parent,Ecuador,Unpaid work time,Female,2012
+47.41945267,,,ECU,229,29182,88237,28642,10301,Couple without children,Ecuador,Total working time,Male,2012
+53.20628738,,,ECU,229,29182,88237,28642,10302,Couple without children,Ecuador,Total working time,Female,2012
+35.31634521,,,ECU,229,29182,88237,28643,10301,Couple without children,Ecuador,Paid work time,Male,2012
+16.43704224,,,ECU,229,29182,88237,28643,10302,Couple without children,Ecuador,Paid work time,Female,2012
+12.1031065,,,ECU,229,29182,88237,28641,10301,Couple without children,Ecuador,Unpaid work time,Male,2012
+36.76924515,,,ECU,229,29182,88237,28641,10302,Couple without children,Ecuador,Unpaid work time,Female,2012
+47.90137863,,,ECU,229,29182,88238,28642,10301,Extended family,Ecuador,Total working time,Male,2012
+53.30453873,,,ECU,229,29182,88238,28642,10302,Extended family,Ecuador,Total working time,Female,2012
+39.6038208,,,ECU,229,29182,88238,28643,10301,Extended family,Ecuador,Paid work time,Male,2012
+18.43392944,,,ECU,229,29182,88238,28643,10302,Extended family,Ecuador,Paid work time,Female,2012
+8.297558784,,,ECU,229,29182,88238,28641,10301,Extended family,Ecuador,Unpaid work time,Male,2012
+34.87060928,,,ECU,229,29182,88238,28641,10302,Extended family,Ecuador,Unpaid work time,Female,2012
+51.59706116,,,ECU,229,29182,88231,28642,10301,Translation in progress...,Ecuador,Total working time,Male,2012
+53.30461121,,,ECU,229,29182,88231,28642,10302,Translation in progress...,Ecuador,Total working time,Female,2012
+43.56346893,,,ECU,229,29182,88231,28643,10301,Translation in progress...,Ecuador,Paid work time,Male,2012
+19.32237053,,,ECU,229,29182,88231,28643,10302,Translation in progress...,Ecuador,Paid work time,Female,2012
+8.033593178,,,ECU,229,29182,88231,28641,10301,Translation in progress...,Ecuador,Unpaid work time,Male,2012
+33.98223877,,,ECU,229,29182,88231,28641,10302,Translation in progress...,Ecuador,Unpaid work time,Female,2012
+47.3850174,,,ECU,229,29182,88232,28642,10301,Translation in progress...,Ecuador,Total working time,Male,2012
+49.20487976,,,ECU,229,29182,88232,28642,10302,Translation in progress...,Ecuador,Total working time,Female,2012
+35.28040695,,,ECU,229,29182,88232,28643,10301,Translation in progress...,Ecuador,Paid work time,Male,2012
+19.16581154,,,ECU,229,29182,88232,28643,10302,Translation in progress...,Ecuador,Paid work time,Female,2012
+12.10461044,,,ECU,229,29182,88232,28641,10301,Translation in progress...,Ecuador,Unpaid work time,Male,2012
+30.03906822,,,ECU,229,29182,88232,28641,10302,Translation in progress...,Ecuador,Unpaid work time,Female,2012
+53.33085632,,,SLV,230,29180,88234,28642,10301,One person,El Salvador,Total working time,Male,2010
+50.49390793,,,SLV,230,29180,88234,28642,10302,One person,El Salvador,Total working time,Female,2010
+29.77490044,,,SLV,230,29180,88234,28643,10301,One person,El Salvador,Paid work time,Male,2010
+16.35739517,,,SLV,230,29180,88234,28643,10302,One person,El Salvador,Paid work time,Female,2010
+23.55595589,,,SLV,230,29180,88234,28641,10301,One person,El Salvador,Unpaid work time,Male,2010
+34.13651276,,,SLV,230,29180,88234,28641,10302,One person,El Salvador,Unpaid work time,Female,2010
+57.89523315,,,SLV,230,29180,88235,28642,10301,Couple with children,El Salvador,Total working time,Male,2010
+63.61063766,,,SLV,230,29180,88235,28642,10302,Couple with children,El Salvador,Total working time,Female,2010
+42.2979393,,,SLV,230,29180,88235,28643,10301,Couple with children,El Salvador,Paid work time,Male,2010
+16.52267838,,,SLV,230,29180,88235,28643,10302,Couple with children,El Salvador,Paid work time,Female,2010
+15.59729004,,,SLV,230,29180,88235,28641,10301,Couple with children,El Salvador,Unpaid work time,Male,2010
+47.0879631,,,SLV,230,29180,88235,28641,10302,Couple with children,El Salvador,Unpaid work time,Female,2010
+41.38731003,,,SLV,230,29180,88236,28642,10301,Lone parent,El Salvador,Total working time,Male,2010
+60.64585876,,,SLV,230,29180,88236,28642,10302,Lone parent,El Salvador,Total working time,Female,2010
+26.20256233,,,SLV,230,29180,88236,28643,10301,Lone parent,El Salvador,Paid work time,Male,2010
+25.84719658,,,SLV,230,29180,88236,28643,10302,Lone parent,El Salvador,Paid work time,Female,2010
+15.1847477,,,SLV,230,29180,88236,28641,10301,Lone parent,El Salvador,Unpaid work time,Male,2010
+34.79866409,,,SLV,230,29180,88236,28641,10302,Lone parent,El Salvador,Unpaid work time,Female,2010
+52.88402176,,,SLV,230,29180,88237,28642,10301,Couple without children,El Salvador,Total working time,Male,2010
+57.25002289,,,SLV,230,29180,88237,28642,10302,Couple without children,El Salvador,Total working time,Female,2010
+36.75462341,,,SLV,230,29180,88237,28643,10301,Couple without children,El Salvador,Paid work time,Male,2010
+16.91659927,,,SLV,230,29180,88237,28643,10302,Couple without children,El Salvador,Paid work time,Female,2010
+16.12939644,,,SLV,230,29180,88237,28641,10301,Couple without children,El Salvador,Unpaid work time,Male,2010
+40.33342361,,,SLV,230,29180,88237,28641,10302,Couple without children,El Salvador,Unpaid work time,Female,2010
+51.31776428,,,SLV,230,29180,88238,28642,10301,Extended family,El Salvador,Total working time,Male,2010
+58.96071625,,,SLV,230,29180,88238,28642,10302,Extended family,El Salvador,Total working time,Female,2010
+36.53636551,,,SLV,230,29180,88238,28643,10301,Extended family,El Salvador,Paid work time,Male,2010
+20.95671272,,,SLV,230,29180,88238,28643,10302,Extended family,El Salvador,Paid work time,Female,2010
+14.78139877,,,SLV,230,29180,88238,28641,10301,Extended family,El Salvador,Unpaid work time,Male,2010
+38.00400543,,,SLV,230,29180,88238,28641,10302,Extended family,El Salvador,Unpaid work time,Female,2010
+46.92200089,,,SLV,230,29180,88232,28642,10301,Translation in progress...,El Salvador,Total working time,Male,2010
+51.73020554,,,SLV,230,29180,88232,28642,10302,Translation in progress...,El Salvador,Total working time,Female,2010
+29.19832993,,,SLV,230,29180,88232,28643,10301,Translation in progress...,El Salvador,Paid work time,Male,2010
+18.58846664,,,SLV,230,29180,88232,28643,10302,Translation in progress...,El Salvador,Paid work time,Female,2010
+17.72366905,,,SLV,230,29180,88232,28641,10301,Translation in progress...,El Salvador,Unpaid work time,Male,2010
+33.14173889,,,SLV,230,29180,88232,28641,10302,Translation in progress...,El Salvador,Unpaid work time,Female,2010
+64.28878021,,,SLV,230,29187,88234,28642,10301,One person,El Salvador,Total working time,Male,2017
+49.24214554,,,SLV,230,29187,88234,28642,10302,One person,El Salvador,Total working time,Female,2017
+42.35273743,,,SLV,230,29187,88234,28643,10301,One person,El Salvador,Paid work time,Male,2017
+17.44083214,,,SLV,230,29187,88234,28643,10302,One person,El Salvador,Paid work time,Female,2017
+21.93604088,,,SLV,230,29187,88234,28641,10301,One person,El Salvador,Unpaid work time,Male,2017
+31.80131149,,,SLV,230,29187,88234,28641,10302,One person,El Salvador,Unpaid work time,Female,2017
+60.61143494,,,SLV,230,29187,88235,28642,10301,Couple with children,El Salvador,Total working time,Male,2017
+59.66952515,,,SLV,230,29187,88235,28642,10302,Couple with children,El Salvador,Total working time,Female,2017
+44.84267426,,,SLV,230,29187,88235,28643,10301,Couple with children,El Salvador,Paid work time,Male,2017
+19.32525063,,,SLV,230,29187,88235,28643,10302,Couple with children,El Salvador,Paid work time,Female,2017
+15.76875877,,,SLV,230,29187,88235,28641,10301,Couple with children,El Salvador,Unpaid work time,Male,2017
+40.34427643,,,SLV,230,29187,88235,28641,10302,Couple with children,El Salvador,Unpaid work time,Female,2017
+50.61595535,,,SLV,230,29187,88236,28642,10301,Lone parent,El Salvador,Total working time,Male,2017
+59.81940842,,,SLV,230,29187,88236,28642,10302,Lone parent,El Salvador,Total working time,Female,2017
+30.29270744,,,SLV,230,29187,88236,28643,10301,Lone parent,El Salvador,Paid work time,Male,2017
+28.40319633,,,SLV,230,29187,88236,28643,10302,Lone parent,El Salvador,Paid work time,Female,2017
+20.32324982,,,SLV,230,29187,88236,28641,10301,Lone parent,El Salvador,Unpaid work time,Male,2017
+31.41621399,,,SLV,230,29187,88236,28641,10302,Lone parent,El Salvador,Unpaid work time,Female,2017
+58.29841614,,,SLV,230,29187,88237,28642,10301,Couple without children,El Salvador,Total working time,Male,2017
+61.44067383,,,SLV,230,29187,88237,28642,10302,Couple without children,El Salvador,Total working time,Female,2017
+39.21598053,,,SLV,230,29187,88237,28643,10301,Couple without children,El Salvador,Paid work time,Male,2017
+20.81837845,,,SLV,230,29187,88237,28643,10302,Couple without children,El Salvador,Paid work time,Female,2017
+19.08243752,,,SLV,230,29187,88237,28641,10301,Couple without children,El Salvador,Unpaid work time,Male,2017
+40.62229538,,,SLV,230,29187,88237,28641,10302,Couple without children,El Salvador,Unpaid work time,Female,2017
+59.14913177,,,SLV,230,29187,88238,28642,10301,Extended family,El Salvador,Total working time,Male,2017
+59.60816956,,,SLV,230,29187,88238,28642,10302,Extended family,El Salvador,Total working time,Female,2017
+40.89617538,,,SLV,230,29187,88238,28643,10301,Extended family,El Salvador,Paid work time,Male,2017
+21.79384804,,,SLV,230,29187,88238,28643,10302,Extended family,El Salvador,Paid work time,Female,2017
+18.2529583,,,SLV,230,29187,88238,28641,10301,Extended family,El Salvador,Unpaid work time,Male,2017
+37.81431961,,,SLV,230,29187,88238,28641,10302,Extended family,El Salvador,Unpaid work time,Female,2017
+51.368927,,,SLV,230,29187,88232,28642,10301,Translation in progress...,El Salvador,Total working time,Male,2017
+55.5857048,,,SLV,230,29187,88232,28642,10302,Translation in progress...,El Salvador,Total working time,Female,2017
+32.44420242,,,SLV,230,29187,88232,28643,10301,Translation in progress...,El Salvador,Paid work time,Male,2017
+20.05984688,,,SLV,230,29187,88232,28643,10302,Translation in progress...,El Salvador,Paid work time,Female,2017
+18.92472839,,,SLV,230,29187,88232,28641,10301,Translation in progress...,El Salvador,Unpaid work time,Male,2017
+35.52585602,,,SLV,230,29187,88232,28641,10302,Translation in progress...,El Salvador,Unpaid work time,Female,2017
+59.42493057,,,GTM,235,29181,88234,28642,10301,One person,Guatemala,Total working time,Male,2011
+53.9695282,,,GTM,235,29181,88234,28642,10302,One person,Guatemala,Total working time,Female,2011
+37.25626373,,,GTM,235,29181,88234,28643,10301,One person,Guatemala,Paid work time,Male,2011
+18.78140068,,,GTM,235,29181,88234,28643,10302,One person,Guatemala,Paid work time,Female,2011
+22.16866875,,,GTM,235,29181,88234,28641,10301,One person,Guatemala,Unpaid work time,Male,2011
+35.18812943,,,GTM,235,29181,88234,28641,10302,One person,Guatemala,Unpaid work time,Female,2011
+64.15594482,,,GTM,235,29181,88235,28642,10301,Couple with children,Guatemala,Total working time,Male,2011
+69.97859192,,,GTM,235,29181,88235,28642,10302,Couple with children,Guatemala,Total working time,Female,2011
+51.88876343,,,GTM,235,29181,88235,28643,10301,Couple with children,Guatemala,Paid work time,Male,2011
+14.30007553,,,GTM,235,29181,88235,28643,10302,Couple with children,Guatemala,Paid work time,Female,2011
+12.26717663,,,GTM,235,29181,88235,28641,10301,Couple with children,Guatemala,Unpaid work time,Male,2011
+55.67851639,,,GTM,235,29181,88235,28641,10302,Couple with children,Guatemala,Unpaid work time,Female,2011
+55.03897858,,,GTM,235,29181,88236,28642,10301,Lone parent,Guatemala,Total working time,Male,2011
+66.66897583,,,GTM,235,29181,88236,28642,10302,Lone parent,Guatemala,Total working time,Female,2011
+43.51872635,,,GTM,235,29181,88236,28643,10301,Lone parent,Guatemala,Paid work time,Male,2011
+26.90032387,,,GTM,235,29181,88236,28643,10302,Lone parent,Guatemala,Paid work time,Female,2011
+11.52025604,,,GTM,235,29181,88236,28641,10301,Lone parent,Guatemala,Unpaid work time,Male,2011
+39.76865387,,,GTM,235,29181,88236,28641,10302,Lone parent,Guatemala,Unpaid work time,Female,2011
+59.89546585,,,GTM,235,29181,88237,28642,10301,Couple without children,Guatemala,Total working time,Male,2011
+56.16840744,,,GTM,235,29181,88237,28642,10302,Couple without children,Guatemala,Total working time,Female,2011
+48.37998581,,,GTM,235,29181,88237,28643,10301,Couple without children,Guatemala,Paid work time,Male,2011
+14.83594704,,,GTM,235,29181,88237,28643,10302,Couple without children,Guatemala,Paid work time,Female,2011
+11.51548195,,,GTM,235,29181,88237,28641,10301,Couple without children,Guatemala,Unpaid work time,Male,2011
+41.33246231,,,GTM,235,29181,88237,28641,10302,Couple without children,Guatemala,Unpaid work time,Female,2011
+58.38698959,,,GTM,235,29181,88238,28642,10301,Extended family,Guatemala,Total working time,Male,2011
+64.44387817,,,GTM,235,29181,88238,28642,10302,Extended family,Guatemala,Total working time,Female,2011
+47.06951904,,,GTM,235,29181,88238,28643,10301,Extended family,Guatemala,Paid work time,Male,2011
+16.16058159,,,GTM,235,29181,88238,28643,10302,Extended family,Guatemala,Paid work time,Female,2011
+11.31746864,,,GTM,235,29181,88238,28641,10301,Extended family,Guatemala,Unpaid work time,Male,2011
+48.28329849,,,GTM,235,29181,88238,28641,10302,Extended family,Guatemala,Unpaid work time,Female,2011
+57.59107971,,,GTM,235,29181,88231,28642,10301,Translation in progress...,Guatemala,Total working time,Male,2011
+57.60022354,,,GTM,235,29181,88231,28642,10302,Translation in progress...,Guatemala,Total working time,Female,2011
+48.78155136,,,GTM,235,29181,88231,28643,10301,Translation in progress...,Guatemala,Paid work time,Male,2011
+14.20458794,,,GTM,235,29181,88231,28643,10302,Translation in progress...,Guatemala,Paid work time,Female,2011
+8.809528351,,,GTM,235,29181,88231,28641,10301,Translation in progress...,Guatemala,Unpaid work time,Male,2011
+43.3956337,,,GTM,235,29181,88231,28641,10302,Translation in progress...,Guatemala,Unpaid work time,Female,2011
+57.80744934,,,GTM,235,29181,88232,28642,10301,Translation in progress...,Guatemala,Total working time,Male,2011
+61.09521866,,,GTM,235,29181,88232,28642,10302,Translation in progress...,Guatemala,Total working time,Female,2011
+43.69481277,,,GTM,235,29181,88232,28643,10301,Translation in progress...,Guatemala,Paid work time,Male,2011
+20.35889435,,,GTM,235,29181,88232,28643,10302,Translation in progress...,Guatemala,Paid work time,Female,2011
+14.11263561,,,GTM,235,29181,88232,28641,10301,Translation in progress...,Guatemala,Unpaid work time,Male,2011
+40.73632813,,,GTM,235,29181,88232,28641,10302,Translation in progress...,Guatemala,Unpaid work time,Female,2011
+48.34740448,,,GTM,235,29184,88234,28642,10301,One person,Guatemala,Total working time,Male,2014
+40.04977798,,,GTM,235,29184,88234,28642,10302,One person,Guatemala,Total working time,Female,2014
+36.05448151,,,GTM,235,29184,88234,28643,10301,One person,Guatemala,Paid work time,Male,2014
+17.14871216,,,GTM,235,29184,88234,28643,10302,One person,Guatemala,Paid work time,Female,2014
+12.29292202,,,GTM,235,29184,88234,28641,10301,One person,Guatemala,Unpaid work time,Male,2014
+22.90106583,,,GTM,235,29184,88234,28641,10302,One person,Guatemala,Unpaid work time,Female,2014
+48.78317642,,,GTM,235,29184,88235,28642,10301,Couple with children,Guatemala,Total working time,Male,2014
+52.01313782,,,GTM,235,29184,88235,28642,10302,Couple with children,Guatemala,Total working time,Female,2014
+43.72097397,,,GTM,235,29184,88235,28643,10301,Couple with children,Guatemala,Paid work time,Male,2014
+13.72713089,,,GTM,235,29184,88235,28643,10302,Couple with children,Guatemala,Paid work time,Female,2014
+5.06220293,,,GTM,235,29184,88235,28641,10301,Couple with children,Guatemala,Unpaid work time,Male,2014
+38.28600693,,,GTM,235,29184,88235,28641,10302,Couple with children,Guatemala,Unpaid work time,Female,2014
+42.22692108,,,GTM,235,29184,88236,28642,10301,Lone parent,Guatemala,Total working time,Male,2014
+53.50975418,,,GTM,235,29184,88236,28642,10302,Lone parent,Guatemala,Total working time,Female,2014
+35.36408234,,,GTM,235,29184,88236,28643,10301,Lone parent,Guatemala,Paid work time,Male,2014
+24.34964371,,,GTM,235,29184,88236,28643,10302,Lone parent,Guatemala,Paid work time,Female,2014
+6.862836361,,,GTM,235,29184,88236,28641,10301,Lone parent,Guatemala,Unpaid work time,Male,2014
+29.16011047,,,GTM,235,29184,88236,28641,10302,Lone parent,Guatemala,Unpaid work time,Female,2014
+45.92382431,,,GTM,235,29184,88237,28642,10301,Couple without children,Guatemala,Total working time,Male,2014
+46.71060944,,,GTM,235,29184,88237,28642,10302,Couple without children,Guatemala,Total working time,Female,2014
+40.60086823,,,GTM,235,29184,88237,28643,10301,Couple without children,Guatemala,Paid work time,Male,2014
+16.03629875,,,GTM,235,29184,88237,28643,10302,Couple without children,Guatemala,Paid work time,Female,2014
+5.322958469,,,GTM,235,29184,88237,28641,10301,Couple without children,Guatemala,Unpaid work time,Male,2014
+30.67431068,,,GTM,235,29184,88237,28641,10302,Couple without children,Guatemala,Unpaid work time,Female,2014
+45.90149307,,,GTM,235,29184,88238,28642,10301,Extended family,Guatemala,Total working time,Male,2014
+43.69504547,,,GTM,235,29184,88238,28642,10302,Extended family,Guatemala,Total working time,Female,2014
+41.52761078,,,GTM,235,29184,88238,28643,10301,Extended family,Guatemala,Paid work time,Male,2014
+13.6032753,,,GTM,235,29184,88238,28643,10302,Extended family,Guatemala,Paid work time,Female,2014
+4.373881817,,,GTM,235,29184,88238,28641,10301,Extended family,Guatemala,Unpaid work time,Male,2014
+30.09177208,,,GTM,235,29184,88238,28641,10302,Extended family,Guatemala,Unpaid work time,Female,2014
+44.93416977,,,GTM,235,29184,88232,28642,10301,Translation in progress...,Guatemala,Total working time,Male,2014
+42.27801895,,,GTM,235,29184,88232,28642,10302,Translation in progress...,Guatemala,Total working time,Female,2014
+38.16075134,,,GTM,235,29184,88232,28643,10301,Translation in progress...,Guatemala,Paid work time,Male,2014
+17.41846085,,,GTM,235,29184,88232,28643,10302,Translation in progress...,Guatemala,Paid work time,Female,2014
+6.773417473,,,GTM,235,29184,88232,28641,10301,Translation in progress...,Guatemala,Unpaid work time,Male,2014
+24.8595562,,,GTM,235,29184,88232,28641,10302,Translation in progress...,Guatemala,Unpaid work time,Female,2014
+55.66578293,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88234,28642,10301,One person,Guatemala,Total working time,Male,2017
+38.34937668,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88234,28642,10302,One person,Guatemala,Total working time,Female,2017
+40.4361763,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88234,28643,10301,One person,Guatemala,Paid work time,Male,2017
+16.15752029,,,GTM,235,29187,88234,28643,10302,One person,Guatemala,Paid work time,Female,2017
+15.22960758,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88234,28641,10301,One person,Guatemala,Unpaid work time,Male,2017
+22.19185638,,,GTM,235,29187,88234,28641,10302,One person,Guatemala,Unpaid work time,Female,2017
+50.02398682,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88235,28642,10301,Couple with children,Guatemala,Total working time,Male,2017
+53.45872879,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88235,28642,10302,Couple with children,Guatemala,Total working time,Female,2017
+44.37311554,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88235,28643,10301,Couple with children,Guatemala,Paid work time,Male,2017
+13.82816029,,,GTM,235,29187,88235,28643,10302,Couple with children,Guatemala,Paid work time,Female,2017
+5.650868893,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88235,28641,10301,Couple with children,Guatemala,Unpaid work time,Male,2017
+39.63056946,,,GTM,235,29187,88235,28641,10302,Couple with children,Guatemala,Unpaid work time,Female,2017
+42.8554306,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88236,28642,10301,Lone parent,Guatemala,Total working time,Male,2017
+53.1297226,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88236,28642,10302,Lone parent,Guatemala,Total working time,Female,2017
+36.4236145,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88236,28643,10301,Lone parent,Guatemala,Paid work time,Male,2017
+24.2380619,,,GTM,235,29187,88236,28643,10302,Lone parent,Guatemala,Paid work time,Female,2017
+6.431817532,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88236,28641,10301,Lone parent,Guatemala,Unpaid work time,Male,2017
+28.89165878,,,GTM,235,29187,88236,28641,10302,Lone parent,Guatemala,Unpaid work time,Female,2017
+46.44687653,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88237,28642,10301,Couple without children,Guatemala,Total working time,Male,2017
+45.36788559,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88237,28642,10302,Couple without children,Guatemala,Total working time,Female,2017
+40.58481216,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88237,28643,10301,Couple without children,Guatemala,Paid work time,Male,2017
+14.41421509,,,GTM,235,29187,88237,28643,10302,Couple without children,Guatemala,Paid work time,Female,2017
+5.862063885,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88237,28641,10301,Couple without children,Guatemala,Unpaid work time,Male,2017
+30.9536705,,,GTM,235,29187,88237,28641,10302,Couple without children,Guatemala,Unpaid work time,Female,2017
+48.13254929,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88238,28642,10301,Extended family,Guatemala,Total working time,Male,2017
+51.36588669,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88238,28642,10302,Extended family,Guatemala,Total working time,Female,2017
+43.3589592,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88238,28643,10301,Extended family,Guatemala,Paid work time,Male,2017
+15.92504692,,,GTM,235,29187,88238,28643,10302,Extended family,Guatemala,Paid work time,Female,2017
+4.773592949,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88238,28641,10301,Extended family,Guatemala,Unpaid work time,Male,2017
+35.44083786,,,GTM,235,29187,88238,28641,10302,Extended family,Guatemala,Unpaid work time,Female,2017
+46.60095978,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88232,28642,10301,Translation in progress...,Guatemala,Total working time,Male,2017
+53.02014542,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88232,28642,10302,Translation in progress...,Guatemala,Total working time,Female,2017
+35.5213356,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88232,28643,10301,Translation in progress...,Guatemala,Paid work time,Male,2017
+21.62298203,,,GTM,235,29187,88232,28643,10302,Translation in progress...,Guatemala,Paid work time,Female,2017
+11.07962418,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29187,88232,28641,10301,Translation in progress...,Guatemala,Unpaid work time,Male,2017
+31.39716339,,,GTM,235,29187,88232,28641,10302,Translation in progress...,Guatemala,Unpaid work time,Female,2017
+51.51434708,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88234,28642,10301,One person,Guatemala,Total working time,Male,2019
+40.09819031,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88234,28642,10302,One person,Guatemala,Total working time,Female,2019
+36.58106995,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88234,28643,10301,One person,Guatemala,Paid work time,Male,2019
+17.9024334,,,GTM,235,29189,88234,28643,10302,One person,Guatemala,Paid work time,Female,2019
+14.93327427,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88234,28641,10301,One person,Guatemala,Unpaid work time,Male,2019
+22.19575882,,,GTM,235,29189,88234,28641,10302,One person,Guatemala,Unpaid work time,Female,2019
+50.64861679,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88235,28642,10301,Couple with children,Guatemala,Total working time,Male,2019
+49.29110718,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88235,28642,10302,Couple with children,Guatemala,Total working time,Female,2019
+46.02300262,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88235,28643,10301,Couple with children,Guatemala,Paid work time,Male,2019
+14.98214436,,,GTM,235,29189,88235,28643,10302,Couple with children,Guatemala,Paid work time,Female,2019
+4.625612736,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88235,28641,10301,Couple with children,Guatemala,Unpaid work time,Male,2019
+34.30895996,,,GTM,235,29189,88235,28641,10302,Couple with children,Guatemala,Unpaid work time,Female,2019
+45.269207,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88236,28642,10301,Lone parent,Guatemala,Total working time,Male,2019
+47.52801895,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88236,28642,10302,Lone parent,Guatemala,Total working time,Female,2019
+39.82698441,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88236,28643,10301,Lone parent,Guatemala,Paid work time,Male,2019
+23.58714867,,,GTM,235,29189,88236,28643,10302,Lone parent,Guatemala,Paid work time,Female,2019
+5.442224979,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88236,28641,10301,Lone parent,Guatemala,Unpaid work time,Male,2019
+23.94087029,,,GTM,235,29189,88236,28641,10302,Lone parent,Guatemala,Unpaid work time,Female,2019
+42.5475235,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88237,28642,10301,Couple without children,Guatemala,Total working time,Male,2019
+41.84770966,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88237,28642,10302,Couple without children,Guatemala,Total working time,Female,2019
+36.543396,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88237,28643,10301,Couple without children,Guatemala,Paid work time,Male,2019
+12.78674126,,,GTM,235,29189,88237,28643,10302,Couple without children,Guatemala,Paid work time,Female,2019
+6.004126549,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88237,28641,10301,Couple without children,Guatemala,Unpaid work time,Male,2019
+29.06096649,,,GTM,235,29189,88237,28641,10302,Couple without children,Guatemala,Unpaid work time,Female,2019
+48.73040771,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88238,28642,10301,Extended family,Guatemala,Total working time,Male,2019
+46.31019592,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88238,28642,10302,Extended family,Guatemala,Total working time,Female,2019
+44.70404816,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88238,28643,10301,Extended family,Guatemala,Paid work time,Male,2019
+18.94124985,,,GTM,235,29189,88238,28643,10302,Extended family,Guatemala,Paid work time,Female,2019
+4.026361465,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88238,28641,10301,Extended family,Guatemala,Unpaid work time,Male,2019
+27.36894417,,,GTM,235,29189,88238,28641,10302,Extended family,Guatemala,Unpaid work time,Female,2019
+45.30804825,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88232,28642,10301,Translation in progress...,Guatemala,Total working time,Male,2019
+46.826828,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88232,28642,10302,Translation in progress...,Guatemala,Total working time,Female,2019
+37.86767197,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88232,28643,10301,Translation in progress...,Guatemala,Paid work time,Male,2019
+20.15363312,,,GTM,235,29189,88232,28643,10302,Translation in progress...,Guatemala,Paid work time,Female,2019
+7.440374374,1408.0,"6915,7996,7997,8010,8020,8022",GTM,235,29189,88232,28641,10301,Translation in progress...,Guatemala,Unpaid work time,Male,2019
+26.67319489,,,GTM,235,29189,88232,28641,10302,Translation in progress...,Guatemala,Unpaid work time,Female,2019
+46.12887955,,,HND,239,29179,88234,28642,10301,One person,Honduras,Total working time,Male,2009
+36.55155563,,,HND,239,29179,88234,28642,10302,One person,Honduras,Total working time,Female,2009
+35.21848679,,,HND,239,29179,88234,28643,10301,One person,Honduras,Paid work time,Male,2009
+17.14614487,,,HND,239,29179,88234,28643,10302,One person,Honduras,Paid work time,Female,2009
+10.91039181,,,HND,239,29179,88234,28641,10301,One person,Honduras,Unpaid work time,Male,2009
+19.40541077,,,HND,239,29179,88234,28641,10302,One person,Honduras,Unpaid work time,Female,2009
+47.89836884,,,HND,239,29179,88235,28642,10301,Couple with children,Honduras,Total working time,Male,2009
+45.10266495,,,HND,239,29179,88235,28642,10302,Couple with children,Honduras,Total working time,Female,2009
+41.08345032,,,HND,239,29179,88235,28643,10301,Couple with children,Honduras,Paid work time,Male,2009
+12.52793312,,,HND,239,29179,88235,28643,10302,Couple with children,Honduras,Paid work time,Female,2009
+6.814918518,,,HND,239,29179,88235,28641,10301,Couple with children,Honduras,Unpaid work time,Male,2009
+32.57473373,,,HND,239,29179,88235,28641,10302,Couple with children,Honduras,Unpaid work time,Female,2009
+39.66548538,,,HND,239,29179,88236,28642,10301,Lone parent,Honduras,Total working time,Male,2009
+45.52741241,,,HND,239,29179,88236,28642,10302,Lone parent,Honduras,Total working time,Female,2009
+31.53655815,,,HND,239,29179,88236,28643,10301,Lone parent,Honduras,Paid work time,Male,2009
+19.26358986,,,HND,239,29179,88236,28643,10302,Lone parent,Honduras,Paid work time,Female,2009
+8.128929138,,,HND,239,29179,88236,28641,10301,Lone parent,Honduras,Unpaid work time,Male,2009
+26.26382256,,,HND,239,29179,88236,28641,10302,Lone parent,Honduras,Unpaid work time,Female,2009
+44.67537308,,,HND,239,29179,88237,28642,10301,Couple without children,Honduras,Total working time,Male,2009
+38.02496719,,,HND,239,29179,88237,28642,10302,Couple without children,Honduras,Total working time,Female,2009
+38.54344559,,,HND,239,29179,88237,28643,10301,Couple without children,Honduras,Paid work time,Male,2009
+12.81151485,,,HND,239,29179,88237,28643,10302,Couple without children,Honduras,Paid work time,Female,2009
+6.131927967,,,HND,239,29179,88237,28641,10301,Couple without children,Honduras,Unpaid work time,Male,2009
+25.21345139,,,HND,239,29179,88237,28641,10302,Couple without children,Honduras,Unpaid work time,Female,2009
+43.43251419,,,HND,239,29179,88238,28642,10301,Extended family,Honduras,Total working time,Male,2009
+42.70976257,,,HND,239,29179,88238,28642,10302,Extended family,Honduras,Total working time,Female,2009
+37.46126938,,,HND,239,29179,88238,28643,10301,Extended family,Honduras,Paid work time,Male,2009
+14.42983723,,,HND,239,29179,88238,28643,10302,Extended family,Honduras,Paid work time,Female,2009
+5.971244812,,,HND,239,29179,88238,28641,10301,Extended family,Honduras,Unpaid work time,Male,2009
+28.2799263,,,HND,239,29179,88238,28641,10302,Extended family,Honduras,Unpaid work time,Female,2009
+45.74419403,,,HND,239,29179,88231,28642,10301,Translation in progress...,Honduras,Total working time,Male,2009
+43.29700089,,,HND,239,29179,88231,28642,10302,Translation in progress...,Honduras,Total working time,Female,2009
+39.16727829,,,HND,239,29179,88231,28643,10301,Translation in progress...,Honduras,Paid work time,Male,2009
+15.09489346,,,HND,239,29179,88231,28643,10302,Translation in progress...,Honduras,Paid work time,Female,2009
+6.576918125,,,HND,239,29179,88231,28641,10301,Translation in progress...,Honduras,Unpaid work time,Male,2009
+28.20210838,,,HND,239,29179,88231,28641,10302,Translation in progress...,Honduras,Unpaid work time,Female,2009
+41.85876083,,,HND,239,29179,88232,28642,10301,Translation in progress...,Honduras,Total working time,Male,2009
+37.76542282,,,HND,239,29179,88232,28642,10302,Translation in progress...,Honduras,Total working time,Female,2009
+33.48985672,,,HND,239,29179,88232,28643,10301,Translation in progress...,Honduras,Paid work time,Male,2009
+14.33246708,,,HND,239,29179,88232,28643,10302,Translation in progress...,Honduras,Paid work time,Female,2009
+8.368906021,,,HND,239,29179,88232,28641,10301,Translation in progress...,Honduras,Unpaid work time,Male,2009
+23.43295479,,,HND,239,29179,88232,28641,10302,Translation in progress...,Honduras,Unpaid work time,Female,2009
+59.97118759,,,MEX,233,29179,88234,28642,10301,One person,Mexico,Total working time,Male,2009
+49.50090408,,,MEX,233,29179,88234,28642,10302,One person,Mexico,Total working time,Female,2009
+41.67702866,,,MEX,233,29179,88234,28643,10301,One person,Mexico,Paid work time,Male,2009
+19.94433403,,,MEX,233,29179,88234,28643,10302,One person,Mexico,Paid work time,Female,2009
+18.29415703,,,MEX,233,29179,88234,28641,10301,One person,Mexico,Unpaid work time,Male,2009
+29.55657196,,,MEX,233,29179,88234,28641,10302,One person,Mexico,Unpaid work time,Female,2009
+60.46935654,,,MEX,233,29179,88235,28642,10301,Couple with children,Mexico,Total working time,Male,2009
+65.19868469,,,MEX,233,29179,88235,28642,10302,Couple with children,Mexico,Total working time,Female,2009
+44.26649857,,,MEX,233,29179,88235,28643,10301,Couple with children,Mexico,Paid work time,Male,2009
+15.90273857,,,MEX,233,29179,88235,28643,10302,Couple with children,Mexico,Paid work time,Female,2009
+16.20285797,,,MEX,233,29179,88235,28641,10301,Couple with children,Mexico,Unpaid work time,Male,2009
+49.29594421,,,MEX,233,29179,88235,28641,10302,Couple with children,Mexico,Unpaid work time,Female,2009
+49.30862045,,,MEX,233,29179,88236,28642,10301,Lone parent,Mexico,Total working time,Male,2009
+64.97750092,,,MEX,233,29179,88236,28642,10302,Lone parent,Mexico,Total working time,Female,2009
+33.61525726,,,MEX,233,29179,88236,28643,10301,Lone parent,Mexico,Paid work time,Male,2009
+26.44677353,,,MEX,233,29179,88236,28643,10302,Lone parent,Mexico,Paid work time,Female,2009
+15.69336319,,,MEX,233,29179,88236,28641,10301,Lone parent,Mexico,Unpaid work time,Male,2009
+38.53072357,,,MEX,233,29179,88236,28641,10302,Lone parent,Mexico,Unpaid work time,Female,2009
+56.75998306,,,MEX,233,29179,88237,28642,10301,Couple without children,Mexico,Total working time,Male,2009
+58.38769913,,,MEX,233,29179,88237,28642,10302,Couple without children,Mexico,Total working time,Female,2009
+39.40090179,,,MEX,233,29179,88237,28643,10301,Couple without children,Mexico,Paid work time,Male,2009
+15.70564461,,,MEX,233,29179,88237,28643,10302,Couple without children,Mexico,Paid work time,Female,2009
+17.35908318,,,MEX,233,29179,88237,28641,10301,Couple without children,Mexico,Unpaid work time,Male,2009
+42.68205261,,,MEX,233,29179,88237,28641,10302,Couple without children,Mexico,Unpaid work time,Female,2009
+56.67433167,,,MEX,233,29179,88238,28642,10301,Extended family,Mexico,Total working time,Male,2009
+61.88920212,,,MEX,233,29179,88238,28642,10302,Extended family,Mexico,Total working time,Female,2009
+42.29254913,,,MEX,233,29179,88238,28643,10301,Extended family,Mexico,Paid work time,Male,2009
+19.19454002,,,MEX,233,29179,88238,28643,10302,Extended family,Mexico,Paid work time,Female,2009
+14.38178253,,,MEX,233,29179,88238,28641,10301,Extended family,Mexico,Unpaid work time,Male,2009
+42.69466019,,,MEX,233,29179,88238,28641,10302,Extended family,Mexico,Unpaid work time,Female,2009
+55.72743225,,,MEX,233,29179,88231,28642,10301,Translation in progress...,Mexico,Total working time,Male,2009
+64.13383484,,,MEX,233,29179,88231,28642,10302,Translation in progress...,Mexico,Total working time,Female,2009
+41.34658813,,,MEX,233,29179,88231,28643,10301,Translation in progress...,Mexico,Paid work time,Male,2009
+23.12586975,,,MEX,233,29179,88231,28643,10302,Translation in progress...,Mexico,Paid work time,Female,2009
+14.38084412,,,MEX,233,29179,88231,28641,10301,Translation in progress...,Mexico,Unpaid work time,Male,2009
+41.00796127,,,MEX,233,29179,88231,28641,10302,Translation in progress...,Mexico,Unpaid work time,Female,2009
+54.06315231,,,MEX,233,29179,88232,28642,10301,Translation in progress...,Mexico,Total working time,Male,2009
+54.2882309,,,MEX,233,29179,88232,28642,10302,Translation in progress...,Mexico,Total working time,Female,2009
+37.61062622,,,MEX,233,29179,88232,28643,10301,Translation in progress...,Mexico,Paid work time,Male,2009
+20.55426979,,,MEX,233,29179,88232,28643,10302,Translation in progress...,Mexico,Paid work time,Female,2009
+16.45252609,,,MEX,233,29179,88232,28641,10301,Translation in progress...,Mexico,Unpaid work time,Male,2009
+33.73396301,,,MEX,233,29179,88232,28641,10302,Translation in progress...,Mexico,Unpaid work time,Female,2009
+60.98840332,,,MEX,233,29184,88234,28642,10301,One person,Mexico,Total working time,Male,2014
+53.1749382,,,MEX,233,29184,88234,28642,10302,One person,Mexico,Total working time,Female,2014
+41.65573502,,,MEX,233,29184,88234,28643,10301,One person,Mexico,Paid work time,Male,2014
+24.15699005,,,MEX,233,29184,88234,28643,10302,One person,Mexico,Paid work time,Female,2014
+19.3326683,,,MEX,233,29184,88234,28641,10301,One person,Mexico,Unpaid work time,Male,2014
+29.01794815,,,MEX,233,29184,88234,28641,10302,One person,Mexico,Unpaid work time,Female,2014
+62.56848145,,,MEX,233,29184,88235,28642,10301,Couple with children,Mexico,Total working time,Male,2014
+65.51849365,,,MEX,233,29184,88235,28642,10302,Couple with children,Mexico,Total working time,Female,2014
+47.53572083,,,MEX,233,29184,88235,28643,10301,Couple with children,Mexico,Paid work time,Male,2014
+18.48105049,,,MEX,233,29184,88235,28643,10302,Couple with children,Mexico,Paid work time,Female,2014
+15.03275776,,,MEX,233,29184,88235,28641,10301,Couple with children,Mexico,Unpaid work time,Male,2014
+47.03744125,,,MEX,233,29184,88235,28641,10302,Couple with children,Mexico,Unpaid work time,Female,2014
+50.43424606,,,MEX,233,29184,88236,28642,10301,Lone parent,Mexico,Total working time,Male,2014
+63.54998779,,,MEX,233,29184,88236,28642,10302,Lone parent,Mexico,Total working time,Female,2014
+34.69894791,,,MEX,233,29184,88236,28643,10301,Lone parent,Mexico,Paid work time,Male,2014
+27.42316437,,,MEX,233,29184,88236,28643,10302,Lone parent,Mexico,Paid work time,Female,2014
+15.73530102,,,MEX,233,29184,88236,28641,10301,Lone parent,Mexico,Unpaid work time,Male,2014
+36.12682343,,,MEX,233,29184,88236,28641,10302,Lone parent,Mexico,Unpaid work time,Female,2014
+55.29150009,,,MEX,233,29184,88237,28642,10301,Couple without children,Mexico,Total working time,Male,2014
+56.93931961,,,MEX,233,29184,88237,28642,10302,Couple without children,Mexico,Total working time,Female,2014
+40.98265457,,,MEX,233,29184,88237,28643,10301,Couple without children,Mexico,Paid work time,Male,2014
+17.77736282,,,MEX,233,29184,88237,28643,10302,Couple without children,Mexico,Paid work time,Female,2014
+14.30884838,,,MEX,233,29184,88237,28641,10301,Couple without children,Mexico,Unpaid work time,Male,2014
+39.16195679,,,MEX,233,29184,88237,28641,10302,Couple without children,Mexico,Unpaid work time,Female,2014
+58.24547958,,,MEX,233,29184,88238,28642,10301,Extended family,Mexico,Total working time,Male,2014
+61.64744568,,,MEX,233,29184,88238,28642,10302,Extended family,Mexico,Total working time,Female,2014
+44.52410126,,,MEX,233,29184,88238,28643,10301,Extended family,Mexico,Paid work time,Male,2014
+20.88015938,,,MEX,233,29184,88238,28643,10302,Extended family,Mexico,Paid work time,Female,2014
+13.72137833,,,MEX,233,29184,88238,28641,10301,Extended family,Mexico,Unpaid work time,Male,2014
+40.76728821,,,MEX,233,29184,88238,28641,10302,Extended family,Mexico,Unpaid work time,Female,2014
+62.60473633,,,MEX,233,29184,88231,28642,10301,Translation in progress...,Mexico,Total working time,Male,2014
+65.64805603,,,MEX,233,29184,88231,28642,10302,Translation in progress...,Mexico,Total working time,Female,2014
+46.47679138,,,MEX,233,29184,88231,28643,10301,Translation in progress...,Mexico,Paid work time,Male,2014
+21.82530022,,,MEX,233,29184,88231,28643,10302,Translation in progress...,Mexico,Paid work time,Female,2014
+16.12794495,,,MEX,233,29184,88231,28641,10301,Translation in progress...,Mexico,Unpaid work time,Male,2014
+43.82275391,,,MEX,233,29184,88231,28641,10302,Translation in progress...,Mexico,Unpaid work time,Female,2014
+60.77513504,,,MEX,233,29184,88232,28642,10301,Translation in progress...,Mexico,Total working time,Male,2014
+53.93100739,,,MEX,233,29184,88232,28642,10302,Translation in progress...,Mexico,Total working time,Female,2014
+43.102005,,,MEX,233,29184,88232,28643,10301,Translation in progress...,Mexico,Paid work time,Male,2014
+20.5743103,,,MEX,233,29184,88232,28643,10302,Translation in progress...,Mexico,Paid work time,Female,2014
+17.67313194,,,MEX,233,29184,88232,28641,10301,Translation in progress...,Mexico,Unpaid work time,Male,2014
+33.35669708,,,MEX,233,29184,88232,28641,10302,Translation in progress...,Mexico,Unpaid work time,Female,2014
+63.31666565,,,MEX,233,29189,88234,28642,10301,One person,Mexico,Total working time,Male,2019
+53.16058731,,,MEX,233,29189,88234,28642,10302,One person,Mexico,Total working time,Female,2019
+41.60631561,,,MEX,233,29189,88234,28643,10301,One person,Mexico,Paid work time,Male,2019
+21.18765831,,,MEX,233,29189,88234,28643,10302,One person,Mexico,Paid work time,Female,2019
+21.71035004,,,MEX,233,29189,88234,28641,10301,One person,Mexico,Unpaid work time,Male,2019
+31.97292709,,,MEX,233,29189,88234,28641,10302,One person,Mexico,Unpaid work time,Female,2019
+63.72953415,,,MEX,233,29189,88235,28642,10301,Couple with children,Mexico,Total working time,Male,2019
+67.07207489,,,MEX,233,29189,88235,28642,10302,Couple with children,Mexico,Total working time,Female,2019
+47.39304352,,,MEX,233,29189,88235,28643,10301,Couple with children,Mexico,Paid work time,Male,2019
+20.10011864,,,MEX,233,29189,88235,28643,10302,Couple with children,Mexico,Paid work time,Female,2019
+16.33649063,,,MEX,233,29189,88235,28641,10301,Couple with children,Mexico,Unpaid work time,Male,2019
+46.97195435,,,MEX,233,29189,88235,28641,10302,Couple with children,Mexico,Unpaid work time,Female,2019
+57.05564499,,,MEX,233,29189,88236,28642,10301,Lone parent,Mexico,Total working time,Male,2019
+65.5209198,,,MEX,233,29189,88236,28642,10302,Lone parent,Mexico,Total working time,Female,2019
+38.5905838,,,MEX,233,29189,88236,28643,10301,Lone parent,Mexico,Paid work time,Male,2019
+28.80749702,,,MEX,233,29189,88236,28643,10302,Lone parent,Mexico,Paid work time,Female,2019
+18.46505928,,,MEX,233,29189,88236,28641,10301,Lone parent,Mexico,Unpaid work time,Male,2019
+36.71342468,,,MEX,233,29189,88236,28641,10302,Lone parent,Mexico,Unpaid work time,Female,2019
+57.24200439,,,MEX,233,29189,88237,28642,10301,Couple without children,Mexico,Total working time,Male,2019
+60.08307266,,,MEX,233,29189,88237,28642,10302,Couple without children,Mexico,Total working time,Female,2019
+39.95317459,,,MEX,233,29189,88237,28643,10301,Couple without children,Mexico,Paid work time,Male,2019
+19.52230453,,,MEX,233,29189,88237,28643,10302,Couple without children,Mexico,Paid work time,Female,2019
+17.2888298,,,MEX,233,29189,88237,28641,10301,Couple without children,Mexico,Unpaid work time,Male,2019
+40.56076813,,,MEX,233,29189,88237,28641,10302,Couple without children,Mexico,Unpaid work time,Female,2019
+60.34790421,,,MEX,233,29189,88238,28642,10301,Extended family,Mexico,Total working time,Male,2019
+65.6684494,,,MEX,233,29189,88238,28642,10302,Extended family,Mexico,Total working time,Female,2019
+44.38454056,,,MEX,233,29189,88238,28643,10301,Extended family,Mexico,Paid work time,Male,2019
+22.81834412,,,MEX,233,29189,88238,28643,10302,Extended family,Mexico,Paid work time,Female,2019
+15.96336269,,,MEX,233,29189,88238,28641,10301,Extended family,Mexico,Unpaid work time,Male,2019
+42.85010529,,,MEX,233,29189,88238,28641,10302,Extended family,Mexico,Unpaid work time,Female,2019
+60.45082474,,,MEX,233,29189,88231,28642,10301,Translation in progress...,Mexico,Total working time,Male,2019
+68.30854797,,,MEX,233,29189,88231,28642,10302,Translation in progress...,Mexico,Total working time,Female,2019
+44.24639511,,,MEX,233,29189,88231,28643,10301,Translation in progress...,Mexico,Paid work time,Male,2019
+23.0648365,,,MEX,233,29189,88231,28643,10302,Translation in progress...,Mexico,Paid work time,Female,2019
+16.20442772,,,MEX,233,29189,88231,28641,10301,Translation in progress...,Mexico,Unpaid work time,Male,2019
+45.24371338,,,MEX,233,29189,88231,28641,10302,Translation in progress...,Mexico,Unpaid work time,Female,2019
+59.14253616,,,MEX,233,29189,88232,28642,10301,Translation in progress...,Mexico,Total working time,Male,2019
+56.99919891,,,MEX,233,29189,88232,28642,10302,Translation in progress...,Mexico,Total working time,Female,2019
+40.801754,,,MEX,233,29189,88232,28643,10301,Translation in progress...,Mexico,Paid work time,Male,2019
+22.3155899,,,MEX,233,29189,88232,28643,10302,Translation in progress...,Mexico,Paid work time,Female,2019
+18.34078217,,,MEX,233,29189,88232,28641,10301,Translation in progress...,Mexico,Unpaid work time,Male,2019
+34.68360901,,,MEX,233,29189,88232,28641,10302,Translation in progress...,Mexico,Unpaid work time,Female,2019
+60.13178635,,,PAN,241,29181,88234,28642,10301,One person,Panama,Total working time,Male,2011
+50.82181549,,,PAN,241,29181,88234,28642,10302,One person,Panama,Total working time,Female,2011
+42.36739731,,,PAN,241,29181,88234,28643,10301,One person,Panama,Paid work time,Male,2011
+23.5111599,,,PAN,241,29181,88234,28643,10302,One person,Panama,Paid work time,Female,2011
+17.76439095,,,PAN,241,29181,88234,28641,10301,One person,Panama,Unpaid work time,Male,2011
+27.31065369,,,PAN,241,29181,88234,28641,10302,One person,Panama,Unpaid work time,Female,2011
+59.06607819,,,PAN,241,29181,88235,28642,10301,Couple with children,Panama,Total working time,Male,2011
+57.22038269,,,PAN,241,29181,88235,28642,10302,Couple with children,Panama,Total working time,Female,2011
+45.54167175,,,PAN,241,29181,88235,28643,10301,Couple with children,Panama,Paid work time,Male,2011
+22.54901505,,,PAN,241,29181,88235,28643,10302,Couple with children,Panama,Paid work time,Female,2011
+13.52440643,,,PAN,241,29181,88235,28641,10301,Couple with children,Panama,Unpaid work time,Male,2011
+34.67136765,,,PAN,241,29181,88235,28641,10302,Couple with children,Panama,Unpaid work time,Female,2011
+44.97321701,,,PAN,241,29181,88236,28642,10301,Lone parent,Panama,Total working time,Male,2011
+57.78111649,,,PAN,241,29181,88236,28642,10302,Lone parent,Panama,Total working time,Female,2011
+32.19424057,,,PAN,241,29181,88236,28643,10301,Lone parent,Panama,Paid work time,Male,2011
+26.88072395,,,PAN,241,29181,88236,28643,10302,Lone parent,Panama,Paid work time,Female,2011
+12.77897644,,,PAN,241,29181,88236,28641,10301,Lone parent,Panama,Unpaid work time,Male,2011
+30.90039253,,,PAN,241,29181,88236,28641,10302,Lone parent,Panama,Unpaid work time,Female,2011
+55.07510376,,,PAN,241,29181,88237,28642,10301,Couple without children,Panama,Total working time,Male,2011
+52.18632889,,,PAN,241,29181,88237,28642,10302,Couple without children,Panama,Total working time,Female,2011
+40.35456467,,,PAN,241,29181,88237,28643,10301,Couple without children,Panama,Paid work time,Male,2011
+22.34340668,,,PAN,241,29181,88237,28643,10302,Couple without children,Panama,Paid work time,Female,2011
+14.72053719,,,PAN,241,29181,88237,28641,10301,Couple without children,Panama,Unpaid work time,Male,2011
+29.8429203,,,PAN,241,29181,88237,28641,10302,Couple without children,Panama,Unpaid work time,Female,2011
+52.6084404,,,PAN,241,29181,88238,28642,10301,Extended family,Panama,Total working time,Male,2011
+53.22650909,,,PAN,241,29181,88238,28642,10302,Extended family,Panama,Total working time,Female,2011
+39.51160049,,,PAN,241,29181,88238,28643,10301,Extended family,Panama,Paid work time,Male,2011
+23.03827286,,,PAN,241,29181,88238,28643,10302,Extended family,Panama,Paid work time,Female,2011
+13.09683704,,,PAN,241,29181,88238,28641,10301,Extended family,Panama,Unpaid work time,Male,2011
+30.18823814,,,PAN,241,29181,88238,28641,10302,Extended family,Panama,Unpaid work time,Female,2011
+54.07442474,,,PAN,241,29181,88232,28642,10301,Translation in progress...,Panama,Total working time,Male,2011
+49.10245514,,,PAN,241,29181,88232,28642,10302,Translation in progress...,Panama,Total working time,Female,2011
+40.0027504,,,PAN,241,29181,88232,28643,10301,Translation in progress...,Panama,Paid work time,Male,2011
+20.93351936,,,PAN,241,29181,88232,28643,10302,Translation in progress...,Panama,Paid work time,Female,2011
+14.07167339,,,PAN,241,29181,88232,28641,10301,Translation in progress...,Panama,Unpaid work time,Male,2011
+28.16893387,,,PAN,241,29181,88232,28641,10302,Translation in progress...,Panama,Unpaid work time,Female,2011
+44.62327957,,,PRY,242,29186,88234,28642,10301,One person,Paraguay,Total working time,Male,2016
+38.63037872,,,PRY,242,29186,88234,28642,10302,One person,Paraguay,Total working time,Female,2016
+28.31663132,,,PRY,242,29186,88234,28643,10301,One person,Paraguay,Paid work time,Male,2016
+12.66428661,,,PRY,242,29186,88234,28643,10302,One person,Paraguay,Paid work time,Female,2016
+16.30664635,,,PRY,242,29186,88234,28641,10301,One person,Paraguay,Unpaid work time,Male,2016
+25.96609497,,,PRY,242,29186,88234,28641,10302,One person,Paraguay,Unpaid work time,Female,2016
+49.964077,,,PRY,242,29186,88235,28642,10301,Couple with children,Paraguay,Total working time,Male,2016
+49.70454788,,,PRY,242,29186,88235,28642,10302,Couple with children,Paraguay,Total working time,Female,2016
+37.31348801,,,PRY,242,29186,88235,28643,10301,Couple with children,Paraguay,Paid work time,Male,2016
+17.7221508,,,PRY,242,29186,88235,28643,10302,Couple with children,Paraguay,Paid work time,Female,2016
+12.65058613,,,PRY,242,29186,88235,28641,10301,Couple with children,Paraguay,Unpaid work time,Male,2016
+31.98239517,,,PRY,242,29186,88235,28641,10302,Couple with children,Paraguay,Unpaid work time,Female,2016
+39.96229172,,,PRY,242,29186,88236,28642,10301,Lone parent,Paraguay,Total working time,Male,2016
+47.82197189,,,PRY,242,29186,88236,28642,10302,Lone parent,Paraguay,Total working time,Female,2016
+29.32962799,,,PRY,242,29186,88236,28643,10301,Lone parent,Paraguay,Paid work time,Male,2016
+21.30930901,,,PRY,242,29186,88236,28643,10302,Lone parent,Paraguay,Paid work time,Female,2016
+10.63266468,,,PRY,242,29186,88236,28641,10301,Lone parent,Paraguay,Unpaid work time,Male,2016
+26.51266098,,,PRY,242,29186,88236,28641,10302,Lone parent,Paraguay,Unpaid work time,Female,2016
+45.75596619,,,PRY,242,29186,88237,28642,10301,Couple without children,Paraguay,Total working time,Male,2016
+40.12351608,,,PRY,242,29186,88237,28642,10302,Couple without children,Paraguay,Total working time,Female,2016
+33.45384216,,,PRY,242,29186,88237,28643,10301,Couple without children,Paraguay,Paid work time,Male,2016
+14.49837112,,,PRY,242,29186,88237,28643,10302,Couple without children,Paraguay,Paid work time,Female,2016
+12.30212212,,,PRY,242,29186,88237,28641,10301,Couple without children,Paraguay,Unpaid work time,Male,2016
+25.62514496,,,PRY,242,29186,88237,28641,10302,Couple without children,Paraguay,Unpaid work time,Female,2016
+46.21150589,,,PRY,242,29186,88238,28642,10301,Extended family,Paraguay,Total working time,Male,2016
+45.6620636,,,PRY,242,29186,88238,28642,10302,Extended family,Paraguay,Total working time,Female,2016
+36.01144028,,,PRY,242,29186,88238,28643,10301,Extended family,Paraguay,Paid work time,Male,2016
+19.14766884,,,PRY,242,29186,88238,28643,10302,Extended family,Paraguay,Paid work time,Female,2016
+10.20006657,,,PRY,242,29186,88238,28641,10301,Extended family,Paraguay,Unpaid work time,Male,2016
+26.51439285,,,PRY,242,29186,88238,28641,10302,Extended family,Paraguay,Unpaid work time,Female,2016
+42.64791489,,,PRY,242,29186,88232,28642,10301,Translation in progress...,Paraguay,Total working time,Male,2016
+36.87654495,,,PRY,242,29186,88232,28642,10302,Translation in progress...,Paraguay,Total working time,Female,2016
+30.35149002,,,PRY,242,29186,88232,28643,10301,Translation in progress...,Paraguay,Paid work time,Male,2016
+14.50432491,,,PRY,242,29186,88232,28643,10302,Translation in progress...,Paraguay,Paid work time,Female,2016
+12.29642391,,,PRY,242,29186,88232,28641,10301,Translation in progress...,Paraguay,Unpaid work time,Male,2016
+22.37222099,,,PRY,242,29186,88232,28641,10302,Translation in progress...,Paraguay,Unpaid work time,Female,2016
+67.97682953,,,PER,244,29180,88234,28642,10301,One person,Peru,Total working time,Male,2010
+58.83225632,,,PER,244,29180,88234,28642,10302,One person,Peru,Total working time,Female,2010
+45.31219482,,,PER,244,29180,88234,28643,10301,One person,Peru,Paid work time,Male,2010
+21.85750389,,,PER,244,29180,88234,28643,10302,One person,Peru,Paid work time,Female,2010
+22.66463852,,,PER,244,29180,88234,28641,10301,One person,Peru,Unpaid work time,Male,2010
+36.97475433,,,PER,244,29180,88234,28641,10302,One person,Peru,Unpaid work time,Female,2010
+57.61220551,,,PER,244,29180,88235,28642,10301,Couple with children,Peru,Total working time,Male,2010
+62.4178009,,,PER,244,29180,88235,28642,10302,Couple with children,Peru,Total working time,Female,2010
+41.3489418,,,PER,244,29180,88235,28643,10301,Couple with children,Peru,Paid work time,Male,2010
+18.22124672,,,PER,244,29180,88235,28643,10302,Couple with children,Peru,Paid work time,Female,2010
+16.2632618,,,PER,244,29180,88235,28641,10301,Couple with children,Peru,Unpaid work time,Male,2010
+44.19655609,,,PER,244,29180,88235,28641,10302,Couple with children,Peru,Unpaid work time,Female,2010
+49.83645248,,,PER,244,29180,88236,28642,10301,Lone parent,Peru,Total working time,Male,2010
+61.9890976,,,PER,244,29180,88236,28642,10302,Lone parent,Peru,Total working time,Female,2010
+32.90563202,,,PER,244,29180,88236,28643,10301,Lone parent,Peru,Paid work time,Male,2010
+27.51963615,,,PER,244,29180,88236,28643,10302,Lone parent,Peru,Paid work time,Female,2010
+16.93082047,,,PER,244,29180,88236,28641,10301,Lone parent,Peru,Unpaid work time,Male,2010
+34.46946335,,,PER,244,29180,88236,28641,10302,Lone parent,Peru,Unpaid work time,Female,2010
+58.41950226,,,PER,244,29180,88237,28642,10301,Couple without children,Peru,Total working time,Male,2010
+61.26244354,,,PER,244,29180,88237,28642,10302,Couple without children,Peru,Total working time,Female,2010
+39.75103378,,,PER,244,29180,88237,28643,10301,Couple without children,Peru,Paid work time,Male,2010
+20.28061676,,,PER,244,29180,88237,28643,10302,Couple without children,Peru,Paid work time,Female,2010
+18.66847038,,,PER,244,29180,88237,28641,10301,Couple without children,Peru,Unpaid work time,Male,2010
+40.98182678,,,PER,244,29180,88237,28641,10302,Couple without children,Peru,Unpaid work time,Female,2010
+54.30557632,,,PER,244,29180,88238,28642,10301,Extended family,Peru,Total working time,Male,2010
+59.02200317,,,PER,244,29180,88238,28642,10302,Extended family,Peru,Total working time,Female,2010
+39.54751205,,,PER,244,29180,88238,28643,10301,Extended family,Peru,Paid work time,Male,2010
+20.59637451,,,PER,244,29180,88238,28643,10302,Extended family,Peru,Paid work time,Female,2010
+14.75806427,,,PER,244,29180,88238,28641,10301,Extended family,Peru,Unpaid work time,Male,2010
+38.42562866,,,PER,244,29180,88238,28641,10302,Extended family,Peru,Unpaid work time,Female,2010
+50.11178207,,,PER,244,29180,88231,28642,10301,Translation in progress...,Peru,Total working time,Male,2010
+51.27095795,,,PER,244,29180,88231,28642,10302,Translation in progress...,Peru,Total working time,Female,2010
+35.68253326,,,PER,244,29180,88231,28643,10301,Translation in progress...,Peru,Paid work time,Male,2010
+23.10868835,,,PER,244,29180,88231,28643,10302,Translation in progress...,Peru,Paid work time,Female,2010
+14.42924786,,,PER,244,29180,88231,28641,10301,Translation in progress...,Peru,Unpaid work time,Male,2010
+28.1622715,,,PER,244,29180,88231,28641,10302,Translation in progress...,Peru,Unpaid work time,Female,2010
+51.95391083,,,PER,244,29180,88232,28642,10301,Translation in progress...,Peru,Total working time,Male,2010
+53.29307556,,,PER,244,29180,88232,28642,10302,Translation in progress...,Peru,Total working time,Female,2010
+34.57850266,,,PER,244,29180,88232,28643,10301,Translation in progress...,Peru,Paid work time,Male,2010
+18.31372643,,,PER,244,29180,88232,28643,10302,Translation in progress...,Peru,Paid work time,Female,2010
+17.37541008,,,PER,244,29180,88232,28641,10301,Translation in progress...,Peru,Unpaid work time,Male,2010
+34.97935104,,,PER,244,29180,88232,28641,10302,Translation in progress...,Peru,Unpaid work time,Female,2010
+45.76981354,,,DOM,264,29186,88234,28642,10301,One person,Dominican Republic,Total working time,Male,2016
+36.51683807,,,DOM,264,29186,88234,28642,10302,One person,Dominican Republic,Total working time,Female,2016
+36.63988113,,,DOM,264,29186,88234,28643,10301,One person,Dominican Republic,Paid work time,Male,2016
+19.83045387,,,DOM,264,29186,88234,28643,10302,One person,Dominican Republic,Paid work time,Female,2016
+9.129930496,,,DOM,264,29186,88234,28641,10301,One person,Dominican Republic,Unpaid work time,Male,2016
+16.68638611,,,DOM,264,29186,88234,28641,10302,One person,Dominican Republic,Unpaid work time,Female,2016
+50.45614243,,,DOM,264,29186,88235,28642,10301,Couple with children,Dominican Republic,Total working time,Male,2016
+57.80859756,,,DOM,264,29186,88235,28642,10302,Couple with children,Dominican Republic,Total working time,Female,2016
+40.78255463,,,DOM,264,29186,88235,28643,10301,Couple with children,Dominican Republic,Paid work time,Male,2016
+19.97670174,,,DOM,264,29186,88235,28643,10302,Couple with children,Dominican Republic,Paid work time,Female,2016
+9.673584938,,,DOM,264,29186,88235,28641,10301,Couple with children,Dominican Republic,Unpaid work time,Male,2016
+37.83189392,,,DOM,264,29186,88235,28641,10302,Couple with children,Dominican Republic,Unpaid work time,Female,2016
+41.78376389,,,DOM,264,29186,88236,28642,10301,Lone parent,Dominican Republic,Total working time,Male,2016
+54.5451622,,,DOM,264,29186,88236,28642,10302,Lone parent,Dominican Republic,Total working time,Female,2016
+31.25576019,,,DOM,264,29186,88236,28643,10301,Lone parent,Dominican Republic,Paid work time,Male,2016
+22.13938522,,,DOM,264,29186,88236,28643,10302,Lone parent,Dominican Republic,Paid work time,Female,2016
+10.52800274,,,DOM,264,29186,88236,28641,10301,Lone parent,Dominican Republic,Unpaid work time,Male,2016
+32.40577698,,,DOM,264,29186,88236,28641,10302,Lone parent,Dominican Republic,Unpaid work time,Female,2016
+46.80423355,,,DOM,264,29186,88237,28642,10301,Couple without children,Dominican Republic,Total working time,Male,2016
+40.93638611,,,DOM,264,29186,88237,28642,10302,Couple without children,Dominican Republic,Total working time,Female,2016
+37.53675842,,,DOM,264,29186,88237,28643,10301,Couple without children,Dominican Republic,Paid work time,Male,2016
+18.62772179,,,DOM,264,29186,88237,28643,10302,Couple without children,Dominican Republic,Paid work time,Female,2016
+9.267475128,,,DOM,264,29186,88237,28641,10301,Couple without children,Dominican Republic,Unpaid work time,Male,2016
+22.30866432,,,DOM,264,29186,88237,28641,10302,Couple without children,Dominican Republic,Unpaid work time,Female,2016
+45.00952148,,,DOM,264,29186,88238,28642,10301,Extended family,Dominican Republic,Total working time,Male,2016
+52.40655899,,,DOM,264,29186,88238,28642,10302,Extended family,Dominican Republic,Total working time,Female,2016
+35.61296844,,,DOM,264,29186,88238,28643,10301,Extended family,Dominican Republic,Paid work time,Male,2016
+18.92123604,,,DOM,264,29186,88238,28643,10302,Extended family,Dominican Republic,Paid work time,Female,2016
+9.396551132,,,DOM,264,29186,88238,28641,10301,Extended family,Dominican Republic,Unpaid work time,Male,2016
+33.48532486,,,DOM,264,29186,88238,28641,10302,Extended family,Dominican Republic,Unpaid work time,Female,2016
+51.58168793,,,DOM,264,29186,88231,28642,10301,Translation in progress...,Dominican Republic,Total working time,Male,2016
+55.57009125,,,DOM,264,29186,88231,28642,10302,Translation in progress...,Dominican Republic,Total working time,Female,2016
+37.46569824,,,DOM,264,29186,88231,28643,10301,Translation in progress...,Dominican Republic,Paid work time,Male,2016
+17.95148849,,,DOM,264,29186,88231,28643,10302,Translation in progress...,Dominican Republic,Paid work time,Female,2016
+14.11599255,,,DOM,264,29186,88231,28641,10301,Translation in progress...,Dominican Republic,Unpaid work time,Male,2016
+37.61860275,,,DOM,264,29186,88231,28641,10302,Translation in progress...,Dominican Republic,Unpaid work time,Female,2016
+44.60018158,,,DOM,264,29186,88232,28642,10301,Translation in progress...,Dominican Republic,Total working time,Male,2016
+43.61508942,,,DOM,264,29186,88232,28642,10302,Translation in progress...,Dominican Republic,Total working time,Female,2016
+34.99868393,,,DOM,264,29186,88232,28643,10301,Translation in progress...,Dominican Republic,Paid work time,Male,2016
+17.24000549,,,DOM,264,29186,88232,28643,10302,Translation in progress...,Dominican Republic,Paid work time,Female,2016
+9.601499557,,,DOM,264,29186,88232,28641,10301,Translation in progress...,Dominican Republic,Unpaid work time,Male,2016
+26.37508583,,,DOM,264,29186,88232,28641,10302,Translation in progress...,Dominican Republic,Unpaid work time,Female,2016
+54.4859314,,,URY,258,29177,88234,28642,10301,One person,Uruguay,Total working time,Male,2007
+44.93683243,,,URY,258,29177,88234,28642,10302,One person,Uruguay,Total working time,Female,2007
+29.9206562,,,URY,258,29177,88234,28643,10301,One person,Uruguay,Paid work time,Male,2007
+13.22764969,,,URY,258,29177,88234,28643,10302,One person,Uruguay,Paid work time,Female,2007
+24.56527519,,,URY,258,29177,88234,28641,10301,One person,Uruguay,Unpaid work time,Male,2007
+31.70918465,,,URY,258,29177,88234,28641,10302,One person,Uruguay,Unpaid work time,Female,2007
+59.0979538,,,URY,258,29177,88235,28642,10301,Couple with children,Uruguay,Total working time,Male,2007
+71.51276398,,,URY,258,29177,88235,28642,10302,Couple with children,Uruguay,Total working time,Female,2007
+42.35678864,,,URY,258,29177,88235,28643,10301,Couple with children,Uruguay,Paid work time,Male,2007
+20.63841438,,,URY,258,29177,88235,28643,10302,Couple with children,Uruguay,Paid work time,Female,2007
+16.74116325,,,URY,258,29177,88235,28641,10301,Couple with children,Uruguay,Unpaid work time,Male,2007
+50.87434769,,,URY,258,29177,88235,28641,10302,Couple with children,Uruguay,Unpaid work time,Female,2007
+47.84041214,,,URY,258,29177,88236,28642,10301,Lone parent,Uruguay,Total working time,Male,2007
+63.96041107,,,URY,258,29177,88236,28642,10302,Lone parent,Uruguay,Total working time,Female,2007
+30.79749107,,,URY,258,29177,88236,28643,10301,Lone parent,Uruguay,Paid work time,Male,2007
+23.49304962,,,URY,258,29177,88236,28643,10302,Lone parent,Uruguay,Paid work time,Female,2007
+17.04291916,,,URY,258,29177,88236,28641,10301,Lone parent,Uruguay,Unpaid work time,Male,2007
+40.46736145,,,URY,258,29177,88236,28641,10302,Lone parent,Uruguay,Unpaid work time,Female,2007
+48.10578537,,,URY,258,29177,88237,28642,10301,Couple without children,Uruguay,Total working time,Male,2007
+59.72080231,,,URY,258,29177,88237,28642,10302,Couple without children,Uruguay,Total working time,Female,2007
+31.15576363,,,URY,258,29177,88237,28643,10301,Couple without children,Uruguay,Paid work time,Male,2007
+17.2075119,,,URY,258,29177,88237,28643,10302,Couple without children,Uruguay,Paid work time,Female,2007
+16.95002174,,,URY,258,29177,88237,28641,10301,Couple without children,Uruguay,Unpaid work time,Male,2007
+42.51329041,,,URY,258,29177,88237,28641,10302,Couple without children,Uruguay,Unpaid work time,Female,2007
+49.8211441,,,URY,258,29177,88238,28642,10301,Extended family,Uruguay,Total working time,Male,2007
+61.62552261,,,URY,258,29177,88238,28642,10302,Extended family,Uruguay,Total working time,Female,2007
+34.54614258,,,URY,258,29177,88238,28643,10301,Extended family,Uruguay,Paid work time,Male,2007
+17.96255112,,,URY,258,29177,88238,28643,10302,Extended family,Uruguay,Paid work time,Female,2007
+15.27499962,,,URY,258,29177,88238,28641,10301,Extended family,Uruguay,Unpaid work time,Male,2007
+43.6629715,,,URY,258,29177,88238,28641,10302,Extended family,Uruguay,Unpaid work time,Female,2007
+57.05083084,,,URY,258,29177,88231,28642,10301,Translation in progress...,Uruguay,Total working time,Male,2007
+58.77199173,,,URY,258,29177,88231,28642,10302,Translation in progress...,Uruguay,Total working time,Female,2007
+37.05648041,,,URY,258,29177,88231,28643,10301,Translation in progress...,Uruguay,Paid work time,Male,2007
+19.41860008,,,URY,258,29177,88231,28643,10302,Translation in progress...,Uruguay,Paid work time,Female,2007
+19.99435043,,,URY,258,29177,88231,28641,10301,Translation in progress...,Uruguay,Unpaid work time,Male,2007
+39.35339355,,,URY,258,29177,88231,28641,10302,Translation in progress...,Uruguay,Unpaid work time,Female,2007
+48.62666702,,,URY,258,29177,88232,28642,10301,Translation in progress...,Uruguay,Total working time,Male,2007
+52.18678284,,,URY,258,29177,88232,28642,10302,Translation in progress...,Uruguay,Total working time,Female,2007
+30.90716362,,,URY,258,29177,88232,28643,10301,Translation in progress...,Uruguay,Paid work time,Male,2007
+19.63419914,,,URY,258,29177,88232,28643,10302,Translation in progress...,Uruguay,Paid work time,Female,2007
+17.7195015,,,URY,258,29177,88232,28641,10301,Translation in progress...,Uruguay,Unpaid work time,Male,2007
+32.55258179,,,URY,258,29177,88232,28641,10302,Translation in progress...,Uruguay,Unpaid work time,Female,2007
+51.11701584,,,URY,258,29183,88234,28642,10301,One person,Uruguay,Total working time,Male,2013
+45.23794937,,,URY,258,29183,88234,28642,10302,One person,Uruguay,Total working time,Female,2013
+31.89845276,,,URY,258,29183,88234,28643,10301,One person,Uruguay,Paid work time,Male,2013
+14.8312912,,,URY,258,29183,88234,28643,10302,One person,Uruguay,Paid work time,Female,2013
+19.21856499,,,URY,258,29183,88234,28641,10301,One person,Uruguay,Unpaid work time,Male,2013
+30.40665817,,,URY,258,29183,88234,28641,10302,One person,Uruguay,Unpaid work time,Female,2013
+59.4635582,,,URY,258,29183,88235,28642,10301,Couple with children,Uruguay,Total working time,Male,2013
+65.18816376,,,URY,258,29183,88235,28642,10302,Couple with children,Uruguay,Total working time,Female,2013
+42.09231567,,,URY,258,29183,88235,28643,10301,Couple with children,Uruguay,Paid work time,Male,2013
+24.4507885,,,URY,258,29183,88235,28643,10302,Couple with children,Uruguay,Paid work time,Female,2013
+17.37124252,,,URY,258,29183,88235,28641,10301,Couple with children,Uruguay,Unpaid work time,Male,2013
+40.73736954,,,URY,258,29183,88235,28641,10302,Couple with children,Uruguay,Unpaid work time,Female,2013
+45.44137573,,,URY,258,29183,88236,28642,10301,Lone parent,Uruguay,Total working time,Male,2013
+56.17346573,,,URY,258,29183,88236,28642,10302,Lone parent,Uruguay,Total working time,Female,2013
+34.1358223,,,URY,258,29183,88236,28643,10301,Lone parent,Uruguay,Paid work time,Male,2013
+25.08683586,,,URY,258,29183,88236,28643,10302,Lone parent,Uruguay,Paid work time,Female,2013
+11.30555058,,,URY,258,29183,88236,28641,10301,Lone parent,Uruguay,Unpaid work time,Male,2013
+31.08662987,,,URY,258,29183,88236,28641,10302,Lone parent,Uruguay,Unpaid work time,Female,2013
+45.50639343,,,URY,258,29183,88237,28642,10301,Couple without children,Uruguay,Total working time,Male,2013
+53.27070236,,,URY,258,29183,88237,28642,10302,Couple without children,Uruguay,Total working time,Female,2013
+29.90948486,,,URY,258,29183,88237,28643,10301,Couple without children,Uruguay,Paid work time,Male,2013
+20.26541901,,,URY,258,29183,88237,28643,10302,Couple without children,Uruguay,Paid work time,Female,2013
+15.59690952,,,URY,258,29183,88237,28641,10301,Couple without children,Uruguay,Unpaid work time,Male,2013
+33.00528336,,,URY,258,29183,88237,28641,10302,Couple without children,Uruguay,Unpaid work time,Female,2013
+47.53827286,,,URY,258,29183,88238,28642,10301,Extended family,Uruguay,Total working time,Male,2013
+58.60676575,,,URY,258,29183,88238,28642,10302,Extended family,Uruguay,Total working time,Female,2013
+34.75558472,,,URY,258,29183,88238,28643,10301,Extended family,Uruguay,Paid work time,Male,2013
+19.57062912,,,URY,258,29183,88238,28643,10302,Extended family,Uruguay,Paid work time,Female,2013
+12.78268528,,,URY,258,29183,88238,28641,10301,Extended family,Uruguay,Unpaid work time,Male,2013
+39.03613663,,,URY,258,29183,88238,28641,10302,Extended family,Uruguay,Unpaid work time,Female,2013
+55.19842529,,,URY,258,29183,88231,28642,10301,Translation in progress...,Uruguay,Total working time,Male,2013
+57.24691772,,,URY,258,29183,88231,28642,10302,Translation in progress...,Uruguay,Total working time,Female,2013
+37.71376038,,,URY,258,29183,88231,28643,10301,Translation in progress...,Uruguay,Paid work time,Male,2013
+22.96639252,,,URY,258,29183,88231,28643,10302,Translation in progress...,Uruguay,Paid work time,Female,2013
+17.48466682,,,URY,258,29183,88231,28641,10301,Translation in progress...,Uruguay,Unpaid work time,Male,2013
+34.28052521,,,URY,258,29183,88231,28641,10302,Translation in progress...,Uruguay,Unpaid work time,Female,2013
+46.44686508,,,URY,258,29183,88232,28642,10301,Translation in progress...,Uruguay,Total working time,Male,2013
+41.73378754,,,URY,258,29183,88232,28642,10302,Translation in progress...,Uruguay,Total working time,Female,2013
+30.44041443,,,URY,258,29183,88232,28643,10301,Translation in progress...,Uruguay,Paid work time,Male,2013
+17.05498123,,,URY,258,29183,88232,28643,10302,Translation in progress...,Uruguay,Paid work time,Female,2013
+16.00644875,,,URY,258,29183,88232,28641,10301,Translation in progress...,Uruguay,Unpaid work time,Male,2013
+24.67880821,,,URY,258,29183,88232,28641,10302,Translation in progress...,Uruguay,Unpaid work time,Female,2013
+51.81131744,8068.0,"14606,14607,14608,14609",ARG,216,29191,88234,28642,10301,One person,Argentina,Total working time,Male,2021
+45.96316528,8068.0,"14606,14607,14608,14609",ARG,216,29191,88234,28642,10302,One person,Argentina,Total working time,Female,2021
+34.59677505,8068.0,"14606,14607,14608,14609",ARG,216,29191,88234,28643,10301,One person,Argentina,Paid work time,Male,2021
+21.75768661,8068.0,"14606,14607,14608,14609",ARG,216,29191,88234,28643,10302,One person,Argentina,Paid work time,Female,2021
+17.21453857,8068.0,"14606,14607,14608,14609",ARG,216,29191,88234,28641,10301,One person,Argentina,Unpaid work time,Male,2021
+24.20547867,8068.0,"14606,14607,14608,14609",ARG,216,29191,88234,28641,10302,One person,Argentina,Unpaid work time,Female,2021
+59.19169617,8068.0,"14606,14607,14608,14609",ARG,216,29191,88235,28642,10301,Couple with children,Argentina,Total working time,Male,2021
+57.12823868,8068.0,"14606,14607,14608,14609",ARG,216,29191,88235,28642,10302,Couple with children,Argentina,Total working time,Female,2021
+41.66917419,8068.0,"14606,14607,14608,14609",ARG,216,29191,88235,28643,10301,Couple with children,Argentina,Paid work time,Male,2021
+17.66828346,8068.0,"14606,14607,14608,14609",ARG,216,29191,88235,28643,10302,Couple with children,Argentina,Paid work time,Female,2021
+17.52252388,8068.0,"14606,14607,14608,14609",ARG,216,29191,88235,28641,10301,Couple with children,Argentina,Unpaid work time,Male,2021
+39.45995712,8068.0,"14606,14607,14608,14609",ARG,216,29191,88235,28641,10302,Couple with children,Argentina,Unpaid work time,Female,2021
+48.75878143,8068.0,"14606,14607,14608,14609",ARG,216,29191,88236,28642,10301,Lone parent,Argentina,Total working time,Male,2021
+51.98867798,8068.0,"14606,14607,14608,14609",ARG,216,29191,88236,28642,10302,Lone parent,Argentina,Total working time,Female,2021
+33.487957,8068.0,"14606,14607,14608,14609",ARG,216,29191,88236,28643,10301,Lone parent,Argentina,Paid work time,Male,2021
+24.35017586,8068.0,"14606,14607,14608,14609",ARG,216,29191,88236,28643,10302,Lone parent,Argentina,Paid work time,Female,2021
+15.27082443,8068.0,"14606,14607,14608,14609",ARG,216,29191,88236,28641,10301,Lone parent,Argentina,Unpaid work time,Male,2021
+27.63850403,8068.0,"14606,14607,14608,14609",ARG,216,29191,88236,28641,10302,Lone parent,Argentina,Unpaid work time,Female,2021
+48.24268341,8068.0,"14606,14607,14608,14609",ARG,216,29191,88237,28642,10301,Couple without children,Argentina,Total working time,Male,2021
+47.29722977,8068.0,"14606,14607,14608,14609",ARG,216,29191,88237,28642,10302,Couple without children,Argentina,Total working time,Female,2021
+29.67436981,8068.0,"14606,14607,14608,14609",ARG,216,29191,88237,28643,10301,Couple without children,Argentina,Paid work time,Male,2021
+18.45541191,8068.0,"14606,14607,14608,14609",ARG,216,29191,88237,28643,10302,Couple without children,Argentina,Paid work time,Female,2021
+18.5683136,8068.0,"14606,14607,14608,14609",ARG,216,29191,88237,28641,10301,Couple without children,Argentina,Unpaid work time,Male,2021
+28.84181976,8068.0,"14606,14607,14608,14609",ARG,216,29191,88237,28641,10302,Couple without children,Argentina,Unpaid work time,Female,2021
+51.92391205,8068.0,"14606,14607,14608,14609",ARG,216,29191,88238,28642,10301,Extended family,Argentina,Total working time,Male,2021
+54.43170547,8068.0,"14606,14607,14608,14609",ARG,216,29191,88238,28642,10302,Extended family,Argentina,Total working time,Female,2021
+33.41020584,8068.0,"14606,14607,14608,14609",ARG,216,29191,88238,28643,10301,Extended family,Argentina,Paid work time,Male,2021
+17.2959938,8068.0,"14606,14607,14608,14609",ARG,216,29191,88238,28643,10302,Extended family,Argentina,Paid work time,Female,2021
+18.5137043,8068.0,"14606,14607,14608,14609",ARG,216,29191,88238,28641,10301,Extended family,Argentina,Unpaid work time,Male,2021
+37.13571167,8068.0,"14606,14607,14608,14609",ARG,216,29191,88238,28641,10302,Extended family,Argentina,Unpaid work time,Female,2021
+51.12602615,8068.0,"14606,14607,14608,14609",ARG,216,29191,88232,28642,10301,Translation in progress...,Argentina,Total working time,Male,2021
+46.56086731,8068.0,"14606,14607,14608,14609",ARG,216,29191,88232,28642,10302,Translation in progress...,Argentina,Total working time,Female,2021
+33.53760147,8068.0,"14606,14607,14608,14609",ARG,216,29191,88232,28643,10301,Translation in progress...,Argentina,Paid work time,Male,2021
+19.58039856,8068.0,"14606,14607,14608,14609",ARG,216,29191,88232,28643,10302,Translation in progress...,Argentina,Paid work time,Female,2021
+17.58842659,8068.0,"14606,14607,14608,14609",ARG,216,29191,88232,28641,10301,Translation in progress...,Argentina,Unpaid work time,Male,2021
+26.98047066,8068.0,"14606,14607,14608,14609",ARG,216,29191,88232,28641,10302,Translation in progress...,Argentina,Unpaid work time,Female,2021
+60.08675766,1929.0,,CRI,226,29192,88234,28642,10301,One person,Costa Rica,Total working time,Male,2022
+56.49829483,1929.0,,CRI,226,29192,88234,28642,10302,One person,Costa Rica,Total working time,Female,2022
+35.16661453,1929.0,,CRI,226,29192,88234,28643,10301,One person,Costa Rica,Paid work time,Male,2022
+19.00198746,1929.0,,CRI,226,29192,88234,28643,10302,One person,Costa Rica,Paid work time,Female,2022
+24.92014313,1929.0,,CRI,226,29192,88234,28641,10301,One person,Costa Rica,Unpaid work time,Male,2022
+37.49630737,1929.0,,CRI,226,29192,88234,28641,10302,One person,Costa Rica,Unpaid work time,Female,2022
+53.27309036,1929.0,,CRI,226,29192,88235,28642,10301,Couple with children,Costa Rica,Total working time,Male,2022
+50.93202209,1929.0,,CRI,226,29192,88235,28642,10302,Couple with children,Costa Rica,Total working time,Female,2022
+38.34867096,1929.0,,CRI,226,29192,88235,28643,10301,Couple with children,Costa Rica,Paid work time,Male,2022
+17.38143539,1929.0,,CRI,226,29192,88235,28643,10302,Couple with children,Costa Rica,Paid work time,Female,2022
+14.92442322,1929.0,,CRI,226,29192,88235,28641,10301,Couple with children,Costa Rica,Unpaid work time,Male,2022
+33.5505867,1929.0,,CRI,226,29192,88235,28641,10302,Couple with children,Costa Rica,Unpaid work time,Female,2022
+48.48990631,1929.0,,CRI,226,29192,88236,28642,10301,Lone parent,Costa Rica,Total working time,Male,2022
+53.78693008,1929.0,,CRI,226,29192,88236,28642,10302,Lone parent,Costa Rica,Total working time,Female,2022
+32.47613144,1929.0,,CRI,226,29192,88236,28643,10301,Lone parent,Costa Rica,Paid work time,Male,2022
+21.47142982,1929.0,,CRI,226,29192,88236,28643,10302,Lone parent,Costa Rica,Paid work time,Female,2022
+16.01377296,1929.0,,CRI,226,29192,88236,28641,10301,Lone parent,Costa Rica,Unpaid work time,Male,2022
+32.31550217,1929.0,,CRI,226,29192,88236,28641,10302,Lone parent,Costa Rica,Unpaid work time,Female,2022
+61.37335587,1929.0,,CRI,226,29192,88237,28642,10301,Couple without children,Costa Rica,Total working time,Male,2022
+59.74163818,1929.0,,CRI,226,29192,88237,28642,10302,Couple without children,Costa Rica,Total working time,Female,2022
+40.79176331,1929.0,,CRI,226,29192,88237,28643,10301,Couple without children,Costa Rica,Paid work time,Male,2022
+18.60183525,1929.0,,CRI,226,29192,88237,28643,10302,Couple without children,Costa Rica,Paid work time,Female,2022
+20.58159065,1929.0,,CRI,226,29192,88237,28641,10301,Couple without children,Costa Rica,Unpaid work time,Male,2022
+41.13980484,1929.0,,CRI,226,29192,88237,28641,10302,Couple without children,Costa Rica,Unpaid work time,Female,2022
+48.89006805,1929.0,,CRI,226,29192,88238,28642,10301,Extended family,Costa Rica,Total working time,Male,2022
+48.43717957,1929.0,,CRI,226,29192,88238,28642,10302,Extended family,Costa Rica,Total working time,Female,2022
+34.42491531,1929.0,,CRI,226,29192,88238,28643,10301,Extended family,Costa Rica,Paid work time,Male,2022
+16.69825363,1929.0,,CRI,226,29192,88238,28643,10302,Extended family,Costa Rica,Paid work time,Female,2022
+14.46515083,1929.0,,CRI,226,29192,88238,28641,10301,Extended family,Costa Rica,Unpaid work time,Male,2022
+31.73892784,1929.0,,CRI,226,29192,88238,28641,10302,Extended family,Costa Rica,Unpaid work time,Female,2022
+53.90508652,1929.0,,CRI,226,29192,88231,28642,10301,Translation in progress...,Costa Rica,Total working time,Male,2022
+50.09239578,1929.0,,CRI,226,29192,88231,28642,10302,Translation in progress...,Costa Rica,Total working time,Female,2022
+39.9131546,1929.0,,CRI,226,29192,88231,28643,10301,Translation in progress...,Costa Rica,Paid work time,Male,2022
+19.20511055,1929.0,,CRI,226,29192,88231,28643,10302,Translation in progress...,Costa Rica,Paid work time,Female,2022
+13.99193096,1929.0,,CRI,226,29192,88231,28641,10301,Translation in progress...,Costa Rica,Unpaid work time,Male,2022
+30.88728523,1929.0,,CRI,226,29192,88231,28641,10302,Translation in progress...,Costa Rica,Unpaid work time,Female,2022
+52.78876877,1929.0,,CRI,226,29192,88232,28642,10301,Translation in progress...,Costa Rica,Total working time,Male,2022
+48.09003448,1929.0,,CRI,226,29192,88232,28642,10302,Translation in progress...,Costa Rica,Total working time,Female,2022
+34.31164932,1929.0,,CRI,226,29192,88232,28643,10301,Translation in progress...,Costa Rica,Paid work time,Male,2022
+15.47859001,1929.0,,CRI,226,29192,88232,28643,10302,Translation in progress...,Costa Rica,Paid work time,Female,2022
+18.47712135,1929.0,,CRI,226,29192,88232,28641,10301,Translation in progress...,Costa Rica,Unpaid work time,Male,2022
+32.61144257,1929.0,,CRI,226,29192,88232,28641,10302,Translation in progress...,Costa Rica,Unpaid work time,Female,2022
+51.69929504,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88234,28642,10301,One person,Guatemala,Total working time,Male,2022
+46.84334183,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88234,28642,10302,One person,Guatemala,Total working time,Female,2022
+36.66556931,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88234,28643,10301,One person,Guatemala,Paid work time,Male,2022
+17.63296509,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88234,28643,10302,One person,Guatemala,Paid work time,Female,2022
+15.03372478,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88234,28641,10301,One person,Guatemala,Unpaid work time,Male,2022
+29.21037674,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88234,28641,10302,One person,Guatemala,Unpaid work time,Female,2022
+47.63506699,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88235,28642,10301,Couple with children,Guatemala,Total working time,Male,2022
+58.32138062,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88235,28642,10302,Couple with children,Guatemala,Total working time,Female,2022
+39.49258423,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88235,28643,10301,Couple with children,Guatemala,Paid work time,Male,2022
+12.49700451,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88235,28643,10302,Couple with children,Guatemala,Paid work time,Female,2022
+8.142484665,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88235,28641,10301,Couple with children,Guatemala,Unpaid work time,Male,2022
+45.82437515,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88235,28641,10302,Couple with children,Guatemala,Unpaid work time,Female,2022
+42.246418,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88236,28642,10301,Lone parent,Guatemala,Total working time,Male,2022
+59.07107544,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88236,28642,10302,Lone parent,Guatemala,Total working time,Female,2022
+33.06172943,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88236,28643,10301,Lone parent,Guatemala,Paid work time,Male,2022
+21.4360981,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88236,28643,10302,Lone parent,Guatemala,Paid work time,Female,2022
+9.184687614,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88236,28641,10301,Lone parent,Guatemala,Unpaid work time,Male,2022
+37.63497925,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88236,28641,10302,Lone parent,Guatemala,Unpaid work time,Female,2022
+44.03788757,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88237,28642,10301,Couple without children,Guatemala,Total working time,Male,2022
+47.34624863,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88237,28642,10302,Couple without children,Guatemala,Total working time,Female,2022
+36.21488571,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88237,28643,10301,Couple without children,Guatemala,Paid work time,Male,2022
+12.88783836,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88237,28643,10302,Couple without children,Guatemala,Paid work time,Female,2022
+7.823004246,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88237,28641,10301,Couple without children,Guatemala,Unpaid work time,Male,2022
+34.45841217,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88237,28641,10302,Couple without children,Guatemala,Unpaid work time,Female,2022
+45.95846939,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88238,28642,10301,Extended family,Guatemala,Total working time,Male,2022
+55.5574913,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88238,28642,10302,Extended family,Guatemala,Total working time,Female,2022
+38.66271973,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88238,28643,10301,Extended family,Guatemala,Paid work time,Male,2022
+13.71116066,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88238,28643,10302,Extended family,Guatemala,Paid work time,Female,2022
+7.295751095,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88238,28641,10301,Extended family,Guatemala,Unpaid work time,Male,2022
+41.84632874,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88238,28641,10302,Extended family,Guatemala,Unpaid work time,Female,2022
+48.62405396,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88232,28642,10301,Translation in progress...,Guatemala,Total working time,Male,2022
+56.06594849,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88232,28642,10302,Translation in progress...,Guatemala,Total working time,Female,2022
+36.72544479,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88232,28643,10301,Translation in progress...,Guatemala,Paid work time,Male,2022
+18.17336655,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88232,28643,10302,Translation in progress...,Guatemala,Paid work time,Female,2022
+11.89860916,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88232,28641,10301,Translation in progress...,Guatemala,Unpaid work time,Male,2022
+37.89258194,1408.0,"7996,7997,8010,8020,8022",GTM,235,29192,88232,28641,10302,Translation in progress...,Guatemala,Unpaid work time,Female,2022
+51.76194382,8949.0,"7995,7996,8025",URY,258,29192,88234,28642,10301,One person,Uruguay,Total working time,Male,2022
+45.20428848,8949.0,"7995,7996,8025",URY,258,29192,88234,28642,10302,One person,Uruguay,Total working time,Female,2022
+30.32088661,8949.0,"7995,7996,8025",URY,258,29192,88234,28643,10301,One person,Uruguay,Paid work time,Male,2022
+15.88149357,8949.0,"7995,7996,8025",URY,258,29192,88234,28643,10302,One person,Uruguay,Paid work time,Female,2022
+21.44105911,8949.0,"7995,7996,8025",URY,258,29192,88234,28641,10301,One person,Uruguay,Unpaid work time,Male,2022
+29.32279396,8949.0,"7995,7996,8025",URY,258,29192,88234,28641,10302,One person,Uruguay,Unpaid work time,Female,2022
+53.33919144,8949.0,"7995,7996,8025",URY,258,29192,88235,28642,10301,Couple with children,Uruguay,Total working time,Male,2022
+61.24284363,8949.0,"7995,7996,8025",URY,258,29192,88235,28642,10302,Couple with children,Uruguay,Total working time,Female,2022
+35.80437851,8949.0,"7995,7996,8025",URY,258,29192,88235,28643,10301,Couple with children,Uruguay,Paid work time,Male,2022
+22.72057343,8949.0,"7995,7996,8025",URY,258,29192,88235,28643,10302,Couple with children,Uruguay,Paid work time,Female,2022
+17.53481483,8949.0,"7995,7996,8025",URY,258,29192,88235,28641,10301,Couple with children,Uruguay,Unpaid work time,Male,2022
+38.5222702,8949.0,"7995,7996,8025",URY,258,29192,88235,28641,10302,Couple with children,Uruguay,Unpaid work time,Female,2022
+48.69795227,8949.0,"7995,7996,8025",URY,258,29192,88236,28642,10301,Lone parent,Uruguay,Total working time,Male,2022
+57.95419693,8949.0,"7995,7996,8025",URY,258,29192,88236,28642,10302,Lone parent,Uruguay,Total working time,Female,2022
+30.06623077,8949.0,"7995,7996,8025",URY,258,29192,88236,28643,10301,Lone parent,Uruguay,Paid work time,Male,2022
+25.53655052,8949.0,"7995,7996,8025",URY,258,29192,88236,28643,10302,Lone parent,Uruguay,Paid work time,Female,2022
+18.6317234,8949.0,"7995,7996,8025",URY,258,29192,88236,28641,10301,Lone parent,Uruguay,Unpaid work time,Male,2022
+32.4176445,8949.0,"7995,7996,8025",URY,258,29192,88236,28641,10302,Lone parent,Uruguay,Unpaid work time,Female,2022
+44.37098312,8949.0,"7995,7996,8025",URY,258,29192,88237,28642,10301,Couple without children,Uruguay,Total working time,Male,2022
+47.97613144,8949.0,"7995,7996,8025",URY,258,29192,88237,28642,10302,Couple without children,Uruguay,Total working time,Female,2022
+25.48540306,8949.0,"7995,7996,8025",URY,258,29192,88237,28643,10301,Couple without children,Uruguay,Paid work time,Male,2022
+19.25684929,8949.0,"7995,7996,8025",URY,258,29192,88237,28643,10302,Couple without children,Uruguay,Paid work time,Female,2022
+18.88557816,8949.0,"7995,7996,8025",URY,258,29192,88237,28641,10301,Couple without children,Uruguay,Unpaid work time,Male,2022
+28.71928215,8949.0,"7995,7996,8025",URY,258,29192,88237,28641,10302,Couple without children,Uruguay,Unpaid work time,Female,2022
+48.60331726,8949.0,"7995,7996,8025",URY,258,29192,88238,28642,10301,Extended family,Uruguay,Total working time,Male,2022
+54.90674591,8949.0,"7995,7996,8025",URY,258,29192,88238,28642,10302,Extended family,Uruguay,Total working time,Female,2022
+33.99573517,8949.0,"7995,7996,8025",URY,258,29192,88238,28643,10301,Extended family,Uruguay,Paid work time,Male,2022
+19.47174644,8949.0,"7995,7996,8025",URY,258,29192,88238,28643,10302,Extended family,Uruguay,Paid work time,Female,2022
+14.60758209,8949.0,"7995,7996,8025",URY,258,29192,88238,28641,10301,Extended family,Uruguay,Unpaid work time,Male,2022
+35.43500137,8949.0,"7995,7996,8025",URY,258,29192,88238,28641,10302,Extended family,Uruguay,Unpaid work time,Female,2022
+47.88533783,8949.0,"7995,7996,8025",URY,258,29192,88232,28642,10301,Translation in progress...,Uruguay,Total working time,Male,2022
+44.15568924,8949.0,"7995,7996,8025",URY,258,29192,88232,28642,10302,Translation in progress...,Uruguay,Total working time,Female,2022
+28.55256081,8949.0,"7995,7996,8025",URY,258,29192,88232,28643,10301,Translation in progress...,Uruguay,Paid work time,Male,2022
+16.01598167,8949.0,"7995,7996,8025",URY,258,29192,88232,28643,10302,Translation in progress...,Uruguay,Paid work time,Female,2022
+19.33277512,8949.0,"7995,7996,8025",URY,258,29192,88232,28641,10301,Translation in progress...,Uruguay,Unpaid work time,Male,2022
+28.13970757,8949.0,"7995,7996,8025",URY,258,29192,88232,28641,10302,Translation in progress...,Uruguay,Unpaid work time,Female,2022
+52.2,1632.0,"7986,7995",CHL,224,29193,88234,28642,10301,One person,Chile,Total working time,Male,2023
+46.6,1632.0,"7986,7995",CHL,224,29193,88234,28642,10302,One person,Chile,Total working time,Female,2023
+31.4,1632.0,"7986,7995",CHL,224,29193,88234,28643,10301,One person,Chile,Paid work time,Male,2023
+18.1,1632.0,"7986,7995",CHL,224,29193,88234,28643,10302,One person,Chile,Paid work time,Female,2023
+20.8,1632.0,"7986,7995",CHL,224,29193,88234,28641,10301,One person,Chile,Unpaid work time,Male,2023
+28.5,1632.0,"7986,7995",CHL,224,29193,88234,28641,10302,One person,Chile,Unpaid work time,Female,2023
+54,1632.0,"7986,7995",CHL,224,29193,88235,28642,10301,Couple with children,Chile,Total working time,Male,2023
+59,1632.0,"7986,7995",CHL,224,29193,88235,28642,10302,Couple with children,Chile,Total working time,Female,2023
+32.5,1632.0,"7986,7995",CHL,224,29193,88235,28643,10301,Couple with children,Chile,Paid work time,Male,2023
+18.5,1632.0,"7986,7995",CHL,224,29193,88235,28643,10302,Couple with children,Chile,Paid work time,Female,2023
+21.4,1632.0,"7986,7995",CHL,224,29193,88235,28641,10301,Couple with children,Chile,Unpaid work time,Male,2023
+40.5,1632.0,"7986,7995",CHL,224,29193,88235,28641,10302,Couple with children,Chile,Unpaid work time,Female,2023
+42.4,1632.0,"7986,7995",CHL,224,29193,88236,28642,10301,Lone parent,Chile,Total working time,Male,2023
+54.6,1632.0,"7986,7995",CHL,224,29193,88236,28642,10302,Lone parent,Chile,Total working time,Female,2023
+22.3,1632.0,"7986,7995",CHL,224,29193,88236,28643,10301,Lone parent,Chile,Paid work time,Male,2023
+20.6,1632.0,"7986,7995",CHL,224,29193,88236,28643,10302,Lone parent,Chile,Paid work time,Female,2023
+20.1,1632.0,"7986,7995",CHL,224,29193,88236,28641,10301,Lone parent,Chile,Unpaid work time,Male,2023
+34,1632.0,"7986,7995",CHL,224,29193,88236,28641,10302,Lone parent,Chile,Unpaid work time,Female,2023
+47.9,1632.0,"7986,7995",CHL,224,29193,88237,28642,10301,Couple without children,Chile,Total working time,Male,2023
+50.8,1632.0,"7986,7995",CHL,224,29193,88237,28642,10302,Couple without children,Chile,Total working time,Female,2023
+28.1,1632.0,"7986,7995",CHL,224,29193,88237,28643,10301,Couple without children,Chile,Paid work time,Male,2023
+17.9,1632.0,"7986,7995",CHL,224,29193,88237,28643,10302,Couple without children,Chile,Paid work time,Female,2023
+19.8,1632.0,"7986,7995",CHL,224,29193,88237,28641,10301,Couple without children,Chile,Unpaid work time,Male,2023
+32.9,1632.0,"7986,7995",CHL,224,29193,88237,28641,10302,Couple without children,Chile,Unpaid work time,Female,2023
+46.8,1632.0,"7986,7995",CHL,224,29193,88238,28642,10301,Extended family,Chile,Total working time,Male,2023
+52.8,1632.0,"7986,7995",CHL,224,29193,88238,28642,10302,Extended family,Chile,Total working time,Female,2023
+28.8,1632.0,"7986,7995",CHL,224,29193,88238,28643,10301,Extended family,Chile,Paid work time,Male,2023
+17.5,1632.0,"7986,7995",CHL,224,29193,88238,28643,10302,Extended family,Chile,Paid work time,Female,2023
+18,1632.0,"7986,7995",CHL,224,29193,88238,28641,10301,Extended family,Chile,Unpaid work time,Male,2023
+35.3,1632.0,"7986,7995",CHL,224,29193,88238,28641,10302,Extended family,Chile,Unpaid work time,Female,2023
+48.6,1632.0,"7986,7995",CHL,224,29193,88231,28642,10301,Translation in progress...,Chile,Total working time,Male,2023
+54.4,1632.0,"7986,7995",CHL,224,29193,88231,28642,10302,Translation in progress...,Chile,Total working time,Female,2023
+29.8,1632.0,"7986,7995",CHL,224,29193,88231,28643,10301,Translation in progress...,Chile,Paid work time,Male,2023
+18.2,1632.0,"7986,7995",CHL,224,29193,88231,28643,10302,Translation in progress...,Chile,Paid work time,Female,2023
+18.8,1632.0,"7986,7995",CHL,224,29193,88231,28641,10301,Translation in progress...,Chile,Unpaid work time,Male,2023
+36.2,1632.0,"7986,7995",CHL,224,29193,88231,28641,10302,Translation in progress...,Chile,Unpaid work time,Female,2023
+50.6,1632.0,"7986,7995",CHL,224,29193,88232,28642,10301,Translation in progress...,Chile,Total working time,Male,2023
+50,1632.0,"7986,7995",CHL,224,29193,88232,28642,10302,Translation in progress...,Chile,Total working time,Female,2023
+31.7,1632.0,"7986,7995",CHL,224,29193,88232,28643,10301,Translation in progress...,Chile,Paid work time,Male,2023
+17.4,1632.0,"7986,7995",CHL,224,29193,88232,28643,10302,Translation in progress...,Chile,Paid work time,Female,2023
+18.9,1632.0,"7986,7995",CHL,224,29193,88232,28641,10301,Translation in progress...,Chile,Unpaid work time,Male,2023
+32.5,1632.0,"7986,7995",CHL,224,29193,88232,28641,10302,Translation in progress...,Chile,Unpaid work time,Female,2023
+56.8,1925.0,,SLV,230,29192,88234,28642,10301,One person,El Salvador,Total working time,Male,2022
+34.7,1925.0,,SLV,230,29192,88234,28643,10301,One person,El Salvador,Paid work time,Male,2022
+22.1,1925.0,,SLV,230,29192,88234,28641,10301,One person,El Salvador,Unpaid work time,Male,2022
+55.3,1925.0,,SLV,230,29192,88234,28642,10302,One person,El Salvador,Total working time,Female,2022
+16.7,1925.0,,SLV,230,29192,88234,28643,10302,One person,El Salvador,Paid work time,Female,2022
+38.6,1925.0,,SLV,230,29192,88234,28641,10302,One person,El Salvador,Unpaid work time,Female,2022
+67.7,1925.0,,SLV,230,29192,88235,28642,10301,Couple with children,El Salvador,Total working time,Male,2022
+44.8,1925.0,,SLV,230,29192,88235,28643,10301,Couple with children,El Salvador,Paid work time,Male,2022
+23,1925.0,,SLV,230,29192,88235,28641,10301,Couple with children,El Salvador,Unpaid work time,Male,2022
+68.7,1925.0,,SLV,230,29192,88235,28642,10302,Couple with children,El Salvador,Total working time,Female,2022
+20.1,1925.0,,SLV,230,29192,88235,28643,10302,Couple with children,El Salvador,Paid work time,Female,2022
+48.6,1925.0,,SLV,230,29192,88235,28641,10302,Couple with children,El Salvador,Unpaid work time,Female,2022
+59.1,1925.0,,SLV,230,29192,88236,28642,10301,Lone parent,El Salvador,Total working time,Male,2022
+36.2,1925.0,,SLV,230,29192,88236,28643,10301,Lone parent,El Salvador,Paid work time,Male,2022
+22.8,1925.0,,SLV,230,29192,88236,28641,10301,Lone parent,El Salvador,Unpaid work time,Male,2022
+63.1,1925.0,,SLV,230,29192,88236,28642,10302,Lone parent,El Salvador,Total working time,Female,2022
+24.9,1925.0,,SLV,230,29192,88236,28643,10302,Lone parent,El Salvador,Paid work time,Female,2022
+38.2,1925.0,,SLV,230,29192,88236,28641,10302,Lone parent,El Salvador,Unpaid work time,Female,2022
+60.9,1925.0,,SLV,230,29192,88237,28642,10301,Couple without children,El Salvador,Total working time,Male,2022
+36.6,1925.0,,SLV,230,29192,88237,28643,10301,Couple without children,El Salvador,Paid work time,Male,2022
+24.3,1925.0,,SLV,230,29192,88237,28641,10301,Couple without children,El Salvador,Unpaid work time,Male,2022
+61.9,1925.0,,SLV,230,29192,88237,28642,10302,Couple without children,El Salvador,Total working time,Female,2022
+19.6,1925.0,,SLV,230,29192,88237,28643,10302,Couple without children,El Salvador,Paid work time,Female,2022
+42.3,1925.0,,SLV,230,29192,88237,28641,10302,Couple without children,El Salvador,Unpaid work time,Female,2022
+61.3,1925.0,,SLV,230,29192,88238,28642,10301,Extended family,El Salvador,Total working time,Male,2022
+39.5,1925.0,,SLV,230,29192,88238,28643,10301,Extended family,El Salvador,Paid work time,Male,2022
+21.8,1925.0,,SLV,230,29192,88238,28641,10301,Extended family,El Salvador,Unpaid work time,Male,2022
+64.5,1925.0,,SLV,230,29192,88238,28642,10302,Extended family,El Salvador,Total working time,Female,2022
+21.4,1925.0,,SLV,230,29192,88238,28643,10302,Extended family,El Salvador,Paid work time,Female,2022
+43.1,1925.0,,SLV,230,29192,88238,28641,10302,Extended family,El Salvador,Unpaid work time,Female,2022
+64.2,1925.0,,SLV,230,29192,88231,28642,10301,Translation in progress...,El Salvador,Total working time,Male,2022
+43.8,1925.0,,SLV,230,29192,88231,28643,10301,Translation in progress...,El Salvador,Paid work time,Male,2022
+20.3,1925.0,,SLV,230,29192,88231,28641,10301,Translation in progress...,El Salvador,Unpaid work time,Male,2022
+74.4,1925.0,,SLV,230,29192,88231,28642,10302,Translation in progress...,El Salvador,Total working time,Female,2022
+27.1,1925.0,,SLV,230,29192,88231,28643,10302,Translation in progress...,El Salvador,Paid work time,Female,2022
+47.3,1925.0,,SLV,230,29192,88231,28641,10302,Translation in progress...,El Salvador,Unpaid work time,Female,2022
+56.9,1925.0,,SLV,230,29192,88232,28642,10301,Translation in progress...,El Salvador,Total working time,Male,2022
+37.3,1925.0,,SLV,230,29192,88232,28643,10301,Translation in progress...,El Salvador,Paid work time,Male,2022
+19.6,1925.0,,SLV,230,29192,88232,28641,10301,Translation in progress...,El Salvador,Unpaid work time,Male,2022
+53.5,1925.0,,SLV,230,29192,88232,28642,10302,Translation in progress...,El Salvador,Total working time,Female,2022
+17.4,1925.0,,SLV,230,29192,88232,28643,10302,Translation in progress...,El Salvador,Paid work time,Female,2022
+36.1,1925.0,,SLV,230,29192,88232,28641,10302,Translation in progress...,El Salvador,Unpaid work time,Female,2022
+58,1331.0,,PER,244,29194,88234,28642,10301,One person,Peru,Total working time,Male,2024
+40.3,1331.0,,PER,244,29194,88234,28643,10301,One person,Peru,Paid work time,Male,2024
+17.7,1331.0,,PER,244,29194,88234,28641,10301,One person,Peru,Unpaid work time,Male,2024
+53.5,1331.0,,PER,244,29194,88234,28642,10302,One person,Peru,Total working time,Female,2024
+24,1331.0,,PER,244,29194,88234,28643,10302,One person,Peru,Paid work time,Female,2024
+29.5,1331.0,,PER,244,29194,88234,28641,10302,One person,Peru,Unpaid work time,Female,2024
+58.1,1331.0,,PER,244,29194,88235,28642,10301,Couple with children,Peru,Total working time,Male,2024
+42.6,1331.0,,PER,244,29194,88235,28643,10301,Couple with children,Peru,Paid work time,Male,2024
+15.5,1331.0,,PER,244,29194,88235,28641,10301,Couple with children,Peru,Unpaid work time,Male,2024
+63.5,1331.0,,PER,244,29194,88235,28642,10302,Couple with children,Peru,Total working time,Female,2024
+20,1331.0,,PER,244,29194,88235,28643,10302,Couple with children,Peru,Paid work time,Female,2024
+43.5,1331.0,,PER,244,29194,88235,28641,10302,Couple with children,Peru,Unpaid work time,Female,2024
+48,1331.0,,PER,244,29194,88236,28642,10301,Lone parent,Peru,Total working time,Male,2024
+32.8,1331.0,,PER,244,29194,88236,28643,10301,Lone parent,Peru,Paid work time,Male,2024
+15.2,1331.0,,PER,244,29194,88236,28641,10301,Lone parent,Peru,Unpaid work time,Male,2024
+61.4,1331.0,,PER,244,29194,88236,28642,10302,Lone parent,Peru,Total working time,Female,2024
+28.2,1331.0,,PER,244,29194,88236,28643,10302,Lone parent,Peru,Paid work time,Female,2024
+33.3,1331.0,,PER,244,29194,88236,28641,10302,Lone parent,Peru,Unpaid work time,Female,2024
+54.2,1331.0,,PER,244,29194,88237,28642,10301,Couple without children,Peru,Total working time,Male,2024
+34.7,1331.0,,PER,244,29194,88237,28643,10301,Couple without children,Peru,Paid work time,Male,2024
+19.5,1331.0,,PER,244,29194,88237,28641,10301,Couple without children,Peru,Unpaid work time,Male,2024
+57.3,1331.0,,PER,244,29194,88237,28642,10302,Couple without children,Peru,Total working time,Female,2024
+20,1331.0,,PER,244,29194,88237,28643,10302,Couple without children,Peru,Paid work time,Female,2024
+37.2,1331.0,,PER,244,29194,88237,28641,10302,Couple without children,Peru,Unpaid work time,Female,2024
+54.8,1331.0,,PER,244,29194,88238,28642,10301,Extended family,Peru,Total working time,Male,2024
+39,1331.0,,PER,244,29194,88238,28643,10301,Extended family,Peru,Paid work time,Male,2024
+15.8,1331.0,,PER,244,29194,88238,28641,10301,Extended family,Peru,Unpaid work time,Male,2024
+60.5,1331.0,,PER,244,29194,88238,28642,10302,Extended family,Peru,Total working time,Female,2024
+23.2,1331.0,,PER,244,29194,88238,28643,10302,Extended family,Peru,Paid work time,Female,2024
+37.3,1331.0,,PER,244,29194,88238,28641,10302,Extended family,Peru,Unpaid work time,Female,2024
+53,1331.0,,PER,244,29194,88231,28642,10301,Translation in progress...,Peru,Total working time,Male,2024
+37,1331.0,,PER,244,29194,88231,28643,10301,Translation in progress...,Peru,Paid work time,Male,2024
+15.9,1331.0,,PER,244,29194,88231,28641,10301,Translation in progress...,Peru,Unpaid work time,Male,2024
+62.7,1331.0,,PER,244,29194,88231,28642,10302,Translation in progress...,Peru,Total working time,Female,2024
+23.6,1331.0,,PER,244,29194,88231,28643,10302,Translation in progress...,Peru,Paid work time,Female,2024
+39.1,1331.0,,PER,244,29194,88231,28641,10302,Translation in progress...,Peru,Unpaid work time,Female,2024
+56,1331.0,,PER,244,29194,88232,28642,10301,Translation in progress...,Peru,Total working time,Male,2024
+35.9,1331.0,,PER,244,29194,88232,28643,10301,Translation in progress...,Peru,Paid work time,Male,2024
+20,1331.0,,PER,244,29194,88232,28641,10301,Translation in progress...,Peru,Unpaid work time,Male,2024
+57.2,1331.0,,PER,244,29194,88232,28642,10302,Translation in progress...,Peru,Total working time,Female,2024
+23.7,1331.0,,PER,244,29194,88232,28643,10302,Translation in progress...,Peru,Paid work time,Female,2024
+33.5,1331.0,,PER,244,29194,88232,28641,10302,Translation in progress...,Peru,Unpaid work time,Female,2024

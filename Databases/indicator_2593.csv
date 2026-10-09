@@ -1,0 +1,577 @@
+﻿value,source_id,notes_ids,iso3,dim_208,dim_29117,dim_50695,dim_10295,dim_28637,Presence of children in the household,Country__ESTANDAR,Type of work,Sex,Years__ESTANDAR
+66.38686371,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50696,10301,28642,Households with children under 5 years old,Argentina,Total working time,Male,2013
+44.23079681,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50696,10301,28643,Households with children under 5 years old,Argentina,Paid work time,Male,2013
+22.1560688,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50696,10301,28641,Households with children under 5 years old,Argentina,Unpaid work time,Male,2013
+83.69519043,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50696,10302,28642,Households with children under 5 years old,Argentina,Total working time,Female,2013
+15.37091732,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50696,10302,28643,Households with children under 5 years old,Argentina,Paid work time,Female,2013
+68.32427216,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50696,10302,28641,Households with children under 5 years old,Argentina,Unpaid work time,Female,2013
+63.31499481,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50697,10301,28642,Households with children under 15 years old,Argentina,Total working time,Male,2013
+43.36738586,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50697,10301,28643,Households with children under 15 years old,Argentina,Paid work time,Male,2013
+19.94760895,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50697,10301,28641,Households with children under 15 years old,Argentina,Unpaid work time,Male,2013
+80.15584564,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50697,10302,28642,Households with children under 15 years old,Argentina,Total working time,Female,2013
+17.18494797,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50697,10302,28643,Households with children under 15 years old,Argentina,Paid work time,Female,2013
+62.97089386,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50697,10302,28641,Households with children under 15 years old,Argentina,Unpaid work time,Female,2013
+46.34345245,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50698,10301,28642,Households without children,Argentina,Total working time,Male,2013
+35.86758423,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50698,10301,28643,Households without children,Argentina,Paid work time,Male,2013
+10.47587013,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50698,10301,28641,Households without children,Argentina,Unpaid work time,Male,2013
+44.18890381,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50698,10302,28642,Households without children,Argentina,Total working time,Female,2013
+24.19522476,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50698,10302,28643,Households without children,Argentina,Paid work time,Female,2013
+19.99368095,1359,"6913,6915,7065,7987,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,216,29183,50698,10302,28641,Households without children,Argentina,Unpaid work time,Female,2013
+48.07107544,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50696,10301,28642,Households with children under 5 years old,Brazil,Total working time,Male,2012
+42.83731461,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50696,10301,28643,Households with children under 5 years old,Brazil,Paid work time,Male,2012
+5.233760834,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50696,10301,28641,Households with children under 5 years old,Brazil,Unpaid work time,Male,2012
+47.98079681,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50696,10302,28642,Households with children under 5 years old,Brazil,Total working time,Female,2012
+20.8903656,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50696,10302,28643,Households with children under 5 years old,Brazil,Paid work time,Female,2012
+27.09043312,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50696,10302,28641,Households with children under 5 years old,Brazil,Unpaid work time,Female,2012
+47.44986725,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50697,10301,28642,Households with children under 15 years old,Brazil,Total working time,Male,2012
+42.54510117,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50697,10301,28643,Households with children under 15 years old,Brazil,Paid work time,Male,2012
+4.904768944,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50697,10301,28641,Households with children under 15 years old,Brazil,Unpaid work time,Male,2012
+49.05921555,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50697,10302,28642,Households with children under 15 years old,Brazil,Total working time,Female,2012
+23.41040421,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50697,10302,28643,Households with children under 15 years old,Brazil,Paid work time,Female,2012
+25.64881134,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50697,10302,28641,Households with children under 15 years old,Brazil,Unpaid work time,Female,2012
+45.36342621,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50698,10301,28642,Households without children,Brazil,Total working time,Male,2012
+39.92201233,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50698,10301,28643,Households without children,Brazil,Paid work time,Male,2012
+5.441413879,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50698,10301,28641,Households without children,Brazil,Unpaid work time,Male,2012
+46.37939453,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50698,10302,28642,Households without children,Brazil,Total working time,Female,2012
+29.41580582,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50698,10302,28643,Households without children,Brazil,Paid work time,Female,2012
+16.96358871,1326,"6913,6916,7995,7996,8009,8012,8014,8021,8022,8023,8024,8034",BRA,222,29182,50698,10302,28641,Households without children,Brazil,Unpaid work time,Female,2012
+64.36940002,1327,"8024,8037",COL,225,29182,50696,10301,28642,Households with children under 5 years old,Colombia,Total working time,Male,2012
+53.3596344,1327,"8024,8037",COL,225,29182,50696,10301,28643,Households with children under 5 years old,Colombia,Paid work time,Male,2012
+11.00976658,1327,"8024,8037",COL,225,29182,50696,10301,28641,Households with children under 5 years old,Colombia,Unpaid work time,Male,2012
+63.85703659,1327,"8024,8037",COL,225,29182,50696,10302,28642,Households with children under 5 years old,Colombia,Total working time,Female,2012
+21.48609352,1327,"8024,8037",COL,225,29182,50696,10302,28643,Households with children under 5 years old,Colombia,Paid work time,Female,2012
+42.37094498,1327,"8024,8037",COL,225,29182,50696,10302,28641,Households with children under 5 years old,Colombia,Unpaid work time,Female,2012
+62.21475983,1327,"8024,8037",COL,225,29182,50697,10301,28642,Households with children under 15 years old,Colombia,Total working time,Male,2012
+52.69553375,1327,"8024,8037",COL,225,29182,50697,10301,28643,Households with children under 15 years old,Colombia,Paid work time,Male,2012
+9.519227028,1327,"8024,8037",COL,225,29182,50697,10301,28641,Households with children under 15 years old,Colombia,Unpaid work time,Male,2012
+61.85467529,1327,"8024,8037",COL,225,29182,50697,10302,28642,Households with children under 15 years old,Colombia,Total working time,Female,2012
+24.03111267,1327,"8024,8037",COL,225,29182,50697,10302,28643,Households with children under 15 years old,Colombia,Paid work time,Female,2012
+37.82355881,1327,"8024,8037",COL,225,29182,50697,10302,28641,Households with children under 15 years old,Colombia,Unpaid work time,Female,2012
+54.73696518,1327,"8024,8037",COL,225,29182,50698,10301,28642,Households without children,Colombia,Total working time,Male,2012
+46.66468048,1327,"8024,8037",COL,225,29182,50698,10301,28643,Households without children,Colombia,Paid work time,Male,2012
+8.072282791,1327,"8024,8037",COL,225,29182,50698,10301,28641,Households without children,Colombia,Unpaid work time,Male,2012
+52.22787476,1327,"8024,8037",COL,225,29182,50698,10302,28642,Households without children,Colombia,Total working time,Female,2012
+31.39814758,1327,"8024,8037",COL,225,29182,50698,10302,28643,Households without children,Colombia,Paid work time,Female,2012
+20.82972908,1327,"8024,8037",COL,225,29182,50698,10302,28641,Households without children,Colombia,Unpaid work time,Female,2012
+75.28372955,1360,7066,CRI,226,29181,50696,10301,28642,Households with children under 5 years old,Costa Rica,Total working time,Male,2011
+51.80423737,1360,7066,CRI,226,29181,50696,10301,28643,Households with children under 5 years old,Costa Rica,Paid work time,Male,2011
+23.47949028,1360,7066,CRI,226,29181,50696,10301,28641,Households with children under 5 years old,Costa Rica,Unpaid work time,Male,2011
+80.32296753,1360,7066,CRI,226,29181,50696,10302,28642,Households with children under 5 years old,Costa Rica,Total working time,Female,2011
+22.85090828,1360,7066,CRI,226,29181,50696,10302,28643,Households with children under 5 years old,Costa Rica,Paid work time,Female,2011
+57.47206497,1360,7066,CRI,226,29181,50696,10302,28641,Households with children under 5 years old,Costa Rica,Unpaid work time,Female,2011
+73.18822479,1360,7066,CRI,226,29181,50697,10301,28642,Households with children under 15 years old,Costa Rica,Total working time,Male,2011
+51.73048782,1360,7066,CRI,226,29181,50697,10301,28643,Households with children under 15 years old,Costa Rica,Paid work time,Male,2011
+21.45773506,1360,7066,CRI,226,29181,50697,10301,28641,Households with children under 15 years old,Costa Rica,Unpaid work time,Male,2011
+77.60874176,1360,7066,CRI,226,29181,50697,10302,28642,Households with children under 15 years old,Costa Rica,Total working time,Female,2011
+23.92840385,1360,7066,CRI,226,29181,50697,10302,28643,Households with children under 15 years old,Costa Rica,Paid work time,Female,2011
+53.68033981,1360,7066,CRI,226,29181,50697,10302,28641,Households with children under 15 years old,Costa Rica,Unpaid work time,Female,2011
+58.08686829,1360,7066,CRI,226,29181,50698,10301,28642,Households without children,Costa Rica,Total working time,Male,2011
+42.48659897,1360,7066,CRI,226,29181,50698,10301,28643,Households without children,Costa Rica,Paid work time,Male,2011
+15.60026932,1360,7066,CRI,226,29181,50698,10301,28641,Households without children,Costa Rica,Unpaid work time,Male,2011
+59.46204376,1360,7066,CRI,226,29181,50698,10302,28642,Households without children,Costa Rica,Total working time,Female,2011
+32.73947906,1360,7066,CRI,226,29181,50698,10302,28643,Households without children,Costa Rica,Paid work time,Female,2011
+26.7225647,1360,7066,CRI,226,29181,50698,10302,28641,Households without children,Costa Rica,Unpaid work time,Female,2011
+60.50836563,1328,,ECU,229,29182,50696,10301,28642,Households with children under 5 years old,Ecuador,Total working time,Male,2012
+50.24651337,1328,,ECU,229,29182,50696,10301,28643,Households with children under 5 years old,Ecuador,Paid work time,Male,2012
+10.26185131,1328,,ECU,229,29182,50696,10301,28641,Households with children under 5 years old,Ecuador,Unpaid work time,Male,2012
+69.18465424,1328,,ECU,229,29182,50696,10302,28642,Households with children under 5 years old,Ecuador,Total working time,Female,2012
+19.31069183,1328,,ECU,229,29182,50696,10302,28643,Households with children under 5 years old,Ecuador,Paid work time,Female,2012
+49.87396622,1328,,ECU,229,29182,50696,10302,28641,Households with children under 5 years old,Ecuador,Unpaid work time,Female,2012
+59.20900726,1328,,ECU,229,29182,50697,10301,28642,Households with children under 15 years old,Ecuador,Total working time,Male,2012
+49.25786591,1328,,ECU,229,29182,50697,10301,28643,Households with children under 15 years old,Ecuador,Paid work time,Male,2012
+9.95113945,1328,,ECU,229,29182,50697,10301,28641,Households with children under 15 years old,Ecuador,Unpaid work time,Male,2012
+67.61154175,1328,,ECU,229,29182,50697,10302,28642,Households with children under 15 years old,Ecuador,Total working time,Female,2012
+21.10650444,1328,,ECU,229,29182,50697,10302,28643,Households with children under 15 years old,Ecuador,Paid work time,Female,2012
+46.5050354,1328,,ECU,229,29182,50697,10302,28641,Households with children under 15 years old,Ecuador,Unpaid work time,Female,2012
+49.05442429,1328,,ECU,229,29182,50698,10301,28642,Households without children,Ecuador,Total working time,Male,2012
+40.93234253,1328,,ECU,229,29182,50698,10301,28643,Households without children,Ecuador,Paid work time,Male,2012
+8.122081757,1328,,ECU,229,29182,50698,10301,28641,Households without children,Ecuador,Unpaid work time,Male,2012
+51.05127716,1328,,ECU,229,29182,50698,10302,28642,Households without children,Ecuador,Total working time,Female,2012
+27.80558777,1328,,ECU,229,29182,50698,10302,28643,Households without children,Ecuador,Paid work time,Female,2012
+23.24568939,1328,,ECU,229,29182,50698,10302,28641,Households without children,Ecuador,Unpaid work time,Female,2012
+68.57092285,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50696,10301,28642,Households with children under 5 years old,Guatemala,Total working time,Male,2011
+55.23297882,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50696,10301,28643,Households with children under 5 years old,Guatemala,Paid work time,Male,2011
+13.33794308,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50696,10301,28641,Households with children under 5 years old,Guatemala,Unpaid work time,Male,2011
+80.70928955,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50696,10302,28642,Households with children under 5 years old,Guatemala,Total working time,Female,2011
+14.57380104,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50696,10302,28643,Households with children under 5 years old,Guatemala,Paid work time,Female,2011
+66.13549042,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50696,10302,28641,Households with children under 5 years old,Guatemala,Unpaid work time,Female,2011
+67.93336487,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50697,10301,28642,Households with children under 15 years old,Guatemala,Total working time,Male,2011
+55.54183197,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50697,10301,28643,Households with children under 15 years old,Guatemala,Paid work time,Male,2011
+12.3915329,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50697,10301,28641,Households with children under 15 years old,Guatemala,Unpaid work time,Male,2011
+77.33682251,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50697,10302,28642,Households with children under 15 years old,Guatemala,Total working time,Female,2011
+17.23951912,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50697,10302,28643,Households with children under 15 years old,Guatemala,Paid work time,Female,2011
+60.09730148,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50697,10302,28641,Households with children under 15 years old,Guatemala,Unpaid work time,Female,2011
+60.3900528,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50698,10301,28642,Households without children,Guatemala,Total working time,Male,2011
+51.91315079,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50698,10301,28643,Households without children,Guatemala,Paid work time,Male,2011
+8.476902008,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50698,10301,28641,Households without children,Guatemala,Unpaid work time,Male,2011
+57.33117294,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50698,10302,28642,Households without children,Guatemala,Total working time,Female,2011
+26.75469208,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50698,10302,28643,Households without children,Guatemala,Paid work time,Female,2011
+30.57648277,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,235,29181,50698,10302,28641,Households without children,Guatemala,Unpaid work time,Female,2011
+51.92761993,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50696,10301,28642,Households with children under 5 years old,Guatemala,Total working time,Male,2014
+46.47977066,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50696,10301,28643,Households with children under 5 years old,Guatemala,Paid work time,Male,2014
+5.447846889,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50696,10301,28641,Households with children under 5 years old,Guatemala,Unpaid work time,Male,2014
+58.07314301,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50696,10302,28642,Households with children under 5 years old,Guatemala,Total working time,Female,2014
+13.85778999,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50696,10302,28643,Households with children under 5 years old,Guatemala,Paid work time,Female,2014
+44.21535492,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50696,10302,28641,Households with children under 5 years old,Guatemala,Unpaid work time,Female,2014
+51.8068428,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50697,10301,28642,Households with children under 15 years old,Guatemala,Total working time,Male,2014
+46.47267914,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50697,10301,28643,Households with children under 15 years old,Guatemala,Paid work time,Male,2014
+5.334162235,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50697,10301,28641,Households with children under 15 years old,Guatemala,Unpaid work time,Male,2014
+56.35690308,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50697,10302,28642,Households with children under 15 years old,Guatemala,Total working time,Female,2014
+15.83455944,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50697,10302,28643,Households with children under 15 years old,Guatemala,Paid work time,Female,2014
+40.52234268,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50697,10302,28641,Households with children under 15 years old,Guatemala,Unpaid work time,Female,2014
+48.80254745,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50698,10301,28642,Households without children,Guatemala,Total working time,Male,2014
+43.36156464,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50698,10301,28643,Households without children,Guatemala,Paid work time,Male,2014
+5.440984726,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50698,10301,28641,Households without children,Guatemala,Unpaid work time,Male,2014
+46.70620346,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50698,10302,28642,Households without children,Guatemala,Total working time,Female,2014
+24.88891983,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50698,10302,28643,Households without children,Guatemala,Paid work time,Female,2014
+21.81728172,1408,"6913,6915,7995,7996,7997,8020,8024,8417",GTM,235,29184,50698,10302,28641,Households without children,Guatemala,Unpaid work time,Female,2014
+51.93284607,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50696,10301,28642,Households with children under 5 years old,Honduras,Total working time,Male,2009
+44.55791092,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50696,10301,28643,Households with children under 5 years old,Honduras,Paid work time,Male,2009
+7.374932766,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50696,10301,28641,Households with children under 5 years old,Honduras,Unpaid work time,Male,2009
+51.60877228,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50696,10302,28642,Households with children under 5 years old,Honduras,Total working time,Female,2009
+14.63899612,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50696,10302,28643,Households with children under 5 years old,Honduras,Paid work time,Female,2009
+36.96977615,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50696,10302,28641,Households with children under 5 years old,Honduras,Unpaid work time,Female,2009
+50.64772034,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50697,10301,28642,Households with children under 15 years old,Honduras,Total working time,Male,2009
+43.92155457,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50697,10301,28643,Households with children under 15 years old,Honduras,Paid work time,Male,2009
+6.726165295,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50697,10301,28641,Households with children under 15 years old,Honduras,Unpaid work time,Male,2009
+50.17395782,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50697,10302,28642,Households with children under 15 years old,Honduras,Total working time,Female,2009
+16.56833649,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50697,10302,28643,Households with children under 15 years old,Honduras,Paid work time,Female,2009
+33.60562134,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50697,10302,28641,Households with children under 15 years old,Honduras,Unpaid work time,Female,2009
+45.90565491,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50698,10301,28642,Households without children,Honduras,Total working time,Male,2009
+39.47479248,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50698,10301,28643,Households without children,Honduras,Paid work time,Male,2009
+6.430864811,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50698,10301,28641,Households without children,Honduras,Unpaid work time,Male,2009
+41.9508667,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50698,10302,28642,Households without children,Honduras,Total working time,Female,2009
+21.79331398,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50698,10302,28643,Households without children,Honduras,Paid work time,Female,2009
+20.15755081,1333,"6913,6915,7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,239,29179,50698,10302,28641,Households without children,Honduras,Unpaid work time,Female,2009
+74.35029602,1329,7422,MEX,233,29184,50696,10301,28642,Households with children under 5 years old,Mexico,Total working time,Male,2014
+56.6174469,1329,7422,MEX,233,29184,50696,10301,28643,Households with children under 5 years old,Mexico,Paid work time,Male,2014
+17.73284721,1329,7422,MEX,233,29184,50696,10301,28641,Households with children under 5 years old,Mexico,Unpaid work time,Male,2014
+78.91455078,1329,7422,MEX,233,29184,50696,10302,28642,Households with children under 5 years old,Mexico,Total working time,Female,2014
+20.37041092,1329,7422,MEX,233,29184,50696,10302,28643,Households with children under 5 years old,Mexico,Paid work time,Female,2014
+58.54413986,1329,7422,MEX,233,29184,50696,10302,28641,Households with children under 5 years old,Mexico,Unpaid work time,Female,2014
+72.50169373,1329,7422,MEX,233,29184,50697,10301,28642,Households with children under 15 years old,Mexico,Total working time,Male,2014
+56.30796051,1329,7422,MEX,233,29184,50697,10301,28643,Households with children under 15 years old,Mexico,Paid work time,Male,2014
+16.19373703,1329,7422,MEX,233,29184,50697,10301,28641,Households with children under 15 years old,Mexico,Unpaid work time,Male,2014
+75.93708801,1329,7422,MEX,233,29184,50697,10302,28642,Households with children under 15 years old,Mexico,Total working time,Female,2014
+22.79744148,1329,7422,MEX,233,29184,50697,10302,28643,Households with children under 15 years old,Mexico,Paid work time,Female,2014
+53.13964462,1329,7422,MEX,233,29184,50697,10302,28641,Households with children under 15 years old,Mexico,Unpaid work time,Female,2014
+60.90366745,1329,7422,MEX,233,29184,50698,10301,28642,Households without children,Mexico,Total working time,Male,2014
+47.06945419,1329,7422,MEX,233,29184,50698,10301,28643,Households without children,Mexico,Paid work time,Male,2014
+13.83421421,1329,7422,MEX,233,29184,50698,10301,28641,Households without children,Mexico,Unpaid work time,Male,2014
+59.76446915,1329,7422,MEX,233,29184,50698,10302,28642,Households without children,Mexico,Total working time,Female,2014
+32.60404968,1329,7422,MEX,233,29184,50698,10302,28643,Households without children,Mexico,Paid work time,Female,2014
+27.16041946,1329,7422,MEX,233,29184,50698,10302,28641,Households without children,Mexico,Unpaid work time,Female,2014
+68.33588409,1330,"7987,7996",PAN,241,29181,50696,10301,28642,Households with children under 5 years old,Panama,Total working time,Male,2011
+52.82614517,1330,"7987,7996",PAN,241,29181,50696,10301,28643,Households with children under 5 years old,Panama,Paid work time,Male,2011
+15.50973988,1330,"7987,7996",PAN,241,29181,50696,10301,28641,Households with children under 5 years old,Panama,Unpaid work time,Male,2011
+64.6741333,1330,"7987,7996",PAN,241,29181,50696,10302,28642,Households with children under 5 years old,Panama,Total working time,Female,2011
+25.21458054,1330,"7987,7996",PAN,241,29181,50696,10302,28643,Households with children under 5 years old,Panama,Paid work time,Female,2011
+39.45955658,1330,"7987,7996",PAN,241,29181,50696,10302,28641,Households with children under 5 years old,Panama,Unpaid work time,Female,2011
+66.73033905,1330,"7987,7996",PAN,241,29181,50697,10301,28642,Households with children under 15 years old,Panama,Total working time,Male,2011
+52.36632156,1330,"7987,7996",PAN,241,29181,50697,10301,28643,Households with children under 15 years old,Panama,Paid work time,Male,2011
+14.36401367,1330,"7987,7996",PAN,241,29181,50697,10301,28641,Households with children under 15 years old,Panama,Unpaid work time,Male,2011
+64.82223511,1330,"7987,7996",PAN,241,29181,50697,10302,28642,Households with children under 15 years old,Panama,Total working time,Female,2011
+27.89730072,1330,"7987,7996",PAN,241,29181,50697,10302,28643,Households with children under 15 years old,Panama,Paid work time,Female,2011
+36.92493439,1330,"7987,7996",PAN,241,29181,50697,10302,28641,Households with children under 15 years old,Panama,Unpaid work time,Female,2011
+58.92247009,1330,"7987,7996",PAN,241,29181,50698,10301,28642,Households without children,Panama,Total working time,Male,2011
+47.27333069,1330,"7987,7996",PAN,241,29181,50698,10301,28643,Households without children,Panama,Paid work time,Male,2011
+11.6491394,1330,"7987,7996",PAN,241,29181,50698,10301,28641,Households without children,Panama,Unpaid work time,Male,2011
+55.41091156,1330,"7987,7996",PAN,241,29181,50698,10302,28642,Households without children,Panama,Total working time,Female,2011
+36.00178909,1330,"7987,7996",PAN,241,29181,50698,10302,28643,Households without children,Panama,Paid work time,Female,2011
+19.40912056,1330,"7987,7996",PAN,241,29181,50698,10302,28641,Households without children,Panama,Unpaid work time,Female,2011
+63.84685135,1331,7997,PER,244,29180,50696,10301,28642,Households with children under 5 years old,Peru,Total working time,Male,2010
+46.9291687,1331,7997,PER,244,29180,50696,10301,28643,Households with children under 5 years old,Peru,Paid work time,Male,2010
+16.91767883,1331,7997,PER,244,29180,50696,10301,28641,Households with children under 5 years old,Peru,Unpaid work time,Male,2010
+69.21899414,1331,7997,PER,244,29180,50696,10302,28642,Households with children under 5 years old,Peru,Total working time,Female,2010
+18.98139572,1331,7997,PER,244,29180,50696,10302,28643,Households with children under 5 years old,Peru,Paid work time,Female,2010
+50.23760223,1331,7997,PER,244,29180,50696,10302,28641,Households with children under 5 years old,Peru,Unpaid work time,Female,2010
+63.16607666,1331,7997,PER,244,29180,50697,10301,28642,Households with children under 15 years old,Peru,Total working time,Male,2010
+46.63483047,1331,7997,PER,244,29180,50697,10301,28643,Households with children under 15 years old,Peru,Paid work time,Male,2010
+16.53124619,1331,7997,PER,244,29180,50697,10301,28641,Households with children under 15 years old,Peru,Unpaid work time,Male,2010
+68.56798553,1331,7997,PER,244,29180,50697,10302,28642,Households with children under 15 years old,Peru,Total working time,Female,2010
+21.44702339,1331,7997,PER,244,29180,50697,10302,28643,Households with children under 15 years old,Peru,Paid work time,Female,2010
+47.12095642,1331,7997,PER,244,29180,50697,10302,28641,Households with children under 15 years old,Peru,Unpaid work time,Female,2010
+53.09878159,1331,7997,PER,244,29180,50698,10301,28642,Households without children,Peru,Total working time,Male,2010
+39.89343643,1331,7997,PER,244,29180,50698,10301,28643,Households without children,Peru,Paid work time,Male,2010
+13.20534515,1331,7997,PER,244,29180,50698,10301,28641,Households without children,Peru,Unpaid work time,Male,2010
+55.06669617,1331,7997,PER,244,29180,50698,10302,28642,Households without children,Peru,Total working time,Female,2010
+29.14902878,1331,7997,PER,244,29180,50698,10302,28643,Households without children,Peru,Paid work time,Female,2010
+25.9176693,1331,7997,PER,244,29180,50698,10302,28641,Households without children,Peru,Unpaid work time,Female,2010
+74.0717392,1332,"6913,7986,7995,7996",URY,258,29177,50696,10301,28642,Households with children under 5 years old,Uruguay,Total working time,Male,2007
+50.49147797,1332,"6913,7986,7995,7996",URY,258,29177,50696,10301,28643,Households with children under 5 years old,Uruguay,Paid work time,Male,2007
+23.58026123,1332,"6913,7986,7995,7996",URY,258,29177,50696,10301,28641,Households with children under 5 years old,Uruguay,Unpaid work time,Male,2007
+90.42002869,1332,"6913,7986,7995,7996",URY,258,29177,50696,10302,28642,Households with children under 5 years old,Uruguay,Total working time,Female,2007
+21.41863441,1332,"6913,7986,7995,7996",URY,258,29177,50696,10302,28643,Households with children under 5 years old,Uruguay,Paid work time,Female,2007
+69.00139618,1332,"6913,7986,7995,7996",URY,258,29177,50696,10302,28641,Households with children under 5 years old,Uruguay,Unpaid work time,Female,2007
+69.37995148,1332,"6913,7986,7995,7996",URY,258,29177,50697,10301,28642,Households with children under 15 years old,Uruguay,Total working time,Male,2007
+48.89087677,1332,"6913,7986,7995,7996",URY,258,29177,50697,10301,28643,Households with children under 15 years old,Uruguay,Paid work time,Male,2007
+20.48907471,1332,"6913,7986,7995,7996",URY,258,29177,50697,10301,28641,Households with children under 15 years old,Uruguay,Unpaid work time,Male,2007
+85.224617,1332,"6913,7986,7995,7996",URY,258,29177,50697,10302,28642,Households with children under 15 years old,Uruguay,Total working time,Female,2007
+23.80764198,1332,"6913,7986,7995,7996",URY,258,29177,50697,10302,28643,Households with children under 15 years old,Uruguay,Paid work time,Female,2007
+61.41697311,1332,"6913,7986,7995,7996",URY,258,29177,50697,10302,28641,Households with children under 15 years old,Uruguay,Unpaid work time,Female,2007
+55.07011795,1332,"6913,7986,7995,7996",URY,258,29177,50698,10301,28642,Households without children,Uruguay,Total working time,Male,2007
+41.61956787,1332,"6913,7986,7995,7996",URY,258,29177,50698,10301,28643,Households without children,Uruguay,Paid work time,Male,2007
+13.45054817,1332,"6913,7986,7995,7996",URY,258,29177,50698,10301,28641,Households without children,Uruguay,Unpaid work time,Male,2007
+58.91649628,1332,"6913,7986,7995,7996",URY,258,29177,50698,10302,28642,Households without children,Uruguay,Total working time,Female,2007
+32.83752823,1332,"6913,7986,7995,7996",URY,258,29177,50698,10302,28643,Households without children,Uruguay,Paid work time,Female,2007
+26.07896805,1332,"6913,7986,7995,7996",URY,258,29177,50698,10302,28641,Households without children,Uruguay,Unpaid work time,Female,2007
+70.60631561,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50696,10301,28642,Households with children under 5 years old,Uruguay,Total working time,Male,2013
+46.61398315,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50696,10301,28643,Households with children under 5 years old,Uruguay,Paid work time,Male,2013
+23.99233246,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50696,10301,28641,Households with children under 5 years old,Uruguay,Unpaid work time,Male,2013
+81.35455322,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50696,10302,28642,Households with children under 5 years old,Uruguay,Total working time,Female,2013
+25.2369957,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50696,10302,28643,Households with children under 5 years old,Uruguay,Paid work time,Female,2013
+56.11755753,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50696,10302,28641,Households with children under 5 years old,Uruguay,Unpaid work time,Female,2013
+67.88134766,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50697,10301,28642,Households with children under 15 years old,Uruguay,Total working time,Male,2013
+47.3171463,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50697,10301,28643,Households with children under 15 years old,Uruguay,Paid work time,Male,2013
+20.56420326,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50697,10301,28641,Households with children under 15 years old,Uruguay,Unpaid work time,Male,2013
+77.15431976,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50697,10302,28642,Households with children under 15 years old,Uruguay,Total working time,Female,2013
+27.64237404,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50697,10302,28643,Households with children under 15 years old,Uruguay,Paid work time,Female,2013
+49.51194763,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50697,10302,28641,Households with children under 15 years old,Uruguay,Unpaid work time,Female,2013
+52.64037704,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50698,10301,28642,Households without children,Uruguay,Total working time,Male,2013
+41.66762924,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50698,10301,28643,Households without children,Uruguay,Paid work time,Male,2013
+10.97274971,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50698,10301,28641,Households without children,Uruguay,Unpaid work time,Male,2013
+53.74324799,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50698,10302,28642,Households without children,Uruguay,Total working time,Female,2013
+32.95933914,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50698,10302,28643,Households without children,Uruguay,Paid work time,Female,2013
+20.78390884,1332,"6913,7991,7995,7996,8022,8025,8050",URY,258,29183,50698,10302,28641,Households without children,Uruguay,Unpaid work time,Female,2013
+75.72412872,1632,"7986,7995",CHL,224,29185,50696,10301,28642,Households with children under 5 years old,Chile,Total working time,Male,2015
+45.48291016,1632,"7986,7995",CHL,224,29185,50696,10301,28643,Households with children under 5 years old,Chile,Paid work time,Male,2015
+30.24121666,1632,"7986,7995",CHL,224,29185,50696,10301,28641,Households with children under 5 years old,Chile,Unpaid work time,Male,2015
+89.59335327,1632,"7986,7995",CHL,224,29185,50696,10302,28642,Households with children under 5 years old,Chile,Total working time,Female,2015
+21.13726616,1632,"7986,7995",CHL,224,29185,50696,10302,28643,Households with children under 5 years old,Chile,Paid work time,Female,2015
+68.45608521,1632,"7986,7995",CHL,224,29185,50696,10302,28641,Households with children under 5 years old,Chile,Unpaid work time,Female,2015
+70.59602356,1632,"7986,7995",CHL,224,29185,50697,10301,28642,Households with children under 15 years old,Chile,Total working time,Male,2015
+44.27422714,1632,"7986,7995",CHL,224,29185,50697,10301,28643,Households with children under 15 years old,Chile,Paid work time,Male,2015
+26.32179832,1632,"7986,7995",CHL,224,29185,50697,10301,28641,Households with children under 15 years old,Chile,Unpaid work time,Male,2015
+83.53193665,1632,"7986,7995",CHL,224,29185,50697,10302,28642,Households with children under 15 years old,Chile,Total working time,Female,2015
+23.23171234,1632,"7986,7995",CHL,224,29185,50697,10302,28643,Households with children under 15 years old,Chile,Paid work time,Female,2015
+60.30022049,1632,"7986,7995",CHL,224,29185,50697,10302,28641,Households with children under 15 years old,Chile,Unpaid work time,Female,2015
+50.78255081,1632,"7986,7995",CHL,224,29185,50698,10301,28642,Households without children,Chile,Total working time,Male,2015
+35.66785812,1632,"7986,7995",CHL,224,29185,50698,10301,28643,Households without children,Chile,Paid work time,Male,2015
+15.11469555,1632,"7986,7995",CHL,224,29185,50698,10301,28641,Households without children,Chile,Unpaid work time,Male,2015
+51.99277878,1632,"7986,7995",CHL,224,29185,50698,10302,28642,Households without children,Chile,Total working time,Female,2015
+28.57233238,1632,"7986,7995",CHL,224,29185,50698,10302,28643,Households without children,Chile,Paid work time,Female,2015
+23.4204464,1632,"7986,7995",CHL,224,29185,50698,10302,28641,Households without children,Chile,Unpaid work time,Female,2015
+63.79153442,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50696,10301,28642,Households with children under 5 years old,El Salvador,Total working time,Male,2010
+46.70323181,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50696,10301,28643,Households with children under 5 years old,El Salvador,Paid work time,Male,2010
+17.08830261,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50696,10301,28641,Households with children under 5 years old,El Salvador,Unpaid work time,Male,2010
+69.16808319,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50696,10302,28642,Households with children under 5 years old,El Salvador,Total working time,Female,2010
+18.73402786,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50696,10302,28643,Households with children under 5 years old,El Salvador,Paid work time,Female,2010
+50.43405533,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50696,10302,28641,Households with children under 5 years old,El Salvador,Unpaid work time,Female,2010
+62.22844696,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50697,10301,28642,Households with children under 15 years old,El Salvador,Total working time,Male,2010
+46.23065567,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50697,10301,28643,Households with children under 15 years old,El Salvador,Paid work time,Male,2010
+15.99779129,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50697,10301,28641,Households with children under 15 years old,El Salvador,Unpaid work time,Male,2010
+69.13516998,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50697,10302,28642,Households with children under 15 years old,El Salvador,Total working time,Female,2010
+21.9342041,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50697,10302,28643,Households with children under 15 years old,El Salvador,Paid work time,Female,2010
+47.20096588,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50697,10302,28641,Households with children under 15 years old,El Salvador,Unpaid work time,Female,2010
+55.11111069,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50698,10301,28642,Households without children,El Salvador,Total working time,Male,2010
+41.8073349,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50698,10301,28643,Households without children,El Salvador,Paid work time,Male,2010
+13.30377579,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50698,10301,28641,Households without children,El Salvador,Unpaid work time,Male,2010
+54.60050964,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50698,10302,28642,Households without children,El Salvador,Total working time,Female,2010
+25.7422142,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50698,10302,28643,Households without children,El Salvador,Paid work time,Female,2010
+28.85829544,1659,"6913,7991,7992,7993,7995,7996,7997,8024",SLV,230,29180,50698,10302,28641,Households without children,El Salvador,Unpaid work time,Female,2010
+59.53858948,1660,"6913,7995,7996",PRY,242,29186,50696,10301,28642,Households with children under 5 years old,Paraguay,Total working time,Male,2016
+45.62429047,1660,"6913,7995,7996",PRY,242,29186,50696,10301,28643,Households with children under 5 years old,Paraguay,Paid work time,Male,2016
+13.91429806,1660,"6913,7995,7996",PRY,242,29186,50696,10301,28641,Households with children under 5 years old,Paraguay,Unpaid work time,Male,2016
+57.3250351,1660,"6913,7995,7996",PRY,242,29186,50696,10302,28642,Households with children under 5 years old,Paraguay,Total working time,Female,2016
+17.86515427,1660,"6913,7995,7996",PRY,242,29186,50696,10302,28643,Households with children under 5 years old,Paraguay,Paid work time,Female,2016
+39.45988083,1660,"6913,7995,7996",PRY,242,29186,50696,10302,28641,Households with children under 5 years old,Paraguay,Unpaid work time,Female,2016
+57.16172409,1660,"6913,7995,7996",PRY,242,29186,50697,10301,28642,Households with children under 15 years old,Paraguay,Total working time,Male,2016
+44.5934639,1660,"6913,7995,7996",PRY,242,29186,50697,10301,28643,Households with children under 15 years old,Paraguay,Paid work time,Male,2016
+12.56826115,1660,"6913,7995,7996",PRY,242,29186,50697,10301,28641,Households with children under 15 years old,Paraguay,Unpaid work time,Male,2016
+56.67967987,1660,"6913,7995,7996",PRY,242,29186,50697,10302,28642,Households with children under 15 years old,Paraguay,Total working time,Female,2016
+20.53284264,1660,"6913,7995,7996",PRY,242,29186,50697,10302,28643,Households with children under 15 years old,Paraguay,Paid work time,Female,2016
+36.14683914,1660,"6913,7995,7996",PRY,242,29186,50697,10302,28641,Households with children under 15 years old,Paraguay,Unpaid work time,Female,2016
+47.95517731,1660,"6913,7995,7996",PRY,242,29186,50698,10301,28642,Households without children,Paraguay,Total working time,Male,2016
+40.86169434,1660,"6913,7995,7996",PRY,242,29186,50698,10301,28643,Households without children,Paraguay,Paid work time,Male,2016
+7.093484402,1660,"6913,7995,7996",PRY,242,29186,50698,10301,28641,Households without children,Paraguay,Unpaid work time,Male,2016
+42.39053345,1660,"6913,7995,7996",PRY,242,29186,50698,10302,28642,Households without children,Paraguay,Total working time,Female,2016
+26.57014465,1660,"6913,7995,7996",PRY,242,29186,50698,10302,28643,Households without children,Paraguay,Paid work time,Female,2016
+15.82038689,1660,"6913,7995,7996",PRY,242,29186,50698,10302,28641,Households without children,Paraguay,Unpaid work time,Female,2016
+48.17477417,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50696,10301,28642,Households with children under 5 years old,Brazil,Total working time,Male,2017
+44.31057358,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50696,10302,28642,Households with children under 5 years old,Brazil,Total working time,Female,2017
+36.05875778,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50696,10301,28643,Households with children under 5 years old,Brazil,Paid work time,Male,2017
+18.17301178,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50696,10302,28643,Households with children under 5 years old,Brazil,Paid work time,Female,2017
+12.11601448,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50696,10301,28641,Households with children under 5 years old,Brazil,Unpaid work time,Male,2017
+26.1375618,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50696,10302,28641,Households with children under 5 years old,Brazil,Unpaid work time,Female,2017
+46.7273407,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50697,10301,28642,Households with children under 15 years old,Brazil,Total working time,Male,2017
+44.52885056,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50697,10302,28642,Households with children under 15 years old,Brazil,Total working time,Female,2017
+35.47503662,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50697,10301,28643,Households with children under 15 years old,Brazil,Paid work time,Male,2017
+20.22792244,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50697,10302,28643,Households with children under 15 years old,Brazil,Paid work time,Female,2017
+11.25230503,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50697,10301,28641,Households with children under 15 years old,Brazil,Unpaid work time,Male,2017
+24.30093002,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50697,10302,28641,Households with children under 15 years old,Brazil,Unpaid work time,Female,2017
+41.60665512,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50698,10301,28642,Households without children,Brazil,Total working time,Male,2017
+41.44536972,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50698,10302,28642,Households without children,Brazil,Total working time,Female,2017
+32.48595428,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50698,10301,28643,Households without children,Brazil,Paid work time,Male,2017
+25.3739109,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50698,10302,28643,Households without children,Brazil,Paid work time,Female,2017
+9.120699883,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50698,10301,28641,Households without children,Brazil,Unpaid work time,Male,2017
+16.07145882,1326,"6913,6915,6916,8009,8660",BRA,222,29187,50698,10302,28641,Households without children,Brazil,Unpaid work time,Female,2017
+65.3135376,1327,8037,COL,225,29187,50696,10301,28642,Households with children under 5 years old,Colombia,Total working time,Male,2017
+65.17195129,1327,8037,COL,225,29187,50696,10302,28642,Households with children under 5 years old,Colombia,Total working time,Female,2017
+51.30595016,1327,8037,COL,225,29187,50696,10301,28643,Households with children under 5 years old,Colombia,Paid work time,Male,2017
+19.92229652,1327,8037,COL,225,29187,50696,10302,28643,Households with children under 5 years old,Colombia,Paid work time,Female,2017
+14.00758266,1327,8037,COL,225,29187,50696,10301,28641,Households with children under 5 years old,Colombia,Unpaid work time,Male,2017
+45.24966049,1327,8037,COL,225,29187,50696,10302,28641,Households with children under 5 years old,Colombia,Unpaid work time,Female,2017
+63.28961945,1327,8037,COL,225,29187,50697,10301,28642,Households with children under 15 years old,Colombia,Total working time,Male,2017
+62.63265228,1327,8037,COL,225,29187,50697,10302,28642,Households with children under 15 years old,Colombia,Total working time,Female,2017
+51.18058777,1327,8037,COL,225,29187,50697,10301,28643,Households with children under 15 years old,Colombia,Paid work time,Male,2017
+22.98271561,1327,8037,COL,225,29187,50697,10302,28643,Households with children under 15 years old,Colombia,Paid work time,Female,2017
+12.10903168,1327,8037,COL,225,29187,50697,10301,28641,Households with children under 15 years old,Colombia,Unpaid work time,Male,2017
+39.64993668,1327,8037,COL,225,29187,50697,10302,28641,Households with children under 15 years old,Colombia,Unpaid work time,Female,2017
+54.17511368,1327,8037,COL,225,29187,50698,10301,28642,Households without children,Colombia,Total working time,Male,2017
+52.06834412,1327,8037,COL,225,29187,50698,10302,28642,Households without children,Colombia,Total working time,Female,2017
+45.11732864,1327,8037,COL,225,29187,50698,10301,28643,Households without children,Colombia,Paid work time,Male,2017
+31.16174126,1327,8037,COL,225,29187,50698,10302,28643,Households without children,Colombia,Paid work time,Female,2017
+9.057785988,1327,8037,COL,225,29187,50698,10301,28641,Households without children,Colombia,Unpaid work time,Male,2017
+20.90660477,1327,8037,COL,225,29187,50698,10302,28641,Households without children,Colombia,Unpaid work time,Female,2017
+70.72460175,1925,"8043,8661",SLV,230,29187,50696,10301,28642,Households with children under 5 years old,El Salvador,Total working time,Male,2017
+71.93528748,1925,"8043,8661",SLV,230,29187,50696,10302,28642,Households with children under 5 years old,El Salvador,Total working time,Female,2017
+50.56864548,1925,"8043,8661",SLV,230,29187,50696,10301,28643,Households with children under 5 years old,El Salvador,Paid work time,Male,2017
+22.30216026,1925,"8043,8661",SLV,230,29187,50696,10302,28643,Households with children under 5 years old,El Salvador,Paid work time,Female,2017
+20.15595436,1925,"8043,8661",SLV,230,29187,50696,10301,28641,Households with children under 5 years old,El Salvador,Unpaid work time,Male,2017
+49.63312912,1925,"8043,8661",SLV,230,29187,50696,10302,28641,Households with children under 5 years old,El Salvador,Unpaid work time,Female,2017
+69.28781891,1925,"8043,8661",SLV,230,29187,50697,10301,28642,Households with children under 15 years old,El Salvador,Total working time,Male,2017
+69.50553131,1925,"8043,8661",SLV,230,29187,50697,10302,28642,Households with children under 15 years old,El Salvador,Total working time,Female,2017
+50.78224945,1925,"8043,8661",SLV,230,29187,50697,10301,28643,Households with children under 15 years old,El Salvador,Paid work time,Male,2017
+25.12962723,1925,"8043,8661",SLV,230,29187,50697,10302,28643,Households with children under 15 years old,El Salvador,Paid work time,Female,2017
+18.50556755,1925,"8043,8661",SLV,230,29187,50697,10301,28641,Households with children under 15 years old,El Salvador,Unpaid work time,Male,2017
+44.3759079,1925,"8043,8661",SLV,230,29187,50697,10302,28641,Households with children under 15 years old,El Salvador,Unpaid work time,Female,2017
+58.32931137,1925,"8043,8661",SLV,230,29187,50698,10301,28642,Households without children,El Salvador,Total working time,Male,2017
+55.879776,1925,"8043,8661",SLV,230,29187,50698,10302,28642,Households without children,El Salvador,Total working time,Female,2017
+44.74486542,1925,"8043,8661",SLV,230,29187,50698,10301,28643,Households without children,El Salvador,Paid work time,Male,2017
+30.40533829,1925,"8043,8661",SLV,230,29187,50698,10302,28643,Households without children,El Salvador,Paid work time,Female,2017
+13.58444786,1925,"8043,8661",SLV,230,29187,50698,10301,28641,Households without children,El Salvador,Unpaid work time,Male,2017
+25.47443962,1925,"8043,8661",SLV,230,29187,50698,10302,28641,Households without children,El Salvador,Unpaid work time,Female,2017
+56.0604248,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50696,10301,28642,Households with children under 5 years old,Guatemala,Total working time,Male,2017
+63.83316422,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50696,10302,28642,Households with children under 5 years old,Guatemala,Total working time,Female,2017
+48.54085922,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50696,10301,28643,Households with children under 5 years old,Guatemala,Paid work time,Male,2017
+15.11124516,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50696,10302,28643,Households with children under 5 years old,Guatemala,Paid work time,Female,2017
+7.519566536,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50696,10301,28641,Households with children under 5 years old,Guatemala,Unpaid work time,Male,2017
+48.7219162,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50696,10302,28641,Households with children under 5 years old,Guatemala,Unpaid work time,Female,2017
+54.29444122,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50697,10301,28642,Households with children under 15 years old,Guatemala,Total working time,Male,2017
+61.66651917,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50697,10302,28642,Households with children under 15 years old,Guatemala,Total working time,Female,2017
+47.99184036,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50697,10301,28643,Households with children under 15 years old,Guatemala,Paid work time,Male,2017
+17.46179008,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50697,10302,28643,Households with children under 15 years old,Guatemala,Paid work time,Female,2017
+6.302604198,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50697,10301,28641,Households with children under 15 years old,Guatemala,Unpaid work time,Male,2017
+44.20473099,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50697,10302,28641,Households with children under 15 years old,Guatemala,Unpaid work time,Female,2017
+50.0541687,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50698,10301,28642,Households without children,Guatemala,Total working time,Male,2017
+48.86512756,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50698,10302,28642,Households without children,Guatemala,Total working time,Female,2017
+45.0588913,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50698,10301,28643,Households without children,Guatemala,Paid work time,Male,2017
+24.59103966,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50698,10302,28643,Households without children,Guatemala,Paid work time,Female,2017
+4.995277882,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50698,10301,28641,Households without children,Guatemala,Unpaid work time,Male,2017
+24.27408791,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29187,50698,10302,28641,Households without children,Guatemala,Unpaid work time,Female,2017
+56.96949387,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50696,10301,28642,Households with children under 5 years old,Dominican Republic,Total working time,Male,2016
+69.17763519,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50696,10302,28642,Households with children under 5 years old,Dominican Republic,Total working time,Female,2016
+45.51620483,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50696,10301,28643,Households with children under 5 years old,Dominican Republic,Paid work time,Male,2016
+21.56668091,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50696,10302,28643,Households with children under 5 years old,Dominican Republic,Paid work time,Female,2016
+11.45328903,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50696,10301,28641,Households with children under 5 years old,Dominican Republic,Unpaid work time,Male,2016
+47.61095047,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50696,10302,28641,Households with children under 5 years old,Dominican Republic,Unpaid work time,Female,2016
+55.39400864,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50697,10301,28642,Households with children under 15 years old,Dominican Republic,Total working time,Male,2016
+65.83818054,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50697,10302,28642,Households with children under 15 years old,Dominican Republic,Total working time,Female,2016
+44.62801361,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50697,10301,28643,Households with children under 15 years old,Dominican Republic,Paid work time,Male,2016
+23.56870651,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50697,10302,28643,Households with children under 15 years old,Dominican Republic,Paid work time,Female,2016
+10.76599216,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50697,10301,28641,Households with children under 15 years old,Dominican Republic,Unpaid work time,Male,2016
+42.26947784,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50697,10302,28641,Households with children under 15 years old,Dominican Republic,Unpaid work time,Female,2016
+49.00359726,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50698,10301,28642,Households without children,Dominican Republic,Total working time,Male,2016
+45.32866669,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50698,10302,28642,Households without children,Dominican Republic,Total working time,Female,2016
+41.30295181,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50698,10301,28643,Households without children,Dominican Republic,Paid work time,Male,2016
+28.46703148,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50698,10302,28643,Households without children,Dominican Republic,Paid work time,Female,2016
+7.700644016,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50698,10301,28641,Households without children,Dominican Republic,Unpaid work time,Male,2016
+16.86163521,1848,"7995,7996,8009,8011,8012,8024,8626,8627,8628",DOM,264,29186,50698,10302,28641,Households without children,Dominican Republic,Unpaid work time,Female,2016
+75.68444061,1329,7422,MEX,233,29189,50696,10301,28642,Households with children under 5 years old,Mexico,Total working time,Male,2019
+56.11742401,1329,7422,MEX,233,29189,50696,10301,28643,Households with children under 5 years old,Mexico,Paid work time,Male,2019
+19.56701851,1329,7422,MEX,233,29189,50696,10301,28641,Households with children under 5 years old,Mexico,Unpaid work time,Male,2019
+82.00078583,1329,7422,MEX,233,29189,50696,10302,28642,Households with children under 5 years old,Mexico,Total working time,Female,2019
+22.13554955,1329,7422,MEX,233,29189,50696,10302,28643,Households with children under 5 years old,Mexico,Paid work time,Female,2019
+59.86523438,1329,7422,MEX,233,29189,50696,10302,28641,Households with children under 5 years old,Mexico,Unpaid work time,Female,2019
+73.41749573,1329,7422,MEX,233,29189,50697,10301,28642,Households with children under 15 years old,Mexico,Total working time,Male,2019
+55.32151413,1329,7422,MEX,233,29189,50697,10301,28643,Households with children under 15 years old,Mexico,Paid work time,Male,2019
+18.09598351,1329,7422,MEX,233,29189,50697,10301,28641,Households with children under 15 years old,Mexico,Unpaid work time,Male,2019
+78.8806076,1329,7422,MEX,233,29189,50697,10302,28642,Households with children under 15 years old,Mexico,Total working time,Female,2019
+24.92141914,1329,7422,MEX,233,29189,50697,10302,28643,Households with children under 15 years old,Mexico,Paid work time,Female,2019
+53.95919037,1329,7422,MEX,233,29189,50697,10302,28641,Households with children under 15 years old,Mexico,Unpaid work time,Female,2019
+63.31388474,1329,7422,MEX,233,29189,50698,10301,28642,Households without children,Mexico,Total working time,Male,2019
+47.81341553,1329,7422,MEX,233,29189,50698,10301,28643,Households without children,Mexico,Paid work time,Male,2019
+15.50047016,1329,7422,MEX,233,29189,50698,10301,28641,Households without children,Mexico,Unpaid work time,Male,2019
+63.8909111,1329,7422,MEX,233,29189,50698,10302,28642,Households without children,Mexico,Total working time,Female,2019
+34.56481934,1329,7422,MEX,233,29189,50698,10302,28643,Households without children,Mexico,Paid work time,Female,2019
+29.32609177,1329,7422,MEX,233,29189,50698,10302,28641,Households without children,Mexico,Unpaid work time,Female,2019
+49.2192421,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50696,10301,28642,Households with children under 5 years old,Brazil,Total working time,Male,2019
+36.64481354,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50696,10301,28643,Households with children under 5 years old,Brazil,Paid work time,Male,2019
+12.57443047,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50696,10301,28641,Households with children under 5 years old,Brazil,Unpaid work time,Male,2019
+45.6612587,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50696,10302,28642,Households with children under 5 years old,Brazil,Total working time,Female,2019
+18.14148331,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50696,10302,28643,Households with children under 5 years old,Brazil,Paid work time,Female,2019
+27.51977539,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50696,10302,28641,Households with children under 5 years old,Brazil,Unpaid work time,Female,2019
+47.51187134,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50697,10301,28642,Households with children under 15 years old,Brazil,Total working time,Male,2019
+35.78434753,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50697,10301,28643,Households with children under 15 years old,Brazil,Paid work time,Male,2019
+11.72752285,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50697,10301,28641,Households with children under 15 years old,Brazil,Unpaid work time,Male,2019
+45.69828796,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50697,10302,28642,Households with children under 15 years old,Brazil,Total working time,Female,2019
+20.33555222,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50697,10302,28643,Households with children under 15 years old,Brazil,Paid work time,Female,2019
+25.36273384,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50697,10302,28641,Households with children under 15 years old,Brazil,Unpaid work time,Female,2019
+41.70792389,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50698,10301,28642,Households without children,Brazil,Total working time,Male,2019
+32.43205643,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50698,10301,28643,Households without children,Brazil,Paid work time,Male,2019
+9.27586937,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50698,10301,28641,Households without children,Brazil,Unpaid work time,Male,2019
+41.49562454,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50698,10302,28642,Households without children,Brazil,Total working time,Female,2019
+25.21107101,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50698,10302,28643,Households without children,Brazil,Paid work time,Female,2019
+16.28455544,1326,"6913,6915,6916,8009,8660",BRA,222,29189,50698,10302,28641,Households without children,Brazil,Unpaid work time,Female,2019
+56.12334061,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50696,10301,28642,Households with children under 5 years old,Guatemala,Total working time,Male,2019
+49.99581528,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50696,10301,28643,Households with children under 5 years old,Guatemala,Paid work time,Male,2019
+6.127524376,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50696,10301,28641,Households with children under 5 years old,Guatemala,Unpaid work time,Male,2019
+59.20378876,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50696,10302,28642,Households with children under 5 years old,Guatemala,Total working time,Female,2019
+16.66646957,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50696,10302,28643,Households with children under 5 years old,Guatemala,Paid work time,Female,2019
+42.53731918,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50696,10302,28641,Households with children under 5 years old,Guatemala,Unpaid work time,Female,2019
+54.65055847,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50697,10301,28642,Households with children under 15 years old,Guatemala,Total working time,Male,2019
+49.44700623,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50697,10301,28643,Households with children under 15 years old,Guatemala,Paid work time,Male,2019
+5.203549862,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50697,10301,28641,Households with children under 15 years old,Guatemala,Unpaid work time,Male,2019
+56.18943024,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50697,10302,28642,Households with children under 15 years old,Guatemala,Total working time,Female,2019
+18.79647255,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50697,10302,28643,Households with children under 15 years old,Guatemala,Paid work time,Female,2019
+37.39295959,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50697,10302,28641,Households with children under 15 years old,Guatemala,Unpaid work time,Female,2019
+47.81641388,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50698,10301,28642,Households without children,Guatemala,Total working time,Male,2019
+43.45776749,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50698,10301,28643,Households without children,Guatemala,Paid work time,Male,2019
+4.358643532,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50698,10301,28641,Households without children,Guatemala,Unpaid work time,Male,2019
+45.16304398,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50698,10302,28642,Households without children,Guatemala,Total working time,Female,2019
+26.62905693,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50698,10302,28643,Households without children,Guatemala,Paid work time,Female,2019
+18.53398514,1408,"6915,7986,7996,7997,8010,8020,8022",GTM,235,29189,50698,10302,28641,Households without children,Guatemala,Unpaid work time,Female,2019
+64.86354065,1327,"8024,8037",COL,225,29191,50696,10301,28642,Households with children under 5 years old,Colombia,Total working time,Male,2021
+49.16791153,1327,"8024,8037",COL,225,29191,50696,10301,28643,Households with children under 5 years old,Colombia,Paid work time,Male,2021
+15.69563103,1327,"8024,8037",COL,225,29191,50696,10301,28641,Households with children under 5 years old,Colombia,Unpaid work time,Male,2021
+67.47307587,1327,"8024,8037",COL,225,29191,50696,10302,28642,Households with children under 5 years old,Colombia,Total working time,Female,2021
+16.73351288,1327,"8024,8037",COL,225,29191,50696,10302,28643,Households with children under 5 years old,Colombia,Paid work time,Female,2021
+50.7395668,1327,"8024,8037",COL,225,29191,50696,10302,28641,Households with children under 5 years old,Colombia,Unpaid work time,Female,2021
+61.82244492,1327,"8024,8037",COL,225,29191,50697,10301,28642,Households with children under 15 years old,Colombia,Total working time,Male,2021
+48.70311356,1327,"8024,8037",COL,225,29191,50697,10301,28643,Households with children under 15 years old,Colombia,Paid work time,Male,2021
+13.11933041,1327,"8024,8037",COL,225,29191,50697,10301,28641,Households with children under 15 years old,Colombia,Unpaid work time,Male,2021
+62.97020721,1327,"8024,8037",COL,225,29191,50697,10302,28642,Households with children under 15 years old,Colombia,Total working time,Female,2021
+19.62606239,1327,"8024,8037",COL,225,29191,50697,10302,28643,Households with children under 15 years old,Colombia,Paid work time,Female,2021
+43.34414291,1327,"8024,8037",COL,225,29191,50697,10302,28641,Households with children under 15 years old,Colombia,Unpaid work time,Female,2021
+52.57863235,1327,"8024,8037",COL,225,29191,50698,10301,28642,Households without children,Colombia,Total working time,Male,2021
+42.31620789,1327,"8024,8037",COL,225,29191,50698,10301,28643,Households without children,Colombia,Paid work time,Male,2021
+10.26242256,1327,"8024,8037",COL,225,29191,50698,10301,28641,Households without children,Colombia,Unpaid work time,Male,2021
+50.07560349,1327,"8024,8037",COL,225,29191,50698,10302,28642,Households without children,Colombia,Total working time,Female,2021
+27.78365326,1327,"8024,8037",COL,225,29191,50698,10302,28643,Households without children,Colombia,Paid work time,Female,2021
+22.29194832,1327,"8024,8037",COL,225,29191,50698,10302,28641,Households without children,Colombia,Unpaid work time,Female,2021
+61.21080017,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50696,10301,28642,Households with children under 5 years old,Dominican Republic,Total working time,Male,2021
+45.12036896,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50696,10301,28643,Households with children under 5 years old,Dominican Republic,Paid work time,Male,2021
+16.09043121,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50696,10301,28641,Households with children under 5 years old,Dominican Republic,Unpaid work time,Male,2021
+66.63950348,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50696,10302,28642,Households with children under 5 years old,Dominican Republic,Total working time,Female,2021
+27.98974228,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50696,10302,28643,Households with children under 5 years old,Dominican Republic,Paid work time,Female,2021
+38.64976501,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50696,10302,28641,Households with children under 5 years old,Dominican Republic,Unpaid work time,Female,2021
+59.72896194,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50697,10301,28642,Households with children under 15 years old,Dominican Republic,Total working time,Male,2021
+44.1008606,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50697,10301,28643,Households with children under 15 years old,Dominican Republic,Paid work time,Male,2021
+15.6281023,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50697,10301,28641,Households with children under 15 years old,Dominican Republic,Unpaid work time,Male,2021
+63.25233459,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50697,10302,28642,Households with children under 15 years old,Dominican Republic,Total working time,Female,2021
+28.25309563,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50697,10302,28643,Households with children under 15 years old,Dominican Republic,Paid work time,Female,2021
+34.99924088,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50697,10302,28641,Households with children under 15 years old,Dominican Republic,Unpaid work time,Female,2021
+50.46438599,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50698,10301,28642,Households without children,Dominican Republic,Total working time,Male,2021
+41.64941788,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50698,10301,28643,Households without children,Dominican Republic,Paid work time,Male,2021
+8.814967155,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50698,10301,28641,Households without children,Dominican Republic,Unpaid work time,Male,2021
+45.69277573,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50698,10302,28642,Households without children,Dominican Republic,Total working time,Female,2021
+29.30379295,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50698,10302,28643,Households without children,Dominican Republic,Paid work time,Female,2021
+16.38898277,8069,"6913,6915,6916,7995,7996,8009,8628,14060,14061,14062,14063",DOM,264,29191,50698,10302,28641,Households without children,Dominican Republic,Unpaid work time,Female,2021
+69.28321838,8068,"14606,14607,14608,14609",ARG,216,29191,50696,10301,28642,Households with children under 5 years old,Argentina,Total working time,Male,2021
+48.49313736,8068,"14606,14607,14608,14609",ARG,216,29191,50696,10301,28643,Households with children under 5 years old,Argentina,Paid work time,Male,2021
+20.79008293,8068,"14606,14607,14608,14609",ARG,216,29191,50696,10301,28641,Households with children under 5 years old,Argentina,Unpaid work time,Male,2021
+68.94537,8068,"14606,14607,14608,14609",ARG,216,29191,50696,10302,28642,Households with children under 5 years old,Argentina,Total working time,Female,2021
+18.49637604,8068,"14606,14607,14608,14609",ARG,216,29191,50696,10302,28643,Households with children under 5 years old,Argentina,Paid work time,Female,2021
+50.44899368,8068,"14606,14607,14608,14609",ARG,216,29191,50696,10302,28641,Households with children under 5 years old,Argentina,Unpaid work time,Female,2021
+68.16456604,8068,"14606,14607,14608,14609",ARG,216,29191,50697,10301,28642,Households with children under 15 years old,Argentina,Total working time,Male,2021
+48.14043808,8068,"14606,14607,14608,14609",ARG,216,29191,50697,10301,28643,Households with children under 15 years old,Argentina,Paid work time,Male,2021
+20.02412415,8068,"14606,14607,14608,14609",ARG,216,29191,50697,10301,28641,Households with children under 15 years old,Argentina,Unpaid work time,Male,2021
+64.90879,8068,"14606,14607,14608,14609",ARG,216,29191,50697,10302,28642,Households with children under 15 years old,Argentina,Total working time,Female,2021
+19.74581718,8068,"14606,14607,14608,14609",ARG,216,29191,50697,10302,28643,Households with children under 15 years old,Argentina,Paid work time,Female,2021
+45.16297531,8068,"14606,14607,14608,14609",ARG,216,29191,50697,10302,28641,Households with children under 15 years old,Argentina,Unpaid work time,Female,2021
+53.12519073,8068,"14606,14607,14608,14609",ARG,216,29191,50698,10301,28642,Households without children,Argentina,Total working time,Male,2021
+40.8901825,8068,"14606,14607,14608,14609",ARG,216,29191,50698,10301,28643,Households without children,Argentina,Paid work time,Male,2021
+12.23500824,8068,"14606,14607,14608,14609",ARG,216,29191,50698,10301,28641,Households without children,Argentina,Unpaid work time,Male,2021
+49.12798,8068,"14606,14607,14608,14609",ARG,216,29191,50698,10302,28642,Households without children,Argentina,Total working time,Female,2021
+30.08019257,8068,"14606,14607,14608,14609",ARG,216,29191,50698,10302,28643,Households without children,Argentina,Paid work time,Female,2021
+19.04778862,8068,"14606,14607,14608,14609",ARG,216,29191,50698,10302,28641,Households without children,Argentina,Unpaid work time,Female,2021
+52.9641304,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50696,10301,28642,Households with children under 5 years old,Guatemala,Total working time,Male,2022
+43.6256485,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50696,10301,28643,Households with children under 5 years old,Guatemala,Paid work time,Male,2022
+9.33848381,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50696,10301,28641,Households with children under 5 years old,Guatemala,Unpaid work time,Male,2022
+68.6899,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50696,10302,28642,Households with children under 5 years old,Guatemala,Total working time,Female,2022
+12.84450626,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50696,10302,28643,Households with children under 5 years old,Guatemala,Paid work time,Female,2022
+55.84539032,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50696,10302,28641,Households with children under 5 years old,Guatemala,Unpaid work time,Female,2022
+50.86623383,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50697,10301,28642,Households with children under 15 years old,Guatemala,Total working time,Male,2022
+42.71398544,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50697,10301,28643,Households with children under 15 years old,Guatemala,Paid work time,Male,2022
+8.152248383,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50697,10301,28641,Households with children under 15 years old,Guatemala,Unpaid work time,Male,2022
+65.64029,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50697,10302,28642,Households with children under 15 years old,Guatemala,Total working time,Female,2022
+15.14110565,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50697,10302,28643,Households with children under 15 years old,Guatemala,Paid work time,Female,2022
+50.49917984,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50697,10302,28641,Households with children under 15 years old,Guatemala,Unpaid work time,Female,2022
+47.71769714,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50698,10301,28642,Households without children,Guatemala,Total working time,Male,2022
+40.52671814,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50698,10301,28643,Households without children,Guatemala,Paid work time,Male,2022
+7.190980434,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50698,10301,28641,Households without children,Guatemala,Unpaid work time,Male,2022
+49.30206,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50698,10302,28642,Households without children,Guatemala,Total working time,Female,2022
+21.40641022,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50698,10302,28643,Households without children,Guatemala,Paid work time,Female,2022
+27.89565086,1408,"7996,7997,8010,8020,8022",GTM,235,29192,50698,10302,28641,Households without children,Guatemala,Unpaid work time,Female,2022
+64.55597687,8949,"7995,7996,8025",URY,258,29192,50696,10301,28642,Households with children under 5 years old,Uruguay,Total working time,Male,2022
+42.7477684,8949,"7995,7996,8025",URY,258,29192,50696,10301,28643,Households with children under 5 years old,Uruguay,Paid work time,Male,2022
+21.80821228,8949,"7995,7996,8025",URY,258,29192,50696,10301,28641,Households with children under 5 years old,Uruguay,Unpaid work time,Male,2022
+74.02496,8949,"7995,7996,8025",URY,258,29192,50696,10302,28642,Households with children under 5 years old,Uruguay,Total working time,Female,2022
+24.20454979,8949,"7995,7996,8025",URY,258,29192,50696,10302,28643,Households with children under 5 years old,Uruguay,Paid work time,Female,2022
+49.82041168,8949,"7995,7996,8025",URY,258,29192,50696,10302,28641,Households with children under 5 years old,Uruguay,Unpaid work time,Female,2022
+62.16284561,8949,"7995,7996,8025",URY,258,29192,50697,10301,28642,Households with children under 15 years old,Uruguay,Total working time,Male,2022
+42.44193268,8949,"7995,7996,8025",URY,258,29192,50697,10301,28643,Households with children under 15 years old,Uruguay,Paid work time,Male,2022
+19.72091103,8949,"7995,7996,8025",URY,258,29192,50697,10301,28641,Households with children under 15 years old,Uruguay,Unpaid work time,Male,2022
+71.34191,8949,"7995,7996,8025",URY,258,29192,50697,10302,28642,Households with children under 15 years old,Uruguay,Total working time,Female,2022
+26.59796333,8949,"7995,7996,8025",URY,258,29192,50697,10302,28643,Households with children under 15 years old,Uruguay,Paid work time,Female,2022
+44.74394989,8949,"7995,7996,8025",URY,258,29192,50697,10302,28641,Households with children under 15 years old,Uruguay,Unpaid work time,Female,2022
+49.76192093,8949,"7995,7996,8025",URY,258,29192,50698,10301,28642,Households without children,Uruguay,Total working time,Male,2022
+36.49063492,8949,"7995,7996,8025",URY,258,29192,50698,10301,28643,Households without children,Uruguay,Paid work time,Male,2022
+13.27128506,8949,"7995,7996,8025",URY,258,29192,50698,10301,28641,Households without children,Uruguay,Unpaid work time,Male,2022
+51.07325,8949,"7995,7996,8025",URY,258,29192,50698,10302,28642,Households without children,Uruguay,Total working time,Female,2022
+31.39490128,8949,"7995,7996,8025",URY,258,29192,50698,10302,28643,Households without children,Uruguay,Paid work time,Female,2022
+19.67835426,8949,"7995,7996,8025",URY,258,29192,50698,10302,28641,Households without children,Uruguay,Unpaid work time,Female,2022
+69.5,1632,"7986,7995",CHL,224,29193,50696,10301,28642,Households with children under 5 years old,Chile,Total working time,Male,2023
+41.6,1632,"7986,7995",CHL,224,29193,50696,10301,28643,Households with children under 5 years old,Chile,Paid work time,Male,2023
+27.9,1632,"7986,7995",CHL,224,29193,50696,10301,28641,Households with children under 5 years old,Chile,Unpaid work time,Male,2023
+74.5,1632,"7986,7995",CHL,224,29193,50696,10302,28642,Households with children under 5 years old,Chile,Total working time,Female,2023
+19.9,1632,"7986,7995",CHL,224,29193,50696,10302,28643,Households with children under 5 years old,Chile,Paid work time,Female,2023
+54.6,1632,"7986,7995",CHL,224,29193,50696,10302,28641,Households with children under 5 years old,Chile,Unpaid work time,Female,2023
+65,1632,"7986,7995",CHL,224,29193,50697,10301,28642,Households with children under 15 years old,Chile,Total working time,Male,2023
+39.3,1632,"7986,7995",CHL,224,29193,50697,10301,28643,Households with children under 15 years old,Chile,Paid work time,Male,2023
+25.7,1632,"7986,7995",CHL,224,29193,50697,10301,28641,Households with children under 15 years old,Chile,Unpaid work time,Male,2023
+69.8,1632,"7986,7995",CHL,224,29193,50697,10302,28642,Households with children under 15 years old,Chile,Total working time,Female,2023
+22.9,1632,"7986,7995",CHL,224,29193,50697,10302,28643,Households with children under 15 years old,Chile,Paid work time,Female,2023
+46.9,1632,"7986,7995",CHL,224,29193,50697,10302,28641,Households with children under 15 years old,Chile,Unpaid work time,Female,2023
+51.4,1632,"7986,7995",CHL,224,29193,50698,10301,28642,Households without children,Chile,Total working time,Male,2023
+33.3,1632,"7986,7995",CHL,224,29193,50698,10301,28643,Households without children,Chile,Paid work time,Male,2023
+18.1,1632,"7986,7995",CHL,224,29193,50698,10301,28641,Households without children,Chile,Unpaid work time,Male,2023
+49.8,1632,"7986,7995",CHL,224,29193,50698,10302,28642,Households without children,Chile,Total working time,Female,2023
+26.2,1632,"7986,7995",CHL,224,29193,50698,10302,28643,Households without children,Chile,Paid work time,Female,2023
+23.6,1632,"7986,7995",CHL,224,29193,50698,10302,28641,Households without children,Chile,Unpaid work time,Female,2023
+77.5,1925,,SLV,230,29192,50696,10301,28642,Households with children under 5 years old,El Salvador,Total working time,Male,2022
+76.4,1925,,SLV,230,29192,50696,10302,28642,Households with children under 5 years old,El Salvador,Total working time,Female,2022
+51.6,1925,,SLV,230,29192,50696,10301,28643,Households with children under 5 years old,El Salvador,Paid work time,Male,2022
+19.6,1925,,SLV,230,29192,50696,10302,28643,Households with children under 5 years old,El Salvador,Paid work time,Female,2022
+25.8,1925,,SLV,230,29192,50696,10301,28641,Households with children under 5 years old,El Salvador,Unpaid work time,Male,2022
+56.8,1925,,SLV,230,29192,50696,10302,28641,Households with children under 5 years old,El Salvador,Unpaid work time,Female,2022
+74.3,1925,,SLV,230,29192,50697,10301,28642,Households with children under 15 years old,El Salvador,Total working time,Male,2022
+74.5,1925,,SLV,230,29192,50697,10302,28642,Households with children under 15 years old,El Salvador,Total working time,Female,2022
+52.2,1925,,SLV,230,29192,50697,10301,28643,Households with children under 15 years old,El Salvador,Paid work time,Male,2022
+24,1925,,SLV,230,29192,50697,10302,28643,Households with children under 15 years old,El Salvador,Paid work time,Female,2022
+22.1,1925,,SLV,230,29192,50697,10301,28641,Households with children under 15 years old,El Salvador,Unpaid work time,Male,2022
+50.5,1925,,SLV,230,29192,50697,10302,28641,Households with children under 15 years old,El Salvador,Unpaid work time,Female,2022
+64.4,1925,,SLV,230,29192,50698,10301,28642,Households without children,El Salvador,Total working time,Male,2022
+63.2,1925,,SLV,230,29192,50698,10302,28642,Households without children,El Salvador,Total working time,Female,2022
+45.2,1925,,SLV,230,29192,50698,10301,28643,Households without children,El Salvador,Paid work time,Male,2022
+31.1,1925,,SLV,230,29192,50698,10302,28643,Households without children,El Salvador,Paid work time,Female,2022
+19.3,1925,,SLV,230,29192,50698,10301,28641,Households without children,El Salvador,Unpaid work time,Male,2022
+32,1925,,SLV,230,29192,50698,10302,28641,Households without children,El Salvador,Unpaid work time,Female,2022
+69,1331,,PER,244,29194,50696,10301,28642,Households with children under 5 years old,Peru,Total working time,Male,2024
+76.9,1331,,PER,244,29194,50696,10302,28642,Households with children under 5 years old,Peru,Total working time,Female,2024
+51.5,1331,,PER,244,29194,50696,10301,28643,Households with children under 5 years old,Peru,Paid work time,Male,2024
+21,1331,,PER,244,29194,50696,10302,28643,Households with children under 5 years old,Peru,Paid work time,Female,2024
+17.5,1331,,PER,244,29194,50696,10301,28641,Households with children under 5 years old,Peru,Unpaid work time,Male,2024
+55.9,1331,,PER,244,29194,50696,10302,28641,Households with children under 5 years old,Peru,Unpaid work time,Female,2024
+67.3,1331,,PER,244,29194,50697,10301,28642,Households with children under 15 years old,Peru,Total working time,Male,2024
+73.5,1331,,PER,244,29194,50697,10302,28642,Households with children under 15 years old,Peru,Total working time,Female,2024
+51,1331,,PER,244,29194,50697,10301,28643,Households with children under 15 years old,Peru,Paid work time,Male,2024
+24.7,1331,,PER,244,29194,50697,10302,28643,Households with children under 15 years old,Peru,Paid work time,Female,2024
+16.3,1331,,PER,244,29194,50697,10301,28641,Households with children under 15 years old,Peru,Unpaid work time,Male,2024
+48.8,1331,,PER,244,29194,50697,10302,28641,Households with children under 15 years old,Peru,Unpaid work time,Female,2024
+53.4,1331,,PER,244,29194,50698,10301,28642,Households without children,Peru,Total working time,Male,2024
+57.9,1331,,PER,244,29194,50698,10302,28642,Households without children,Peru,Total working time,Female,2024
+41.6,1331,,PER,244,29194,50698,10301,28643,Households without children,Peru,Paid work time,Male,2024
+33.6,1331,,PER,244,29194,50698,10302,28643,Households without children,Peru,Paid work time,Female,2024
+11.8,1331,,PER,244,29194,50698,10301,28641,Households without children,Peru,Unpaid work time,Male,2024
+24.4,1331,,PER,244,29194,50698,10302,28641,Households without children,Peru,Unpaid work time,Female,2024

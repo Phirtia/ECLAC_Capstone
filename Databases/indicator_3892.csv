@@ -1,0 +1,73 @@
+﻿value,source_id,notes_ids,iso3,dim_74392,dim_74389,dim_74472,dim_208,dim_29117,Sex,Country__ESTANDAR,Reporting Type,Age,Years__ESTANDAR
+5.9,10781,60434,CHL,74402,74391,74475,224,29182,Both sexes,Chile,Global,5 to 17 years old,2012
+5.2,10781,60434,CHL,74402,74391,74473,224,29182,Female,Chile,Global,5 to 17 years old,2012
+6.7,10781,60434,CHL,74402,74391,74474,224,29182,Male,Chile,Global,5 to 17 years old,2012
+2.9,15804,60622,COL,74402,74391,74475,225,29194,Both sexes,Colombia,Global,5 to 17 years old,2024
+2.9,15804,60622,COL,74402,74391,74473,225,29194,Female,Colombia,Global,5 to 17 years old,2024
+3.3,15804,60622,COL,74402,74391,74474,225,29194,Male,Colombia,Global,5 to 17 years old,2024
+3.8,7254,60434,CRI,74402,74391,74475,226,29188,Both sexes,Costa Rica,Global,5 to 17 years old,2018
+3.2,7254,60434,CRI,74402,74391,74473,226,29188,Female,Costa Rica,Global,5 to 17 years old,2018
+4.3,7254,60434,CRI,74402,74391,74474,226,29188,Male,Costa Rica,Global,5 to 17 years old,2018
+3.8,9086,60434,DOM,74402,74391,74475,264,29189,Both sexes,Dominican Republic,Global,5 to 17 years old,2019
+3,9086,60434,DOM,74402,74391,74473,264,29189,Female,Dominican Republic,Global,5 to 17 years old,2019
+4.6,9086,60434,DOM,74402,74391,74474,264,29189,Male,Dominican Republic,Global,5 to 17 years old,2019
+6.9,9221,60434,SLV,74402,74391,74475,230,29189,Both sexes,El Salvador,Global,5 to 17 years old,2019
+7.3,9221,60434,SLV,74402,74391,74473,230,29189,Female,El Salvador,Global,5 to 17 years old,2019
+6.5,9221,60434,SLV,74402,74391,74474,230,29189,Male,El Salvador,Global,5 to 17 years old,2019
+2,9474,60434,ARG,74402,74391,74475,216,29187,Both sexes,Argentina,Global,5 to 17 years old,2017
+1.6,9474,60434,ARG,74402,74391,74473,216,29187,Female,Argentina,Global,5 to 17 years old,2017
+2.4,9474,60434,ARG,74402,74391,74474,216,29187,Male,Argentina,Global,5 to 17 years old,2017
+17.4,10674,60614,GTM,74408,74391,74475,235,29192,Both sexes,Guatemala,Global,7 to 17 years old,2022
+17.3,10674,60614,GTM,74408,74391,74473,235,29192,Female,Guatemala,Global,7 to 17 years old,2022
+17.5,10674,60614,GTM,74408,74391,74474,235,29192,Male,Guatemala,Global,7 to 17 years old,2022
+6.4,7262,60434,GUY,74402,74391,74475,237,29190,Both sexes,Guyana,Global,5 to 17 years old,2020
+5.5,7262,60434,GUY,74402,74391,74473,237,29190,Female,Guyana,Global,5 to 17 years old,2020
+7.4,7262,60434,GUY,74402,74391,74474,237,29190,Male,Guyana,Global,5 to 17 years old,2020
+35.5,7246,60613,HTI,74401,74391,74475,238,29182,Both sexes,Haiti,Global,5 to 14 years old,2012
+26.2,7246,60613,HTI,74401,74391,74473,238,29182,Female,Haiti,Global,5 to 14 years old,2012
+44,7246,60613,HTI,74401,74391,74474,238,29182,Male,Haiti,Global,5 to 14 years old,2012
+28.8,10677,60434,HND,74402,74391,74475,239,29193,Both sexes,Honduras,Global,5 to 17 years old,2023
+23.2,10677,60434,HND,74402,74391,74473,239,29193,Female,Honduras,Global,5 to 17 years old,2023
+34.4,10677,60434,HND,74402,74391,74474,239,29193,Male,Honduras,Global,5 to 17 years old,2023
+3.6,9891,60434,JAM,74402,74391,74475,246,29192,Both sexes,Jamaica,Global,5 to 17 years old,2022
+3.3,9891,60434,JAM,74402,74391,74473,246,29192,Female,Jamaica,Global,5 to 17 years old,2022
+3.9,9891,60434,JAM,74402,74391,74474,246,29192,Male,Jamaica,Global,5 to 17 years old,2022
+6,10676,60434,MEX,74402,74391,74475,233,29192,Both sexes,Mexico,Global,5 to 17 years old,2022
+5.1,10676,60434,MEX,74402,74391,74473,233,29192,Female,Mexico,Global,5 to 17 years old,2022
+6.9,10676,60434,MEX,74402,74391,74474,233,29192,Male,Mexico,Global,5 to 17 years old,2022
+1.4,7245,60613,BRB,74401,74391,74475,219,29182,Both sexes,Barbados,Global,5 to 14 years old,2012
+0.9,7245,60613,BRB,74401,74391,74473,219,29182,Female,Barbados,Global,5 to 14 years old,2012
+1.8,7245,60613,BRB,74401,74391,74474,219,29182,Male,Barbados,Global,5 to 14 years old,2012
+2.3,7256,60434,PAN,74402,74391,74475,241,29186,Both sexes,Panama,Global,5 to 17 years old,2016
+1.4,7256,60434,PAN,74402,74391,74473,241,29186,Female,Panama,Global,5 to 17 years old,2016
+3.3,7256,60434,PAN,74402,74391,74474,241,29186,Male,Panama,Global,5 to 17 years old,2016
+17.9,7263,60434,PRY,74402,74391,74475,242,29186,Both sexes,Paraguay,Global,5 to 17 years old,2016
+13.1,7263,60434,PRY,74402,74391,74473,242,29186,Female,Paraguay,Global,5 to 17 years old,2016
+20.3,7263,60434,PRY,74402,74391,74474,242,29186,Male,Paraguay,Global,5 to 17 years old,2016
+14.5,7264,60434,PER,74402,74391,74475,244,29185,Both sexes,Peru,Global,5 to 17 years old,2015
+14.7,7264,60434,PER,74402,74391,74473,244,29185,Female,Peru,Global,5 to 17 years old,2015
+14.3,7264,60434,PER,74402,74391,74474,244,29185,Male,Peru,Global,5 to 17 years old,2015
+3.3,7245,60613,LCA,74401,74391,74475,262,29182,Both sexes,Saint Lucia,Global,5 to 14 years old,2012
+1.9,7245,60613,LCA,74401,74391,74473,262,29182,Female,Saint Lucia,Global,5 to 14 years old,2012
+4.6,7245,60613,LCA,74401,74391,74474,262,29182,Male,Saint Lucia,Global,5 to 14 years old,2012
+13.6,7258,60774,BOL,74402,74391,74475,221,29189,Both sexes,Bolivia (Plurinational State of),Global,5 to 17 years old,2019
+13.2,7258,60774,BOL,74402,74391,74473,221,29189,Female,Bolivia (Plurinational State of),Global,5 to 17 years old,2019
+14,7258,60774,BOL,74402,74391,74474,221,29189,Male,Bolivia (Plurinational State of),Global,5 to 17 years old,2019
+4.3,7254,60434,SUR,74402,74391,74475,263,29188,Both sexes,Suriname,Global,5 to 17 years old,2018
+3.5,7254,60434,SUR,74402,74391,74473,263,29188,Female,Suriname,Global,5 to 17 years old,2018
+4.9,7254,60434,SUR,74402,74391,74474,263,29188,Male,Suriname,Global,5 to 17 years old,2018
+2.1,10679,60434,BRA,74402,74391,74475,222,29192,Both sexes,Brazil,Global,5 to 17 years old,2022
+1.6,10679,60434,BRA,74402,74391,74473,222,29192,Female,Brazil,Global,5 to 17 years old,2022
+2.6,10679,60434,BRA,74402,74391,74474,222,29192,Male,Brazil,Global,5 to 17 years old,2022
+4.3,9891,60617,TTO,74402,74391,74475,256,29192,Both sexes,Trinidad and Tobago,Global,5 to 17 years old,2022
+3.1,9891,60617,TTO,74402,74391,74473,256,29192,Female,Trinidad and Tobago,Global,5 to 17 years old,2022
+5.6,9891,60617,TTO,74402,74391,74474,256,29192,Male,Trinidad and Tobago,Global,5 to 17 years old,2022
+6.1,7262,60434,TCA,74402,74391,74475,3272,29190,Both sexes,Turks and Caicos Islands,Global,5 to 17 years old,2020
+2.9,7262,60434,TCA,74402,74391,74473,3272,29190,Female,Turks and Caicos Islands,Global,5 to 17 years old,2020
+8.7,7262,60434,TCA,74402,74391,74474,3272,29190,Male,Turks and Caicos Islands,Global,5 to 17 years old,2020
+3.3,9070,60434,BLZ,74402,74391,74475,220,29183,Both sexes,Belize,Global,5 to 17 years old,2013
+2.6,9070,60434,BLZ,74402,74391,74473,220,29183,Female,Belize,Global,5 to 17 years old,2013
+3.9,9070,60434,BLZ,74402,74391,74474,220,29183,Male,Belize,Global,5 to 17 years old,2013
+4.2,7266,60434,URY,74402,74391,74475,258,29180,Both sexes,Uruguay,Global,5 to 17 years old,2010
+3,7266,60434,URY,74402,74391,74473,258,29180,Female,Uruguay,Global,5 to 17 years old,2010
+5.3,7266,60434,URY,74402,74391,74474,258,29180,Male,Uruguay,Global,5 to 17 years old,2010

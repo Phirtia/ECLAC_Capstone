@@ -1,0 +1,225 @@
+﻿value,source_id,notes_ids,iso3,dim_10295,dim_10572,dim_29117,dim_50695,dim_208,Presence of children in the household,Poverty status,Country__ESTANDAR,Sex,Years__ESTANDAR
+30.290376663208,1359,"7065,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,10301,10573,29183,50696,216,Households with children under 5 years old,Poor,Argentina,Male,2013
+32.216564178467,1359,"7065,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,10301,10574,29183,50696,216,Households with children under 5 years old,Not poor,Argentina,Male,2013
+73.960899353027,1359,"7065,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,10302,10573,29183,50696,216,Households with children under 5 years old,Poor,Argentina,Female,2013
+66.088592529297,1359,"7065,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,10302,10574,29183,50696,216,Households with children under 5 years old,Not poor,Argentina,Female,2013
+29.370168685913,1359,"7065,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,10301,10573,29183,50697,216,Households with children under 15 years old,Poor,Argentina,Male,2013
+29.55859375,1359,"7065,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,10301,10574,29183,50697,216,Households with children under 15 years old,Not poor,Argentina,Male,2013
+67.589263916016,1359,"7065,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,10302,10573,29183,50697,216,Households with children under 15 years old,Poor,Argentina,Female,2013
+60.581325531006,1359,"7065,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,10302,10574,29183,50697,216,Households with children under 15 years old,Not poor,Argentina,Female,2013
+18.024826049805,1359,"7065,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,10301,10573,29183,50698,216,Households without children,Poor,Argentina,Male,2013
+18.099473953247,1359,"7065,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,10301,10574,29183,50698,216,Households without children,Not poor,Argentina,Male,2013
+31.76615524292,1359,"7065,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,10302,10573,29183,50698,216,Households without children,Poor,Argentina,Female,2013
+27.887474060059,1359,"7065,7995,7996,7997,8009,8011,8012,8014,8019,8020,8029,8031",ARG,10302,10574,29183,50698,216,Households without children,Not poor,Argentina,Female,2013
+10.7500057220458,1326,"6916,7995,7996,8009,8012,8014,8021,8022,8023,8024",BRA,10301,10573,29182,50696,222,Households with children under 5 years old,Poor,Brazil,Male,2012
+10.4560661315917,1326,"6916,7995,7996,8009,8012,8014,8021,8022,8023,8024",BRA,10301,10574,29182,50696,222,Households with children under 5 years old,Not poor,Brazil,Male,2012
+32.4071617126464,1326,"6916,7995,7996,8009,8012,8014,8021,8022,8023,8024",BRA,10302,10573,29182,50696,222,Households with children under 5 years old,Poor,Brazil,Female,2012
+27.0482959747314,1326,"6916,7995,7996,8009,8012,8014,8021,8022,8023,8024",BRA,10302,10574,29182,50696,222,Households with children under 5 years old,Not poor,Brazil,Female,2012
+10.7533025741577,1326,"6916,7995,7996,8009,8012,8014,8021,8022,8023,8024",BRA,10301,10573,29182,50697,222,Households with children under 15 years old,Poor,Brazil,Male,2012
+10.128246307373,1326,"6916,7995,7996,8009,8012,8014,8021,8022,8023,8024",BRA,10301,10574,29182,50697,222,Households with children under 15 years old,Not poor,Brazil,Male,2012
+31.8033866882324,1326,"6916,7995,7996,8009,8012,8014,8021,8022,8023,8024",BRA,10302,10573,29182,50697,222,Households with children under 15 years old,Poor,Brazil,Female,2012
+26.0692996978759,1326,"6916,7995,7996,8009,8012,8014,8021,8022,8023,8024",BRA,10302,10574,29182,50697,222,Households with children under 15 years old,Not poor,Brazil,Female,2012
+12.8381271362304,1326,"6916,7995,7996,8009,8012,8014,8021,8022,8023,8024",BRA,10301,10573,29182,50698,222,Households without children,Poor,Brazil,Male,2012
+10.5373058319091,1326,"6916,7995,7996,8009,8012,8014,8021,8022,8023,8024",BRA,10301,10574,29182,50698,222,Households without children,Not poor,Brazil,Male,2012
+28.2139301300048,1326,"6916,7995,7996,8009,8012,8014,8021,8022,8023,8024",BRA,10302,10573,29182,50698,222,Households without children,Poor,Brazil,Female,2012
+22.7477073669433,1326,"6916,7995,7996,8009,8012,8014,8021,8022,8023,8024",BRA,10302,10574,29182,50698,222,Households without children,Not poor,Brazil,Female,2012
+16.806489944458,1327,"8024,8037",COL,10301,10573,29182,50696,225,Households with children under 5 years old,Poor,Colombia,Male,2012
+16.051128387451,1327,"8024,8037",COL,10301,10574,29182,50696,225,Households with children under 5 years old,Not poor,Colombia,Male,2012
+47.452964782715,1327,"8024,8037",COL,10302,10573,29182,50696,225,Households with children under 5 years old,Poor,Colombia,Female,2012
+40.671653747559,1327,"8024,8037",COL,10302,10574,29182,50696,225,Households with children under 5 years old,Not poor,Colombia,Female,2012
+16.428207397461,1327,"8024,8037",COL,10301,10573,29182,50697,225,Households with children under 15 years old,Poor,Colombia,Male,2012
+15.094567298889,1327,"8024,8037",COL,10301,10574,29182,50697,225,Households with children under 15 years old,Not poor,Colombia,Male,2012
+44.01127243042,1327,"8024,8037",COL,10302,10573,29182,50697,225,Households with children under 15 years old,Poor,Colombia,Female,2012
+36.700004577637,1327,"8024,8037",COL,10302,10574,29182,50697,225,Households with children under 15 years old,Not poor,Colombia,Female,2012
+15.857278823853,1327,"8024,8037",COL,10301,10573,29182,50698,225,Households without children,Poor,Colombia,Male,2012
+13.874105453491,1327,"8024,8037",COL,10301,10574,29182,50698,225,Households without children,Not poor,Colombia,Male,2012
+33.355075836182,1327,"8024,8037",COL,10302,10573,29182,50698,225,Households without children,Poor,Colombia,Female,2012
+28.312540054321,1327,"8024,8037",COL,10302,10574,29182,50698,225,Households without children,Not poor,Colombia,Female,2012
+13.2013149261474,1328,,ECU,10301,10573,29182,50696,229,Households with children under 5 years old,Poor,Ecuador,Male,2012
+11.0907936096191,1328,,ECU,10301,10574,29182,50696,229,Households with children under 5 years old,Not poor,Ecuador,Male,2012
+54.880573272705,1328,,ECU,10302,10573,29182,50696,229,Households with children under 5 years old,Poor,Ecuador,Female,2012
+47.2393913269042,1328,,ECU,10302,10574,29182,50696,229,Households with children under 5 years old,Not poor,Ecuador,Female,2012
+12.8053750991821,1328,,ECU,10301,10573,29182,50697,229,Households with children under 15 years old,Poor,Ecuador,Male,2012
+10.8836965560913,1328,,ECU,10301,10574,29182,50697,229,Households with children under 15 years old,Not poor,Ecuador,Male,2012
+51.775951385498,1328,,ECU,10302,10573,29182,50697,229,Households with children under 15 years old,Poor,Ecuador,Female,2012
+44.8920440673828,1328,,ECU,10302,10574,29182,50697,229,Households with children under 15 years old,Not poor,Ecuador,Female,2012
+11.5486278533935,1328,,ECU,10301,10573,29182,50698,229,Households without children,Poor,Ecuador,Male,2012
+10.1626386642456,1328,,ECU,10301,10574,29182,50698,229,Households without children,Not poor,Ecuador,Male,2012
+36.8585205078125,1328,,ECU,10302,10573,29182,50698,229,Households without children,Poor,Ecuador,Female,2012
+31.2227954864501,1328,,ECU,10302,10574,29182,50698,229,Households without children,Not poor,Ecuador,Female,2012
+25.218418121338,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,10301,10573,29181,50696,235,Households with children under 5 years old,Poor,Guatemala,Male,2011
+24.673871994019,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,10301,10574,29181,50696,235,Households with children under 5 years old,Not poor,Guatemala,Male,2011
+70.661064147949,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,10302,10573,29181,50696,235,Households with children under 5 years old,Poor,Guatemala,Female,2011
+61.709632873535,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,10302,10574,29181,50696,235,Households with children under 5 years old,Not poor,Guatemala,Female,2011
+24.8991355896,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,10301,10573,29181,50697,235,Households with children under 15 years old,Poor,Guatemala,Male,2011
+24.643510818481,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,10301,10574,29181,50697,235,Households with children under 15 years old,Not poor,Guatemala,Male,2011
+65.925399780273,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,10302,10573,29181,50697,235,Households with children under 15 years old,Poor,Guatemala,Female,2011
+56.045616149902,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,10302,10574,29181,50697,235,Households with children under 15 years old,Not poor,Guatemala,Female,2011
+23.791320800781,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,10301,10573,29181,50698,235,Households without children,Poor,Guatemala,Male,2011
+18.645421981812,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,10301,10574,29181,50698,235,Households without children,Not poor,Guatemala,Male,2011
+47.379379272461,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,10302,10573,29181,50698,235,Households without children,Poor,Guatemala,Female,2011
+36.439552307129,1334,"7995,7996,7997,8022,8023,8024,8037,8043,8417",GTM,10302,10574,29181,50698,235,Households without children,Not poor,Guatemala,Female,2011
+13.882230758667,1333,"7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,10301,10573,29179,50696,239,Households with children under 5 years old,Poor,Honduras,Male,2009
+16.846462249756,1333,"7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,10301,10574,29179,50696,239,Households with children under 5 years old,Not poor,Honduras,Male,2009
+38.556690216064,1333,"7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,10302,10573,29179,50696,239,Households with children under 5 years old,Poor,Honduras,Female,2009
+36.706031799316,1333,"7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,10302,10574,29179,50696,239,Households with children under 5 years old,Not poor,Honduras,Female,2009
+13.584151268005,1333,"7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,10301,10573,29179,50697,239,Households with children under 15 years old,Poor,Honduras,Male,2009
+16.107374191284,1333,"7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,10301,10574,29179,50697,239,Households with children under 15 years old,Not poor,Honduras,Male,2009
+36.075565338135,1333,"7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,10302,10573,29179,50697,239,Households with children under 15 years old,Poor,Honduras,Female,2009
+33.264213562012,1333,"7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,10302,10574,29179,50697,239,Households with children under 15 years old,Not poor,Honduras,Female,2009
+12.322550773621,1333,"7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,10301,10573,29179,50698,239,Households without children,Poor,Honduras,Male,2009
+13.939214706421,1333,"7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,10301,10574,29179,50698,239,Households without children,Not poor,Honduras,Male,2009
+27.090188980103,1333,"7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,10302,10573,29179,50698,239,Households without children,Poor,Honduras,Female,2009
+24.933002471924,1333,"7995,7996,7997,8011,8012,8014,8018,8019,8025,8417",HND,10302,10574,29179,50698,239,Households without children,Not poor,Honduras,Female,2009
+21.880842208862,1331,7997,PER,10301,10573,29180,50696,244,Households with children under 5 years old,Poor,Peru,Male,2010
+15.788904190063,1331,7997,PER,10301,10574,29180,50696,244,Households with children under 5 years old,Not poor,Peru,Male,2010
+57.261817932129,1331,7997,PER,10302,10573,29180,50696,244,Households with children under 5 years old,Poor,Peru,Female,2010
+47.140827178955,1331,7997,PER,10302,10574,29180,50696,244,Households with children under 5 years old,Not poor,Peru,Female,2010
+23.03607749939,1331,7997,PER,10301,10573,29180,50697,244,Households with children under 15 years old,Poor,Peru,Male,2010
+15.498376846313,1331,7997,PER,10301,10574,29180,50697,244,Households with children under 15 years old,Not poor,Peru,Male,2010
+54.725978851318,1331,7997,PER,10302,10573,29180,50697,244,Households with children under 15 years old,Poor,Peru,Female,2010
+44.407405853271,1331,7997,PER,10302,10574,29180,50697,244,Households with children under 15 years old,Not poor,Peru,Female,2010
+19.938938140869,1331,7997,PER,10301,10573,29180,50698,244,Households without children,Poor,Peru,Male,2010
+14.212459564209,1331,7997,PER,10301,10574,29180,50698,244,Households without children,Not poor,Peru,Male,2010
+42.693046569824,1331,7997,PER,10302,10573,29180,50698,244,Households without children,Poor,Peru,Female,2010
+31.288171768188,1331,7997,PER,10302,10574,29180,50698,244,Households without children,Not poor,Peru,Female,2010
+20.7191734314,1332,"7986,7995,7996",URY,10301,10573,29177,50696,258,Households with children under 5 years old,Poor,Uruguay,Male,2007
+26.33937835693,1332,"7986,7995,7996",URY,10301,10574,29177,50696,258,Households with children under 5 years old,Not poor,Uruguay,Male,2007
+72.05892944336,1332,"7986,7995,7996",URY,10302,10573,29177,50696,258,Households with children under 5 years old,Poor,Uruguay,Female,2007
+65.5966796875,1332,"7986,7995,7996",URY,10302,10574,29177,50696,258,Households with children under 5 years old,Not poor,Uruguay,Female,2007
+20.05864334106,1332,"7986,7995,7996",URY,10301,10573,29177,50697,258,Households with children under 15 years old,Poor,Uruguay,Male,2007
+22.75190544128,1332,"7986,7995,7996",URY,10301,10574,29177,50697,258,Households with children under 15 years old,Not poor,Uruguay,Male,2007
+65.60890197754,1332,"7986,7995,7996",URY,10302,10573,29177,50697,258,Households with children under 15 years old,Poor,Uruguay,Female,2007
+57.8868560791,1332,"7986,7995,7996",URY,10302,10574,29177,50697,258,Households with children under 15 years old,Not poor,Uruguay,Female,2007
+17.25380325317,1332,"7986,7995,7996",URY,10301,10573,29177,50698,258,Households without children,Poor,Uruguay,Male,2007
+17.26934623718,1332,"7986,7995,7996",URY,10301,10574,29177,50698,258,Households without children,Not poor,Uruguay,Male,2007
+42.09144973755,1332,"7986,7995,7996",URY,10302,10573,29177,50698,258,Households without children,Poor,Uruguay,Female,2007
+35.868309021,1332,"7986,7995,7996",URY,10302,10574,29177,50698,258,Households without children,Not poor,Uruguay,Female,2007
+27.980340957642,1332,"7995,7996,8022,8025",URY,10301,10573,29183,50696,258,Households with children under 5 years old,Poor,Uruguay,Male,2013
+27.57105255127,1332,"7995,7996,8022,8025",URY,10301,10574,29183,50696,258,Households with children under 5 years old,Not poor,Uruguay,Male,2013
+64.071655273438,1332,"7995,7996,8022,8025",URY,10302,10573,29183,50696,258,Households with children under 5 years old,Poor,Uruguay,Female,2013
+55.953151702881,1332,"7995,7996,8022,8025",URY,10302,10574,29183,50696,258,Households with children under 5 years old,Not poor,Uruguay,Female,2013
+26.289640426636,1332,"7995,7996,8022,8025",URY,10301,10573,29183,50697,258,Households with children under 15 years old,Poor,Uruguay,Male,2013
+23.847597122192,1332,"7995,7996,8022,8025",URY,10301,10574,29183,50697,258,Households with children under 15 years old,Not poor,Uruguay,Male,2013
+59.93514251709,1332,"7995,7996,8022,8025",URY,10302,10573,29183,50697,258,Households with children under 15 years old,Poor,Uruguay,Female,2013
+49.017707824707,1332,"7995,7996,8022,8025",URY,10302,10574,29183,50697,258,Households with children under 15 years old,Not poor,Uruguay,Female,2013
+15.945595741272,1332,"7995,7996,8022,8025",URY,10301,10574,29183,50698,258,Households without children,Not poor,Uruguay,Male,2013
+29.885274887085,1332,"7995,7996,8022,8025",URY,10302,10574,29183,50698,258,Households without children,Not poor,Uruguay,Female,2013
+13.780026435852,1326,"6916,8009,8660",BRA,10301,10573,29187,50696,222,Households with children under 5 years old,Poor,Brazil,Male,2017
+13.037860870361,1326,"6916,8009,8660",BRA,10301,10574,29187,50696,222,Households with children under 5 years old,Not poor,Brazil,Male,2017
+28.240129470825,1326,"6916,8009,8660",BRA,10302,10573,29187,50696,222,Households with children under 5 years old,Poor,Brazil,Female,2017
+25.47745513916,1326,"6916,8009,8660",BRA,10302,10574,29187,50696,222,Households with children under 5 years old,Not poor,Brazil,Female,2017
+13.744313240051,1326,"6916,8009,8660",BRA,10301,10573,29187,50697,222,Households with children under 15 years old,Poor,Brazil,Male,2017
+12.166130065918,1326,"6916,8009,8660",BRA,10301,10574,29187,50697,222,Households with children under 15 years old,Not poor,Brazil,Male,2017
+27.495227813721,1326,"6916,8009,8660",BRA,10302,10573,29187,50697,222,Households with children under 15 years old,Poor,Brazil,Female,2017
+23.686225891113,1326,"6916,8009,8660",BRA,10302,10574,29187,50697,222,Households with children under 15 years old,Not poor,Brazil,Female,2017
+14.387816429138,1326,"6916,8009,8660",BRA,10301,10573,29187,50698,222,Households without children,Poor,Brazil,Male,2017
+11.357217788696,1326,"6916,8009,8660",BRA,10301,10574,29187,50698,222,Households without children,Not poor,Brazil,Male,2017
+24.584106445313,1326,"6916,8009,8660",BRA,10302,10573,29187,50698,222,Households without children,Poor,Brazil,Female,2017
+19.760326385498,1326,"6916,8009,8660",BRA,10302,10574,29187,50698,222,Households without children,Not poor,Brazil,Female,2017
+29.01115226746,1632,"7986,7995",CHL,10301,10573,29185,50696,224,Households with children under 5 years old,Poor,Chile,Male,2015
+29.78817367554,1632,"7986,7995",CHL,10301,10574,29185,50696,224,Households with children under 5 years old,Not poor,Chile,Male,2015
+69.54969787598,1632,"7986,7995",CHL,10302,10573,29185,50696,224,Households with children under 5 years old,Poor,Chile,Female,2015
+64.87203979492,1632,"7986,7995",CHL,10302,10574,29185,50696,224,Households with children under 5 years old,Not poor,Chile,Female,2015
+27.21707344055,1632,"7986,7995",CHL,10301,10573,29185,50697,224,Households with children under 15 years old,Poor,Chile,Male,2015
+25.94553375244,1632,"7986,7995",CHL,10301,10574,29185,50697,224,Households with children under 15 years old,Not poor,Chile,Male,2015
+62.44914245605,1632,"7986,7995",CHL,10302,10573,29185,50697,224,Households with children under 15 years old,Poor,Chile,Female,2015
+56.82851791382,1632,"7986,7995",CHL,10302,10574,29185,50697,224,Households with children under 15 years old,Not poor,Chile,Female,2015
+20.67527961731,1632,"7986,7995",CHL,10301,10573,29185,50698,224,Households without children,Poor,Chile,Male,2015
+16.46866416931,1632,"7986,7995",CHL,10301,10574,29185,50698,224,Households without children,Not poor,Chile,Male,2015
+38.23133468628,1632,"7986,7995",CHL,10302,10573,29185,50698,224,Households without children,Poor,Chile,Female,2015
+31.88495445251,1632,"7986,7995",CHL,10302,10574,29185,50698,224,Households without children,Not poor,Chile,Female,2015
+19.871297836304,1327,8037,COL,10301,10573,29187,50696,225,Households with children under 5 years old,Poor,Colombia,Male,2017
+18.832485198975,1327,8037,COL,10301,10574,29187,50696,225,Households with children under 5 years old,Not poor,Colombia,Male,2017
+48.751342773438,1327,8037,COL,10302,10573,29187,50696,225,Households with children under 5 years old,Poor,Colombia,Female,2017
+43.314998626709,1327,8037,COL,10302,10574,29187,50696,225,Households with children under 5 years old,Not poor,Colombia,Female,2017
+18.874126434326,1327,8037,COL,10301,10573,29187,50697,225,Households with children under 15 years old,Poor,Colombia,Male,2017
+17.337196350098,1327,8037,COL,10301,10574,29187,50697,225,Households with children under 15 years old,Not poor,Colombia,Male,2017
+44.758304595947,1327,8037,COL,10302,10573,29187,50697,225,Households with children under 15 years old,Poor,Colombia,Female,2017
+38.548080444336,1327,8037,COL,10302,10574,29187,50697,225,Households with children under 15 years old,Not poor,Colombia,Female,2017
+17.773775100708,1327,8037,COL,10301,10573,29187,50698,225,Households without children,Poor,Colombia,Male,2017
+14.656790733337,1327,8037,COL,10301,10574,29187,50698,225,Households without children,Not poor,Colombia,Male,2017
+33.694355010986,1327,8037,COL,10302,10573,29187,50698,225,Households without children,Poor,Colombia,Female,2017
+27.887866973877,1327,8037,COL,10302,10574,29187,50698,225,Households without children,Not poor,Colombia,Female,2017
+23.691247940063,1360,7066,CRI,10301,10574,29181,50696,226,Households with children under 5 years old,Not poor,Costa Rica,Male,2011
+69.463279724121,1360,7066,CRI,10302,10573,29181,50696,226,Households with children under 5 years old,Poor,Costa Rica,Female,2011
+54.767990112305,1360,7066,CRI,10302,10574,29181,50696,226,Households with children under 5 years old,Not poor,Costa Rica,Female,2011
+21.660652160645,1360,7066,CRI,10301,10574,29181,50697,226,Households with children under 15 years old,Not poor,Costa Rica,Male,2011
+66.746856689453,1360,7066,CRI,10302,10573,29181,50697,226,Households with children under 15 years old,Poor,Costa Rica,Female,2011
+52.180850982666,1360,7066,CRI,10302,10574,29181,50697,226,Households with children under 15 years old,Not poor,Costa Rica,Female,2011
+22.537155151367,1360,7066,CRI,10301,10573,29181,50698,226,Households without children,Poor,Costa Rica,Male,2011
+16.55082321167,1360,7066,CRI,10301,10574,29181,50698,226,Households without children,Not poor,Costa Rica,Male,2011
+39.484561920166,1360,7066,CRI,10302,10573,29181,50698,226,Households without children,Poor,Costa Rica,Female,2011
+35.416568756104,1360,7066,CRI,10302,10574,29181,50698,226,Households without children,Not poor,Costa Rica,Female,2011
+19.457151412964,1659,"7993,7995,7996,7997,8024",SLV,10301,10573,29180,50696,230,Households with children under 5 years old,Poor,El Salvador,Male,2010
+19.505918502808,1659,"7993,7995,7996,7997,8024",SLV,10301,10574,29180,50696,230,Households with children under 5 years old,Not poor,El Salvador,Male,2010
+55.092277526855,1659,"7993,7995,7996,7997,8024",SLV,10302,10573,29180,50696,230,Households with children under 5 years old,Poor,El Salvador,Female,2010
+43.376663208008,1659,"7993,7995,7996,7997,8024",SLV,10302,10574,29180,50696,230,Households with children under 5 years old,Not poor,El Salvador,Female,2010
+18.798824310303,1659,"7993,7995,7996,7997,8024",SLV,10301,10573,29180,50697,230,Households with children under 15 years old,Poor,El Salvador,Male,2010
+18.98553276062,1659,"7993,7995,7996,7997,8024",SLV,10301,10574,29180,50697,230,Households with children under 15 years old,Not poor,El Salvador,Male,2010
+51.280952453613,1659,"7993,7995,7996,7997,8024",SLV,10302,10573,29180,50697,230,Households with children under 15 years old,Poor,El Salvador,Female,2010
+41.951240539551,1659,"7993,7995,7996,7997,8024",SLV,10302,10574,29180,50697,230,Households with children under 15 years old,Not poor,El Salvador,Female,2010
+20.039321899414,1659,"7993,7995,7996,7997,8024",SLV,10301,10573,29180,50698,230,Households without children,Poor,El Salvador,Male,2010
+17.776721954346,1659,"7993,7995,7996,7997,8024",SLV,10301,10574,29180,50698,230,Households without children,Not poor,El Salvador,Male,2010
+40.051200866699,1659,"7993,7995,7996,7997,8024",SLV,10302,10573,29180,50698,230,Households without children,Poor,El Salvador,Female,2010
+31.844673156738,1659,"7993,7995,7996,7997,8024",SLV,10302,10574,29180,50698,230,Households without children,Not poor,El Salvador,Female,2010
+24.82987213135,1925,8025,SLV,10301,10573,29187,50696,230,Households with children under 5 years old,Poor,El Salvador,Male,2017
+22.37914085388,1925,8025,SLV,10301,10574,29187,50696,230,Households with children under 5 years old,Not poor,El Salvador,Male,2017
+52.84867858887,1925,8025,SLV,10302,10573,29187,50696,230,Households with children under 5 years old,Poor,El Salvador,Female,2017
+46.73712921143,1925,8025,SLV,10302,10574,29187,50696,230,Households with children under 5 years old,Not poor,El Salvador,Female,2017
+23.26432991028,1925,8025,SLV,10301,10573,29187,50697,230,Households with children under 15 years old,Poor,El Salvador,Male,2017
+21.10569572449,1925,8025,SLV,10301,10574,29187,50697,230,Households with children under 15 years old,Not poor,El Salvador,Male,2017
+49.20930862427,1925,8025,SLV,10302,10573,29187,50697,230,Households with children under 15 years old,Poor,El Salvador,Female,2017
+41.63561630249,1925,8025,SLV,10302,10574,29187,50697,230,Households with children under 15 years old,Not poor,El Salvador,Female,2017
+21.7442111969,1925,8025,SLV,10301,10573,29187,50698,230,Households without children,Poor,El Salvador,Male,2017
+17.7581653595,1925,8025,SLV,10301,10574,29187,50698,230,Households without children,Not poor,El Salvador,Male,2017
+41.54850387573,1925,8025,SLV,10302,10573,29187,50698,230,Households without children,Poor,El Salvador,Female,2017
+30.96098518372,1925,8025,SLV,10302,10574,29187,50698,230,Households without children,Not poor,El Salvador,Female,2017
+9.757097244263,1408,"7995,7996,7997,8020,8024,8417",GTM,10301,10573,29184,50696,235,Households with children under 5 years old,Poor,Guatemala,Male,2014
+12.805053710938,1408,"7995,7996,7997,8020,8024,8417",GTM,10301,10574,29184,50696,235,Households with children under 5 years old,Not poor,Guatemala,Male,2014
+43.926845550537,1408,"7995,7996,7997,8020,8024,8417",GTM,10302,10573,29184,50696,235,Households with children under 5 years old,Poor,Guatemala,Female,2014
+44.835910797119,1408,"7995,7996,7997,8020,8024,8417",GTM,10302,10574,29184,50696,235,Households with children under 5 years old,Not poor,Guatemala,Female,2014
+9.79679107666,1408,"7995,7996,7997,8020,8024,8417",GTM,10301,10573,29184,50697,235,Households with children under 15 years old,Poor,Guatemala,Male,2014
+11.997462272644,1408,"7995,7996,7997,8020,8024,8417",GTM,10301,10574,29184,50697,235,Households with children under 15 years old,Not poor,Guatemala,Male,2014
+41.079387664795,1408,"7995,7996,7997,8020,8024,8417",GTM,10302,10573,29184,50697,235,Households with children under 15 years old,Poor,Guatemala,Female,2014
+40.335033416748,1408,"7995,7996,7997,8020,8024,8417",GTM,10302,10574,29184,50697,235,Households with children under 15 years old,Not poor,Guatemala,Female,2014
+6.637335300446,1408,"7995,7996,7997,8020,8024,8417",GTM,10301,10573,29184,50698,235,Households without children,Poor,Guatemala,Male,2014
+10.91335105896,1408,"7995,7996,7997,8020,8024,8417",GTM,10301,10574,29184,50698,235,Households without children,Not poor,Guatemala,Male,2014
+30.461446762085,1408,"7995,7996,7997,8020,8024,8417",GTM,10302,10573,29184,50698,235,Households without children,Poor,Guatemala,Female,2014
+27.094791412354,1408,"7995,7996,7997,8020,8024,8417",GTM,10302,10574,29184,50698,235,Households without children,Not poor,Guatemala,Female,2014
+17.36722755432,1329,7422,MEX,10301,10573,29184,50696,233,Households with children under 5 years old,Poor,Mexico,Male,2014
+18.56086158752,1329,7422,MEX,10301,10574,29184,50696,233,Households with children under 5 years old,Not poor,Mexico,Male,2014
+60.05881881714,1329,7422,MEX,10302,10573,29184,50696,233,Households with children under 5 years old,Poor,Mexico,Female,2014
+53.45558547974,1329,7422,MEX,10302,10574,29184,50696,233,Households with children under 5 years old,Not poor,Mexico,Female,2014
+16.31427955627,1329,7422,MEX,10301,10573,29184,50697,233,Households with children under 15 years old,Poor,Mexico,Male,2014
+16.62880706787,1329,7422,MEX,10301,10574,29184,50697,233,Households with children under 15 years old,Not poor,Mexico,Male,2014
+56.14679718018,1329,7422,MEX,10302,10573,29184,50697,233,Households with children under 15 years old,Poor,Mexico,Female,2014
+48.23751831055,1329,7422,MEX,10302,10574,29184,50697,233,Households with children under 15 years old,Not poor,Mexico,Female,2014
+14.99113464355,1329,7422,MEX,10301,10573,29184,50698,233,Households without children,Poor,Mexico,Male,2014
+14.39528465271,1329,7422,MEX,10301,10574,29184,50698,233,Households without children,Not poor,Mexico,Male,2014
+38.81901168823,1329,7422,MEX,10302,10573,29184,50698,233,Households without children,Poor,Mexico,Female,2014
+33.48806381226,1329,7422,MEX,10302,10574,29184,50698,233,Households without children,Not poor,Mexico,Female,2014
+11.778553009033,1660,"7995,7996",PRY,10301,10573,29186,50696,242,Households with children under 5 years old,Poor,Paraguay,Male,2016
+15.476096153259,1660,"7995,7996",PRY,10301,10574,29186,50696,242,Households with children under 5 years old,Not poor,Paraguay,Male,2016
+38.546203613281,1660,"7995,7996",PRY,10302,10573,29186,50696,242,Households with children under 5 years old,Poor,Paraguay,Female,2016
+38.775054931641,1660,"7995,7996",PRY,10302,10574,29186,50696,242,Households with children under 5 years old,Not poor,Paraguay,Female,2016
+11.160836219788,1660,"7995,7996",PRY,10301,10573,29186,50697,242,Households with children under 15 years old,Poor,Paraguay,Male,2016
+14.609444618225,1660,"7995,7996",PRY,10301,10574,29186,50697,242,Households with children under 15 years old,Not poor,Paraguay,Male,2016
+33.930065155029,1660,"7995,7996",PRY,10302,10573,29186,50697,242,Households with children under 15 years old,Poor,Paraguay,Female,2016
+36.344867706299,1660,"7995,7996",PRY,10302,10574,29186,50697,242,Households with children under 15 years old,Not poor,Paraguay,Female,2016
+8.196988105774,1660,"7995,7996",PRY,10301,10573,29186,50698,242,Households without children,Poor,Paraguay,Male,2016
+10.583168983459,1660,"7995,7996",PRY,10301,10574,29186,50698,242,Households without children,Not poor,Paraguay,Male,2016
+22.340887069702,1660,"7995,7996",PRY,10302,10573,29186,50698,242,Households without children,Poor,Paraguay,Female,2016
+22.050689697266,1660,"7995,7996",PRY,10302,10574,29186,50698,242,Households without children,Not poor,Paraguay,Female,2016
+14.551810264587,1326,"6916,8009,8660",BRA,10301,10573,29189,50696,222,Households with children under 5 years old,Poor,Brazil,Male,2019
+30.320314407349,1326,"6916,8009,8660",BRA,10302,10573,29189,50696,222,Households with children under 5 years old,Poor,Brazil,Female,2019
+13.315456390381,1326,"6916,8009,8660",BRA,10301,10574,29189,50696,222,Households with children under 5 years old,Not poor,Brazil,Male,2019
+26.686637878418,1326,"6916,8009,8660",BRA,10302,10574,29189,50696,222,Households with children under 5 years old,Not poor,Brazil,Female,2019
+14.312854766846,1326,"6916,8009,8660",BRA,10301,10573,29189,50697,222,Households with children under 15 years old,Poor,Brazil,Male,2019
+29.002342224121,1326,"6916,8009,8660",BRA,10302,10573,29189,50697,222,Households with children under 15 years old,Poor,Brazil,Female,2019
+12.476363182068,1326,"6916,8009,8660",BRA,10301,10574,29189,50697,222,Households with children under 15 years old,Not poor,Brazil,Male,2019
+24.636232376099,1326,"6916,8009,8660",BRA,10302,10574,29189,50697,222,Households with children under 15 years old,Not poor,Brazil,Female,2019
+14.517308235168,1326,"6916,8009,8660",BRA,10301,10573,29189,50698,222,Households without children,Poor,Brazil,Male,2019
+24.754205703735,1326,"6916,8009,8660",BRA,10302,10573,29189,50698,222,Households without children,Poor,Brazil,Female,2019
+11.308097839355,1326,"6916,8009,8660",BRA,10301,10574,29189,50698,222,Households without children,Not poor,Brazil,Male,2019
+20.01350402832,1326,"6916,8009,8660",BRA,10302,10574,29189,50698,222,Households without children,Not poor,Brazil,Female,2019

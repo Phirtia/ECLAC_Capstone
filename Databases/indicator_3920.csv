@@ -1,0 +1,35 @@
+﻿value,source_id,notes_ids,iso3,dim_74741,dim_208,dim_29117,dim_74389,Country__ESTANDAR,Quantile,Years__ESTANDAR,Reporting Type
+2.17,3718,15851,CHL,74749,224,29192,74391,Chile,Total (national average) or no breakdown,2022,Global
+3.14,3718,15851,CHL,74747,224,29192,74391,Chile,Bottom 40%,2022,Global
+-2.65,3718,12877,COL,74749,225,29190,74391,Colombia,Total (national average) or no breakdown,2020,Global
+-4.61,3718,12877,COL,74747,225,29190,74391,Colombia,Bottom 40%,2020,Global
+1.9,3718,17041,CRI,74749,226,29194,74391,Costa Rica,Total (national average) or no breakdown,2024,Global
+2.89,3718,17041,CRI,74747,226,29194,74391,Costa Rica,Bottom 40%,2024,Global
+1.94,3718,15397,DOM,74747,264,29193,74391,Dominican Republic,Bottom 40%,2023,Global
+-0.01,3718,15397,DOM,74749,264,29193,74391,Dominican Republic,Total (national average) or no breakdown,2023,Global
+-0.8,3718,15397,ECU,74747,229,29193,74391,Ecuador,Bottom 40%,2023,Global
+-0.96,3718,15397,ECU,74749,229,29193,74391,Ecuador,Total (national average) or no breakdown,2023,Global
+2.69,3718,15397,SLV,74747,230,29193,74391,El Salvador,Bottom 40%,2023,Global
+3.62,3718,15397,SLV,74749,230,29193,74391,El Salvador,Total (national average) or no breakdown,2023,Global
+-2.69,3718,15397,ARG,74749,216,29193,74391,Argentina,Total (national average) or no breakdown,2023,Global
+-2.9,3718,15397,ARG,74747,216,29193,74391,Argentina,Bottom 40%,2023,Global
+0.17,3718,15397,HND,74749,239,29193,74391,Honduras,Total (national average) or no breakdown,2023,Global
+1.48,3718,15397,HND,74747,239,29193,74391,Honduras,Bottom 40%,2023,Global
+2.27,3718,15289,JAM,74749,246,29191,74391,Jamaica,Total (national average) or no breakdown,2021,Global
+-3.2,3718,15289,JAM,74747,246,29191,74391,Jamaica,Bottom 40%,2021,Global
+1.95,3718,15449,MEX,74749,233,29192,74391,Mexico,Total (national average) or no breakdown,2022,Global
+3.64,3718,15449,MEX,74747,233,29192,74391,Mexico,Bottom 40%,2022,Global
+5.64,3718,12879,NIC,74747,240,29184,74391,Nicaragua,Bottom 40%,2014,Global
+6.52,3718,12879,NIC,74749,240,29184,74391,Nicaragua,Total (national average) or no breakdown,2014,Global
+-1.04,3718,15397,PAN,74747,241,29193,74391,Panama,Bottom 40%,2023,Global
+-1.43,3718,15397,PAN,74749,241,29193,74391,Panama,Total (national average) or no breakdown,2023,Global
+-1.24,3718,14339,PRY,74749,242,29191,74391,Paraguay,Total (national average) or no breakdown,2021,Global
+1.74,3718,14339,PRY,74747,242,29191,74391,Paraguay,Bottom 40%,2021,Global
+-0.63,3718,15397,PER,74747,244,29193,74391,Peru,Bottom 40%,2023,Global
+-1.86,3718,15397,PER,74749,244,29193,74391,Peru,Total (national average) or no breakdown,2023,Global
+1.6,3718,15397,BOL,74749,221,29193,74391,Bolivia (Plurinational State of),Total (national average) or no breakdown,2023,Global
+2.63,3718,15397,BOL,74747,221,29193,74391,Bolivia (Plurinational State of),Bottom 40%,2023,Global
+1.25,3718,15397,BRA,74749,222,29193,74391,Brazil,Total (national average) or no breakdown,2023,Global
+3.28,3718,15397,BRA,74747,222,29193,74391,Brazil,Bottom 40%,2023,Global
+0,3718,12876,URY,74749,258,29189,74391,Uruguay,Total (national average) or no breakdown,2019,Global
+0.33,3718,12876,URY,74747,258,29189,74391,Uruguay,Bottom 40%,2019,Global

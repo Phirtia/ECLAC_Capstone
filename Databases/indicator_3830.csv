@@ -1,0 +1,917 @@
+﻿value,source_id,notes_ids,iso3,dim_74392,dim_74476,dim_74389,dim_74472,dim_208,dim_29117,Sex,Location,Country__ESTANDAR,Reporting Type,Age,Years__ESTANDAR
+24.05325,3658,,BOL,74573,74478,74391,74473,221,29171,Female,All areas,Bolivia (Plurinational State of),Global,55 to 64 years old,2001
+24.5537,3658,,BOL,74571,74478,74391,74473,221,29171,Female,All areas,Bolivia (Plurinational State of),Global,45 to 54 years old,2001
+25.83317,3658,,BOL,74570,74478,74391,74473,221,29171,Female,All areas,Bolivia (Plurinational State of),Global,25 to 44 years old,2001
+11.87733,3658,,BOL,74437,74479,74391,74474,221,29171,Male,Urban,Bolivia (Plurinational State of),Global,15 years old and over,2001
+12.57893,3658,,BOL,74437,74477,74391,74474,221,29171,Male,Rural,Bolivia (Plurinational State of),Global,15 years old and over,2001
+12.13362,3658,,BOL,74437,74478,74391,74474,221,29171,Male,All areas,Bolivia (Plurinational State of),Global,15 years old and over,2001
+21.42246,3658,,BOL,74569,74478,74391,74473,221,29171,Female,All areas,Bolivia (Plurinational State of),Global,65 years old and over,2001
+19.36275,3658,,BOL,74425,74478,74391,74473,221,29171,Female,All areas,Bolivia (Plurinational State of),Global,15 to 24 years old,2001
+23.11926,3658,,BOL,74437,74478,74391,74473,221,29171,Female,All areas,Bolivia (Plurinational State of),Global,15 years old and over,2001
+22.48411,3658,,BOL,74437,74479,74391,74473,221,29171,Female,Urban,Bolivia (Plurinational State of),Global,15 years old and over,2001
+24.36522,3658,,BOL,74437,74477,74391,74473,221,29171,Female,Rural,Bolivia (Plurinational State of),Global,15 years old and over,2001
+11.43164,3658,,BOL,74425,74478,74391,74474,221,29171,Male,All areas,Bolivia (Plurinational State of),Global,15 to 24 years old,2001
+12.1654,3658,,BOL,74569,74478,74391,74474,221,29171,Male,All areas,Bolivia (Plurinational State of),Global,65 years old and over,2001
+11.97662,3658,,BOL,74573,74478,74391,74474,221,29171,Male,All areas,Bolivia (Plurinational State of),Global,55 to 64 years old,2001
+12.5195,3658,,BOL,74571,74478,74391,74474,221,29171,Male,All areas,Bolivia (Plurinational State of),Global,45 to 54 years old,2001
+12.61581,3658,,BOL,74570,74478,74391,74474,221,29171,Male,All areas,Bolivia (Plurinational State of),Global,25 to 44 years old,2001
+5.97222,3661,,BRA,74414,74478,74391,74474,222,29179,Male,All areas,Brazil,Global,10 years old and over,2009
+17.63889,3661,,BRA,74414,74478,74391,74473,222,29179,Female,All areas,Brazil,Global,10 years old and over,2009
+15.54251,3658,,BRA,74437,74477,74391,74473,222,29182,Female,Rural,Brazil,Global,15 years old and over,2012
+12.5573,3658,,BRA,74569,74478,74391,74473,222,29182,Female,All areas,Brazil,Global,65 years old and over,2012
+16.23164,3658,,BRA,74573,74478,74391,74473,222,29182,Female,All areas,Brazil,Global,55 to 64 years old,2012
+15.06563,3658,,BRA,74571,74478,74391,74473,222,29182,Female,All areas,Brazil,Global,45 to 54 years old,2012
+13.72756,3658,,BRA,74570,74478,74391,74473,222,29182,Female,All areas,Brazil,Global,25 to 44 years old,2012
+9.27094,3658,,BRA,74425,74478,74391,74473,222,29182,Female,All areas,Brazil,Global,15 to 24 years old,2012
+12.82631,3658,,BRA,74437,74479,74391,74473,222,29182,Female,Urban,Brazil,Global,15 years old and over,2012
+3.03476,3658,,BRA,74437,74478,74391,74474,222,29182,Male,All areas,Brazil,Global,15 years old and over,2012
+13.18363,3658,,BRA,74437,74478,74391,74473,222,29182,Female,All areas,Brazil,Global,15 years old and over,2012
+3.64045,3658,,BRA,74569,74478,74391,74474,222,29182,Male,All areas,Brazil,Global,65 years old and over,2012
+3.72345,3658,,BRA,74573,74478,74391,74474,222,29182,Male,All areas,Brazil,Global,55 to 64 years old,2012
+3.30563,3658,,BRA,74571,74478,74391,74474,222,29182,Male,All areas,Brazil,Global,45 to 54 years old,2012
+2.26883,3658,,BRA,74425,74478,74391,74474,222,29182,Male,All areas,Brazil,Global,15 to 24 years old,2012
+2.70166,3658,,BRA,74437,74477,74391,74474,222,29182,Male,Rural,Brazil,Global,15 years old and over,2012
+3.01993,3658,,BRA,74570,74478,74391,74474,222,29182,Male,All areas,Brazil,Global,25 to 44 years old,2012
+3.09681,3658,,BRA,74437,74479,74391,74474,222,29182,Male,Urban,Brazil,Global,15 years old and over,2012
+11.53789,10865,,BRA,74437,74478,74391,74473,222,29186,Female,All areas,Brazil,Global,15 years old and over,2016
+4.54566,10865,,BRA,74422,74477,74391,74474,222,29186,Male,Rural,Brazil,Global,14 years old and over,2016
+12.53313,10865,,BRA,74422,74477,74391,74473,222,29186,Female,Rural,Brazil,Global,14 years old and over,2016
+11.42438,10865,,BRA,74422,74478,74391,74473,222,29186,Female,All areas,Brazil,Global,14 years old and over,2016
+5.72669,10865,,BRA,74573,74479,74391,74474,222,29186,Male,Urban,Brazil,Global,55 to 64 years old,2016
+5.56624,10865,,BRA,74569,74479,74391,74474,222,29186,Male,Urban,Brazil,Global,65 years old and over,2016
+5.31432,10865,,BRA,74571,74479,74391,74474,222,29186,Male,Urban,Brazil,Global,45 to 54 years old,2016
+4.96768,10865,,BRA,74422,74479,74391,74474,222,29186,Male,Urban,Brazil,Global,14 years old and over,2016
+11.25666,10865,,BRA,74422,74479,74391,74473,222,29186,Female,Urban,Brazil,Global,14 years old and over,2016
+4.90293,10865,,BRA,74422,74478,74391,74474,222,29186,Male,All areas,Brazil,Global,14 years old and over,2016
+8.41531,10865,,BRA,74425,74478,74391,74473,222,29186,Female,All areas,Brazil,Global,15 to 24 years old,2016
+5.03971,10865,,BRA,74569,74477,74391,74474,222,29186,Male,Rural,Brazil,Global,65 years old and over,2016
+5.51444,10865,,BRA,74573,74477,74391,74474,222,29186,Male,Rural,Brazil,Global,55 to 64 years old,2016
+4.90885,10865,,BRA,74571,74477,74391,74474,222,29186,Male,Rural,Brazil,Global,45 to 54 years old,2016
+11.36421,10865,,BRA,74437,74479,74391,74473,222,29186,Female,Urban,Brazil,Global,15 years old and over,2016
+5.47492,10865,,BRA,74569,74478,74391,74474,222,29186,Male,All areas,Brazil,Global,65 years old and over,2016
+5.69269,10865,,BRA,74573,74478,74391,74474,222,29186,Male,All areas,Brazil,Global,55 to 64 years old,2016
+5.41932,10865,,BRA,74570,74479,74391,74474,222,29186,Male,Urban,Brazil,Global,25 to 44 years old,2016
+13.76763,10865,,BRA,74573,74477,74391,74473,222,29186,Female,Rural,Brazil,Global,55 to 64 years old,2016
+13.76159,10865,,BRA,74571,74477,74391,74473,222,29186,Female,Rural,Brazil,Global,45 to 54 years old,2016
+14.11148,10865,,BRA,74570,74477,74391,74473,222,29186,Female,Rural,Brazil,Global,25 to 44 years old,2016
+10.26298,10865,,BRA,74425,74477,74391,74473,222,29186,Female,Rural,Brazil,Global,15 to 24 years old,2016
+12.6976,10865,,BRA,74437,74477,74391,74473,222,29186,Female,Rural,Brazil,Global,15 years old and over,2016
+4.94291,10865,,BRA,74570,74477,74391,74474,222,29186,Male,Rural,Brazil,Global,25 to 44 years old,2016
+3.13698,10865,,BRA,74425,74477,74391,74474,222,29186,Male,Rural,Brazil,Global,15 to 24 years old,2016
+4.59494,10865,,BRA,74437,74477,74391,74474,222,29186,Male,Rural,Brazil,Global,15 years old and over,2016
+10.28867,10865,,BRA,74569,74477,74391,74473,222,29186,Female,Rural,Brazil,Global,65 years old and over,2016
+3.45277,10865,,BRA,74425,74479,74391,74474,222,29186,Male,Urban,Brazil,Global,15 to 24 years old,2016
+5.01443,10865,,BRA,74437,74479,74391,74474,222,29186,Male,Urban,Brazil,Global,15 years old and over,2016
+10.24908,10865,,BRA,74569,74479,74391,74473,222,29186,Female,Urban,Brazil,Global,65 years old and over,2016
+12.71326,10865,,BRA,74571,74479,74391,74473,222,29186,Female,Urban,Brazil,Global,45 to 54 years old,2016
+12.26042,10865,,BRA,74570,74479,74391,74473,222,29186,Female,Urban,Brazil,Global,25 to 44 years old,2016
+8.09945,10865,,BRA,74425,74479,74391,74473,222,29186,Female,Urban,Brazil,Global,15 to 24 years old,2016
+13.25132,10865,,BRA,74573,74479,74391,74473,222,29186,Female,Urban,Brazil,Global,55 to 64 years old,2016
+5.35126,10865,,BRA,74570,74478,74391,74474,222,29186,Male,All areas,Brazil,Global,25 to 44 years old,2016
+3.40258,10865,,BRA,74425,74478,74391,74474,222,29186,Male,All areas,Brazil,Global,15 to 24 years old,2016
+4.95032,10865,,BRA,74437,74478,74391,74474,222,29186,Male,All areas,Brazil,Global,15 years old and over,2016
+13.31598,10865,,BRA,74573,74478,74391,74473,222,29186,Female,All areas,Brazil,Global,55 to 64 years old,2016
+12.84171,10865,,BRA,74571,74478,74391,74473,222,29186,Female,All areas,Brazil,Global,45 to 54 years old,2016
+12.49932,10865,,BRA,74570,74478,74391,74473,222,29186,Female,All areas,Brazil,Global,25 to 44 years old,2016
+10.25393,10865,,BRA,74569,74478,74391,74473,222,29186,Female,All areas,Brazil,Global,65 years old and over,2016
+5.25273,10865,,BRA,74571,74478,74391,74474,222,29186,Male,All areas,Brazil,Global,45 to 54 years old,2016
+10.17996,10865,,BRA,74425,74477,74391,74473,222,29187,Female,Rural,Brazil,Global,15 to 24 years old,2017
+11.49749,10865,,BRA,74422,74479,74391,74473,222,29187,Female,Urban,Brazil,Global,14 years old and over,2017
+8.31373,10865,,BRA,74425,74479,74391,74473,222,29187,Female,Urban,Brazil,Global,15 to 24 years old,2017
+5.08818,10865,,BRA,74571,74477,74391,74474,222,29187,Male,Rural,Brazil,Global,45 to 54 years old,2017
+5.50348,10865,,BRA,74571,74478,74391,74474,222,29187,Male,All areas,Brazil,Global,45 to 54 years old,2017
+5.66874,10865,,BRA,74569,74478,74391,74474,222,29187,Male,All areas,Brazil,Global,65 years old and over,2017
+5.12545,10865,,BRA,74422,74478,74391,74474,222,29187,Male,All areas,Brazil,Global,14 years old and over,2017
+5.466,10865,,BRA,74573,74477,74391,74474,222,29187,Male,Rural,Brazil,Global,55 to 64 years old,2017
+12.46332,10865,,BRA,74570,74479,74391,74473,222,29187,Female,Urban,Brazil,Global,25 to 44 years old,2017
+5.65754,10865,,BRA,74570,74479,74391,74474,222,29187,Male,Urban,Brazil,Global,25 to 44 years old,2017
+3.64887,10865,,BRA,74425,74479,74391,74474,222,29187,Male,Urban,Brazil,Global,15 to 24 years old,2017
+5.24551,10865,,BRA,74437,74479,74391,74474,222,29187,Male,Urban,Brazil,Global,15 years old and over,2017
+10.49748,10865,,BRA,74569,74479,74391,74473,222,29187,Female,Urban,Brazil,Global,65 years old and over,2017
+13.54181,10865,,BRA,74573,74479,74391,74473,222,29187,Female,Urban,Brazil,Global,55 to 64 years old,2017
+12.99112,10865,,BRA,74571,74479,74391,74473,222,29187,Female,Urban,Brazil,Global,45 to 54 years old,2017
+5.5756,10865,,BRA,74571,74479,74391,74474,222,29187,Male,Urban,Brazil,Global,45 to 54 years old,2017
+5.95229,10865,,BRA,74573,74479,74391,74474,222,29187,Male,Urban,Brazil,Global,55 to 64 years old,2017
+5.7474,10865,,BRA,74569,74479,74391,74474,222,29187,Male,Urban,Brazil,Global,65 years old and over,2017
+5.19782,10865,,BRA,74422,74479,74391,74474,222,29187,Male,Urban,Brazil,Global,14 years old and over,2017
+5.87888,10865,,BRA,74573,74478,74391,74474,222,29187,Male,All areas,Brazil,Global,55 to 64 years old,2017
+11.62553,10865,,BRA,74422,74478,74391,74473,222,29187,Female,All areas,Brazil,Global,14 years old and over,2017
+5.30398,10865,,BRA,74569,74477,74391,74474,222,29187,Male,Rural,Brazil,Global,65 years old and over,2017
+12.64795,10865,,BRA,74437,74477,74391,74473,222,29187,Female,Rural,Brazil,Global,15 years old and over,2017
+11.61291,10865,,BRA,74437,74479,74391,74473,222,29187,Female,Urban,Brazil,Global,15 years old and over,2017
+13.65432,10865,,BRA,74571,74477,74391,74473,222,29187,Female,Rural,Brazil,Global,45 to 54 years old,2017
+13.07264,10865,,BRA,74571,74478,74391,74473,222,29187,Female,All areas,Brazil,Global,45 to 54 years old,2017
+4.77246,10865,,BRA,74437,74477,74391,74474,222,29187,Male,Rural,Brazil,Global,15 years old and over,2017
+12.67344,10865,,BRA,74570,74478,74391,74473,222,29187,Female,All areas,Brazil,Global,25 to 44 years old,2017
+10.07117,10865,,BRA,74569,74477,74391,74473,222,29187,Female,Rural,Brazil,Global,65 years old and over,2017
+5.17493,10865,,BRA,74437,74478,74391,74474,222,29187,Male,All areas,Brazil,Global,15 years old and over,2017
+10.44538,10865,,BRA,74569,74478,74391,74473,222,29187,Female,All areas,Brazil,Global,65 years old and over,2017
+13.58399,10865,,BRA,74573,74478,74391,74473,222,29187,Female,All areas,Brazil,Global,55 to 64 years old,2017
+8.58624,10865,,BRA,74425,74478,74391,74473,222,29187,Female,All areas,Brazil,Global,15 to 24 years old,2017
+5.58782,10865,,BRA,74570,74478,74391,74474,222,29187,Male,All areas,Brazil,Global,25 to 44 years old,2017
+5.16336,10865,,BRA,74570,74477,74391,74474,222,29187,Male,Rural,Brazil,Global,25 to 44 years old,2017
+13.88509,10865,,BRA,74573,74477,74391,74473,222,29187,Female,Rural,Brazil,Global,55 to 64 years old,2017
+11.74614,10865,,BRA,74437,74478,74391,74473,222,29187,Female,All areas,Brazil,Global,15 years old and over,2017
+3.23413,10865,,BRA,74425,74477,74391,74474,222,29187,Male,Rural,Brazil,Global,15 to 24 years old,2017
+12.48556,10865,,BRA,74422,74477,74391,74473,222,29187,Female,Rural,Brazil,Global,14 years old and over,2017
+4.71593,10865,,BRA,74422,74477,74391,74474,222,29187,Male,Rural,Brazil,Global,14 years old and over,2017
+14.12961,10865,,BRA,74570,74477,74391,74473,222,29187,Female,Rural,Brazil,Global,25 to 44 years old,2017
+3.58612,10865,,BRA,74425,74478,74391,74474,222,29187,Male,All areas,Brazil,Global,15 to 24 years old,2017
+11.78672,10865,,BRA,74422,74479,74391,74473,222,29188,Female,Urban,Brazil,Global,14 years old and over,2018
+5.25689,10865,,BRA,74422,74478,74391,74474,222,29188,Male,All areas,Brazil,Global,14 years old and over,2018
+11.93794,10865,,BRA,74422,74478,74391,74473,222,29188,Female,All areas,Brazil,Global,14 years old and over,2018
+5.69337,10865,,BRA,74569,74479,74391,74474,222,29188,Male,Urban,Brazil,Global,65 years old and over,2018
+6.08102,10865,,BRA,74573,74479,74391,74474,222,29188,Male,Urban,Brazil,Global,55 to 64 years old,2018
+5.34518,10865,,BRA,74422,74479,74391,74474,222,29188,Male,Urban,Brazil,Global,14 years old and over,2018
+4.75386,10865,,BRA,74422,74477,74391,74474,222,29188,Male,Rural,Brazil,Global,14 years old and over,2018
+5.69464,10865,,BRA,74571,74478,74391,74474,222,29188,Male,All areas,Brazil,Global,45 to 54 years old,2018
+5.71548,10865,,BRA,74570,74478,74391,74474,222,29188,Male,All areas,Brazil,Global,25 to 44 years old,2018
+14.94196,10865,,BRA,74570,74477,74391,74473,222,29188,Female,Rural,Brazil,Global,25 to 44 years old,2018
+10.61478,10865,,BRA,74425,74477,74391,74473,222,29188,Female,Rural,Brazil,Global,15 to 24 years old,2018
+13.14543,10865,,BRA,74437,74477,74391,74473,222,29188,Female,Rural,Brazil,Global,15 years old and over,2018
+5.56275,10865,,BRA,74569,74478,74391,74474,222,29188,Male,All areas,Brazil,Global,65 years old and over,2018
+5.97696,10865,,BRA,74573,74478,74391,74474,222,29188,Male,All areas,Brazil,Global,55 to 64 years old,2018
+5.3062,10865,,BRA,74437,74478,74391,74474,222,29188,Male,All areas,Brazil,Global,15 years old and over,2018
+10.76291,10865,,BRA,74569,74478,74391,74473,222,29188,Female,All areas,Brazil,Global,65 years old and over,2018
+14.01407,10865,,BRA,74573,74478,74391,74473,222,29188,Female,All areas,Brazil,Global,55 to 64 years old,2018
+13.26162,10865,,BRA,74571,74478,74391,74473,222,29188,Female,All areas,Brazil,Global,45 to 54 years old,2018
+12.99309,10865,,BRA,74570,74478,74391,74473,222,29188,Female,All areas,Brazil,Global,25 to 44 years old,2018
+8.86552,10865,,BRA,74425,74478,74391,74473,222,29188,Female,All areas,Brazil,Global,15 to 24 years old,2018
+12.06214,10865,,BRA,74437,74478,74391,74473,222,29188,Female,All areas,Brazil,Global,15 years old and over,2018
+3.7716,10865,,BRA,74425,74478,74391,74474,222,29188,Male,All areas,Brazil,Global,15 to 24 years old,2018
+12.97541,10865,,BRA,74422,74477,74391,74473,222,29188,Female,Rural,Brazil,Global,14 years old and over,2018
+11.90535,10865,,BRA,74437,74479,74391,74473,222,29188,Female,Urban,Brazil,Global,15 years old and over,2018
+12.71921,10865,,BRA,74570,74479,74391,74473,222,29188,Female,Urban,Brazil,Global,25 to 44 years old,2018
+8.57651,10865,,BRA,74425,74479,74391,74473,222,29188,Female,Urban,Brazil,Global,15 to 24 years old,2018
+3.46425,10865,,BRA,74425,74477,74391,74474,222,29188,Male,Rural,Brazil,Global,15 to 24 years old,2018
+4.80482,10865,,BRA,74437,74477,74391,74474,222,29188,Male,Rural,Brazil,Global,15 years old and over,2018
+10.32519,10865,,BRA,74569,74477,74391,74473,222,29188,Female,Rural,Brazil,Global,65 years old and over,2018
+13.85467,10865,,BRA,74573,74477,74391,74473,222,29188,Female,Rural,Brazil,Global,55 to 64 years old,2018
+4.94563,10865,,BRA,74569,74477,74391,74474,222,29188,Male,Rural,Brazil,Global,65 years old and over,2018
+5.39365,10865,,BRA,74437,74479,74391,74474,222,29188,Male,Urban,Brazil,Global,15 years old and over,2018
+10.82363,10865,,BRA,74569,74479,74391,74473,222,29188,Female,Urban,Brazil,Global,65 years old and over,2018
+14.0365,10865,,BRA,74573,74479,74391,74473,222,29188,Female,Urban,Brazil,Global,55 to 64 years old,2018
+13.15703,10865,,BRA,74571,74479,74391,74473,222,29188,Female,Urban,Brazil,Global,45 to 54 years old,2018
+14.0175,10865,,BRA,74571,74477,74391,74473,222,29188,Female,Rural,Brazil,Global,45 to 54 years old,2018
+5.78536,10865,,BRA,74571,74479,74391,74474,222,29188,Male,Urban,Brazil,Global,45 to 54 years old,2018
+5.80257,10865,,BRA,74570,74479,74391,74474,222,29188,Male,Urban,Brazil,Global,25 to 44 years old,2018
+3.82549,10865,,BRA,74425,74479,74391,74474,222,29188,Male,Urban,Brazil,Global,15 to 24 years old,2018
+5.40843,10865,,BRA,74573,74477,74391,74474,222,29188,Male,Rural,Brazil,Global,55 to 64 years old,2018
+5.18528,10865,,BRA,74571,74477,74391,74474,222,29188,Male,Rural,Brazil,Global,45 to 54 years old,2018
+5.17468,10865,,BRA,74570,74477,74391,74474,222,29188,Male,Rural,Brazil,Global,25 to 44 years old,2018
+13.12637,10865,,BRA,74422,74477,74391,74473,222,29189,Female,Rural,Brazil,Global,14 years old and over,2019
+5.39391,10865,,BRA,74422,74479,74391,74474,222,29189,Male,Urban,Brazil,Global,14 years old and over,2019
+13.06522,10865,,BRA,74570,74478,74391,74473,222,29189,Female,All areas,Brazil,Global,25 to 44 years old,2019
+8.90697,10865,,BRA,74425,74478,74391,74473,222,29189,Female,All areas,Brazil,Global,15 to 24 years old,2019
+12.07999,10865,,BRA,74437,74478,74391,74473,222,29189,Female,All areas,Brazil,Global,15 years old and over,2019
+4.83813,10865,,BRA,74422,74477,74391,74474,222,29189,Male,Rural,Brazil,Global,14 years old and over,2019
+13.21761,10865,,BRA,74571,74478,74391,74473,222,29189,Female,All areas,Brazil,Global,45 to 54 years old,2019
+11.78476,10865,,BRA,74422,74479,74391,74473,222,29189,Female,Urban,Brazil,Global,14 years old and over,2019
+13.03967,10865,,BRA,74571,74479,74391,74473,222,29189,Female,Urban,Brazil,Global,45 to 54 years old,2019
+12.79348,10865,,BRA,74570,74479,74391,74473,222,29189,Female,Urban,Brazil,Global,25 to 44 years old,2019
+8.62343,10865,,BRA,74425,74479,74391,74473,222,29189,Female,Urban,Brazil,Global,15 to 24 years old,2019
+11.90262,10865,,BRA,74437,74479,74391,74473,222,29189,Female,Urban,Brazil,Global,15 years old and over,2019
+5.32087,10865,,BRA,74569,74477,74391,74474,222,29189,Male,Rural,Brazil,Global,65 years old and over,2019
+5.57559,10865,,BRA,74573,74477,74391,74474,222,29189,Male,Rural,Brazil,Global,55 to 64 years old,2019
+5.32911,10865,,BRA,74571,74477,74391,74474,222,29189,Male,Rural,Brazil,Global,45 to 54 years old,2019
+13.85348,10865,,BRA,74573,74479,74391,74473,222,29189,Female,Urban,Brazil,Global,55 to 64 years old,2019
+6.02732,10865,,BRA,74573,74479,74391,74474,222,29189,Male,Urban,Brazil,Global,55 to 64 years old,2019
+5.73191,10865,,BRA,74571,74479,74391,74474,222,29189,Male,Urban,Brazil,Global,45 to 54 years old,2019
+5.88315,10865,,BRA,74570,74479,74391,74474,222,29189,Male,Urban,Brazil,Global,25 to 44 years old,2019
+3.90019,10865,,BRA,74425,74479,74391,74474,222,29189,Male,Urban,Brazil,Global,15 to 24 years old,2019
+5.44356,10865,,BRA,74437,74479,74391,74474,222,29189,Male,Urban,Brazil,Global,15 years old and over,2019
+10.69758,10865,,BRA,74569,74479,74391,74473,222,29189,Female,Urban,Brazil,Global,65 years old and over,2019
+5.16334,10865,,BRA,74570,74477,74391,74474,222,29189,Male,Rural,Brazil,Global,25 to 44 years old,2019
+5.6665,10865,,BRA,74569,74478,74391,74474,222,29189,Male,All areas,Brazil,Global,65 years old and over,2019
+5.95659,10865,,BRA,74573,74478,74391,74474,222,29189,Male,All areas,Brazil,Global,55 to 64 years old,2019
+5.6714,10865,,BRA,74571,74478,74391,74474,222,29189,Male,All areas,Brazil,Global,45 to 54 years old,2019
+5.78345,10865,,BRA,74570,74478,74391,74474,222,29189,Male,All areas,Brazil,Global,25 to 44 years old,2019
+3.8352,10865,,BRA,74425,74478,74391,74474,222,29189,Male,All areas,Brazil,Global,15 to 24 years old,2019
+5.36181,10865,,BRA,74437,74478,74391,74474,222,29189,Male,All areas,Brazil,Global,15 years old and over,2019
+10.67446,10865,,BRA,74569,74478,74391,74473,222,29189,Female,All areas,Brazil,Global,65 years old and over,2019
+13.29479,10865,,BRA,74437,74477,74391,74473,222,29189,Female,Rural,Brazil,Global,15 years old and over,2019
+3.473,10865,,BRA,74425,74477,74391,74474,222,29189,Male,Rural,Brazil,Global,15 to 24 years old,2019
+4.8947,10865,,BRA,74437,74477,74391,74474,222,29189,Male,Rural,Brazil,Global,15 years old and over,2019
+10.50481,10865,,BRA,74569,74477,74391,74473,222,29189,Female,Rural,Brazil,Global,65 years old and over,2019
+5.73836,10865,,BRA,74569,74479,74391,74474,222,29189,Male,Urban,Brazil,Global,65 years old and over,2019
+14.39607,10865,,BRA,74573,74477,74391,74473,222,29189,Female,Rural,Brazil,Global,55 to 64 years old,2019
+14.50419,10865,,BRA,74571,74477,74391,74473,222,29189,Female,Rural,Brazil,Global,45 to 54 years old,2019
+14.97198,10865,,BRA,74570,74477,74391,74473,222,29189,Female,Rural,Brazil,Global,25 to 44 years old,2019
+10.55035,10865,,BRA,74425,74477,74391,74473,222,29189,Female,Rural,Brazil,Global,15 to 24 years old,2019
+11.9568,10865,,BRA,74422,74478,74391,74473,222,29189,Female,All areas,Brazil,Global,14 years old and over,2019
+5.31079,10865,,BRA,74422,74478,74391,74474,222,29189,Male,All areas,Brazil,Global,14 years old and over,2019
+13.91904,10865,,BRA,74573,74478,74391,74473,222,29189,Female,All areas,Brazil,Global,55 to 64 years old,2019
+4.22551,10865,,BRA,74425,74479,74391,74474,222,29192,Male,Urban,Brazil,Global,15 to 24 years old,2022
+5.75685,10865,,BRA,74437,74479,74391,74474,222,29192,Male,Urban,Brazil,Global,15 years old and over,2022
+10.5997,10865,,BRA,74569,74479,74391,74473,222,29192,Female,Urban,Brazil,Global,65 years old and over,2022
+13.50304,10865,,BRA,74573,74479,74391,74473,222,29192,Female,Urban,Brazil,Global,55 to 64 years old,2022
+12.70453,10865,,BRA,74571,74479,74391,74473,222,29192,Female,Urban,Brazil,Global,45 to 54 years old,2022
+12.38747,10865,,BRA,74570,74479,74391,74473,222,29192,Female,Urban,Brazil,Global,25 to 44 years old,2022
+6.03879,10865,,BRA,74570,74479,74391,74474,222,29192,Male,Urban,Brazil,Global,25 to 44 years old,2022
+6.31803,10865,,BRA,74569,74479,74391,74474,222,29192,Male,Urban,Brazil,Global,65 years old and over,2022
+6.39578,10865,,BRA,74573,74479,74391,74474,222,29192,Male,Urban,Brazil,Global,55 to 64 years old,2022
+6.04177,10865,,BRA,74571,74479,74391,74474,222,29192,Male,Urban,Brazil,Global,45 to 54 years old,2022
+10.55864,10865,,BRA,74569,74478,74391,74473,222,29192,Female,All areas,Brazil,Global,65 years old and over,2022
+5.27814,10865,,BRA,74422,74477,74391,74474,222,29192,Male,Rural,Brazil,Global,14 years old and over,2022
+12.87241,10865,,BRA,74422,74477,74391,74473,222,29192,Female,Rural,Brazil,Global,14 years old and over,2022
+5.70622,10865,,BRA,74422,74479,74391,74474,222,29192,Male,Urban,Brazil,Global,14 years old and over,2022
+11.50681,10865,,BRA,74422,74479,74391,74473,222,29192,Female,Urban,Brazil,Global,14 years old and over,2022
+5.64468,10865,,BRA,74422,74478,74391,74474,222,29192,Male,All areas,Brazil,Global,14 years old and over,2022
+11.67358,10865,,BRA,74422,74478,74391,74473,222,29192,Female,All areas,Brazil,Global,14 years old and over,2022
+8.60888,10865,,BRA,74425,74478,74391,74473,222,29192,Female,All areas,Brazil,Global,15 to 24 years old,2022
+5.9633,10865,,BRA,74570,74478,74391,74474,222,29192,Male,All areas,Brazil,Global,25 to 44 years old,2022
+4.17563,10865,,BRA,74425,74478,74391,74474,222,29192,Male,All areas,Brazil,Global,15 to 24 years old,2022
+5.69492,10865,,BRA,74437,74478,74391,74474,222,29192,Male,All areas,Brazil,Global,15 years old and over,2022
+13.5688,10865,,BRA,74573,74478,74391,74473,222,29192,Female,All areas,Brazil,Global,55 to 64 years old,2022
+12.86777,10865,,BRA,74571,74478,74391,74473,222,29192,Female,All areas,Brazil,Global,45 to 54 years old,2022
+12.65479,10865,,BRA,74570,74478,74391,74473,222,29192,Female,All areas,Brazil,Global,25 to 44 years old,2022
+14.04665,10865,,BRA,74573,74477,74391,74473,222,29192,Female,Rural,Brazil,Global,55 to 64 years old,2022
+5.99941,10865,,BRA,74571,74478,74391,74474,222,29192,Male,All areas,Brazil,Global,45 to 54 years old,2022
+11.78285,10865,,BRA,74437,74478,74391,74473,222,29192,Female,All areas,Brazil,Global,15 years old and over,2022
+5.75218,10865,,BRA,74571,74477,74391,74474,222,29192,Male,Rural,Brazil,Global,45 to 54 years old,2022
+5.46142,10865,,BRA,74570,74477,74391,74474,222,29192,Male,Rural,Brazil,Global,25 to 44 years old,2022
+3.87294,10865,,BRA,74425,74477,74391,74474,222,29192,Male,Rural,Brazil,Global,15 to 24 years old,2022
+5.32459,10865,,BRA,74437,74477,74391,74474,222,29192,Male,Rural,Brazil,Global,15 years old and over,2022
+10.24589,10865,,BRA,74569,74477,74391,74473,222,29192,Female,Rural,Brazil,Global,65 years old and over,2022
+14.08921,10865,,BRA,74571,74477,74391,74473,222,29192,Female,Rural,Brazil,Global,45 to 54 years old,2022
+14.63313,10865,,BRA,74570,74477,74391,74473,222,29192,Female,Rural,Brazil,Global,25 to 44 years old,2022
+10.37457,10865,,BRA,74425,74477,74391,74473,222,29192,Female,Rural,Brazil,Global,15 to 24 years old,2022
+13.01996,10865,,BRA,74437,74477,74391,74473,222,29192,Female,Rural,Brazil,Global,15 years old and over,2022
+6.21748,10865,,BRA,74569,74478,74391,74474,222,29192,Male,All areas,Brazil,Global,65 years old and over,2022
+6.35035,10865,,BRA,74573,74478,74391,74474,222,29192,Male,All areas,Brazil,Global,55 to 64 years old,2022
+11.61161,10865,,BRA,74437,74479,74391,74473,222,29192,Female,Urban,Brazil,Global,15 years old and over,2022
+5.7259,10865,,BRA,74569,74477,74391,74474,222,29192,Male,Rural,Brazil,Global,65 years old and over,2022
+6.1085,10865,,BRA,74573,74477,74391,74474,222,29192,Male,Rural,Brazil,Global,55 to 64 years old,2022
+8.33235,10865,,BRA,74425,74479,74391,74473,222,29192,Female,Urban,Brazil,Global,15 to 24 years old,2022
+19.65278,3665,,URY,74422,74478,74391,74473,258,29177,Female,All areas,Uruguay,Global,14 years old and over,2007
+25.20833,3665,,URY,74437,74478,74391,74473,258,29177,Female,All areas,Uruguay,Global,15 years old and over,2007
+9.72222,3665,,URY,74437,74478,74391,74474,258,29177,Male,All areas,Uruguay,Global,15 years old and over,2007
+7.63889,3665,,URY,74422,74478,74391,74474,258,29177,Male,All areas,Uruguay,Global,14 years old and over,2007
+9.52425,3658,,URY,74569,74478,74391,74474,258,29183,Male,All areas,Uruguay,Global,65 years old and over,2013
+8.73967,3658,,URY,74573,74478,74391,74474,258,29183,Male,All areas,Uruguay,Global,55 to 64 years old,2013
+19.87475,3658,,URY,74437,74478,74391,74473,258,29183,Female,All areas,Uruguay,Global,15 years old and over,2013
+21.49769,3658,,URY,74571,74478,74391,74473,258,29183,Female,All areas,Uruguay,Global,45 to 54 years old,2013
+25.24346,3658,,URY,74570,74478,74391,74473,258,29183,Female,All areas,Uruguay,Global,25 to 44 years old,2013
+19.87475,3658,,URY,74437,74479,74391,74473,258,29183,Female,Urban,Uruguay,Global,15 years old and over,2013
+11.59866,3658,,URY,74425,74478,74391,74473,258,29183,Female,All areas,Uruguay,Global,15 to 24 years old,2013
+8.37738,3658,,URY,74437,74478,74391,74474,258,29183,Male,All areas,Uruguay,Global,15 years old and over,2013
+16.37684,3658,,URY,74569,74478,74391,74473,258,29183,Female,All areas,Uruguay,Global,65 years old and over,2013
+4.53628,3658,,URY,74425,74478,74391,74474,258,29183,Male,All areas,Uruguay,Global,15 to 24 years old,2013
+8.37738,3658,,URY,74437,74479,74391,74474,258,29183,Male,Urban,Uruguay,Global,15 years old and over,2013
+8.23414,3658,,URY,74571,74478,74391,74474,258,29183,Male,All areas,Uruguay,Global,45 to 54 years old,2013
+21.09393,3658,,URY,74573,74478,74391,74473,258,29183,Female,All areas,Uruguay,Global,55 to 64 years old,2013
+9.94765,3658,,URY,74570,74478,74391,74474,258,29183,Male,All areas,Uruguay,Global,25 to 44 years old,2013
+9.47016,9951,15951,CHL,74573,74479,74391,74474,224,29185,Male,Urban,Chile,Global,55 to 64 years old,2015
+10.14724,9951,15951,CHL,74571,74479,74391,74474,224,29185,Male,Urban,Chile,Global,45 to 54 years old,2015
+11.71605,9951,15951,CHL,74570,74479,74391,74474,224,29185,Male,Urban,Chile,Global,25 to 44 years old,2015
+7.58555,9951,15951,CHL,74425,74479,74391,74474,224,29185,Male,Urban,Chile,Global,15 to 24 years old,2015
+10.08063,9951,15951,CHL,74437,74479,74391,74474,224,29185,Male,Urban,Chile,Global,15 years old and over,2015
+9.85397,9951,15951,CHL,74418,74479,74391,74474,224,29185,Male,Urban,Chile,Global,12 years old and over,2015
+10.28653,9951,15951,CHL,74569,74479,74391,74474,224,29185,Male,Urban,Chile,Global,65 years old and over,2015
+23.43093,9951,15951,CHL,74571,74479,74391,74473,224,29185,Female,Urban,Chile,Global,45 to 54 years old,2015
+29.34439,9951,15951,CHL,74570,74479,74391,74473,224,29185,Female,Urban,Chile,Global,25 to 44 years old,2015
+15.95617,9951,15951,CHL,74425,74479,74391,74473,224,29185,Female,Urban,Chile,Global,15 to 24 years old,2015
+21.28775,9951,15951,CHL,74573,74479,74391,74473,224,29185,Female,Urban,Chile,Global,55 to 64 years old,2015
+22.80946,9951,15951,CHL,74437,74479,74391,74473,224,29185,Female,Urban,Chile,Global,15 years old and over,2015
+22.10355,9951,15951,CHL,74418,74479,74391,74473,224,29185,Female,Urban,Chile,Global,12 years old and over,2015
+17.69128,9951,15951,CHL,74569,74479,74391,74473,224,29185,Female,Urban,Chile,Global,65 years old and over,2015
+10.78435,10866,17042,CHL,74437,74479,74391,74474,224,29193,Male,Urban,Chile,Global,15 years old and over,2023
+12.12727,10866,17042,CHL,74571,74479,74391,74474,224,29193,Male,Urban,Chile,Global,45 to 54 years old,2023
+12.42637,10866,17042,CHL,74570,74479,74391,74474,224,29193,Male,Urban,Chile,Global,25 to 44 years old,2023
+7.16609,10866,17042,CHL,74425,74479,74391,74474,224,29193,Male,Urban,Chile,Global,15 to 24 years old,2023
+10.12109,10866,17042,CHL,74573,74479,74391,74474,224,29193,Male,Urban,Chile,Global,55 to 64 years old,2023
+16.56803,10866,17042,CHL,74569,74479,74391,74473,224,29193,Female,Urban,Chile,Global,65 years old and over,2023
+18.00554,10866,17042,CHL,74573,74479,74391,74473,224,29193,Female,Urban,Chile,Global,55 to 64 years old,2023
+20.95902,10866,17042,CHL,74571,74479,74391,74473,224,29193,Female,Urban,Chile,Global,45 to 54 years old,2023
+23.18487,10866,17042,CHL,74570,74479,74391,74473,224,29193,Female,Urban,Chile,Global,25 to 44 years old,2023
+10.78657,10866,17042,CHL,74425,74479,74391,74473,224,29193,Female,Urban,Chile,Global,15 to 24 years old,2023
+18.97014,10866,17042,CHL,74437,74479,74391,74473,224,29193,Female,Urban,Chile,Global,15 years old and over,2023
+18.41341,10866,17042,CHL,74418,74479,74391,74473,224,29193,Female,Urban,Chile,Global,12 years old and over,2023
+10.50679,10866,17042,CHL,74418,74479,74391,74474,224,29193,Male,Urban,Chile,Global,12 years old and over,2023
+9.75643,10866,17042,CHL,74569,74479,74391,74474,224,29193,Male,Urban,Chile,Global,65 years old and over,2023
+5.25,3705,9029,COL,74573,74478,74391,74474,225,29183,Male,All areas,Colombia,Global,55 to 64 years old,2013
+22.20833,3705,9029,COL,74437,74477,74391,74473,225,29183,Female,Rural,Colombia,Global,15 years old and over,2013
+17.54167,3705,9029,COL,74437,74478,74391,74473,225,29183,Female,All areas,Colombia,Global,15 years old and over,2013
+15.20833,3705,9029,COL,74414,74479,74391,74473,225,29183,Female,Urban,Colombia,Global,10 years old and over,2013
+20.25,3705,9029,COL,74414,74477,74391,74473,225,29183,Female,Rural,Colombia,Global,10 years old and over,2013
+16.29167,3705,9029,COL,74414,74478,74391,74473,225,29183,Female,All areas,Colombia,Global,10 years old and over,2013
+16.375,3705,9029,COL,74437,74479,74391,74473,225,29183,Female,Urban,Colombia,Global,15 years old and over,2013
+3.66667,3705,9029,COL,74425,74478,74391,74474,225,29183,Male,All areas,Colombia,Global,15 to 24 years old,2013
+4.58333,3705,9029,COL,74437,74479,74391,74474,225,29183,Male,Urban,Colombia,Global,15 years old and over,2013
+4.625,3705,9029,COL,74437,74477,74391,74474,225,29183,Male,Rural,Colombia,Global,15 years old and over,2013
+4.54167,3705,9029,COL,74437,74478,74391,74474,225,29183,Male,All areas,Colombia,Global,15 years old and over,2013
+4.33333,3705,9029,COL,74414,74479,74391,74474,225,29183,Male,Urban,Colombia,Global,10 years old and over,2013
+4.375,3705,9029,COL,74414,74477,74391,74474,225,29183,Male,Rural,Colombia,Global,10 years old and over,2013
+4.375,3705,9029,COL,74414,74478,74391,74474,225,29183,Male,All areas,Colombia,Global,10 years old and over,2013
+3.75,3705,9029,COL,74425,74477,74391,74474,225,29183,Male,Rural,Colombia,Global,15 to 24 years old,2013
+4.66667,3705,9029,COL,74571,74479,74391,74474,225,29183,Male,Urban,Colombia,Global,45 to 54 years old,2013
+4.54167,3705,9029,COL,74571,74477,74391,74474,225,29183,Male,Rural,Colombia,Global,45 to 54 years old,2013
+4.66667,3705,9029,COL,74571,74478,74391,74474,225,29183,Male,All areas,Colombia,Global,45 to 54 years old,2013
+4.70833,3705,9029,COL,74570,74477,74391,74474,225,29183,Male,Rural,Colombia,Global,25 to 44 years old,2013
+4.75,3705,9029,COL,74570,74478,74391,74474,225,29183,Male,All areas,Colombia,Global,25 to 44 years old,2013
+3.625,3705,9029,COL,74425,74479,74391,74474,225,29183,Male,Urban,Colombia,Global,15 to 24 years old,2013
+4.75,3705,9029,COL,74570,74479,74391,74474,225,29183,Male,Urban,Colombia,Global,25 to 44 years old,2013
+14,3705,9029,COL,74569,74479,74391,74473,225,29183,Female,Urban,Colombia,Global,65 years old and over,2013
+22.875,3705,9029,COL,74571,74477,74391,74473,225,29183,Female,Rural,Colombia,Global,45 to 54 years old,2013
+14.5,3705,9029,COL,74569,74478,74391,74473,225,29183,Female,All areas,Colombia,Global,65 years old and over,2013
+18.41667,3705,9029,COL,74573,74479,74391,74473,225,29183,Female,Urban,Colombia,Global,55 to 64 years old,2013
+21.83333,3705,9029,COL,74573,74477,74391,74473,225,29183,Female,Rural,Colombia,Global,55 to 64 years old,2013
+19.08333,3705,9029,COL,74573,74478,74391,74473,225,29183,Female,All areas,Colombia,Global,55 to 64 years old,2013
+17.66667,3705,9029,COL,74571,74479,74391,74473,225,29183,Female,Urban,Colombia,Global,45 to 54 years old,2013
+18.45833,3705,9029,COL,74570,74479,74391,74473,225,29183,Female,Urban,Colombia,Global,25 to 44 years old,2013
+25.54167,3705,9029,COL,74570,74477,74391,74473,225,29183,Female,Rural,Colombia,Global,25 to 44 years old,2013
+19.79167,3705,9029,COL,74570,74478,74391,74473,225,29183,Female,All areas,Colombia,Global,25 to 44 years old,2013
+12.125,3705,9029,COL,74425,74479,74391,74473,225,29183,Female,Urban,Colombia,Global,15 to 24 years old,2013
+19.54167,3705,9029,COL,74425,74477,74391,74473,225,29183,Female,Rural,Colombia,Global,15 to 24 years old,2013
+13.79167,3705,9029,COL,74425,74478,74391,74473,225,29183,Female,All areas,Colombia,Global,15 to 24 years old,2013
+18.54167,3705,9029,COL,74571,74478,74391,74473,225,29183,Female,All areas,Colombia,Global,45 to 54 years old,2013
+16.70833,3705,9029,COL,74569,74477,74391,74473,225,29183,Female,Rural,Colombia,Global,65 years old and over,2013
+5.20833,3705,9029,COL,74569,74479,74391,74474,225,29183,Male,Urban,Colombia,Global,65 years old and over,2013
+5.54167,3705,9029,COL,74569,74477,74391,74474,225,29183,Male,Rural,Colombia,Global,65 years old and over,2013
+5.33333,3705,9029,COL,74569,74478,74391,74474,225,29183,Male,All areas,Colombia,Global,65 years old and over,2013
+5.25,3705,9029,COL,74573,74479,74391,74474,225,29183,Male,Urban,Colombia,Global,55 to 64 years old,2013
+5.29167,3705,9029,COL,74573,74477,74391,74474,225,29183,Male,Rural,Colombia,Global,55 to 64 years old,2013
+19.27433,3705,,COL,74414,74477,74391,74473,225,29187,Female,Rural,Colombia,Global,10 years old and over,2017
+19.03738,3705,,COL,74570,74478,74391,74473,225,29187,Female,All areas,Colombia,Global,25 to 44 years old,2017
+12.1556,3705,,COL,74425,74479,74391,74473,225,29187,Female,Urban,Colombia,Global,15 to 24 years old,2017
+15.78218,3705,,COL,74414,74478,74391,74473,225,29187,Female,All areas,Colombia,Global,10 years old and over,2017
+13.62764,3705,,COL,74569,74478,74391,74473,225,29187,Female,All areas,Colombia,Global,65 years old and over,2017
+4.59313,3705,,COL,74437,74478,74391,74474,225,29187,Male,All areas,Colombia,Global,15 years old and over,2017
+4.43783,3705,,COL,74414,74477,74391,74474,225,29187,Male,Rural,Colombia,Global,10 years old and over,2017
+4.38101,3705,,COL,74414,74479,74391,74474,225,29187,Male,Urban,Colombia,Global,10 years old and over,2017
+4.39449,3705,,COL,74414,74478,74391,74474,225,29187,Male,All areas,Colombia,Global,10 years old and over,2017
+13.16417,3705,,COL,74569,74479,74391,74473,225,29187,Female,Urban,Colombia,Global,65 years old and over,2017
+15.67008,3705,,COL,74569,74477,74391,74473,225,29187,Female,Rural,Colombia,Global,65 years old and over,2017
+4.62139,3705,,COL,74437,74477,74391,74474,225,29187,Male,Rural,Colombia,Global,15 years old and over,2017
+24.30224,3705,,COL,74570,74477,74391,74473,225,29187,Female,Rural,Colombia,Global,25 to 44 years old,2017
+14.90959,3705,,COL,74414,74479,74391,74473,225,29187,Female,Urban,Colombia,Global,10 years old and over,2017
+18.40811,3705,,COL,74425,74477,74391,74473,225,29187,Female,Rural,Colombia,Global,15 to 24 years old,2017
+13.50649,3705,,COL,74425,74478,74391,74473,225,29187,Female,All areas,Colombia,Global,15 to 24 years old,2017
+15.86641,3705,,COL,74437,74479,74391,74473,225,29187,Female,Urban,Colombia,Global,15 years old and over,2017
+21.08793,3705,,COL,74437,74477,74391,74473,225,29187,Female,Rural,Colombia,Global,15 years old and over,2017
+16.87229,3705,,COL,74437,74478,74391,74473,225,29187,Female,All areas,Colombia,Global,15 years old and over,2017
+4.58466,3705,,COL,74437,74479,74391,74474,225,29187,Male,Urban,Colombia,Global,15 years old and over,2017
+5.0144,3705,,COL,74569,74479,74391,74474,225,29187,Male,Urban,Colombia,Global,65 years old and over,2017
+4.9084,3705,,COL,74570,74479,74391,74474,225,29187,Male,Urban,Colombia,Global,25 to 44 years old,2017
+4.50404,3705,,COL,74570,74477,74391,74474,225,29187,Male,Rural,Colombia,Global,25 to 44 years old,2017
+4.82049,3705,,COL,74570,74478,74391,74474,225,29187,Male,All areas,Colombia,Global,25 to 44 years old,2017
+4.8593,3705,,COL,74571,74478,74391,74474,225,29187,Male,All areas,Colombia,Global,45 to 54 years old,2017
+3.58287,3705,,COL,74425,74479,74391,74474,225,29187,Male,Urban,Colombia,Global,15 to 24 years old,2017
+3.74796,3705,,COL,74425,74477,74391,74474,225,29187,Male,Rural,Colombia,Global,15 to 24 years old,2017
+3.62175,3705,,COL,74425,74478,74391,74474,225,29187,Male,All areas,Colombia,Global,15 to 24 years old,2017
+5.00894,3705,,COL,74571,74477,74391,74474,225,29187,Male,Rural,Colombia,Global,45 to 54 years old,2017
+5.66822,3705,,COL,74569,74477,74391,74474,225,29187,Male,Rural,Colombia,Global,65 years old and over,2017
+5.18075,3705,,COL,74569,74478,74391,74474,225,29187,Male,All areas,Colombia,Global,65 years old and over,2017
+4.93006,3705,,COL,74573,74479,74391,74474,225,29187,Male,Urban,Colombia,Global,55 to 64 years old,2017
+5.31375,3705,,COL,74573,74477,74391,74474,225,29187,Male,Rural,Colombia,Global,55 to 64 years old,2017
+5.02125,3705,,COL,74573,74478,74391,74474,225,29187,Male,All areas,Colombia,Global,55 to 64 years old,2017
+4.81382,3705,,COL,74571,74479,74391,74474,225,29187,Male,Urban,Colombia,Global,45 to 54 years old,2017
+21.00351,3705,,COL,74573,74477,74391,74473,225,29187,Female,Rural,Colombia,Global,55 to 64 years old,2017
+18.04566,3705,,COL,74573,74478,74391,74473,225,29187,Female,All areas,Colombia,Global,55 to 64 years old,2017
+17.31898,3705,,COL,74571,74479,74391,74473,225,29187,Female,Urban,Colombia,Global,45 to 54 years old,2017
+21.73556,3705,,COL,74571,74477,74391,74473,225,29187,Female,Rural,Colombia,Global,45 to 54 years old,2017
+18.08836,3705,,COL,74571,74478,74391,74473,225,29187,Female,All areas,Colombia,Global,45 to 54 years old,2017
+17.79018,3705,,COL,74570,74479,74391,74473,225,29187,Female,Urban,Colombia,Global,25 to 44 years old,2017
+17.38529,3705,,COL,74573,74479,74391,74473,225,29187,Female,Urban,Colombia,Global,55 to 64 years old,2017
+18.51089,3705,,COL,74573,74478,74391,74473,225,29191,Female,All areas,Colombia,Global,55 to 64 years old,2021
+12.32539,3705,,COL,74425,74479,74391,74473,225,29191,Female,Urban,Colombia,Global,15 to 24 years old,2021
+18.90188,3705,,COL,74570,74479,74391,74473,225,29191,Female,Urban,Colombia,Global,25 to 44 years old,2021
+24.85381,3705,,COL,74570,74477,74391,74473,225,29191,Female,Rural,Colombia,Global,25 to 44 years old,2021
+20.0987,3705,,COL,74570,74478,74391,74473,225,29191,Female,All areas,Colombia,Global,25 to 44 years old,2021
+5.40587,3705,,COL,74571,74479,74391,74474,225,29191,Male,Urban,Colombia,Global,45 to 54 years old,2021
+5.08401,3705,,COL,74571,74477,74391,74474,225,29191,Male,Rural,Colombia,Global,45 to 54 years old,2021
+5.33022,3705,,COL,74571,74478,74391,74474,225,29191,Male,All areas,Colombia,Global,45 to 54 years old,2021
+5.64677,3705,,COL,74570,74479,74391,74474,225,29191,Male,Urban,Colombia,Global,25 to 44 years old,2021
+5.98739,3705,,COL,74569,74478,74391,74474,225,29191,Male,All areas,Colombia,Global,65 years old and over,2021
+5.80672,3705,,COL,74569,74479,74391,74474,225,29191,Male,Urban,Colombia,Global,65 years old and over,2021
+6.4773,3705,,COL,74569,74477,74391,74474,225,29191,Male,Rural,Colombia,Global,65 years old and over,2021
+4.57286,3705,,COL,74570,74477,74391,74474,225,29191,Male,Rural,Colombia,Global,25 to 44 years old,2021
+5.13873,3705,,COL,74414,74479,74391,74474,225,29191,Male,Urban,Colombia,Global,10 years old and over,2021
+5.03352,3705,,COL,74414,74478,74391,74474,225,29191,Male,All areas,Colombia,Global,10 years old and over,2021
+14.11022,3705,,COL,74569,74479,74391,74473,225,29191,Female,Urban,Colombia,Global,65 years old and over,2021
+16.92441,3705,,COL,74569,74477,74391,74473,225,29191,Female,Rural,Colombia,Global,65 years old and over,2021
+14.62765,3705,,COL,74569,74478,74391,74473,225,29191,Female,All areas,Colombia,Global,65 years old and over,2021
+18.08745,3705,,COL,74573,74479,74391,74473,225,29191,Female,Urban,Colombia,Global,55 to 64 years old,2021
+20.22728,3705,,COL,74573,74477,74391,74473,225,29191,Female,Rural,Colombia,Global,55 to 64 years old,2021
+4.70785,3705,,COL,74414,74477,74391,74474,225,29191,Male,Rural,Colombia,Global,10 years old and over,2021
+5.41002,3705,,COL,74570,74478,74391,74474,225,29191,Male,All areas,Colombia,Global,25 to 44 years old,2021
+4.21619,3705,,COL,74425,74479,74391,74474,225,29191,Male,Urban,Colombia,Global,15 to 24 years old,2021
+4.10038,3705,,COL,74425,74477,74391,74474,225,29191,Male,Rural,Colombia,Global,15 to 24 years old,2021
+4.18365,3705,,COL,74425,74478,74391,74474,225,29191,Male,All areas,Colombia,Global,15 to 24 years old,2021
+5.34712,3705,,COL,74437,74479,74391,74474,225,29191,Male,Urban,Colombia,Global,15 years old and over,2021
+4.88561,3705,,COL,74437,74477,74391,74474,225,29191,Male,Rural,Colombia,Global,15 years old and over,2021
+5.23624,3705,,COL,74437,74478,74391,74474,225,29191,Male,All areas,Colombia,Global,15 years old and over,2021
+13.79986,3705,,COL,74425,74478,74391,74473,225,29191,Female,All areas,Colombia,Global,15 to 24 years old,2021
+16.68647,3705,,COL,74437,74479,74391,74473,225,29191,Female,Urban,Colombia,Global,15 years old and over,2021
+21.40363,3705,,COL,74437,74477,74391,74473,225,29191,Female,Rural,Colombia,Global,15 years old and over,2021
+17.64085,3705,,COL,74437,74478,74391,74473,225,29191,Female,All areas,Colombia,Global,15 years old and over,2021
+19.87081,3705,,COL,74414,74477,74391,74473,225,29191,Female,Rural,Colombia,Global,10 years old and over,2021
+15.77798,3705,,COL,74414,74479,74391,74473,225,29191,Female,Urban,Colombia,Global,10 years old and over,2021
+18.66087,3705,,COL,74425,74477,74391,74473,225,29191,Female,Rural,Colombia,Global,15 to 24 years old,2021
+17.98568,3705,,COL,74571,74479,74391,74473,225,29191,Female,Urban,Colombia,Global,45 to 54 years old,2021
+21.7935,3705,,COL,74571,74477,74391,74473,225,29191,Female,Rural,Colombia,Global,45 to 54 years old,2021
+18.68215,3705,,COL,74571,74478,74391,74473,225,29191,Female,All areas,Colombia,Global,45 to 54 years old,2021
+16.62633,3705,,COL,74414,74478,74391,74473,225,29191,Female,All areas,Colombia,Global,10 years old and over,2021
+5.94938,3705,,COL,74573,74479,74391,74474,225,29191,Male,Urban,Colombia,Global,55 to 64 years old,2021
+5.34952,3705,,COL,74573,74477,74391,74474,225,29191,Male,Rural,Colombia,Global,55 to 64 years old,2021
+5.80566,3705,,COL,74573,74478,74391,74474,225,29191,Male,All areas,Colombia,Global,55 to 64 years old,2021
+24.63184,3704,,CRI,74437,74477,74391,74473,226,29187,Female,Rural,Costa Rica,Global,15 years old and over,2017
+22.14571,3704,,CRI,74437,74478,74391,74473,226,29187,Female,All areas,Costa Rica,Global,15 years old and over,2017
+23.52018,3704,,CRI,74418,74477,74391,74473,226,29187,Female,Rural,Costa Rica,Global,12 years old and over,2017
+20.38943,3704,,CRI,74418,74479,74391,74473,226,29187,Female,Urban,Costa Rica,Global,12 years old and over,2017
+21.31639,3704,,CRI,74418,74478,74391,74473,226,29187,Female,All areas,Costa Rica,Global,12 years old and over,2017
+8.53587,3704,,CRI,74573,74478,74391,74474,226,29187,Male,All areas,Costa Rica,Global,55 to 64 years old,2017
+19.55764,3704,,CRI,74569,74478,74391,74473,226,29187,Female,All areas,Costa Rica,Global,65 years old and over,2017
+20.21094,3704,,CRI,74569,74477,74391,74473,226,29187,Female,Rural,Costa Rica,Global,65 years old and over,2017
+24.77868,3704,,CRI,74570,74478,74391,74473,226,29187,Female,All areas,Costa Rica,Global,25 to 44 years old,2017
+14.33107,3704,,CRI,74425,74479,74391,74473,226,29187,Female,Urban,Costa Rica,Global,15 to 24 years old,2017
+19.66534,3704,,CRI,74425,74477,74391,74473,226,29187,Female,Rural,Costa Rica,Global,15 to 24 years old,2017
+15.96047,3704,,CRI,74425,74478,74391,74473,226,29187,Female,All areas,Costa Rica,Global,15 to 24 years old,2017
+23.77365,3704,,CRI,74571,74478,74391,74473,226,29187,Female,All areas,Costa Rica,Global,45 to 54 years old,2017
+21.11318,3704,,CRI,74437,74479,74391,74473,226,29187,Female,Urban,Costa Rica,Global,15 years old and over,2017
+6.26261,3704,,CRI,74425,74478,74391,74474,226,29187,Male,All areas,Costa Rica,Global,15 to 24 years old,2017
+8.4405,3704,,CRI,74437,74479,74391,74474,226,29187,Male,Urban,Costa Rica,Global,15 years old and over,2017
+8.24781,3704,,CRI,74437,74477,74391,74474,226,29187,Male,Rural,Costa Rica,Global,15 years old and over,2017
+8.37858,3704,,CRI,74437,74478,74391,74474,226,29187,Male,All areas,Costa Rica,Global,15 years old and over,2017
+8.21729,3704,,CRI,74418,74479,74391,74474,226,29187,Male,Urban,Costa Rica,Global,12 years old and over,2017
+8.03246,3704,,CRI,74418,74477,74391,74474,226,29187,Male,Rural,Costa Rica,Global,12 years old and over,2017
+8.15808,3704,,CRI,74418,74478,74391,74474,226,29187,Male,All areas,Costa Rica,Global,12 years old and over,2017
+5.88054,3704,,CRI,74425,74477,74391,74474,226,29187,Male,Rural,Costa Rica,Global,15 to 24 years old,2017
+9.17251,3704,,CRI,74571,74479,74391,74474,226,29187,Male,Urban,Costa Rica,Global,45 to 54 years old,2017
+8.71378,3704,,CRI,74571,74477,74391,74474,226,29187,Male,Rural,Costa Rica,Global,45 to 54 years old,2017
+9.05145,3704,,CRI,74571,74478,74391,74474,226,29187,Male,All areas,Costa Rica,Global,45 to 54 years old,2017
+8.61257,3704,,CRI,74570,74477,74391,74474,226,29187,Male,Rural,Costa Rica,Global,25 to 44 years old,2017
+8.80291,3704,,CRI,74570,74478,74391,74474,226,29187,Male,All areas,Costa Rica,Global,25 to 44 years old,2017
+6.41651,3704,,CRI,74425,74479,74391,74474,226,29187,Male,Urban,Costa Rica,Global,15 to 24 years old,2017
+8.90689,3704,,CRI,74570,74479,74391,74474,226,29187,Male,Urban,Costa Rica,Global,25 to 44 years old,2017
+19.32405,3704,,CRI,74569,74479,74391,74473,226,29187,Female,Urban,Costa Rica,Global,65 years old and over,2017
+23.53673,3704,,CRI,74570,74479,74391,74473,226,29187,Female,Urban,Costa Rica,Global,25 to 44 years old,2017
+27.6035,3704,,CRI,74570,74477,74391,74473,226,29187,Female,Rural,Costa Rica,Global,25 to 44 years old,2017
+25.83393,3704,,CRI,74571,74477,74391,74473,226,29187,Female,Rural,Costa Rica,Global,45 to 54 years old,2017
+23.11347,3704,,CRI,74571,74479,74391,74473,226,29187,Female,Urban,Costa Rica,Global,45 to 54 years old,2017
+23.76349,3704,,CRI,74573,74479,74391,74473,226,29187,Female,Urban,Costa Rica,Global,55 to 64 years old,2017
+25.45641,3704,,CRI,74573,74477,74391,74473,226,29187,Female,Rural,Costa Rica,Global,55 to 64 years old,2017
+24.31156,3704,,CRI,74573,74478,74391,74473,226,29187,Female,All areas,Costa Rica,Global,55 to 64 years old,2017
+10.67177,3704,,CRI,74569,74479,74391,74474,226,29187,Male,Urban,Costa Rica,Global,65 years old and over,2017
+9.24699,3704,,CRI,74569,74477,74391,74474,226,29187,Male,Rural,Costa Rica,Global,65 years old and over,2017
+10.14984,3704,,CRI,74569,74478,74391,74474,226,29187,Male,All areas,Costa Rica,Global,65 years old and over,2017
+8.13801,3704,,CRI,74573,74479,74391,74474,226,29187,Male,Urban,Costa Rica,Global,55 to 64 years old,2017
+9.43676,3704,,CRI,74573,74477,74391,74474,226,29187,Male,Rural,Costa Rica,Global,55 to 64 years old,2017
+21.04167,10867,,CRI,74418,74479,74391,74473,226,29192,Female,Urban,Costa Rica,Global,12 years old and over,2022
+10.10913,10867,,CRI,74418,74477,74391,74474,226,29192,Male,Rural,Costa Rica,Global,12 years old and over,2022
+23.44246,10867,,CRI,74418,74477,74391,74473,226,29192,Female,Rural,Costa Rica,Global,12 years old and over,2022
+10.35714,10867,,CRI,74418,74479,74391,74474,226,29192,Male,Urban,Costa Rica,Global,12 years old and over,2022
+21.64683,10867,,CRI,74418,74478,74391,74473,226,29192,Female,All areas,Costa Rica,Global,12 years old and over,2022
+10.30754,10867,,CRI,74418,74478,74391,74474,226,29192,Male,All areas,Costa Rica,Global,12 years old and over,2022
+16.31944,3657,8971,CUB,74437,74478,74391,74473,249,29171,Female,All areas,Cuba,Global,15 years old and over,2001
+5.34722,3657,8972,CUB,74437,74478,74391,74474,249,29171,Male,All areas,Cuba,Global,15 years old and over,2001
+21,3658,,CUB,74437,74478,74391,74473,249,29186,Female,All areas,Cuba,Global,15 years old and over,2016
+12.47024,3658,,CUB,74437,74478,74391,74474,249,29186,Male,All areas,Cuba,Global,15 years old and over,2016
+18.26668,3658,8975,DOM,74437,74477,74391,74473,264,29186,Female,Rural,Dominican Republic,Global,15 years old and over,2016
+16.70887,3658,8975,DOM,74437,74478,74391,74473,264,29186,Female,All areas,Dominican Republic,Global,15 years old and over,2016
+19.49627,3658,8975,DOM,74570,74478,74391,74473,264,29186,Female,All areas,Dominican Republic,Global,25 to 44 years old,2016
+2.99277,3658,8975,DOM,74425,74478,74391,74474,264,29186,Male,All areas,Dominican Republic,Global,15 to 24 years old,2016
+3.94582,3658,8975,DOM,74437,74479,74391,74474,264,29186,Male,Urban,Dominican Republic,Global,15 years old and over,2016
+3.35253,3658,8975,DOM,74437,74477,74391,74474,264,29186,Male,Rural,Dominican Republic,Global,15 years old and over,2016
+3.78561,3658,8975,DOM,74437,74478,74391,74474,264,29186,Male,All areas,Dominican Republic,Global,15 years old and over,2016
+16.21553,3658,8975,DOM,74425,74478,74391,74473,264,29186,Female,All areas,Dominican Republic,Global,15 to 24 years old,2016
+16.23244,3658,8975,DOM,74437,74479,74391,74473,264,29186,Female,Urban,Dominican Republic,Global,15 years old and over,2016
+15.94186,3658,8975,DOM,74571,74478,74391,74473,264,29186,Female,All areas,Dominican Republic,Global,45 to 54 years old,2016
+10.26351,3658,8975,DOM,74569,74478,74391,74473,264,29186,Female,All areas,Dominican Republic,Global,65 years old and over,2016
+16.49352,3658,8975,DOM,74573,74478,74391,74473,264,29186,Female,All areas,Dominican Republic,Global,55 to 64 years old,2016
+3.66849,3658,8975,DOM,74569,74478,74391,74474,264,29186,Male,All areas,Dominican Republic,Global,65 years old and over,2016
+3.40192,3658,8975,DOM,74573,74478,74391,74474,264,29186,Male,All areas,Dominican Republic,Global,55 to 64 years old,2016
+4.03944,3658,8975,DOM,74571,74478,74391,74474,264,29186,Male,All areas,Dominican Republic,Global,45 to 54 years old,2016
+4.23704,3658,8975,DOM,74570,74478,74391,74474,264,29186,Male,All areas,Dominican Republic,Global,25 to 44 years old,2016
+4.40792,9945,15992,DOM,74569,74478,74391,74474,264,29191,Male,All areas,Dominican Republic,Global,65 years old and over,2021
+5.82457,9945,15992,DOM,74573,74478,74391,74474,264,29191,Male,All areas,Dominican Republic,Global,55 to 64 years old,2021
+6.35297,9945,15992,DOM,74571,74478,74391,74474,264,29191,Male,All areas,Dominican Republic,Global,45 to 54 years old,2021
+6.86945,9945,15992,DOM,74570,74478,74391,74474,264,29191,Male,All areas,Dominican Republic,Global,25 to 44 years old,2021
+6.00034,9945,15992,DOM,74437,74479,74391,74474,264,29191,Male,Urban,Dominican Republic,Global,15 years old and over,2021
+14.36623,9945,15992,DOM,74437,74479,74391,74473,264,29191,Female,Urban,Dominican Republic,Global,15 years old and over,2021
+5.90428,9945,15992,DOM,74437,74478,74391,74474,264,29191,Male,All areas,Dominican Republic,Global,15 years old and over,2021
+14.49101,9945,15992,DOM,74437,74478,74391,74473,264,29191,Female,All areas,Dominican Republic,Global,15 years old and over,2021
+15.19497,9945,15992,DOM,74437,74477,74391,74473,264,29191,Female,Rural,Dominican Republic,Global,15 years old and over,2021
+4.58743,9945,15992,DOM,74425,74478,74391,74474,264,29191,Male,All areas,Dominican Republic,Global,15 to 24 years old,2021
+9.16727,9945,15992,DOM,74569,74478,74391,74473,264,29191,Female,All areas,Dominican Republic,Global,65 years old and over,2021
+12.9337,9945,15992,DOM,74573,74478,74391,74473,264,29191,Female,All areas,Dominican Republic,Global,55 to 64 years old,2021
+13.31133,9945,15992,DOM,74571,74478,74391,74473,264,29191,Female,All areas,Dominican Republic,Global,45 to 54 years old,2021
+17.74421,9945,15992,DOM,74570,74478,74391,74473,264,29191,Female,All areas,Dominican Republic,Global,25 to 44 years old,2021
+13.56063,9945,15992,DOM,74425,74478,74391,74473,264,29191,Female,All areas,Dominican Republic,Global,15 to 24 years old,2021
+5.48406,9945,15992,DOM,74437,74477,74391,74474,264,29191,Male,Rural,Dominican Republic,Global,15 years old and over,2021
+7.64595,9946,,ECU,74418,74478,74391,74474,229,29177,Male,All areas,Ecuador,Global,12 years old and over,2007
+22.39657,9946,,ECU,74418,74478,74391,74473,229,29177,Female,All areas,Ecuador,Global,12 years old and over,2007
+21.96564,9946,,ECU,74418,74478,74391,74473,229,29178,Female,All areas,Ecuador,Global,12 years old and over,2008
+7.93606,9946,,ECU,74418,74478,74391,74474,229,29178,Male,All areas,Ecuador,Global,12 years old and over,2008
+7.79518,9946,,ECU,74418,74478,74391,74474,229,29179,Male,All areas,Ecuador,Global,12 years old and over,2009
+21.44893,9946,,ECU,74418,74478,74391,74473,229,29179,Female,All areas,Ecuador,Global,12 years old and over,2009
+20.33451,9946,,ECU,74418,74478,74391,74473,229,29180,Female,All areas,Ecuador,Global,12 years old and over,2010
+7.55554,9946,,ECU,74418,74478,74391,74474,229,29180,Male,All areas,Ecuador,Global,12 years old and over,2010
+19.25301,9946,,ECU,74418,74478,74391,74473,229,29181,Female,All areas,Ecuador,Global,12 years old and over,2011
+7.33103,9946,,ECU,74418,74478,74391,74474,229,29181,Male,All areas,Ecuador,Global,12 years old and over,2011
+19.28952,9946,,ECU,74418,74478,74391,74473,229,29182,Female,All areas,Ecuador,Global,12 years old and over,2012
+5.65425,3658,8976,ECU,74569,74478,74391,74474,229,29182,Male,All areas,Ecuador,Global,65 years old and over,2012
+5.41866,3658,8976,ECU,74573,74478,74391,74474,229,29182,Male,All areas,Ecuador,Global,55 to 64 years old,2012
+5.31071,3658,8976,ECU,74571,74478,74391,74474,229,29182,Male,All areas,Ecuador,Global,45 to 54 years old,2012
+5.22908,3658,8976,ECU,74570,74478,74391,74474,229,29182,Male,All areas,Ecuador,Global,25 to 44 years old,2012
+7.31168,9946,,ECU,74418,74478,74391,74474,229,29182,Male,All areas,Ecuador,Global,12 years old and over,2012
+3.11728,3658,8976,ECU,74425,74478,74391,74474,229,29182,Male,All areas,Ecuador,Global,15 to 24 years old,2012
+24.9341,3658,8976,ECU,74570,74478,74391,74473,229,29182,Female,All areas,Ecuador,Global,25 to 44 years old,2012
+4.72192,3658,8976,ECU,74437,74478,74391,74474,229,29182,Male,All areas,Ecuador,Global,15 years old and over,2012
+4.56614,3658,8976,ECU,74437,74477,74391,74474,229,29182,Male,Rural,Ecuador,Global,15 years old and over,2012
+15.19331,3658,8976,ECU,74569,74478,74391,74473,229,29182,Female,All areas,Ecuador,Global,65 years old and over,2012
+21.01314,3658,8976,ECU,74573,74478,74391,74473,229,29182,Female,All areas,Ecuador,Global,55 to 64 years old,2012
+21.99487,3658,8976,ECU,74571,74478,74391,74473,229,29182,Female,All areas,Ecuador,Global,45 to 54 years old,2012
+12.20591,3658,8976,ECU,74425,74478,74391,74473,229,29182,Female,All areas,Ecuador,Global,15 to 24 years old,2012
+4.80366,3658,8976,ECU,74437,74479,74391,74474,229,29182,Male,Urban,Ecuador,Global,15 years old and over,2012
+19.74505,3658,8976,ECU,74437,74478,74391,74473,229,29182,Female,All areas,Ecuador,Global,15 years old and over,2012
+19.19804,3658,8976,ECU,74437,74479,74391,74473,229,29182,Female,Urban,Ecuador,Global,15 years old and over,2012
+20.85316,3658,8976,ECU,74437,74477,74391,74473,229,29182,Female,Rural,Ecuador,Global,15 years old and over,2012
+6.98316,9946,,ECU,74418,74478,74391,74474,229,29183,Male,All areas,Ecuador,Global,12 years old and over,2013
+19.16101,9946,,ECU,74418,74478,74391,74473,229,29183,Female,All areas,Ecuador,Global,12 years old and over,2013
+7.22645,9946,,ECU,74418,74478,74391,74474,229,29184,Male,All areas,Ecuador,Global,12 years old and over,2014
+18.70529,9946,,ECU,74418,74478,74391,74473,229,29184,Female,All areas,Ecuador,Global,12 years old and over,2014
+6.70541,9946,,ECU,74418,74478,74391,74474,229,29185,Male,All areas,Ecuador,Global,12 years old and over,2015
+18.99727,9946,,ECU,74418,74478,74391,74473,229,29185,Female,All areas,Ecuador,Global,12 years old and over,2015
+18.84504,9946,,ECU,74418,74478,74391,74473,229,29186,Female,All areas,Ecuador,Global,12 years old and over,2016
+6.77286,9946,,ECU,74418,74478,74391,74474,229,29186,Male,All areas,Ecuador,Global,12 years old and over,2016
+18.19095,9946,,ECU,74418,74478,74391,74473,229,29187,Female,All areas,Ecuador,Global,12 years old and over,2017
+6.57955,9946,,ECU,74418,74478,74391,74474,229,29187,Male,All areas,Ecuador,Global,12 years old and over,2017
+22.74799,3658,8976,SLV,74437,74478,74391,74473,230,29180,Female,All areas,El Salvador,Global,15 years old and over,2010
+21.48663,3658,8976,SLV,74437,74479,74391,74473,230,29180,Female,Urban,El Salvador,Global,15 years old and over,2010
+25.24659,3658,8976,SLV,74437,74477,74391,74473,230,29180,Female,Rural,El Salvador,Global,15 years old and over,2010
+10.11552,3658,8976,SLV,74573,74478,74391,74474,230,29180,Male,All areas,El Salvador,Global,55 to 64 years old,2010
+8.0567,3658,8976,SLV,74570,74478,74391,74474,230,29180,Male,All areas,El Salvador,Global,25 to 44 years old,2010
+5.06965,3658,8976,SLV,74425,74478,74391,74474,230,29180,Male,All areas,El Salvador,Global,15 to 24 years old,2010
+9.50948,3658,8976,SLV,74569,74478,74391,74474,230,29180,Male,All areas,El Salvador,Global,65 years old and over,2010
+9.1623,3658,8976,SLV,74571,74478,74391,74474,230,29180,Male,All areas,El Salvador,Global,45 to 54 years old,2010
+7.13837,3658,8976,SLV,74437,74477,74391,74474,230,29180,Male,Rural,El Salvador,Global,15 years old and over,2010
+7.84513,3658,8976,SLV,74437,74478,74391,74474,230,29180,Male,All areas,El Salvador,Global,15 years old and over,2010
+18.79957,3658,8976,SLV,74569,74478,74391,74473,230,29180,Female,All areas,El Salvador,Global,65 years old and over,2010
+22.3401,3658,8976,SLV,74573,74478,74391,74473,230,29180,Female,All areas,El Salvador,Global,55 to 64 years old,2010
+23.53794,3658,8976,SLV,74571,74478,74391,74473,230,29180,Female,All areas,El Salvador,Global,45 to 54 years old,2010
+24.77682,3658,8976,SLV,74570,74478,74391,74473,230,29180,Female,All areas,El Salvador,Global,25 to 44 years old,2010
+21.94251,3658,8976,SLV,74425,74478,74391,74473,230,29180,Female,All areas,El Salvador,Global,15 to 24 years old,2010
+8.25437,3658,8976,SLV,74437,74479,74391,74474,230,29180,Male,Urban,El Salvador,Global,15 years old and over,2010
+22.30652,3658,,SLV,74437,74477,74391,74473,230,29187,Female,Rural,El Salvador,Global,15 years old and over,2017
+7.39568,3658,,SLV,74437,74479,74391,74474,230,29187,Male,Urban,El Salvador,Global,15 years old and over,2017
+9.09522,3658,,SLV,74569,74478,74391,74474,230,29187,Male,All areas,El Salvador,Global,65 years old and over,2017
+6.84445,3658,,SLV,74573,74478,74391,74474,230,29187,Male,All areas,El Salvador,Global,55 to 64 years old,2017
+6.49817,3658,,SLV,74571,74478,74391,74474,230,29187,Male,All areas,El Salvador,Global,45 to 54 years old,2017
+7.32084,3658,,SLV,74570,74478,74391,74474,230,29187,Male,All areas,El Salvador,Global,25 to 44 years old,2017
+6.01728,3658,,SLV,74425,74478,74391,74474,230,29187,Male,All areas,El Salvador,Global,15 to 24 years old,2017
+16.82939,3658,,SLV,74425,74478,74391,74473,230,29187,Female,All areas,El Salvador,Global,15 to 24 years old,2017
+19.00626,3658,,SLV,74437,74479,74391,74473,230,29187,Female,Urban,El Salvador,Global,15 years old and over,2017
+20.21275,3658,,SLV,74437,74478,74391,74473,230,29187,Female,All areas,El Salvador,Global,15 years old and over,2017
+6.43901,3658,,SLV,74437,74477,74391,74474,230,29187,Male,Rural,El Salvador,Global,15 years old and over,2017
+7.02928,3658,,SLV,74437,74478,74391,74474,230,29187,Male,All areas,El Salvador,Global,15 years old and over,2017
+18.93324,3658,,SLV,74569,74478,74391,74473,230,29187,Female,All areas,El Salvador,Global,65 years old and over,2017
+21.39743,3658,,SLV,74573,74478,74391,74473,230,29187,Female,All areas,El Salvador,Global,55 to 64 years old,2017
+21.78967,3658,,SLV,74571,74478,74391,74473,230,29187,Female,All areas,El Salvador,Global,45 to 54 years old,2017
+22.08034,3658,,SLV,74570,74478,74391,74473,230,29187,Female,All areas,El Salvador,Global,25 to 44 years old,2017
+16.73611,3659,,ARG,74437,74478,74391,74473,216,29175,Female,All areas,Argentina,Global,15 years old and over,2005
+6.11111,3659,,ARG,74437,74478,74391,74474,216,29175,Male,All areas,Argentina,Global,15 years old and over,2005
+17.5,3660,,ARG,74437,74478,74391,74473,216,29180,Female,All areas,Argentina,Global,15 years old and over,2010
+6.59722,3660,,ARG,74437,74478,74391,74474,216,29180,Male,All areas,Argentina,Global,15 years old and over,2010
+8.04167,9957,8976,ARG,74446,74479,74391,74474,216,29183,Male,Urban,Argentina,Global,18 years old and over,2013
+20.16667,9957,8976,ARG,74573,74479,74391,74473,216,29183,Female,Urban,Argentina,Global,55 to 64 years old,2013
+14,9957,8976,ARG,74569,74479,74391,74473,216,29183,Female,Urban,Argentina,Global,65 years old and over,2013
+30.70833,9957,8976,ARG,74570,74479,74391,74473,216,29183,Female,Urban,Argentina,Global,25 to 44 years old,2013
+19.66667,9957,8976,ARG,74654,74479,74391,74473,216,29183,Female,Urban,Argentina,Global,18 to 24 years old,2013
+23.5,9957,8976,ARG,74446,74479,74391,74473,216,29183,Female,Urban,Argentina,Global,18 years old and over,2013
+22.08333,9957,8976,ARG,74571,74479,74391,74473,216,29183,Female,Urban,Argentina,Global,45 to 54 years old,2013
+8.54167,9957,8976,ARG,74571,74479,74391,74474,216,29183,Male,Urban,Argentina,Global,45 to 54 years old,2013
+9.54167,9957,8976,ARG,74570,74479,74391,74474,216,29183,Male,Urban,Argentina,Global,25 to 44 years old,2013
+5.20833,9957,8976,ARG,74654,74479,74391,74474,216,29183,Male,Urban,Argentina,Global,18 to 24 years old,2013
+7.08333,9957,8976,ARG,74569,74479,74391,74474,216,29183,Male,Urban,Argentina,Global,65 years old and over,2013
+7.45833,9957,8976,ARG,74573,74479,74391,74474,216,29183,Male,Urban,Argentina,Global,55 to 64 years old,2013
+8.47222,9960,,ARG,74422,74479,74391,74474,216,29191,Male,Urban,Argentina,Global,14 years old and over,2021
+17.15278,9960,,ARG,74422,74479,74391,74473,216,29191,Female,Urban,Argentina,Global,14 years old and over,2021
+8.19444,9960,,ARG,74571,74479,74391,74474,216,29191,Male,Urban,Argentina,Global,45 to 54 years old,2021
+17.43056,9960,,ARG,74437,74479,74391,74473,216,29191,Female,Urban,Argentina,Global,15 years old and over,2021
+11.94444,9960,,ARG,74569,74479,74391,74474,216,29191,Male,Urban,Argentina,Global,65 years old and over,2021
+9.86111,9960,,ARG,74573,74479,74391,74474,216,29191,Male,Urban,Argentina,Global,55 to 64 years old,2021
+9.23611,9960,,ARG,74425,74479,74391,74473,216,29191,Female,Urban,Argentina,Global,15 to 24 years old,2021
+8.95833,9960,,ARG,74570,74479,74391,74474,216,29191,Male,Urban,Argentina,Global,25 to 44 years old,2021
+4.58333,9960,,ARG,74425,74479,74391,74474,216,29191,Male,Urban,Argentina,Global,15 to 24 years old,2021
+8.54167,9960,,ARG,74437,74479,74391,74474,216,29191,Male,Urban,Argentina,Global,15 years old and over,2021
+17.77778,9960,,ARG,74569,74479,74391,74473,216,29191,Female,Urban,Argentina,Global,65 years old and over,2021
+17.01389,9960,,ARG,74573,74479,74391,74473,216,29191,Female,Urban,Argentina,Global,55 to 64 years old,2021
+18.81944,9960,,ARG,74571,74479,74391,74473,216,29191,Female,Urban,Argentina,Global,45 to 54 years old,2021
+20.90278,9960,,ARG,74570,74479,74391,74473,216,29191,Female,Urban,Argentina,Global,25 to 44 years old,2021
+9.56581,3658,,GTM,74569,74478,74391,74473,235,29184,Female,All areas,Guatemala,Global,65 years old and over,2014
+2.35751,3658,,GTM,74437,74478,74391,74474,235,29184,Male,All areas,Guatemala,Global,15 years old and over,2014
+2.89354,3658,,GTM,74570,74478,74391,74474,235,29184,Male,All areas,Guatemala,Global,25 to 44 years old,2014
+1.75908,3658,,GTM,74437,74477,74391,74474,235,29184,Male,Rural,Guatemala,Global,15 years old and over,2014
+16.98429,3658,,GTM,74573,74478,74391,74473,235,29184,Female,All areas,Guatemala,Global,55 to 64 years old,2014
+2.89503,3658,,GTM,74437,74479,74391,74474,235,29184,Male,Urban,Guatemala,Global,15 years old and over,2014
+1.78265,3658,,GTM,74425,74478,74391,74474,235,29184,Male,All areas,Guatemala,Global,15 to 24 years old,2014
+2.09881,3658,,GTM,74571,74478,74391,74474,235,29184,Male,All areas,Guatemala,Global,45 to 54 years old,2014
+19.28244,3658,,GTM,74437,74477,74391,74473,235,29184,Female,Rural,Guatemala,Global,15 years old and over,2014
+17.76702,3658,,GTM,74437,74478,74391,74473,235,29184,Female,All areas,Guatemala,Global,15 years old and over,2014
+14.39349,3658,,GTM,74425,74478,74391,74473,235,29184,Female,All areas,Guatemala,Global,15 to 24 years old,2014
+16.4445,3658,,GTM,74437,74479,74391,74473,235,29184,Female,Urban,Guatemala,Global,15 years old and over,2014
+18.00596,3658,,GTM,74571,74478,74391,74473,235,29184,Female,All areas,Guatemala,Global,45 to 54 years old,2014
+22.21733,3658,,GTM,74570,74478,74391,74473,235,29184,Female,All areas,Guatemala,Global,25 to 44 years old,2014
+2.10466,3658,,GTM,74573,74478,74391,74474,235,29184,Male,All areas,Guatemala,Global,55 to 64 years old,2014
+2.93981,3658,,GTM,74569,74478,74391,74474,235,29184,Male,All areas,Guatemala,Global,65 years old and over,2014
+23.42947,3658,,GTM,74570,74478,74391,74473,235,29187,Female,All areas,Guatemala,Global,25 to 44 years old,2017
+16.82578,3658,,GTM,74425,74478,74391,74473,235,29187,Female,All areas,Guatemala,Global,15 to 24 years old,2017
+19.48273,3658,,GTM,74437,74478,74391,74473,235,29187,Female,All areas,Guatemala,Global,15 years old and over,2017
+18.50177,3658,,GTM,74437,74479,74391,74473,235,29187,Female,Urban,Guatemala,Global,15 years old and over,2017
+2.21008,3658,,GTM,74569,74478,74391,74474,235,29187,Male,All areas,Guatemala,Global,65 years old and over,2017
+20.56459,3658,,GTM,74437,74477,74391,74473,235,29187,Female,Rural,Guatemala,Global,15 years old and over,2017
+2.12619,3658,,GTM,74437,74477,74391,74474,235,29187,Male,Rural,Guatemala,Global,15 years old and over,2017
+2.75748,3658,,GTM,74573,74478,74391,74474,235,29187,Male,All areas,Guatemala,Global,55 to 64 years old,2017
+3.09282,3658,,GTM,74437,74479,74391,74474,235,29187,Male,Urban,Guatemala,Global,15 years old and over,2017
+1.92366,3658,,GTM,74425,74478,74391,74474,235,29187,Male,All areas,Guatemala,Global,15 to 24 years old,2017
+2.53858,3658,,GTM,74571,74478,74391,74474,235,29187,Male,All areas,Guatemala,Global,45 to 54 years old,2017
+3.31467,3658,,GTM,74570,74478,74391,74474,235,29187,Male,All areas,Guatemala,Global,25 to 44 years old,2017
+11.96579,3658,,GTM,74569,74478,74391,74473,235,29187,Female,All areas,Guatemala,Global,65 years old and over,2017
+2.60537,3658,,GTM,74437,74478,74391,74474,235,29187,Male,All areas,Guatemala,Global,15 years old and over,2017
+17.88754,3658,,GTM,74573,74478,74391,74473,235,29187,Female,All areas,Guatemala,Global,55 to 64 years old,2017
+20.41716,3658,,GTM,74571,74478,74391,74473,235,29187,Female,All areas,Guatemala,Global,45 to 54 years old,2017
+18.08279,3658,,HND,74425,74478,74391,74473,239,29179,Female,All areas,Honduras,Global,15 to 24 years old,2009
+17.67233,3658,,HND,74437,74477,74391,74473,239,29179,Female,Rural,Honduras,Global,15 years old and over,2009
+16.92879,3658,,HND,74437,74479,74391,74473,239,29179,Female,Urban,Honduras,Global,15 years old and over,2009
+17.29571,3658,,HND,74437,74478,74391,74473,239,29179,Female,All areas,Honduras,Global,15 years old and over,2009
+10.74933,3658,,HND,74569,74478,74391,74473,239,29179,Female,All areas,Honduras,Global,65 years old and over,2009
+19.00692,3658,,HND,74570,74478,74391,74473,239,29179,Female,All areas,Honduras,Global,25 to 44 years old,2009
+3.14187,3658,,HND,74437,74477,74391,74474,239,29179,Male,Rural,Honduras,Global,15 years old and over,2009
+2.8538,3658,,HND,74571,74478,74391,74474,239,29179,Male,All areas,Honduras,Global,45 to 54 years old,2009
+4.31393,3658,,HND,74437,74478,74391,74474,239,29179,Male,All areas,Honduras,Global,15 years old and over,2009
+2.51589,3658,,HND,74569,74478,74391,74474,239,29179,Male,All areas,Honduras,Global,65 years old and over,2009
+5.687,3658,,HND,74437,74479,74391,74474,239,29179,Male,Urban,Honduras,Global,15 years old and over,2009
+15.60085,3658,,HND,74573,74478,74391,74473,239,29179,Female,All areas,Honduras,Global,55 to 64 years old,2009
+2.93199,3658,,HND,74573,74478,74391,74474,239,29179,Male,All areas,Honduras,Global,55 to 64 years old,2009
+16.09783,3658,,HND,74571,74478,74391,74473,239,29179,Female,All areas,Honduras,Global,45 to 54 years old,2009
+6.23057,3658,,HND,74425,74478,74391,74474,239,29179,Male,All areas,Honduras,Global,15 to 24 years old,2009
+3.60719,3658,,HND,74570,74478,74391,74474,239,29179,Male,All areas,Honduras,Global,25 to 44 years old,2009
+7.80548,10741,,,74437,74478,74391,74474,212,29195,Male,All areas,Latin America and the Caribbean,Global,15 years old and over,2025
+18.98903,10741,,,74437,74478,74391,74473,212,29195,Female,All areas,Latin America and the Caribbean,Global,15 years old and over,2025
+29.11243,3706,,MEX,74418,74478,74391,74473,233,29172,Female,All areas,Mexico,Global,12 years old and over,2002
+6.35316,3706,,MEX,74418,74478,74391,74474,233,29172,Male,All areas,Mexico,Global,12 years old and over,2002
+33.12694,3707,,MEX,74418,74477,74391,74473,233,29179,Female,Rural,Mexico,Global,12 years old and over,2009
+29.56315,3707,,MEX,74418,74478,74391,74473,233,29179,Female,All areas,Mexico,Global,12 years old and over,2009
+33.70916,3707,,MEX,74571,74477,74391,74473,233,29179,Female,Rural,Mexico,Global,45 to 54 years old,2009
+31.66837,3707,,MEX,74571,74478,74391,74473,233,29179,Female,All areas,Mexico,Global,45 to 54 years old,2009
+29.98072,3707,,MEX,74437,74479,74391,74473,233,29179,Female,Urban,Mexico,Global,15 years old and over,2009
+22.74843,3707,,MEX,74425,74478,74391,74473,233,29179,Female,All areas,Mexico,Global,15 to 24 years old,2009
+28.64973,3707,,MEX,74418,74479,74391,74473,233,29179,Female,Urban,Mexico,Global,12 years old and over,2009
+31.04081,3707,,MEX,74437,74478,74391,74473,233,29179,Female,All areas,Mexico,Global,15 years old and over,2009
+35.27334,3707,,MEX,74437,74477,74391,74473,233,29179,Female,Rural,Mexico,Global,15 years old and over,2009
+39.34284,3707,,MEX,74570,74478,74391,74473,233,29179,Female,All areas,Mexico,Global,25 to 44 years old,2009
+45.47805,3707,,MEX,74570,74477,74391,74473,233,29179,Female,Rural,Mexico,Global,25 to 44 years old,2009
+37.79786,3707,,MEX,74570,74479,74391,74473,233,29179,Female,Urban,Mexico,Global,25 to 44 years old,2009
+27.00816,3707,,MEX,74425,74477,74391,74473,233,29179,Female,Rural,Mexico,Global,15 to 24 years old,2009
+21.59066,3707,,MEX,74425,74479,74391,74473,233,29179,Female,Urban,Mexico,Global,15 to 24 years old,2009
+31.21479,3707,,MEX,74571,74479,74391,74473,233,29179,Female,Urban,Mexico,Global,45 to 54 years old,2009
+8.36722,3707,,MEX,74573,74477,74391,74474,233,29179,Male,Rural,Mexico,Global,55 to 64 years old,2009
+9.75357,3707,,MEX,74573,74478,74391,74474,233,29179,Male,All areas,Mexico,Global,55 to 64 years old,2009
+9.32659,3707,,MEX,74569,74478,74391,74474,233,29179,Male,All areas,Mexico,Global,65 years old and over,2009
+10.1106,3707,,MEX,74573,74479,74391,74474,233,29179,Male,Urban,Mexico,Global,55 to 64 years old,2009
+10.58094,3707,,MEX,74571,74478,74391,74474,233,29179,Male,All areas,Mexico,Global,45 to 54 years old,2009
+8.51526,3707,,MEX,74571,74477,74391,74474,233,29179,Male,Rural,Mexico,Global,45 to 54 years old,2009
+11.07903,3707,,MEX,74571,74479,74391,74474,233,29179,Male,Urban,Mexico,Global,45 to 54 years old,2009
+11.13095,3707,,MEX,74570,74477,74391,74474,233,29179,Male,Rural,Mexico,Global,25 to 44 years old,2009
+12.60001,3707,,MEX,74570,74479,74391,74474,233,29179,Male,Urban,Mexico,Global,25 to 44 years old,2009
+9.55014,3707,,MEX,74569,74479,74391,74474,233,29179,Male,Urban,Mexico,Global,65 years old and over,2009
+8.72529,3707,,MEX,74569,74477,74391,74474,233,29179,Male,Rural,Mexico,Global,65 years old and over,2009
+12.30633,3707,,MEX,74570,74478,74391,74474,233,29179,Male,All areas,Mexico,Global,25 to 44 years old,2009
+8.3984,3707,,MEX,74425,74479,74391,74474,233,29179,Male,Urban,Mexico,Global,15 to 24 years old,2009
+27.98811,3707,,MEX,74573,74478,74391,74473,233,29179,Female,All areas,Mexico,Global,55 to 64 years old,2009
+30.58494,3707,,MEX,74573,74477,74391,74473,233,29179,Female,Rural,Mexico,Global,55 to 64 years old,2009
+27.3836,3707,,MEX,74573,74479,74391,74473,233,29179,Female,Urban,Mexico,Global,55 to 64 years old,2009
+20.10596,3707,,MEX,74569,74478,74391,74473,233,29179,Female,All areas,Mexico,Global,65 years old and over,2009
+22.21191,3707,,MEX,74569,74477,74391,74473,233,29179,Female,Rural,Mexico,Global,65 years old and over,2009
+19.57347,3707,,MEX,74569,74479,74391,74473,233,29179,Female,Urban,Mexico,Global,65 years old and over,2009
+9.08122,3707,,MEX,74437,74477,74391,74474,233,29179,Male,Rural,Mexico,Global,15 years old and over,2009
+10.38447,3707,,MEX,74437,74478,74391,74474,233,29179,Male,All areas,Mexico,Global,15 years old and over,2009
+10.40681,3707,,MEX,74418,74479,74391,74474,233,29179,Male,Urban,Mexico,Global,12 years old and over,2009
+10.05708,3707,,MEX,74418,74478,74391,74474,233,29179,Male,All areas,Mexico,Global,12 years old and over,2009
+8.7507,3707,,MEX,74418,74477,74391,74474,233,29179,Male,Rural,Mexico,Global,12 years old and over,2009
+6.9134,3707,,MEX,74425,74477,74391,74474,233,29179,Male,Rural,Mexico,Global,15 to 24 years old,2009
+10.7257,3707,,MEX,74437,74479,74391,74474,233,29179,Male,Urban,Mexico,Global,15 years old and over,2009
+8.09348,3707,,MEX,74425,74478,74391,74474,233,29179,Male,All areas,Mexico,Global,15 to 24 years old,2009
+27.19417,10823,17047,MEX,74570,74479,74391,74473,233,29184,Female,Urban,Mexico,Global,25 to 44 years old,2014
+25.02613,10823,17047,MEX,74573,74477,74391,74473,233,29184,Female,Rural,Mexico,Global,55 to 64 years old,2014
+16.96322,10823,17047,MEX,74569,74479,74391,74473,233,29184,Female,Urban,Mexico,Global,65 years old and over,2014
+7.92282,10823,17047,MEX,74437,74479,74391,74474,233,29184,Male,Urban,Mexico,Global,15 years old and over,2014
+7.06926,10823,17047,MEX,74425,74479,74391,74474,233,29184,Male,Urban,Mexico,Global,15 to 24 years old,2014
+24.78221,10823,17047,MEX,74571,74479,74391,74473,233,29184,Female,Urban,Mexico,Global,45 to 54 years old,2014
+23.81942,10823,17047,MEX,74573,74479,74391,74473,233,29184,Female,Urban,Mexico,Global,55 to 64 years old,2014
+21.87608,10823,17047,MEX,74418,74479,74391,74473,233,29184,Female,Urban,Mexico,Global,12 years old and over,2014
+22.56667,10823,17047,MEX,74418,74478,74391,74473,233,29184,Female,All areas,Mexico,Global,12 years old and over,2014
+7.37464,10823,17047,MEX,74418,74478,74391,74474,233,29184,Male,All areas,Mexico,Global,12 years old and over,2014
+17.45758,10823,17047,MEX,74425,74478,74391,74473,233,29184,Female,All areas,Mexico,Global,15 to 24 years old,2014
+23.667,10823,17047,MEX,74437,74478,74391,74473,233,29184,Female,All areas,Mexico,Global,15 years old and over,2014
+22.88773,10823,17047,MEX,74437,74479,74391,74473,233,29184,Female,Urban,Mexico,Global,15 years old and over,2014
+25.04584,10823,17047,MEX,74418,74477,74391,74473,233,29184,Female,Rural,Mexico,Global,12 years old and over,2014
+6.15071,10823,17047,MEX,74418,74477,74391,74474,233,29184,Male,Rural,Mexico,Global,12 years old and over,2014
+21.15816,10823,17047,MEX,74425,74477,74391,74473,233,29184,Female,Rural,Mexico,Global,15 to 24 years old,2014
+26.53688,10823,17047,MEX,74437,74477,74391,74473,233,29184,Female,Rural,Mexico,Global,15 years old and over,2014
+16.34559,10823,17047,MEX,74425,74479,74391,74473,233,29184,Female,Urban,Mexico,Global,15 to 24 years old,2014
+32.23429,10823,17047,MEX,74570,74477,74391,74473,233,29184,Female,Rural,Mexico,Global,25 to 44 years old,2014
+28.58854,10823,17047,MEX,74571,74477,74391,74473,233,29184,Female,Rural,Mexico,Global,45 to 54 years old,2014
+7.88363,10823,17047,MEX,74571,74479,74391,74474,233,29184,Male,Urban,Mexico,Global,45 to 54 years old,2014
+8.57221,10823,17047,MEX,74570,74479,74391,74474,233,29184,Male,Urban,Mexico,Global,25 to 44 years old,2014
+7.49887,10823,17047,MEX,74569,74479,74391,74474,233,29184,Male,Urban,Mexico,Global,65 years old and over,2014
+7.95616,10823,17047,MEX,74573,74479,74391,74474,233,29184,Male,Urban,Mexico,Global,55 to 64 years old,2014
+6.76125,10823,17047,MEX,74571,74477,74391,74474,233,29184,Male,Rural,Mexico,Global,45 to 54 years old,2014
+7.14481,10823,17047,MEX,74570,74477,74391,74474,233,29184,Male,Rural,Mexico,Global,25 to 44 years old,2014
+5.65563,10823,17047,MEX,74425,74477,74391,74474,233,29184,Male,Rural,Mexico,Global,15 to 24 years old,2014
+6.34703,10823,17047,MEX,74437,74477,74391,74474,233,29184,Male,Rural,Mexico,Global,15 years old and over,2014
+5.96164,10823,17047,MEX,74573,74477,74391,74474,233,29184,Male,Rural,Mexico,Global,55 to 64 years old,2014
+5.39677,10823,17047,MEX,74569,74477,74391,74474,233,29184,Male,Rural,Mexico,Global,65 years old and over,2014
+18.35907,10823,17047,MEX,74569,74477,74391,74473,233,29184,Female,Rural,Mexico,Global,65 years old and over,2014
+24.06419,10823,17047,MEX,74573,74478,74391,74473,233,29184,Female,All areas,Mexico,Global,55 to 64 years old,2014
+7.73205,10823,17047,MEX,74418,74479,74391,74474,233,29184,Male,Urban,Mexico,Global,12 years old and over,2014
+28.23999,10823,17047,MEX,74570,74478,74391,74473,233,29184,Female,All areas,Mexico,Global,25 to 44 years old,2014
+25.52261,10823,17047,MEX,74571,74478,74391,74473,233,29184,Female,All areas,Mexico,Global,45 to 54 years old,2014
+7.57439,10823,17047,MEX,74437,74478,74391,74474,233,29184,Male,All areas,Mexico,Global,15 years old and over,2014
+6.74995,10823,17047,MEX,74425,74478,74391,74474,233,29184,Male,All areas,Mexico,Global,15 to 24 years old,2014
+8.27852,10823,17047,MEX,74570,74478,74391,74474,233,29184,Male,All areas,Mexico,Global,25 to 44 years old,2014
+7.65086,10823,17047,MEX,74571,74478,74391,74474,233,29184,Male,All areas,Mexico,Global,45 to 54 years old,2014
+7.54143,10823,17047,MEX,74573,74478,74391,74474,233,29184,Male,All areas,Mexico,Global,55 to 64 years old,2014
+6.8609,10823,17047,MEX,74569,74478,74391,74474,233,29184,Male,All areas,Mexico,Global,65 years old and over,2014
+17.29223,10823,17047,MEX,74569,74478,74391,74473,233,29184,Female,All areas,Mexico,Global,65 years old and over,2014
+6.82227,10824,17047,MEX,74569,74477,74391,74474,233,29189,Male,Rural,Mexico,Global,65 years old and over,2019
+7.41554,10824,17047,MEX,74418,74477,74391,74474,233,29189,Male,Rural,Mexico,Global,12 years old and over,2019
+24.12164,10824,17047,MEX,74437,74478,74391,74473,233,29189,Female,All areas,Mexico,Global,15 years old and over,2019
+18.01633,10824,17047,MEX,74425,74478,74391,74473,233,29189,Female,All areas,Mexico,Global,15 to 24 years old,2019
+8.93932,10824,17047,MEX,74418,74479,74391,74474,233,29189,Male,Urban,Mexico,Global,12 years old and over,2019
+25.88821,10824,17047,MEX,74418,74477,74391,74473,233,29189,Female,Rural,Mexico,Global,12 years old and over,2019
+6.72073,10824,17047,MEX,74425,74477,74391,74474,233,29189,Male,Rural,Mexico,Global,15 to 24 years old,2019
+7.5749,10824,17047,MEX,74437,74477,74391,74474,233,29189,Male,Rural,Mexico,Global,15 years old and over,2019
+8.48111,10824,17047,MEX,74570,74477,74391,74474,233,29189,Male,Rural,Mexico,Global,25 to 44 years old,2019
+32.51484,10824,17047,MEX,74570,74477,74391,74473,233,29189,Female,Rural,Mexico,Global,25 to 44 years old,2019
+8.98505,10824,17047,MEX,74569,74479,74391,74474,233,29189,Male,Urban,Mexico,Global,65 years old and over,2019
+28.7106,10824,17047,MEX,74571,74477,74391,74473,233,29189,Female,Rural,Mexico,Global,45 to 54 years old,2019
+18.82369,10824,17047,MEX,74569,74477,74391,74473,233,29189,Female,Rural,Mexico,Global,65 years old and over,2019
+28.04583,10824,17047,MEX,74573,74477,74391,74473,233,29189,Female,Rural,Mexico,Global,55 to 64 years old,2019
+7.14811,10824,17047,MEX,74573,74477,74391,74474,233,29189,Male,Rural,Mexico,Global,55 to 64 years old,2019
+9.77738,10824,17047,MEX,74570,74479,74391,74474,233,29189,Male,Urban,Mexico,Global,25 to 44 years old,2019
+7.79026,10824,17047,MEX,74571,74477,74391,74474,233,29189,Male,Rural,Mexico,Global,45 to 54 years old,2019
+8.01688,10824,17047,MEX,74425,74479,74391,74474,233,29189,Male,Urban,Mexico,Global,15 to 24 years old,2019
+9.22387,10824,17047,MEX,74571,74479,74391,74474,233,29189,Male,Urban,Mexico,Global,45 to 54 years old,2019
+9.60039,10824,17047,MEX,74573,74479,74391,74474,233,29189,Male,Urban,Mexico,Global,55 to 64 years old,2019
+27.22973,10824,17047,MEX,74437,74477,74391,74473,233,29189,Female,Rural,Mexico,Global,15 years old and over,2019
+21.52129,10824,17047,MEX,74425,74477,74391,74473,233,29189,Female,Rural,Mexico,Global,15 to 24 years old,2019
+9.16852,10824,17047,MEX,74437,74479,74391,74474,233,29189,Male,Urban,Mexico,Global,15 years old and over,2019
+22.37102,10824,17047,MEX,74418,74479,74391,74473,233,29189,Female,Urban,Mexico,Global,12 years old and over,2019
+18.16657,10824,17047,MEX,74569,74479,74391,74473,233,29189,Female,Urban,Mexico,Global,65 years old and over,2019
+23.14681,10824,17047,MEX,74418,74478,74391,74473,233,29189,Female,All areas,Mexico,Global,12 years old and over,2019
+8.60479,10824,17047,MEX,74418,74478,74391,74474,233,29189,Male,All areas,Mexico,Global,12 years old and over,2019
+25.27584,10824,17047,MEX,74571,74479,74391,74473,233,29189,Female,Urban,Mexico,Global,45 to 54 years old,2019
+27.14554,10824,17047,MEX,74570,74479,74391,74473,233,29189,Female,Urban,Mexico,Global,25 to 44 years old,2019
+28.33635,10824,17047,MEX,74570,74478,74391,74473,233,29189,Female,All areas,Mexico,Global,25 to 44 years old,2019
+24.36278,10824,17047,MEX,74573,74479,74391,74473,233,29189,Female,Urban,Mexico,Global,55 to 64 years old,2019
+25.95199,10824,17047,MEX,74571,74478,74391,74473,233,29189,Female,All areas,Mexico,Global,45 to 54 years old,2019
+8.40714,10824,17047,MEX,74569,74478,74391,74474,233,29189,Male,All areas,Mexico,Global,65 years old and over,2019
+9.11908,10824,17047,MEX,74573,74478,74391,74474,233,29189,Male,All areas,Mexico,Global,55 to 64 years old,2019
+16.93304,10824,17047,MEX,74425,74479,74391,74473,233,29189,Female,Urban,Mexico,Global,15 to 24 years old,2019
+23.26022,10824,17047,MEX,74437,74479,74391,74473,233,29189,Female,Urban,Mexico,Global,15 years old and over,2019
+7.73142,10824,17047,MEX,74425,74478,74391,74474,233,29189,Male,All areas,Mexico,Global,15 to 24 years old,2019
+9.50604,10824,17047,MEX,74570,74478,74391,74474,233,29189,Male,All areas,Mexico,Global,25 to 44 years old,2019
+8.9376,10824,17047,MEX,74571,74478,74391,74474,233,29189,Male,All areas,Mexico,Global,45 to 54 years old,2019
+18.30872,10824,17047,MEX,74569,74478,74391,74473,233,29189,Female,All areas,Mexico,Global,65 years old and over,2019
+8.82492,10824,17047,MEX,74437,74478,74391,74474,233,29189,Male,All areas,Mexico,Global,15 years old and over,2019
+25.08797,10824,17047,MEX,74573,74478,74391,74473,233,29189,Female,All areas,Mexico,Global,55 to 64 years old,2019
+8.80489,10825,,MEX,74571,74479,74391,74474,233,29194,Male,Urban,Mexico,Global,45 to 54 years old,2024
+16.227,10825,,MEX,74569,74479,74391,74473,233,29194,Female,Urban,Mexico,Global,65 years old and over,2024
+8.84215,10825,,MEX,74437,74479,74391,74474,233,29194,Male,Urban,Mexico,Global,15 years old and over,2024
+7.65035,10825,,MEX,74425,74479,74391,74474,233,29194,Male,Urban,Mexico,Global,15 to 24 years old,2024
+9.65442,10825,,MEX,74570,74479,74391,74474,233,29194,Male,Urban,Mexico,Global,25 to 44 years old,2024
+16.33397,10825,,MEX,74569,74478,74391,74473,233,29194,Female,All areas,Mexico,Global,65 years old and over,2024
+8.50506,10825,,MEX,74437,74478,74391,74474,233,29194,Male,All areas,Mexico,Global,15 years old and over,2024
+8.30574,10825,,MEX,74418,74478,74391,74474,233,29194,Male,All areas,Mexico,Global,12 years old and over,2024
+20.60498,10825,,MEX,74418,74478,74391,74473,233,29194,Female,All areas,Mexico,Global,12 years old and over,2024
+8.63329,10825,,MEX,74418,74479,74391,74474,233,29194,Male,Urban,Mexico,Global,12 years old and over,2024
+19.94498,10825,,MEX,74418,74479,74391,74473,233,29194,Female,Urban,Mexico,Global,12 years old and over,2024
+21.39753,10825,,MEX,74437,74478,74391,74473,233,29194,Female,All areas,Mexico,Global,15 years old and over,2024
+23.14163,10825,,MEX,74418,74477,74391,74473,233,29194,Female,Rural,Mexico,Global,12 years old and over,2024
+6.99939,10825,,MEX,74418,74477,74391,74474,233,29194,Male,Rural,Mexico,Global,12 years old and over,2024
+15.22972,10825,,MEX,74425,74478,74391,74473,233,29194,Female,All areas,Mexico,Global,15 to 24 years old,2024
+25.3525,10825,,MEX,74570,74478,74391,74473,233,29194,Female,All areas,Mexico,Global,25 to 44 years old,2024
+23.38426,10825,,MEX,74571,74478,74391,74473,233,29194,Female,All areas,Mexico,Global,45 to 54 years old,2024
+22.30927,10825,,MEX,74573,74478,74391,74473,233,29194,Female,All areas,Mexico,Global,55 to 64 years old,2024
+14.28963,10825,,MEX,74425,74479,74391,74473,233,29194,Female,Urban,Mexico,Global,15 to 24 years old,2024
+20.66705,10825,,MEX,74437,74479,74391,74473,233,29194,Female,Urban,Mexico,Global,15 years old and over,2024
+22.64821,10825,,MEX,74571,74479,74391,74473,233,29194,Female,Urban,Mexico,Global,45 to 54 years old,2024
+22.01168,10825,,MEX,74573,74479,74391,74473,233,29194,Female,Urban,Mexico,Global,55 to 64 years old,2024
+24.20726,10825,,MEX,74570,74479,74391,74473,233,29194,Female,Urban,Mexico,Global,25 to 44 years old,2024
+8.42453,10825,,MEX,74571,74478,74391,74474,233,29194,Male,All areas,Mexico,Global,45 to 54 years old,2024
+8.3067,10825,,MEX,74569,74479,74391,74474,233,29194,Male,Urban,Mexico,Global,65 years old and over,2024
+9.10371,10825,,MEX,74573,74479,74391,74474,233,29194,Male,Urban,Mexico,Global,55 to 64 years old,2024
+7.85547,10825,,MEX,74569,74478,74391,74474,233,29194,Male,All areas,Mexico,Global,65 years old and over,2024
+8.67505,10825,,MEX,74573,74478,74391,74474,233,29194,Male,All areas,Mexico,Global,55 to 64 years old,2024
+6.90862,10825,,MEX,74571,74477,74391,74474,233,29194,Male,Rural,Mexico,Global,45 to 54 years old,2024
+6.95065,10825,,MEX,74573,74477,74391,74474,233,29194,Male,Rural,Mexico,Global,55 to 64 years old,2024
+7.95904,10825,,MEX,74570,74477,74391,74474,233,29194,Male,Rural,Mexico,Global,25 to 44 years old,2024
+7.14243,10825,,MEX,74437,74477,74391,74474,233,29194,Male,Rural,Mexico,Global,15 years old and over,2024
+6.71327,10825,,MEX,74425,74477,74391,74474,233,29194,Male,Rural,Mexico,Global,15 to 24 years old,2024
+24.25793,10825,,MEX,74437,74477,74391,74473,233,29194,Female,Rural,Mexico,Global,15 years old and over,2024
+6.48901,10825,,MEX,74569,74477,74391,74474,233,29194,Male,Rural,Mexico,Global,65 years old and over,2024
+16.72407,10825,,MEX,74569,74477,74391,74473,233,29194,Female,Rural,Mexico,Global,65 years old and over,2024
+23.61782,10825,,MEX,74573,74477,74391,74473,233,29194,Female,Rural,Mexico,Global,55 to 64 years old,2024
+26.30916,10825,,MEX,74571,74477,74391,74473,233,29194,Female,Rural,Mexico,Global,45 to 54 years old,2024
+29.99036,10825,,MEX,74570,74477,74391,74473,233,29194,Female,Rural,Mexico,Global,25 to 44 years old,2024
+18.56557,10825,,MEX,74425,74477,74391,74473,233,29194,Female,Rural,Mexico,Global,15 to 24 years old,2024
+7.46394,10825,,MEX,74425,74478,74391,74474,233,29194,Male,All areas,Mexico,Global,15 to 24 years old,2024
+9.35198,10825,,MEX,74570,74478,74391,74474,233,29194,Male,All areas,Mexico,Global,25 to 44 years old,2024
+8.20072,3658,8976,PAN,74571,74478,74391,74474,241,29181,Male,All areas,Panama,Global,45 to 54 years old,2011
+8.92465,3658,8976,PAN,74573,74478,74391,74474,241,29181,Male,All areas,Panama,Global,55 to 64 years old,2011
+9.20177,3658,8976,PAN,74569,74478,74391,74474,241,29181,Male,All areas,Panama,Global,65 years old and over,2011
+5.42684,3658,8976,PAN,74425,74478,74391,74474,241,29181,Male,All areas,Panama,Global,15 to 24 years old,2011
+7.79614,3658,8976,PAN,74570,74478,74391,74474,241,29181,Male,All areas,Panama,Global,25 to 44 years old,2011
+17.95164,3658,8976,PAN,74437,74478,74391,74473,241,29181,Female,All areas,Panama,Global,15 years old and over,2011
+12.67648,3658,8976,PAN,74425,74478,74391,74473,241,29181,Female,All areas,Panama,Global,15 to 24 years old,2011
+17.12123,3658,8976,PAN,74569,74478,74391,74473,241,29181,Female,All areas,Panama,Global,65 years old and over,2011
+7.57184,3658,8976,PAN,74437,74478,74391,74474,241,29181,Male,All areas,Panama,Global,15 years old and over,2011
+19.73778,3658,8976,PAN,74573,74478,74391,74473,241,29181,Female,All areas,Panama,Global,55 to 64 years old,2011
+19.67686,3658,8976,PAN,74570,74478,74391,74473,241,29181,Female,All areas,Panama,Global,25 to 44 years old,2011
+19.10414,3658,8976,PAN,74571,74478,74391,74473,241,29181,Female,All areas,Panama,Global,45 to 54 years old,2011
+19.27314,3709,,PRY,74422,74477,74391,74473,242,29186,Female,Rural,Paraguay,Global,14 years old and over,2016
+18.56993,3709,,PRY,74422,74478,74391,74473,242,29186,Female,All areas,Paraguay,Global,14 years old and over,2016
+18.15616,3709,,PRY,74422,74479,74391,74473,242,29186,Female,Urban,Paraguay,Global,14 years old and over,2016
+18.76571,3709,,PRY,74437,74478,74391,74473,242,29186,Female,All areas,Paraguay,Global,15 years old and over,2016
+7.63725,3709,,PRY,74422,74478,74391,74474,242,29186,Male,All areas,Paraguay,Global,14 years old and over,2016
+14.75632,3709,,PRY,74569,74479,74391,74473,242,29186,Female,Urban,Paraguay,Global,65 years old and over,2016
+8.11814,3709,,PRY,74422,74479,74391,74474,242,29186,Male,Urban,Paraguay,Global,14 years old and over,2016
+6.86453,3709,,PRY,74422,74477,74391,74474,242,29186,Male,Rural,Paraguay,Global,14 years old and over,2016
+8.17109,3709,,PRY,74437,74479,74391,74474,242,29186,Male,Urban,Paraguay,Global,15 years old and over,2016
+7.69179,3709,,PRY,74437,74478,74391,74474,242,29186,Male,All areas,Paraguay,Global,15 years old and over,2016
+6.92038,3709,,PRY,74437,74477,74391,74474,242,29186,Male,Rural,Paraguay,Global,15 years old and over,2016
+6.02422,3709,,PRY,74425,74478,74391,74474,242,29186,Male,All areas,Paraguay,Global,15 to 24 years old,2016
+5.27413,3709,,PRY,74425,74477,74391,74474,242,29186,Male,Rural,Paraguay,Global,15 to 24 years old,2016
+6.50091,3709,,PRY,74425,74479,74391,74474,242,29186,Male,Urban,Paraguay,Global,15 to 24 years old,2016
+8.18599,3709,,PRY,74570,74478,74391,74474,242,29186,Male,All areas,Paraguay,Global,25 to 44 years old,2016
+18.75269,3709,,PRY,74573,74477,74391,74473,242,29186,Female,Rural,Paraguay,Global,55 to 64 years old,2016
+18.80926,3709,,PRY,74573,74479,74391,74473,242,29186,Female,Urban,Paraguay,Global,55 to 64 years old,2016
+18.84692,3709,,PRY,74573,74478,74391,74473,242,29186,Female,All areas,Paraguay,Global,55 to 64 years old,2016
+18.84689,3709,,PRY,74571,74479,74391,74473,242,29186,Female,Urban,Paraguay,Global,45 to 54 years old,2016
+21.78381,3709,,PRY,74570,74477,74391,74473,242,29186,Female,Rural,Paraguay,Global,25 to 44 years old,2016
+20.5502,3709,,PRY,74570,74479,74391,74473,242,29186,Female,Urban,Paraguay,Global,25 to 44 years old,2016
+18.66312,3709,,PRY,74571,74477,74391,74473,242,29186,Female,Rural,Paraguay,Global,45 to 54 years old,2016
+18.78902,3709,,PRY,74571,74478,74391,74473,242,29186,Female,All areas,Paraguay,Global,45 to 54 years old,2016
+7.48685,3709,,PRY,74570,74477,74391,74474,242,29186,Male,Rural,Paraguay,Global,25 to 44 years old,2016
+8.59617,3709,,PRY,74570,74479,74391,74474,242,29186,Male,Urban,Paraguay,Global,25 to 44 years old,2016
+16.20888,3709,,PRY,74569,74477,74391,74473,242,29186,Female,Rural,Paraguay,Global,65 years old and over,2016
+15.2497,3709,,PRY,74569,74478,74391,74473,242,29186,Female,All areas,Paraguay,Global,65 years old and over,2016
+19.49932,3709,,PRY,74437,74477,74391,74473,242,29186,Female,Rural,Paraguay,Global,15 years old and over,2016
+18.33374,3709,,PRY,74437,74479,74391,74473,242,29186,Female,Urban,Paraguay,Global,15 years old and over,2016
+14.8511,3709,,PRY,74425,74478,74391,74473,242,29186,Female,All areas,Paraguay,Global,15 to 24 years old,2016
+16.55096,3709,,PRY,74425,74477,74391,74473,242,29186,Female,Rural,Paraguay,Global,15 to 24 years old,2016
+20.99283,3709,,PRY,74570,74478,74391,74473,242,29186,Female,All areas,Paraguay,Global,25 to 44 years old,2016
+13.83884,3709,,PRY,74425,74479,74391,74473,242,29186,Female,Urban,Paraguay,Global,15 to 24 years old,2016
+7.46714,3709,,PRY,74571,74477,74391,74474,242,29186,Male,Rural,Paraguay,Global,45 to 54 years old,2016
+7.77157,3709,,PRY,74571,74478,74391,74474,242,29186,Male,All areas,Paraguay,Global,45 to 54 years old,2016
+7.99117,3709,,PRY,74571,74479,74391,74474,242,29186,Male,Urban,Paraguay,Global,45 to 54 years old,2016
+8.65419,3709,,PRY,74569,74478,74391,74474,242,29186,Male,All areas,Paraguay,Global,65 years old and over,2016
+8.48669,3709,,PRY,74573,74479,74391,74474,242,29186,Male,Urban,Paraguay,Global,55 to 64 years old,2016
+7.24084,3709,,PRY,74569,74477,74391,74474,242,29186,Male,Rural,Paraguay,Global,65 years old and over,2016
+9.27169,3709,,PRY,74569,74479,74391,74474,242,29186,Male,Urban,Paraguay,Global,65 years old and over,2016
+6.32235,3709,,PRY,74573,74477,74391,74474,242,29186,Male,Rural,Paraguay,Global,55 to 64 years old,2016
+7.54669,3709,,PRY,74573,74478,74391,74474,242,29186,Male,All areas,Paraguay,Global,55 to 64 years old,2016
+15.84091,9024,,PER,74425,74479,74391,74473,244,29180,Female,Urban,Peru,Global,15 to 24 years old,2010
+21.79654,9024,,PER,74425,74477,74391,74473,244,29180,Female,Rural,Peru,Global,15 to 24 years old,2010
+8.83736,9024,,PER,74418,74478,74391,74474,244,29180,Male,All areas,Peru,Global,12 years old and over,2010
+19.3155,9024,,PER,74569,74479,74391,74473,244,29180,Female,Urban,Peru,Global,65 years old and over,2010
+23.84707,9024,,PER,74569,74477,74391,74473,244,29180,Female,Rural,Peru,Global,65 years old and over,2010
+20.67141,9024,,PER,74569,74478,74391,74473,244,29180,Female,All areas,Peru,Global,65 years old and over,2010
+10.59314,9024,,PER,74418,74477,74391,74474,244,29180,Male,Rural,Peru,Global,12 years old and over,2010
+26.15763,9024,,PER,74418,74477,74391,74473,244,29180,Female,Rural,Peru,Global,12 years old and over,2010
+21.57557,9024,,PER,74418,74479,74391,74473,244,29180,Female,Urban,Peru,Global,12 years old and over,2010
+23.56031,9024,,PER,74437,74478,74391,74473,244,29180,Female,All areas,Peru,Global,15 years old and over,2010
+27.54154,9024,,PER,74437,74477,74391,74473,244,29180,Female,Rural,Peru,Global,15 years old and over,2010
+22.35766,9024,,PER,74437,74479,74391,74473,244,29180,Female,Urban,Peru,Global,15 years old and over,2010
+8.26512,9024,,PER,74418,74479,74391,74474,244,29180,Male,Urban,Peru,Global,12 years old and over,2010
+8.94605,9024,,PER,74437,74478,74391,74474,244,29180,Male,All areas,Peru,Global,15 years old and over,2010
+17.10463,9024,,PER,74425,74478,74391,74473,244,29180,Female,All areas,Peru,Global,15 to 24 years old,2010
+22.6662,9024,,PER,74418,74478,74391,74473,244,29180,Female,All areas,Peru,Global,12 years old and over,2010
+9.88473,9024,,PER,74569,74479,74391,74474,244,29180,Male,Urban,Peru,Global,65 years old and over,2010
+28.26435,9024,,PER,74571,74477,74391,74473,244,29180,Female,Rural,Peru,Global,45 to 54 years old,2010
+23.42232,9024,,PER,74571,74479,74391,74473,244,29180,Female,Urban,Peru,Global,45 to 54 years old,2010
+24.43399,9024,,PER,74573,74478,74391,74473,244,29180,Female,All areas,Peru,Global,55 to 64 years old,2010
+23.85893,9024,,PER,74573,74479,74391,74473,244,29180,Female,Urban,Peru,Global,55 to 64 years old,2010
+26.30845,9024,,PER,74573,74477,74391,74473,244,29180,Female,Rural,Peru,Global,55 to 64 years old,2010
+26.63305,9024,,PER,74570,74479,74391,74473,244,29180,Female,Urban,Peru,Global,25 to 44 years old,2010
+24.59598,9024,,PER,74571,74478,74391,74473,244,29180,Female,All areas,Peru,Global,45 to 54 years old,2010
+32.22537,9024,,PER,74570,74477,74391,74473,244,29180,Female,Rural,Peru,Global,25 to 44 years old,2010
+27.89605,9024,,PER,74570,74478,74391,74473,244,29180,Female,All areas,Peru,Global,25 to 44 years old,2010
+11.90107,9024,,PER,74569,74477,74391,74474,244,29180,Male,Rural,Peru,Global,65 years old and over,2010
+10.55008,9024,,PER,74569,74478,74391,74474,244,29180,Male,All areas,Peru,Global,65 years old and over,2010
+9.2465,9024,,PER,74573,74479,74391,74474,244,29180,Male,Urban,Peru,Global,55 to 64 years old,2010
+10.8804,9024,,PER,74437,74477,74391,74474,244,29180,Male,Rural,Peru,Global,15 years old and over,2010
+8.34672,9024,,PER,74437,74479,74391,74474,244,29180,Male,Urban,Peru,Global,15 years old and over,2010
+6.90412,9024,,PER,74425,74479,74391,74474,244,29180,Male,Urban,Peru,Global,15 to 24 years old,2010
+9.39341,9024,,PER,74570,74478,74391,74474,244,29180,Male,All areas,Peru,Global,25 to 44 years old,2010
+7.33945,9024,,PER,74425,74478,74391,74474,244,29180,Male,All areas,Peru,Global,15 to 24 years old,2010
+9.00704,9024,,PER,74425,74477,74391,74474,244,29180,Male,Rural,Peru,Global,15 to 24 years old,2010
+11.35071,9024,,PER,74570,74477,74391,74474,244,29180,Male,Rural,Peru,Global,25 to 44 years old,2010
+8.80226,9024,,PER,74570,74479,74391,74474,244,29180,Male,Urban,Peru,Global,25 to 44 years old,2010
+9.30768,9024,,PER,74571,74478,74391,74474,244,29180,Male,All areas,Peru,Global,45 to 54 years old,2010
+11.59198,9024,,PER,74571,74477,74391,74474,244,29180,Male,Rural,Peru,Global,45 to 54 years old,2010
+8.58758,9024,,PER,74571,74479,74391,74474,244,29180,Male,Urban,Peru,Global,45 to 54 years old,2010
+9.7834,9024,,PER,74573,74478,74391,74474,244,29180,Male,All areas,Peru,Global,55 to 64 years old,2010
+11.32447,9024,,PER,74573,74477,74391,74474,244,29180,Male,Rural,Peru,Global,55 to 64 years old,2010

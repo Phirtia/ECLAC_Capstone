@@ -1,0 +1,750 @@
+﻿value,source_id,notes_ids,iso3,dim_208,dim_378,dim_261938,dim_29117,dim_326,Geographical area,Country__ESTANDAR,Type of rental expense,Quintile,Years__ESTANDAR
+2.7170510292053223,26,,ARG,216,380,261939,29187,327,National,Argentina,Actual rentals paid by tenants for main residence,Quintile 1,2017
+4.35602331161499,26,,ARG,216,382,261939,29187,327,National,Argentina,Actual rentals paid by tenants for main residence,Quintile 2,2017
+3.791701078414917,26,,ARG,216,383,261939,29187,327,National,Argentina,Actual rentals paid by tenants for main residence,Quintile 3,2017
+4.506481170654297,26,,ARG,216,384,261939,29187,327,National,Argentina,Actual rentals paid by tenants for main residence,Quintile 4,2017
+4.940124034881592,26,,ARG,216,381,261939,29187,327,National,Argentina,Actual rentals paid by tenants for main residence,Quintile 5,2017
+4.427175045013428,26,,ARG,216,379,261939,29187,327,National,Argentina,Actual rentals paid by tenants for main residence,Total quintile,2017
+2.7170510292053223,26,,ARG,216,380,261947,29187,327,National,Argentina,Total expenditure on actual rentals for the main residence,Quintile 1,2017
+4.35602331161499,26,,ARG,216,382,261947,29187,327,National,Argentina,Total expenditure on actual rentals for the main residence,Quintile 2,2017
+3.791701078414917,26,,ARG,216,383,261947,29187,327,National,Argentina,Total expenditure on actual rentals for the main residence,Quintile 3,2017
+4.506481170654297,26,,ARG,216,384,261947,29187,327,National,Argentina,Total expenditure on actual rentals for the main residence,Quintile 4,2017
+4.940124034881592,26,,ARG,216,381,261947,29187,327,National,Argentina,Total expenditure on actual rentals for the main residence,Quintile 5,2017
+4.427175045013428,26,,ARG,216,379,261947,29187,327,National,Argentina,Total expenditure on actual rentals for the main residence,Total quintile,2017
+2.0103023052215576,26,,BOL,221,380,261939,29185,327,National,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Quintile 1,2015
+2.231696844100952,26,,BOL,221,382,261939,29185,327,National,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Quintile 2,2015
+2.171863079071045,26,,BOL,221,383,261939,29185,327,National,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Quintile 3,2015
+2.0357489585876465,26,,BOL,221,384,261939,29185,327,National,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Quintile 4,2015
+2.0250742435455322,26,,BOL,221,381,261939,29185,327,National,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Quintile 5,2015
+2.0737671852111816,26,,BOL,221,379,261939,29185,327,National,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Total quintile,2015
+0.30161550641059875,26,,BOL,221,380,261939,29185,331,Rural,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Quintile 1,2015
+0.2765304148197174,26,,BOL,221,382,261939,29185,331,Rural,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Quintile 2,2015
+0.12843750417232513,26,,BOL,221,383,261939,29185,331,Rural,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Quintile 3,2015
+0.11724566668272018,26,,BOL,221,384,261939,29185,331,Rural,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Quintile 4,2015
+0.5279992818832397,26,,BOL,221,381,261939,29185,331,Rural,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Quintile 5,2015
+0.32285186648368835,26,,BOL,221,379,261939,29185,331,Rural,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Total quintile,2015
+3.645956516265869,26,,BOL,221,380,261939,29185,330,Urban,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Quintile 1,2015
+2.826117992401123,26,,BOL,221,382,261939,29185,330,Urban,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Quintile 2,2015
+2.494858741760254,26,,BOL,221,383,261939,29185,330,Urban,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Quintile 3,2015
+2.0072529315948486,26,,BOL,221,384,261939,29185,330,Urban,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Quintile 4,2015
+2.168267011642456,26,,BOL,221,381,261939,29185,330,Urban,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Quintile 5,2015
+2.402059316635132,26,,BOL,221,379,261939,29185,330,Urban,Bolivia (Plurinational State of),Actual rentals paid by tenants for main residence,Total quintile,2015
+0.026028282940387726,26,,BOL,221,380,261940,29185,327,National,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Quintile 1,2015
+0.04275837168097496,26,,BOL,221,382,261940,29185,327,National,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Quintile 2,2015
+0.048336610198020935,26,,BOL,221,383,261940,29185,327,National,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Quintile 3,2015
+0.057042717933654785,26,,BOL,221,384,261940,29185,327,National,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Quintile 4,2015
+0.07437198609113693,26,,BOL,221,381,261940,29185,327,National,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Quintile 5,2015
+0.059522468596696854,26,,BOL,221,379,261940,29185,327,National,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Total quintile,2015
+0.014017781242728233,26,,BOL,221,380,261940,29185,331,Rural,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Quintile 1,2015
+0.014157846570014954,26,,BOL,221,382,261940,29185,331,Rural,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Quintile 2,2015
+0.016640115529298782,26,,BOL,221,383,261940,29185,331,Rural,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Quintile 3,2015
+0.014226393774151802,26,,BOL,221,384,261940,29185,331,Rural,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Quintile 4,2015
+0.015875747427344322,26,,BOL,221,381,261940,29185,331,Rural,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Quintile 5,2015
+0.015266143716871738,26,,BOL,221,379,261940,29185,331,Rural,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Total quintile,2015
+0.047902029007673264,26,,BOL,221,380,261940,29185,330,Urban,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Quintile 1,2015
+0.05358686298131943,26,,BOL,221,382,261940,29185,330,Urban,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Quintile 2,2015
+0.06201666593551636,26,,BOL,221,383,261940,29185,330,Urban,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Quintile 3,2015
+0.06464775651693344,26,,BOL,221,384,261940,29185,330,Urban,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Quintile 4,2015
+0.08075352758169174,26,,BOL,221,381,261940,29185,330,Urban,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Quintile 5,2015
+0.06782041490077972,26,,BOL,221,379,261940,29185,330,Urban,Bolivia (Plurinational State of),Imputed rentals of owner-occupiers for main residence,Total quintile,2015
+11.441070556640625,26,,BOL,221,380,261947,29185,327,National,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Quintile 1,2015
+12.220735549926758,26,,BOL,221,382,261947,29185,327,National,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Quintile 2,2015
+12.56844425201416,26,,BOL,221,383,261947,29185,327,National,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Quintile 3,2015
+14.511587142944336,26,,BOL,221,384,261947,29185,327,National,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Quintile 4,2015
+18.919593811035156,26,,BOL,221,381,261947,29185,327,National,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Quintile 5,2015
+15.64648723602295,26,,BOL,221,379,261947,29185,327,National,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Total quintile,2015
+9.908443450927734,26,,BOL,221,380,261947,29185,331,Rural,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Quintile 1,2015
+11.145406723022461,26,,BOL,221,382,261947,29185,331,Rural,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Quintile 2,2015
+10.220678329467773,26,,BOL,221,383,261947,29185,331,Rural,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Quintile 3,2015
+8.56660270690918,26,,BOL,221,384,261947,29185,331,Rural,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Quintile 4,2015
+9.022221565246582,26,,BOL,221,381,261947,29185,331,Rural,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Quintile 5,2015
+9.40894889831543,26,,BOL,221,379,261947,29185,331,Rural,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Total quintile,2015
+12.571063995361328,26,,BOL,221,380,261947,29185,330,Urban,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Quintile 1,2015
+13.195530891418457,26,,BOL,221,382,261947,29185,330,Urban,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Quintile 2,2015
+14.734148025512695,26,,BOL,221,383,261947,29185,330,Urban,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Quintile 3,2015
+15.999449729919434,26,,BOL,221,384,261947,29185,330,Urban,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Quintile 4,2015
+20.17416763305664,26,,BOL,221,381,261947,29185,330,Urban,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Quintile 5,2015
+16.816009521484375,26,,BOL,221,379,261947,29185,330,Urban,Bolivia (Plurinational State of),Total expenditure on actual rentals for the main residence,Total quintile,2015
+3.9781458377838135,26,,BRA,222,380,261939,29187,327,National,Brazil,Actual rentals paid by tenants for main residence,Quintile 1,2017
+3.711777925491333,26,,BRA,222,382,261939,29187,327,National,Brazil,Actual rentals paid by tenants for main residence,Quintile 2,2017
+3.0767908096313477,26,,BRA,222,383,261939,29187,327,National,Brazil,Actual rentals paid by tenants for main residence,Quintile 3,2017
+2.55372953414917,26,,BRA,222,384,261939,29187,327,National,Brazil,Actual rentals paid by tenants for main residence,Quintile 4,2017
+1.9407548904418945,26,,BRA,222,381,261939,29187,327,National,Brazil,Actual rentals paid by tenants for main residence,Quintile 5,2017
+2.5283191204071045,26,,BRA,222,379,261939,29187,327,National,Brazil,Actual rentals paid by tenants for main residence,Total quintile,2017
+0.4962333142757416,26,,BRA,222,380,261939,29187,331,Rural,Brazil,Actual rentals paid by tenants for main residence,Quintile 1,2017
+0.4354349672794342,26,,BRA,222,382,261939,29187,331,Rural,Brazil,Actual rentals paid by tenants for main residence,Quintile 2,2017
+0.5180427432060242,26,,BRA,222,383,261939,29187,331,Rural,Brazil,Actual rentals paid by tenants for main residence,Quintile 3,2017
+0.49983593821525574,26,,BRA,222,384,261939,29187,331,Rural,Brazil,Actual rentals paid by tenants for main residence,Quintile 4,2017
+0.36933597922325134,26,,BRA,222,381,261939,29187,331,Rural,Brazil,Actual rentals paid by tenants for main residence,Quintile 5,2017
+0.4372153580188751,26,,BRA,222,379,261939,29187,331,Rural,Brazil,Actual rentals paid by tenants for main residence,Total quintile,2017
+5.316690444946289,26,,BRA,222,380,261939,29187,330,Urban,Brazil,Actual rentals paid by tenants for main residence,Quintile 1,2017
+3.7853996753692627,26,,BRA,222,382,261939,29187,330,Urban,Brazil,Actual rentals paid by tenants for main residence,Quintile 2,2017
+3.371267557144165,26,,BRA,222,383,261939,29187,330,Urban,Brazil,Actual rentals paid by tenants for main residence,Quintile 3,2017
+2.6008410453796387,26,,BRA,222,384,261939,29187,330,Urban,Brazil,Actual rentals paid by tenants for main residence,Quintile 4,2017
+1.9890505075454712,26,,BRA,222,381,261939,29187,330,Urban,Brazil,Actual rentals paid by tenants for main residence,Quintile 5,2017
+2.7080495357513428,26,,BRA,222,379,261939,29187,330,Urban,Brazil,Actual rentals paid by tenants for main residence,Total quintile,2017
+0.014801719225943089,26,,BRA,222,380,261940,29187,327,National,Brazil,Imputed rentals of owner-occupiers for main residence,Quintile 1,2017
+0.014091718010604382,26,,BRA,222,382,261940,29187,327,National,Brazil,Imputed rentals of owner-occupiers for main residence,Quintile 2,2017
+0.013028929941356182,26,,BRA,222,383,261940,29187,327,National,Brazil,Imputed rentals of owner-occupiers for main residence,Quintile 3,2017
+0.012487059459090233,26,,BRA,222,384,261940,29187,327,National,Brazil,Imputed rentals of owner-occupiers for main residence,Quintile 4,2017
+0.00942918285727501,26,,BRA,222,381,261940,29187,327,National,Brazil,Imputed rentals of owner-occupiers for main residence,Quintile 5,2017
+0.011366226710379124,26,,BRA,222,379,261940,29187,327,National,Brazil,Imputed rentals of owner-occupiers for main residence,Total quintile,2017
+0.017130117863416672,26,,BRA,222,380,261940,29187,331,Rural,Brazil,Imputed rentals of owner-occupiers for main residence,Quintile 1,2017
+0.01834263652563095,26,,BRA,222,382,261940,29187,331,Rural,Brazil,Imputed rentals of owner-occupiers for main residence,Quintile 2,2017
+0.020285815000534058,26,,BRA,222,383,261940,29187,331,Rural,Brazil,Imputed rentals of owner-occupiers for main residence,Quintile 3,2017
+0.02250746823847294,26,,BRA,222,384,261940,29187,331,Rural,Brazil,Imputed rentals of owner-occupiers for main residence,Quintile 4,2017
+0.02799047902226448,26,,BRA,222,381,261940,29187,331,Rural,Brazil,Imputed rentals of owner-occupiers for main residence,Quintile 5,2017
+0.023737946525216103,26,,BRA,222,379,261940,29187,331,Rural,Brazil,Imputed rentals of owner-occupiers for main residence,Total quintile,2017
+0.013659876771271229,26,,BRA,222,380,261940,29187,330,Urban,Brazil,Imputed rentals of owner-occupiers for main residence,Quintile 1,2017
+0.012786722742021084,26,,BRA,222,382,261940,29187,330,Urban,Brazil,Imputed rentals of owner-occupiers for main residence,Quintile 2,2017
+0.011548654176294804,26,,BRA,222,383,261940,29187,330,Urban,Brazil,Imputed rentals of owner-occupiers for main residence,Quintile 3,2017
+0.010958529077470303,26,,BRA,222,384,261940,29187,330,Urban,Brazil,Imputed rentals of owner-occupiers for main residence,Quintile 4,2017
+0.008685396984219551,26,,BRA,222,381,261940,29187,330,Urban,Brazil,Imputed rentals of owner-occupiers for main residence,Quintile 5,2017
+0.010302876122295856,26,,BRA,222,379,261940,29187,330,Urban,Brazil,Imputed rentals of owner-occupiers for main residence,Total quintile,2017
+18.559553146362305,26,,BRA,222,380,261947,29187,327,National,Brazil,Total expenditure on actual rentals for the main residence,Quintile 1,2017
+19.05302619934082,26,,BRA,222,382,261947,29187,327,National,Brazil,Total expenditure on actual rentals for the main residence,Quintile 2,2017
+19.03871726989746,26,,BRA,222,383,261947,29187,327,National,Brazil,Total expenditure on actual rentals for the main residence,Quintile 3,2017
+19.482349395751953,26,,BRA,222,384,261947,29187,327,National,Brazil,Total expenditure on actual rentals for the main residence,Quintile 4,2017
+18.678375244140625,26,,BRA,222,381,261947,29187,327,National,Brazil,Total expenditure on actual rentals for the main residence,Quintile 5,2017
+18.92835235595703,26,,BRA,222,379,261947,29187,327,National,Brazil,Total expenditure on actual rentals for the main residence,Total quintile,2017
+14.785353660583496,26,,BRA,222,380,261947,29187,331,Rural,Brazil,Total expenditure on actual rentals for the main residence,Quintile 1,2017
+14.340437889099121,26,,BRA,222,382,261947,29187,331,Rural,Brazil,Total expenditure on actual rentals for the main residence,Quintile 2,2017
+14.460504531860352,26,,BRA,222,383,261947,29187,331,Rural,Brazil,Total expenditure on actual rentals for the main residence,Quintile 3,2017
+14.789460182189941,26,,BRA,222,384,261947,29187,331,Rural,Brazil,Total expenditure on actual rentals for the main residence,Quintile 4,2017
+15.976542472839355,26,,BRA,222,381,261947,29187,331,Rural,Brazil,Total expenditure on actual rentals for the main residence,Quintile 5,2017
+15.215495109558105,26,,BRA,222,379,261947,29187,331,Rural,Brazil,Total expenditure on actual rentals for the main residence,Total quintile,2017
+20.11666488647461,26,,BRA,222,380,261947,29187,330,Urban,Brazil,Total expenditure on actual rentals for the main residence,Quintile 1,2017
+19.784870147705078,26,,BRA,222,382,261947,29187,330,Urban,Brazil,Total expenditure on actual rentals for the main residence,Quintile 2,2017
+19.777816772460938,26,,BRA,222,383,261947,29187,330,Urban,Brazil,Total expenditure on actual rentals for the main residence,Quintile 3,2017
+19.4544620513916,26,,BRA,222,384,261947,29187,330,Urban,Brazil,Total expenditure on actual rentals for the main residence,Quintile 4,2017
+18.77344512939453,26,,BRA,222,381,261947,29187,330,Urban,Brazil,Total expenditure on actual rentals for the main residence,Quintile 5,2017
+19.247472763061523,26,,BRA,222,379,261947,29187,330,Urban,Brazil,Total expenditure on actual rentals for the main residence,Total quintile,2017
+10.025381088256836,26,,CHL,224,380,261939,29191,327,National,Chile,Actual rentals paid by tenants for main residence,Quintile 1,2021
+6.693719863891602,26,,CHL,224,382,261939,29191,327,National,Chile,Actual rentals paid by tenants for main residence,Quintile 2,2021
+5.194869518280029,26,,CHL,224,383,261939,29191,327,National,Chile,Actual rentals paid by tenants for main residence,Quintile 3,2021
+5.002010345458984,26,,CHL,224,384,261939,29191,327,National,Chile,Actual rentals paid by tenants for main residence,Quintile 4,2021
+4.524058818817139,26,,CHL,224,381,261939,29191,327,National,Chile,Actual rentals paid by tenants for main residence,Quintile 5,2021
+5.52286434173584,26,,CHL,224,379,261939,29191,327,National,Chile,Actual rentals paid by tenants for main residence,Total quintile,2021
+0.04728369787335396,26,,CHL,224,380,261940,29191,327,National,Chile,Imputed rentals of owner-occupiers for main residence,Quintile 1,2021
+0.05597555637359619,26,,CHL,224,382,261940,29191,327,National,Chile,Imputed rentals of owner-occupiers for main residence,Quintile 2,2021
+0.05927508696913719,26,,CHL,224,383,261940,29191,327,National,Chile,Imputed rentals of owner-occupiers for main residence,Quintile 3,2021
+0.056430716067552567,26,,CHL,224,384,261940,29191,327,National,Chile,Imputed rentals of owner-occupiers for main residence,Quintile 4,2021
+0.047532327473163605,26,,CHL,224,381,261940,29191,327,National,Chile,Imputed rentals of owner-occupiers for main residence,Quintile 5,2021
+0.052305012941360474,26,,CHL,224,379,261940,29191,327,National,Chile,Imputed rentals of owner-occupiers for main residence,Total quintile,2021
+22.19902229309082,26,,CHL,224,380,261947,29191,327,National,Chile,Total expenditure on actual rentals for the main residence,Quintile 1,2021
+22.183523178100586,26,,CHL,224,382,261947,29191,327,National,Chile,Total expenditure on actual rentals for the main residence,Quintile 2,2021
+22.059593200683594,26,,CHL,224,383,261947,29191,327,National,Chile,Total expenditure on actual rentals for the main residence,Quintile 3,2021
+21.378326416015625,26,,CHL,224,384,261947,29191,327,National,Chile,Total expenditure on actual rentals for the main residence,Quintile 4,2021
+19.7928524017334,26,,CHL,224,381,261947,29191,327,National,Chile,Total expenditure on actual rentals for the main residence,Quintile 5,2021
+21.012849807739258,26,,CHL,224,379,261947,29191,327,National,Chile,Total expenditure on actual rentals for the main residence,Total quintile,2021
+10.76930046081543,26,,COL,225,380,261939,29186,327,National,Colombia,Actual rentals paid by tenants for main residence,Quintile 1,2016
+10.515715599060059,26,,COL,225,382,261939,29186,327,National,Colombia,Actual rentals paid by tenants for main residence,Quintile 2,2016
+10.611539840698242,26,,COL,225,383,261939,29186,327,National,Colombia,Actual rentals paid by tenants for main residence,Quintile 3,2016
+10.107044219970703,26,,COL,225,384,261939,29186,327,National,Colombia,Actual rentals paid by tenants for main residence,Quintile 4,2016
+7.044047832489014,26,,COL,225,381,261939,29186,327,National,Colombia,Actual rentals paid by tenants for main residence,Quintile 5,2016
+8.913647651672363,26,,COL,225,379,261939,29186,327,National,Colombia,Actual rentals paid by tenants for main residence,Total quintile,2016
+3.5537900924682617,26,,COL,225,380,261939,29186,331,Rural,Colombia,Actual rentals paid by tenants for main residence,Quintile 1,2016
+2.310481071472168,26,,COL,225,382,261939,29186,331,Rural,Colombia,Actual rentals paid by tenants for main residence,Quintile 2,2016
+3.796125650405884,26,,COL,225,383,261939,29186,331,Rural,Colombia,Actual rentals paid by tenants for main residence,Quintile 3,2016
+3.4585025310516357,26,,COL,225,384,261939,29186,331,Rural,Colombia,Actual rentals paid by tenants for main residence,Quintile 4,2016
+3.219362258911133,26,,COL,225,381,261939,29186,331,Rural,Colombia,Actual rentals paid by tenants for main residence,Quintile 5,2016
+3.273080825805664,26,,COL,225,379,261939,29186,331,Rural,Colombia,Actual rentals paid by tenants for main residence,Total quintile,2016
+14.509465217590332,26,,COL,225,380,261939,29186,330,Urban,Colombia,Actual rentals paid by tenants for main residence,Quintile 1,2016
+12.680788040161133,26,,COL,225,382,261939,29186,330,Urban,Colombia,Actual rentals paid by tenants for main residence,Quintile 2,2016
+11.352428436279297,26,,COL,225,383,261939,29186,330,Urban,Colombia,Actual rentals paid by tenants for main residence,Quintile 3,2016
+10.235358238220215,26,,COL,225,384,261939,29186,330,Urban,Colombia,Actual rentals paid by tenants for main residence,Quintile 4,2016
+6.963661193847656,26,,COL,225,381,261939,29186,330,Urban,Colombia,Actual rentals paid by tenants for main residence,Quintile 5,2016
+9.657365798950195,26,,COL,225,379,261939,29186,330,Urban,Colombia,Actual rentals paid by tenants for main residence,Total quintile,2016
+0.06299473345279694,26,,COL,225,380,261940,29186,327,National,Colombia,Imputed rentals of owner-occupiers for main residence,Quintile 1,2016
+0.08299639075994492,26,,COL,225,382,261940,29186,327,National,Colombia,Imputed rentals of owner-occupiers for main residence,Quintile 2,2016
+0.09817834198474884,26,,COL,225,383,261940,29186,327,National,Colombia,Imputed rentals of owner-occupiers for main residence,Quintile 3,2016
+0.10331722348928452,26,,COL,225,384,261940,29186,327,National,Colombia,Imputed rentals of owner-occupiers for main residence,Quintile 4,2016
+0.11592608690261841,26,,COL,225,381,261940,29186,327,National,Colombia,Imputed rentals of owner-occupiers for main residence,Quintile 5,2016
+0.10253269970417023,26,,COL,225,379,261940,29186,327,National,Colombia,Imputed rentals of owner-occupiers for main residence,Total quintile,2016
+0.024040082469582558,26,,COL,225,380,261940,29186,331,Rural,Colombia,Imputed rentals of owner-occupiers for main residence,Quintile 1,2016
+0.026069236919283867,26,,COL,225,382,261940,29186,331,Rural,Colombia,Imputed rentals of owner-occupiers for main residence,Quintile 2,2016
+0.025260232388973236,26,,COL,225,383,261940,29186,331,Rural,Colombia,Imputed rentals of owner-occupiers for main residence,Quintile 3,2016
+0.031159033998847008,26,,COL,225,384,261940,29186,331,Rural,Colombia,Imputed rentals of owner-occupiers for main residence,Quintile 4,2016
+0.039803341031074524,26,,COL,225,381,261940,29186,331,Rural,Colombia,Imputed rentals of owner-occupiers for main residence,Quintile 5,2016
+0.0319674052298069,26,,COL,225,379,261940,29186,331,Rural,Colombia,Imputed rentals of owner-occupiers for main residence,Total quintile,2016
+0.08926220238208771,26,,COL,225,380,261940,29186,330,Urban,Colombia,Imputed rentals of owner-occupiers for main residence,Quintile 1,2016
+0.10508444160223007,26,,COL,225,382,261940,29186,330,Urban,Colombia,Imputed rentals of owner-occupiers for main residence,Quintile 2,2016
+0.11373540014028549,26,,COL,225,383,261940,29186,330,Urban,Colombia,Imputed rentals of owner-occupiers for main residence,Quintile 3,2016
+0.11162521690130234,26,,COL,225,384,261940,29186,330,Urban,Colombia,Imputed rentals of owner-occupiers for main residence,Quintile 4,2016
+0.11782834678888321,26,,COL,225,381,261940,29186,330,Urban,Colombia,Imputed rentals of owner-occupiers for main residence,Quintile 5,2016
+0.11183685064315796,26,,COL,225,379,261940,29186,330,Urban,Colombia,Imputed rentals of owner-occupiers for main residence,Total quintile,2016
+21.6829891204834,26,,COL,225,380,261947,29186,327,National,Colombia,Total expenditure on actual rentals for the main residence,Quintile 1,2016
+22.542156219482422,26,,COL,225,382,261947,29186,327,National,Colombia,Total expenditure on actual rentals for the main residence,Quintile 2,2016
+23.94813346862793,26,,COL,225,383,261947,29186,327,National,Colombia,Total expenditure on actual rentals for the main residence,Quintile 3,2016
+24.9056339263916,26,,COL,225,384,261947,29186,327,National,Colombia,Total expenditure on actual rentals for the main residence,Quintile 4,2016
+26.4627742767334,26,,COL,225,381,261947,29186,327,National,Colombia,Total expenditure on actual rentals for the main residence,Quintile 5,2016
+24.923263549804688,26,,COL,225,379,261947,29186,327,National,Colombia,Total expenditure on actual rentals for the main residence,Total quintile,2016
+16.80806541442871,26,,COL,225,380,261947,29186,331,Rural,Colombia,Total expenditure on actual rentals for the main residence,Quintile 1,2016
+16.728120803833008,26,,COL,225,382,261947,29186,331,Rural,Colombia,Total expenditure on actual rentals for the main residence,Quintile 2,2016
+17.08341407775879,26,,COL,225,383,261947,29186,331,Rural,Colombia,Total expenditure on actual rentals for the main residence,Quintile 3,2016
+18.88286018371582,26,,COL,225,384,261947,29186,331,Rural,Colombia,Total expenditure on actual rentals for the main residence,Quintile 4,2016
+21.475492477416992,26,,COL,225,381,261947,29186,331,Rural,Colombia,Total expenditure on actual rentals for the main residence,Quintile 5,2016
+19.037677764892578,26,,COL,225,379,261947,29186,331,Rural,Colombia,Total expenditure on actual rentals for the main residence,Total quintile,2016
+24.147579193115234,26,,COL,225,380,261947,29186,330,Urban,Colombia,Total expenditure on actual rentals for the main residence,Quintile 1,2016
+24.531312942504883,26,,COL,225,382,261947,29186,330,Urban,Colombia,Total expenditure on actual rentals for the main residence,Quintile 2,2016
+25.26959800720215,26,,COL,225,383,261947,29186,330,Urban,Colombia,Total expenditure on actual rentals for the main residence,Quintile 3,2016
+25.404579162597656,26,,COL,225,384,261947,29186,330,Urban,Colombia,Total expenditure on actual rentals for the main residence,Quintile 4,2016
+26.627727508544922,26,,COL,225,381,261947,29186,330,Urban,Colombia,Total expenditure on actual rentals for the main residence,Quintile 5,2016
+25.699289321899414,26,,COL,225,379,261947,29186,330,Urban,Colombia,Total expenditure on actual rentals for the main residence,Total quintile,2016
+7.426246643066406,26,,CRI,226,380,261939,29188,327,National,Costa Rica,Actual rentals paid by tenants for main residence,Quintile 1,2018
+6.551187038421631,26,,CRI,226,382,261939,29188,327,National,Costa Rica,Actual rentals paid by tenants for main residence,Quintile 2,2018
+6.609780311584473,26,,CRI,226,383,261939,29188,327,National,Costa Rica,Actual rentals paid by tenants for main residence,Quintile 3,2018
+5.109144687652588,26,,CRI,226,384,261939,29188,327,National,Costa Rica,Actual rentals paid by tenants for main residence,Quintile 4,2018
+3.3323938846588135,26,,CRI,226,381,261939,29188,327,National,Costa Rica,Actual rentals paid by tenants for main residence,Quintile 5,2018
+4.88801908493042,26,,CRI,226,379,261939,29188,327,National,Costa Rica,Actual rentals paid by tenants for main residence,Total quintile,2018
+4.008970260620117,26,,CRI,226,380,261939,29188,331,Rural,Costa Rica,Actual rentals paid by tenants for main residence,Quintile 1,2018
+2.4056308269500732,26,,CRI,226,382,261939,29188,331,Rural,Costa Rica,Actual rentals paid by tenants for main residence,Quintile 2,2018
+3.1437230110168457,26,,CRI,226,383,261939,29188,331,Rural,Costa Rica,Actual rentals paid by tenants for main residence,Quintile 3,2018
+3.0519542694091797,26,,CRI,226,384,261939,29188,331,Rural,Costa Rica,Actual rentals paid by tenants for main residence,Quintile 4,2018
+2.245551109313965,26,,CRI,226,381,261939,29188,331,Rural,Costa Rica,Actual rentals paid by tenants for main residence,Quintile 5,2018
+2.751264810562134,26,,CRI,226,379,261939,29188,331,Rural,Costa Rica,Actual rentals paid by tenants for main residence,Total quintile,2018
+10.923992156982422,26,,CRI,226,380,261939,29188,330,Urban,Costa Rica,Actual rentals paid by tenants for main residence,Quintile 1,2018
+7.5941877365112305,26,,CRI,226,382,261939,29188,330,Urban,Costa Rica,Actual rentals paid by tenants for main residence,Quintile 2,2018
+7.280638217926025,26,,CRI,226,383,261939,29188,330,Urban,Costa Rica,Actual rentals paid by tenants for main residence,Quintile 3,2018
+5.548581600189209,26,,CRI,226,384,261939,29188,330,Urban,Costa Rica,Actual rentals paid by tenants for main residence,Quintile 4,2018
+3.291900634765625,26,,CRI,226,381,261939,29188,330,Urban,Costa Rica,Actual rentals paid by tenants for main residence,Quintile 5,2018
+5.464963912963867,26,,CRI,226,379,261939,29188,330,Urban,Costa Rica,Actual rentals paid by tenants for main residence,Total quintile,2018
+7.426246643066406,26,,CRI,226,380,261947,29188,327,National,Costa Rica,Total expenditure on actual rentals for the main residence,Quintile 1,2018
+6.551187038421631,26,,CRI,226,382,261947,29188,327,National,Costa Rica,Total expenditure on actual rentals for the main residence,Quintile 2,2018
+6.609780311584473,26,,CRI,226,383,261947,29188,327,National,Costa Rica,Total expenditure on actual rentals for the main residence,Quintile 3,2018
+5.109144687652588,26,,CRI,226,384,261947,29188,327,National,Costa Rica,Total expenditure on actual rentals for the main residence,Quintile 4,2018
+3.3323938846588135,26,,CRI,226,381,261947,29188,327,National,Costa Rica,Total expenditure on actual rentals for the main residence,Quintile 5,2018
+4.88801908493042,26,,CRI,226,379,261947,29188,327,National,Costa Rica,Total expenditure on actual rentals for the main residence,Total quintile,2018
+4.008970260620117,26,,CRI,226,380,261947,29188,331,Rural,Costa Rica,Total expenditure on actual rentals for the main residence,Quintile 1,2018
+2.4056308269500732,26,,CRI,226,382,261947,29188,331,Rural,Costa Rica,Total expenditure on actual rentals for the main residence,Quintile 2,2018
+3.1437230110168457,26,,CRI,226,383,261947,29188,331,Rural,Costa Rica,Total expenditure on actual rentals for the main residence,Quintile 3,2018
+3.0519542694091797,26,,CRI,226,384,261947,29188,331,Rural,Costa Rica,Total expenditure on actual rentals for the main residence,Quintile 4,2018
+2.245551109313965,26,,CRI,226,381,261947,29188,331,Rural,Costa Rica,Total expenditure on actual rentals for the main residence,Quintile 5,2018
+2.751264810562134,26,,CRI,226,379,261947,29188,331,Rural,Costa Rica,Total expenditure on actual rentals for the main residence,Total quintile,2018
+10.923992156982422,26,,CRI,226,380,261947,29188,330,Urban,Costa Rica,Total expenditure on actual rentals for the main residence,Quintile 1,2018
+7.5941877365112305,26,,CRI,226,382,261947,29188,330,Urban,Costa Rica,Total expenditure on actual rentals for the main residence,Quintile 2,2018
+7.280638217926025,26,,CRI,226,383,261947,29188,330,Urban,Costa Rica,Total expenditure on actual rentals for the main residence,Quintile 3,2018
+5.548581600189209,26,,CRI,226,384,261947,29188,330,Urban,Costa Rica,Total expenditure on actual rentals for the main residence,Quintile 4,2018
+3.291900634765625,26,,CRI,226,381,261947,29188,330,Urban,Costa Rica,Total expenditure on actual rentals for the main residence,Quintile 5,2018
+5.464963912963867,26,,CRI,226,379,261947,29188,330,Urban,Costa Rica,Total expenditure on actual rentals for the main residence,Total quintile,2018
+2.465857744216919,26,,ECU,229,380,261939,29184,327,National,Ecuador,Actual rentals paid by tenants for main residence,Quintile 1,2014
+2.469080686569214,26,,ECU,229,382,261939,29184,327,National,Ecuador,Actual rentals paid by tenants for main residence,Quintile 2,2014
+2.8427138328552246,26,,ECU,229,383,261939,29184,327,National,Ecuador,Actual rentals paid by tenants for main residence,Quintile 3,2014
+2.9706997871398926,26,,ECU,229,384,261939,29184,327,National,Ecuador,Actual rentals paid by tenants for main residence,Quintile 4,2014
+2.5152971744537354,26,,ECU,229,381,261939,29184,327,National,Ecuador,Actual rentals paid by tenants for main residence,Quintile 5,2014
+2.656601667404175,26,,ECU,229,379,261939,29184,327,National,Ecuador,Actual rentals paid by tenants for main residence,Total quintile,2014
+0.3567138612270355,26,,ECU,229,380,261939,29184,331,Rural,Ecuador,Actual rentals paid by tenants for main residence,Quintile 1,2014
+0.4695861339569092,26,,ECU,229,382,261939,29184,331,Rural,Ecuador,Actual rentals paid by tenants for main residence,Quintile 2,2014
+0.49887141585350037,26,,ECU,229,383,261939,29184,331,Rural,Ecuador,Actual rentals paid by tenants for main residence,Quintile 3,2014
+0.5784808397293091,26,,ECU,229,384,261939,29184,331,Rural,Ecuador,Actual rentals paid by tenants for main residence,Quintile 4,2014
+0.6389263272285461,26,,ECU,229,381,261939,29184,331,Rural,Ecuador,Actual rentals paid by tenants for main residence,Quintile 5,2014
+0.5493429899215698,26,,ECU,229,379,261939,29184,331,Rural,Ecuador,Actual rentals paid by tenants for main residence,Total quintile,2014
+3.9898881912231445,26,,ECU,229,380,261939,29184,330,Urban,Ecuador,Actual rentals paid by tenants for main residence,Quintile 1,2014
+3.7224745750427246,26,,ECU,229,382,261939,29184,330,Urban,Ecuador,Actual rentals paid by tenants for main residence,Quintile 2,2014
+3.700434684753418,26,,ECU,229,383,261939,29184,330,Urban,Ecuador,Actual rentals paid by tenants for main residence,Quintile 3,2014
+3.4733221530914307,26,,ECU,229,384,261939,29184,330,Urban,Ecuador,Actual rentals paid by tenants for main residence,Quintile 4,2014
+2.530184268951416,26,,ECU,229,381,261939,29184,330,Urban,Ecuador,Actual rentals paid by tenants for main residence,Quintile 5,2014
+3.2126641273498535,26,,ECU,229,379,261939,29184,330,Urban,Ecuador,Actual rentals paid by tenants for main residence,Total quintile,2014
+0.08079234510660172,26,,ECU,229,380,261940,29184,327,National,Ecuador,Imputed rentals of owner-occupiers for main residence,Quintile 1,2014
+0.07114949077367783,26,,ECU,229,382,261940,29184,327,National,Ecuador,Imputed rentals of owner-occupiers for main residence,Quintile 2,2014
+0.06655925512313843,26,,ECU,229,383,261940,29184,327,National,Ecuador,Imputed rentals of owner-occupiers for main residence,Quintile 3,2014
+0.06230706349015236,26,,ECU,229,384,261940,29184,327,National,Ecuador,Imputed rentals of owner-occupiers for main residence,Quintile 4,2014
+0.05849359184503555,26,,ECU,229,381,261940,29184,327,National,Ecuador,Imputed rentals of owner-occupiers for main residence,Quintile 5,2014
+0.06411241739988327,26,,ECU,229,379,261940,29184,327,National,Ecuador,Imputed rentals of owner-occupiers for main residence,Total quintile,2014
+0.12979944050312042,26,,ECU,229,380,261940,29184,331,Rural,Ecuador,Imputed rentals of owner-occupiers for main residence,Quintile 1,2014
+0.11428070813417435,26,,ECU,229,382,261940,29184,331,Rural,Ecuador,Imputed rentals of owner-occupiers for main residence,Quintile 2,2014
+0.11272581666707993,26,,ECU,229,383,261940,29184,331,Rural,Ecuador,Imputed rentals of owner-occupiers for main residence,Quintile 3,2014
+0.11236680299043655,26,,ECU,229,384,261940,29184,331,Rural,Ecuador,Imputed rentals of owner-occupiers for main residence,Quintile 4,2014
+0.11842376738786697,26,,ECU,229,381,261940,29184,331,Rural,Ecuador,Imputed rentals of owner-occupiers for main residence,Quintile 5,2014
+0.11676553636789322,26,,ECU,229,379,261940,29184,331,Rural,Ecuador,Imputed rentals of owner-occupiers for main residence,Total quintile,2014
+0.04476597532629967,26,,ECU,229,380,261940,29184,330,Urban,Ecuador,Imputed rentals of owner-occupiers for main residence,Quintile 1,2014
+0.04909629747271538,26,,ECU,229,382,261940,29184,330,Urban,Ecuador,Imputed rentals of owner-occupiers for main residence,Quintile 2,2014
+0.04867163673043251,26,,ECU,229,383,261940,29184,330,Urban,Ecuador,Imputed rentals of owner-occupiers for main residence,Quintile 3,2014
+0.05098487436771393,26,,ECU,229,384,261940,29184,330,Urban,Ecuador,Imputed rentals of owner-occupiers for main residence,Quintile 4,2014
+0.0520542711019516,26,,ECU,229,381,261940,29184,330,Urban,Ecuador,Imputed rentals of owner-occupiers for main residence,Quintile 5,2014
+0.050218336284160614,26,,ECU,229,379,261940,29184,330,Urban,Ecuador,Imputed rentals of owner-occupiers for main residence,Total quintile,2014
+12.157447814941406,26,,ECU,229,380,261947,29184,327,National,Ecuador,Total expenditure on actual rentals for the main residence,Quintile 1,2014
+12.760069847106934,26,,ECU,229,382,261947,29184,327,National,Ecuador,Total expenditure on actual rentals for the main residence,Quintile 2,2014
+13.26654052734375,26,,ECU,229,383,261947,29184,327,National,Ecuador,Total expenditure on actual rentals for the main residence,Quintile 3,2014
+13.56663703918457,26,,ECU,229,384,261947,29184,327,National,Ecuador,Total expenditure on actual rentals for the main residence,Quintile 4,2014
+14.923409461975098,26,,ECU,229,381,261947,29184,327,National,Ecuador,Total expenditure on actual rentals for the main residence,Quintile 5,2014
+13.85693359375,26,,ECU,229,379,261947,29184,327,National,Ecuador,Total expenditure on actual rentals for the main residence,Total quintile,2014
+10.892145156860352,26,,ECU,229,380,261947,29184,331,Rural,Ecuador,Total expenditure on actual rentals for the main residence,Quintile 1,2014
+11.172359466552734,26,,ECU,229,382,261947,29184,331,Rural,Ecuador,Total expenditure on actual rentals for the main residence,Quintile 2,2014
+11.137553215026855,26,,ECU,229,383,261947,29184,331,Rural,Ecuador,Total expenditure on actual rentals for the main residence,Quintile 3,2014
+11.165473937988281,26,,ECU,229,384,261947,29184,331,Rural,Ecuador,Total expenditure on actual rentals for the main residence,Quintile 4,2014
+11.71371078491211,26,,ECU,229,381,261947,29184,331,Rural,Ecuador,Total expenditure on actual rentals for the main residence,Quintile 5,2014
+11.337944030761719,26,,ECU,229,379,261947,29184,331,Rural,Ecuador,Total expenditure on actual rentals for the main residence,Total quintile,2014
+13.50403118133545,26,,ECU,229,380,261947,29184,330,Urban,Ecuador,Total expenditure on actual rentals for the main residence,Quintile 1,2014
+13.849961280822754,26,,ECU,229,382,261947,29184,330,Urban,Ecuador,Total expenditure on actual rentals for the main residence,Quintile 2,2014
+13.957066535949707,26,,ECU,229,383,261947,29184,330,Urban,Ecuador,Total expenditure on actual rentals for the main residence,Quintile 3,2014
+14.603517532348633,26,,ECU,229,384,261947,29184,330,Urban,Ecuador,Total expenditure on actual rentals for the main residence,Quintile 4,2014
+15.157079696655273,26,,ECU,229,381,261947,29184,330,Urban,Ecuador,Total expenditure on actual rentals for the main residence,Quintile 5,2014
+14.52164363861084,26,,ECU,229,379,261947,29184,330,Urban,Ecuador,Total expenditure on actual rentals for the main residence,Total quintile,2014
+1.137276291847229,26,,SLV,230,380,261939,29176,327,National,El Salvador,Actual rentals paid by tenants for main residence,Quintile 1,2006
+1.2752827405929565,26,,SLV,230,382,261939,29176,327,National,El Salvador,Actual rentals paid by tenants for main residence,Quintile 2,2006
+1.5970934629440308,26,,SLV,230,383,261939,29176,327,National,El Salvador,Actual rentals paid by tenants for main residence,Quintile 3,2006
+1.754739761352539,26,,SLV,230,384,261939,29176,327,National,El Salvador,Actual rentals paid by tenants for main residence,Quintile 4,2006
+1.8506516218185425,26,,SLV,230,381,261939,29176,327,National,El Salvador,Actual rentals paid by tenants for main residence,Quintile 5,2006
+1.667052149772644,26,,SLV,230,379,261939,29176,327,National,El Salvador,Actual rentals paid by tenants for main residence,Total quintile,2006
+0.2499811202287674,26,,SLV,230,380,261939,29176,331,Rural,El Salvador,Actual rentals paid by tenants for main residence,Quintile 1,2006
+0.06549734622240067,26,,SLV,230,382,261939,29176,331,Rural,El Salvador,Actual rentals paid by tenants for main residence,Quintile 2,2006
+0.3159206807613373,26,,SLV,230,383,261939,29176,331,Rural,El Salvador,Actual rentals paid by tenants for main residence,Quintile 3,2006
+0.11955931782722473,26,,SLV,230,384,261939,29176,331,Rural,El Salvador,Actual rentals paid by tenants for main residence,Quintile 4,2006
+0.3219219446182251,26,,SLV,230,381,261939,29176,331,Rural,El Salvador,Actual rentals paid by tenants for main residence,Quintile 5,2006
+0.23738107085227966,26,,SLV,230,379,261939,29176,331,Rural,El Salvador,Actual rentals paid by tenants for main residence,Total quintile,2006
+2.1833016872406006,26,,SLV,230,380,261939,29176,330,Urban,El Salvador,Actual rentals paid by tenants for main residence,Quintile 1,2006
+2.7105820178985596,26,,SLV,230,382,261939,29176,330,Urban,El Salvador,Actual rentals paid by tenants for main residence,Quintile 2,2006
+2.4614663124084473,26,,SLV,230,383,261939,29176,330,Urban,El Salvador,Actual rentals paid by tenants for main residence,Quintile 3,2006
+2.103198528289795,26,,SLV,230,384,261939,29176,330,Urban,El Salvador,Actual rentals paid by tenants for main residence,Quintile 4,2006
+1.7977880239486694,26,,SLV,230,381,261939,29176,330,Urban,El Salvador,Actual rentals paid by tenants for main residence,Quintile 5,2006
+2.094484329223633,26,,SLV,230,379,261939,29176,330,Urban,El Salvador,Actual rentals paid by tenants for main residence,Total quintile,2006
+0.021117577329277992,26,,SLV,230,380,261940,29176,327,National,El Salvador,Imputed rentals of owner-occupiers for main residence,Quintile 1,2006
+0.024203715845942497,26,,SLV,230,382,261940,29176,327,National,El Salvador,Imputed rentals of owner-occupiers for main residence,Quintile 2,2006
+0.02769261598587036,26,,SLV,230,383,261940,29176,327,National,El Salvador,Imputed rentals of owner-occupiers for main residence,Quintile 3,2006
+0.03584069758653641,26,,SLV,230,384,261940,29176,327,National,El Salvador,Imputed rentals of owner-occupiers for main residence,Quintile 4,2006
+0.04662797600030899,26,,SLV,230,381,261940,29176,327,National,El Salvador,Imputed rentals of owner-occupiers for main residence,Quintile 5,2006
+0.03700746223330498,26,,SLV,230,379,261940,29176,327,National,El Salvador,Imputed rentals of owner-occupiers for main residence,Total quintile,2006
+0.014062161557376385,26,,SLV,230,380,261940,29176,331,Rural,El Salvador,Imputed rentals of owner-occupiers for main residence,Quintile 1,2006
+0.022099807858467102,26,,SLV,230,382,261940,29176,331,Rural,El Salvador,Imputed rentals of owner-occupiers for main residence,Quintile 2,2006
+0.019171573221683502,26,,SLV,230,383,261940,29176,331,Rural,El Salvador,Imputed rentals of owner-occupiers for main residence,Quintile 3,2006
+0.019163530319929123,26,,SLV,230,384,261940,29176,331,Rural,El Salvador,Imputed rentals of owner-occupiers for main residence,Quintile 4,2006
+0.02456696517765522,26,,SLV,230,381,261940,29176,331,Rural,El Salvador,Imputed rentals of owner-occupiers for main residence,Quintile 5,2006
+0.020710861310362816,26,,SLV,230,379,261940,29176,331,Rural,El Salvador,Imputed rentals of owner-occupiers for main residence,Total quintile,2006
+0.028749264776706696,26,,SLV,230,380,261940,29176,330,Urban,El Salvador,Imputed rentals of owner-occupiers for main residence,Quintile 1,2006
+0.028314217925071716,26,,SLV,230,382,261940,29176,330,Urban,El Salvador,Imputed rentals of owner-occupiers for main residence,Quintile 2,2006
+0.036775656044483185,26,,SLV,230,383,261940,29176,330,Urban,El Salvador,Imputed rentals of owner-occupiers for main residence,Quintile 3,2006
+0.039135709404945374,26,,SLV,230,384,261940,29176,330,Urban,El Salvador,Imputed rentals of owner-occupiers for main residence,Quintile 4,2006
+0.05110135301947594,26,,SLV,230,381,261940,29176,330,Urban,El Salvador,Imputed rentals of owner-occupiers for main residence,Quintile 5,2006
+0.041879694908857346,26,,SLV,230,379,261940,29176,330,Urban,El Salvador,Imputed rentals of owner-occupiers for main residence,Total quintile,2006
+7.455911159515381,26,,SLV,230,380,261947,29176,327,National,El Salvador,Total expenditure on actual rentals for the main residence,Quintile 1,2006
+8.87681770324707,26,,SLV,230,382,261947,29176,327,National,El Salvador,Total expenditure on actual rentals for the main residence,Quintile 2,2006
+10.055976867675781,26,,SLV,230,383,261947,29176,327,National,El Salvador,Total expenditure on actual rentals for the main residence,Quintile 3,2006
+11.917377471923828,26,,SLV,230,384,261947,29176,327,National,El Salvador,Total expenditure on actual rentals for the main residence,Quintile 4,2006
+15.884228706359863,26,,SLV,230,381,261947,29176,327,National,El Salvador,Total expenditure on actual rentals for the main residence,Quintile 5,2006
+12.725818634033203,26,,SLV,230,379,261947,29176,327,National,El Salvador,Total expenditure on actual rentals for the main residence,Total quintile,2006
+6.063436508178711,26,,SLV,230,380,261947,29176,331,Rural,El Salvador,Total expenditure on actual rentals for the main residence,Quintile 1,2006
+8.962069511413574,26,,SLV,230,382,261947,29176,331,Rural,El Salvador,Total expenditure on actual rentals for the main residence,Quintile 2,2006
+9.255754470825195,26,,SLV,230,383,261947,29176,331,Rural,El Salvador,Total expenditure on actual rentals for the main residence,Quintile 3,2006
+8.72949504852295,26,,SLV,230,384,261947,29176,331,Rural,El Salvador,Total expenditure on actual rentals for the main residence,Quintile 4,2006
+11.098389625549316,26,,SLV,230,381,261947,29176,331,Rural,El Salvador,Total expenditure on actual rentals for the main residence,Quintile 5,2006
+9.295709609985352,26,,SLV,230,379,261947,29176,331,Rural,El Salvador,Total expenditure on actual rentals for the main residence,Total quintile,2006
+8.312446594238281,26,,SLV,230,380,261947,29176,330,Urban,El Salvador,Total expenditure on actual rentals for the main residence,Quintile 1,2006
+10.263540267944336,26,,SLV,230,382,261947,29176,330,Urban,El Salvador,Total expenditure on actual rentals for the main residence,Quintile 2,2006
+11.383698463439941,26,,SLV,230,383,261947,29176,330,Urban,El Salvador,Total expenditure on actual rentals for the main residence,Quintile 3,2006
+13.141985893249512,26,,SLV,230,384,261947,29176,330,Urban,El Salvador,Total expenditure on actual rentals for the main residence,Quintile 4,2006
+16.885753631591797,26,,SLV,230,381,261947,29176,330,Urban,El Salvador,Total expenditure on actual rentals for the main residence,Quintile 5,2006
+13.751328468322754,26,,SLV,230,379,261947,29176,330,Urban,El Salvador,Total expenditure on actual rentals for the main residence,Total quintile,2006
+0.9623569250106812,26,,GTM,235,380,261939,29184,327,National,Guatemala,Actual rentals paid by tenants for main residence,Quintile 1,2014
+1.1235228776931763,26,,GTM,235,382,261939,29184,327,National,Guatemala,Actual rentals paid by tenants for main residence,Quintile 2,2014
+1.6893503665924072,26,,GTM,235,383,261939,29184,327,National,Guatemala,Actual rentals paid by tenants for main residence,Quintile 3,2014
+2.215006113052368,26,,GTM,235,384,261939,29184,327,National,Guatemala,Actual rentals paid by tenants for main residence,Quintile 4,2014
+2.753103494644165,26,,GTM,235,381,261939,29184,327,National,Guatemala,Actual rentals paid by tenants for main residence,Quintile 5,2014
+2.1109836101531982,26,,GTM,235,379,261939,29184,327,National,Guatemala,Actual rentals paid by tenants for main residence,Total quintile,2014
+0.15590985119342804,26,,GTM,235,380,261939,29184,331,Rural,Guatemala,Actual rentals paid by tenants for main residence,Quintile 1,2014
+0.19500131905078888,26,,GTM,235,382,261939,29184,331,Rural,Guatemala,Actual rentals paid by tenants for main residence,Quintile 2,2014
+0.26546213030815125,26,,GTM,235,383,261939,29184,331,Rural,Guatemala,Actual rentals paid by tenants for main residence,Quintile 3,2014
+0.3700386881828308,26,,GTM,235,384,261939,29184,331,Rural,Guatemala,Actual rentals paid by tenants for main residence,Quintile 4,2014
+0.4404931962490082,26,,GTM,235,381,261939,29184,331,Rural,Guatemala,Actual rentals paid by tenants for main residence,Quintile 5,2014
+0.3243064284324646,26,,GTM,235,379,261939,29184,331,Rural,Guatemala,Actual rentals paid by tenants for main residence,Total quintile,2014
+3.091466188430786,26,,GTM,235,380,261939,29184,330,Urban,Guatemala,Actual rentals paid by tenants for main residence,Quintile 1,2014
+2.947463274002075,26,,GTM,235,382,261939,29184,330,Urban,Guatemala,Actual rentals paid by tenants for main residence,Quintile 2,2014
+2.8469629287719727,26,,GTM,235,383,261939,29184,330,Urban,Guatemala,Actual rentals paid by tenants for main residence,Quintile 3,2014
+3.345224380493164,26,,GTM,235,384,261939,29184,330,Urban,Guatemala,Actual rentals paid by tenants for main residence,Quintile 4,2014
+3.0708518028259277,26,,GTM,235,381,261939,29184,330,Urban,Guatemala,Actual rentals paid by tenants for main residence,Quintile 5,2014
+3.0795135498046875,26,,GTM,235,379,261939,29184,330,Urban,Guatemala,Actual rentals paid by tenants for main residence,Total quintile,2014
+0.032038938254117966,26,,GTM,235,380,261940,29184,327,National,Guatemala,Imputed rentals of owner-occupiers for main residence,Quintile 1,2014
+0.043263841420412064,26,,GTM,235,382,261940,29184,327,National,Guatemala,Imputed rentals of owner-occupiers for main residence,Quintile 2,2014
+0.04090295359492302,26,,GTM,235,383,261940,29184,327,National,Guatemala,Imputed rentals of owner-occupiers for main residence,Quintile 3,2014
+0.041138116270303726,26,,GTM,235,384,261940,29184,327,National,Guatemala,Imputed rentals of owner-occupiers for main residence,Quintile 4,2014
+0.0387532003223896,26,,GTM,235,381,261940,29184,327,National,Guatemala,Imputed rentals of owner-occupiers for main residence,Quintile 5,2014
+0.039486877620220184,26,,GTM,235,379,261940,29184,327,National,Guatemala,Imputed rentals of owner-occupiers for main residence,Total quintile,2014
+0.03195396438241005,26,,GTM,235,380,261940,29184,331,Rural,Guatemala,Imputed rentals of owner-occupiers for main residence,Quintile 1,2014
+0.03953000530600548,26,,GTM,235,382,261940,29184,331,Rural,Guatemala,Imputed rentals of owner-occupiers for main residence,Quintile 2,2014
+0.04791683331131935,26,,GTM,235,383,261940,29184,331,Rural,Guatemala,Imputed rentals of owner-occupiers for main residence,Quintile 3,2014
+0.049370355904102325,26,,GTM,235,384,261940,29184,331,Rural,Guatemala,Imputed rentals of owner-occupiers for main residence,Quintile 4,2014
+0.05517130345106125,26,,GTM,235,381,261940,29184,331,Rural,Guatemala,Imputed rentals of owner-occupiers for main residence,Quintile 5,2014
+0.047536082565784454,26,,GTM,235,379,261940,29184,331,Rural,Guatemala,Imputed rentals of owner-occupiers for main residence,Total quintile,2014
+0.0343807227909565,26,,GTM,235,380,261940,29184,330,Urban,Guatemala,Imputed rentals of owner-occupiers for main residence,Quintile 1,2014
+0.032747115939855576,26,,GTM,235,382,261940,29184,330,Urban,Guatemala,Imputed rentals of owner-occupiers for main residence,Quintile 2,2014
+0.03559800982475281,26,,GTM,235,383,261940,29184,330,Urban,Guatemala,Imputed rentals of owner-occupiers for main residence,Quintile 3,2014
+0.03689558804035187,26,,GTM,235,384,261940,29184,330,Urban,Guatemala,Imputed rentals of owner-occupiers for main residence,Quintile 4,2014
+0.03490643575787544,26,,GTM,235,381,261940,29184,330,Urban,Guatemala,Imputed rentals of owner-occupiers for main residence,Quintile 5,2014
+0.03512352705001831,26,,GTM,235,379,261940,29184,330,Urban,Guatemala,Imputed rentals of owner-occupiers for main residence,Total quintile,2014
+9.862753868103027,26,,GTM,235,380,261947,29184,327,National,Guatemala,Total expenditure on actual rentals for the main residence,Quintile 1,2014
+12.175482749938965,26,,GTM,235,382,261947,29184,327,National,Guatemala,Total expenditure on actual rentals for the main residence,Quintile 2,2014
+12.95331859588623,26,,GTM,235,383,261947,29184,327,National,Guatemala,Total expenditure on actual rentals for the main residence,Quintile 3,2014
+14.411368370056152,26,,GTM,235,384,261947,29184,327,National,Guatemala,Total expenditure on actual rentals for the main residence,Quintile 4,2014
+15.66837215423584,26,,GTM,235,381,261947,29184,327,National,Guatemala,Total expenditure on actual rentals for the main residence,Quintile 5,2014
+14.015591621398926,26,,GTM,235,379,261947,29184,327,National,Guatemala,Total expenditure on actual rentals for the main residence,Total quintile,2014
+9.18535041809082,26,,GTM,235,380,261947,29184,331,Rural,Guatemala,Total expenditure on actual rentals for the main residence,Quintile 1,2014
+10.426129341125488,26,,GTM,235,382,261947,29184,331,Rural,Guatemala,Total expenditure on actual rentals for the main residence,Quintile 2,2014
+11.439117431640625,26,,GTM,235,383,261947,29184,331,Rural,Guatemala,Total expenditure on actual rentals for the main residence,Quintile 3,2014
+11.84707260131836,26,,GTM,235,384,261947,29184,331,Rural,Guatemala,Total expenditure on actual rentals for the main residence,Quintile 4,2014
+12.6337308883667,26,,GTM,235,381,261947,29184,331,Rural,Guatemala,Total expenditure on actual rentals for the main residence,Quintile 5,2014
+11.51186752319336,26,,GTM,235,379,261947,29184,331,Rural,Guatemala,Total expenditure on actual rentals for the main residence,Total quintile,2014
+12.854475021362305,26,,GTM,235,380,261947,29184,330,Urban,Guatemala,Total expenditure on actual rentals for the main residence,Quintile 1,2014
+13.898228645324707,26,,GTM,235,382,261947,29184,330,Urban,Guatemala,Total expenditure on actual rentals for the main residence,Quintile 2,2014
+14.874942779541016,26,,GTM,235,383,261947,29184,330,Urban,Guatemala,Total expenditure on actual rentals for the main residence,Quintile 3,2014
+16.06185531616211,26,,GTM,235,384,261947,29184,330,Urban,Guatemala,Total expenditure on actual rentals for the main residence,Quintile 4,2014
+16.231616973876953,26,,GTM,235,381,261947,29184,330,Urban,Guatemala,Total expenditure on actual rentals for the main residence,Quintile 5,2014
+15.372821807861328,26,,GTM,235,379,261947,29184,330,Urban,Guatemala,Total expenditure on actual rentals for the main residence,Total quintile,2014
+0.9434752464294434,26,,HND,239,380,261939,29174,327,National,Honduras,Actual rentals paid by tenants for main residence,Quintile 1,2004
+0.6704846620559692,26,,HND,239,382,261939,29174,327,National,Honduras,Actual rentals paid by tenants for main residence,Quintile 2,2004
+1.6190210580825806,26,,HND,239,383,261939,29174,327,National,Honduras,Actual rentals paid by tenants for main residence,Quintile 3,2004
+2.57393741607666,26,,HND,239,384,261939,29174,327,National,Honduras,Actual rentals paid by tenants for main residence,Quintile 4,2004
+2.569056987762451,26,,HND,239,381,261939,29174,327,National,Honduras,Actual rentals paid by tenants for main residence,Quintile 5,2004
+2.1170401573181152,26,,HND,239,379,261939,29174,327,National,Honduras,Actual rentals paid by tenants for main residence,Total quintile,2004
+0.4153006374835968,26,,HND,239,380,261939,29174,331,Rural,Honduras,Actual rentals paid by tenants for main residence,Quintile 1,2004
+0.32433804869651794,26,,HND,239,382,261939,29174,331,Rural,Honduras,Actual rentals paid by tenants for main residence,Quintile 2,2004
+0.19923044741153717,26,,HND,239,383,261939,29174,331,Rural,Honduras,Actual rentals paid by tenants for main residence,Quintile 3,2004
+0.44576138257980347,26,,HND,239,384,261939,29174,331,Rural,Honduras,Actual rentals paid by tenants for main residence,Quintile 4,2004
+0.7275962829589844,26,,HND,239,381,261939,29174,331,Rural,Honduras,Actual rentals paid by tenants for main residence,Quintile 5,2004
+0.5022954940795898,26,,HND,239,379,261939,29174,331,Rural,Honduras,Actual rentals paid by tenants for main residence,Total quintile,2004
+1.664583444595337,26,,HND,239,380,261939,29174,330,Urban,Honduras,Actual rentals paid by tenants for main residence,Quintile 1,2004
+2.7457334995269775,26,,HND,239,382,261939,29174,330,Urban,Honduras,Actual rentals paid by tenants for main residence,Quintile 2,2004
+3.069547653198242,26,,HND,239,383,261939,29174,330,Urban,Honduras,Actual rentals paid by tenants for main residence,Quintile 3,2004
+3.0238280296325684,26,,HND,239,384,261939,29174,330,Urban,Honduras,Actual rentals paid by tenants for main residence,Quintile 4,2004
+2.9108924865722656,26,,HND,239,381,261939,29174,330,Urban,Honduras,Actual rentals paid by tenants for main residence,Quintile 5,2004
+2.82387113571167,26,,HND,239,379,261939,29174,330,Urban,Honduras,Actual rentals paid by tenants for main residence,Total quintile,2004
+0.05380261689424515,26,,HND,239,380,261940,29174,327,National,Honduras,Imputed rentals of owner-occupiers for main residence,Quintile 1,2004
+0.043842609971761703,26,,HND,239,382,261940,29174,327,National,Honduras,Imputed rentals of owner-occupiers for main residence,Quintile 2,2004
+0.049210820347070694,26,,HND,239,383,261940,29174,327,National,Honduras,Imputed rentals of owner-occupiers for main residence,Quintile 3,2004
+0.06363844871520996,26,,HND,239,384,261940,29174,327,National,Honduras,Imputed rentals of owner-occupiers for main residence,Quintile 4,2004
+0.08143194764852524,26,,HND,239,381,261940,29174,327,National,Honduras,Imputed rentals of owner-occupiers for main residence,Quintile 5,2004
+0.06723184138536453,26,,HND,239,379,261940,29174,327,National,Honduras,Imputed rentals of owner-occupiers for main residence,Total quintile,2004
+0.030814994126558304,26,,HND,239,380,261940,29174,331,Rural,Honduras,Imputed rentals of owner-occupiers for main residence,Quintile 1,2004
+0.03054458647966385,26,,HND,239,382,261940,29174,331,Rural,Honduras,Imputed rentals of owner-occupiers for main residence,Quintile 2,2004
+0.03040899895131588,26,,HND,239,383,261940,29174,331,Rural,Honduras,Imputed rentals of owner-occupiers for main residence,Quintile 3,2004
+0.02619812823832035,26,,HND,239,384,261940,29174,331,Rural,Honduras,Imputed rentals of owner-occupiers for main residence,Quintile 4,2004
+0.028758112341165543,26,,HND,239,381,261940,29174,331,Rural,Honduras,Imputed rentals of owner-occupiers for main residence,Quintile 5,2004
+0.02892768755555153,26,,HND,239,379,261940,29174,331,Rural,Honduras,Imputed rentals of owner-occupiers for main residence,Total quintile,2004
+0.0807109996676445,26,,HND,239,380,261940,29174,330,Urban,Honduras,Imputed rentals of owner-occupiers for main residence,Quintile 1,2004
+0.0699213296175003,26,,HND,239,382,261940,29174,330,Urban,Honduras,Imputed rentals of owner-occupiers for main residence,Quintile 2,2004
+0.07504969090223312,26,,HND,239,383,261940,29174,330,Urban,Honduras,Imputed rentals of owner-occupiers for main residence,Quintile 3,2004
+0.08097945898771286,26,,HND,239,384,261940,29174,330,Urban,Honduras,Imputed rentals of owner-occupiers for main residence,Quintile 4,2004
+0.09317145496606827,26,,HND,239,381,261940,29174,330,Urban,Honduras,Imputed rentals of owner-occupiers for main residence,Quintile 5,2004
+0.08399893343448639,26,,HND,239,379,261940,29174,330,Urban,Honduras,Imputed rentals of owner-occupiers for main residence,Total quintile,2004
+10.57113265991211,26,,HND,239,380,261947,29174,327,National,Honduras,Total expenditure on actual rentals for the main residence,Quintile 1,2004
+9.248586654663086,26,,HND,239,382,261947,29174,327,National,Honduras,Total expenditure on actual rentals for the main residence,Quintile 2,2004
+9.813567161560059,26,,HND,239,383,261947,29174,327,National,Honduras,Total expenditure on actual rentals for the main residence,Quintile 3,2004
+11.37212085723877,26,,HND,239,384,261947,29174,327,National,Honduras,Total expenditure on actual rentals for the main residence,Quintile 4,2004
+13.339937210083008,26,,HND,239,381,261947,29174,327,National,Honduras,Total expenditure on actual rentals for the main residence,Quintile 5,2004
+11.805315017700195,26,,HND,239,379,261947,29174,327,National,Honduras,Total expenditure on actual rentals for the main residence,Total quintile,2004
+8.945473670959473,26,,HND,239,380,261947,29174,331,Rural,Honduras,Total expenditure on actual rentals for the main residence,Quintile 1,2004
+8.368371963500977,26,,HND,239,382,261947,29174,331,Rural,Honduras,Total expenditure on actual rentals for the main residence,Quintile 2,2004
+8.226515769958496,26,,HND,239,383,261947,29174,331,Rural,Honduras,Total expenditure on actual rentals for the main residence,Quintile 3,2004
+7.555705547332764,26,,HND,239,384,261947,29174,331,Rural,Honduras,Total expenditure on actual rentals for the main residence,Quintile 4,2004
+9.047636032104492,26,,HND,239,381,261947,29174,331,Rural,Honduras,Total expenditure on actual rentals for the main residence,Quintile 5,2004
+8.513864517211914,26,,HND,239,379,261947,29174,331,Rural,Honduras,Total expenditure on actual rentals for the main residence,Total quintile,2004
+12.311027526855469,26,,HND,239,380,261947,29174,330,Urban,Honduras,Total expenditure on actual rentals for the main residence,Quintile 1,2004
+11.879941940307617,26,,HND,239,382,261947,29174,330,Urban,Honduras,Total expenditure on actual rentals for the main residence,Quintile 2,2004
+12.485905647277832,26,,HND,239,383,261947,29174,330,Urban,Honduras,Total expenditure on actual rentals for the main residence,Quintile 3,2004
+12.899042129516602,26,,HND,239,384,261947,29174,330,Urban,Honduras,Total expenditure on actual rentals for the main residence,Quintile 4,2004
+14.258363723754883,26,,HND,239,381,261947,29174,330,Urban,Honduras,Total expenditure on actual rentals for the main residence,Quintile 5,2004
+13.246099472045898,26,,HND,239,379,261947,29174,330,Urban,Honduras,Total expenditure on actual rentals for the main residence,Total quintile,2004
+1.8855507373809814,26,,MEX,233,380,261939,29188,327,National,Mexico,Actual rentals paid by tenants for main residence,Quintile 1,2018
+2.2195675373077393,26,,MEX,233,382,261939,29188,327,National,Mexico,Actual rentals paid by tenants for main residence,Quintile 2,2018
+2.1934120655059814,26,,MEX,233,383,261939,29188,327,National,Mexico,Actual rentals paid by tenants for main residence,Quintile 3,2018
+2.1843016147613525,26,,MEX,233,384,261939,29188,327,National,Mexico,Actual rentals paid by tenants for main residence,Quintile 4,2018
+3.220034122467041,26,,MEX,233,381,261939,29188,327,National,Mexico,Actual rentals paid by tenants for main residence,Quintile 5,2018
+2.6286654472351074,26,,MEX,233,379,261939,29188,327,National,Mexico,Actual rentals paid by tenants for main residence,Total quintile,2018
+0.1183437630534172,26,,MEX,233,380,261939,29188,331,Rural,Mexico,Actual rentals paid by tenants for main residence,Quintile 1,2018
+0.2690697908401489,26,,MEX,233,382,261939,29188,331,Rural,Mexico,Actual rentals paid by tenants for main residence,Quintile 2,2018
+0.302502304315567,26,,MEX,233,383,261939,29188,331,Rural,Mexico,Actual rentals paid by tenants for main residence,Quintile 3,2018
+0.32912805676460266,26,,MEX,233,384,261939,29188,331,Rural,Mexico,Actual rentals paid by tenants for main residence,Quintile 4,2018
+0.4575395882129669,26,,MEX,233,381,261939,29188,331,Rural,Mexico,Actual rentals paid by tenants for main residence,Quintile 5,2018
+0.34578269720077515,26,,MEX,233,379,261939,29188,331,Rural,Mexico,Actual rentals paid by tenants for main residence,Total quintile,2018
+3.110975980758667,26,,MEX,233,380,261939,29188,330,Urban,Mexico,Actual rentals paid by tenants for main residence,Quintile 1,2018
+2.817646026611328,26,,MEX,233,382,261939,29188,330,Urban,Mexico,Actual rentals paid by tenants for main residence,Quintile 2,2018
+2.5966460704803467,26,,MEX,233,383,261939,29188,330,Urban,Mexico,Actual rentals paid by tenants for main residence,Quintile 3,2018
+2.437295913696289,26,,MEX,233,384,261939,29188,330,Urban,Mexico,Actual rentals paid by tenants for main residence,Quintile 4,2018
+3.4920198917388916,26,,MEX,233,381,261939,29188,330,Urban,Mexico,Actual rentals paid by tenants for main residence,Quintile 5,2018
+3.0296897888183594,26,,MEX,233,379,261939,29188,330,Urban,Mexico,Actual rentals paid by tenants for main residence,Total quintile,2018
+0.026984803378582,26,,MEX,233,380,261940,29188,327,National,Mexico,Imputed rentals of owner-occupiers for main residence,Quintile 1,2018
+0.026304036378860474,26,,MEX,233,382,261940,29188,327,National,Mexico,Imputed rentals of owner-occupiers for main residence,Quintile 2,2018
+0.02580566704273224,26,,MEX,233,383,261940,29188,327,National,Mexico,Imputed rentals of owner-occupiers for main residence,Quintile 3,2018
+0.02626786008477211,26,,MEX,233,384,261940,29188,327,National,Mexico,Imputed rentals of owner-occupiers for main residence,Quintile 4,2018
+0.02429216541349888,26,,MEX,233,381,261940,29188,327,National,Mexico,Imputed rentals of owner-occupiers for main residence,Quintile 5,2018
+0.025376969948410988,26,,MEX,233,379,261940,29188,327,National,Mexico,Imputed rentals of owner-occupiers for main residence,Total quintile,2018
+0.03143884241580963,26,,MEX,233,380,261940,29188,331,Rural,Mexico,Imputed rentals of owner-occupiers for main residence,Quintile 1,2018
+0.03781098872423172,26,,MEX,233,382,261940,29188,331,Rural,Mexico,Imputed rentals of owner-occupiers for main residence,Quintile 2,2018
+0.041462477296590805,26,,MEX,233,383,261940,29188,331,Rural,Mexico,Imputed rentals of owner-occupiers for main residence,Quintile 3,2018
+0.04599900171160698,26,,MEX,233,384,261940,29188,331,Rural,Mexico,Imputed rentals of owner-occupiers for main residence,Quintile 4,2018
+0.051843754947185516,26,,MEX,233,381,261940,29188,331,Rural,Mexico,Imputed rentals of owner-occupiers for main residence,Quintile 5,2018
+0.04498473182320595,26,,MEX,233,379,261940,29188,331,Rural,Mexico,Imputed rentals of owner-occupiers for main residence,Total quintile,2018
+0.019755816087126732,26,,MEX,233,380,261940,29188,330,Urban,Mexico,Imputed rentals of owner-occupiers for main residence,Quintile 1,2018
+0.020798368379473686,26,,MEX,233,382,261940,29188,330,Urban,Mexico,Imputed rentals of owner-occupiers for main residence,Quintile 2,2018
+0.021410087123513222,26,,MEX,233,383,261940,29188,330,Urban,Mexico,Imputed rentals of owner-occupiers for main residence,Quintile 3,2018
+0.02342771552503109,26,,MEX,233,384,261940,29188,330,Urban,Mexico,Imputed rentals of owner-occupiers for main residence,Quintile 4,2018
+0.0221322700381279,26,,MEX,233,381,261940,29188,330,Urban,Mexico,Imputed rentals of owner-occupiers for main residence,Quintile 5,2018
+0.021932557225227356,26,,MEX,233,379,261940,29188,330,Urban,Mexico,Imputed rentals of owner-occupiers for main residence,Total quintile,2018
+13.971375465393066,26,,MEX,233,380,261947,29188,327,National,Mexico,Total expenditure on actual rentals for the main residence,Quintile 1,2018
+14.554161071777344,26,,MEX,233,382,261947,29188,327,National,Mexico,Total expenditure on actual rentals for the main residence,Quintile 2,2018
+14.999201774597168,26,,MEX,233,383,261947,29188,327,National,Mexico,Total expenditure on actual rentals for the main residence,Quintile 3,2018
+15.970117568969727,26,,MEX,233,384,261947,29188,327,National,Mexico,Total expenditure on actual rentals for the main residence,Quintile 4,2018
+18.315452575683594,26,,MEX,233,381,261947,29188,327,National,Mexico,Total expenditure on actual rentals for the main residence,Quintile 5,2018
+16.54924964904785,26,,MEX,233,379,261947,29188,327,National,Mexico,Total expenditure on actual rentals for the main residence,Total quintile,2018
+12.489643096923828,26,,MEX,233,380,261947,29188,331,Rural,Mexico,Total expenditure on actual rentals for the main residence,Quintile 1,2018
+12.719210624694824,26,,MEX,233,382,261947,29188,331,Rural,Mexico,Total expenditure on actual rentals for the main residence,Quintile 2,2018
+12.441264152526855,26,,MEX,233,383,261947,29188,331,Rural,Mexico,Total expenditure on actual rentals for the main residence,Quintile 3,2018
+12.08161735534668,26,,MEX,233,384,261947,29188,331,Rural,Mexico,Total expenditure on actual rentals for the main residence,Quintile 4,2018
+11.713993072509766,26,,MEX,233,381,261947,29188,331,Rural,Mexico,Total expenditure on actual rentals for the main residence,Quintile 5,2018
+12.127204895019531,26,,MEX,233,379,261947,29188,331,Rural,Mexico,Total expenditure on actual rentals for the main residence,Total quintile,2018
+15.16989803314209,26,,MEX,233,380,261947,29188,330,Urban,Mexico,Total expenditure on actual rentals for the main residence,Quintile 1,2018
+15.514446258544922,26,,MEX,233,382,261947,29188,330,Urban,Mexico,Total expenditure on actual rentals for the main residence,Quintile 2,2018
+16.072620391845703,26,,MEX,233,383,261947,29188,330,Urban,Mexico,Total expenditure on actual rentals for the main residence,Quintile 3,2018
+16.94504165649414,26,,MEX,233,384,261947,29188,330,Urban,Mexico,Total expenditure on actual rentals for the main residence,Quintile 4,2018
+18.819503784179688,26,,MEX,233,381,261947,29188,330,Urban,Mexico,Total expenditure on actual rentals for the main residence,Quintile 5,2018
+17.326051712036133,26,,MEX,233,379,261947,29188,330,Urban,Mexico,Total expenditure on actual rentals for the main residence,Total quintile,2018
+0.7117762565612793,26,,NIC,240,380,261939,29184,327,National,Nicaragua,Actual rentals paid by tenants for main residence,Quintile 1,2014
+0.32230886816978455,26,,NIC,240,382,261939,29184,327,National,Nicaragua,Actual rentals paid by tenants for main residence,Quintile 2,2014
+0.6406238079071045,26,,NIC,240,383,261939,29184,327,National,Nicaragua,Actual rentals paid by tenants for main residence,Quintile 3,2014
+0.7926797866821289,26,,NIC,240,384,261939,29184,327,National,Nicaragua,Actual rentals paid by tenants for main residence,Quintile 4,2014
+1.2610249519348145,26,,NIC,240,381,261939,29184,327,National,Nicaragua,Actual rentals paid by tenants for main residence,Quintile 5,2014
+0.9127776622772217,26,,NIC,240,379,261939,29184,327,National,Nicaragua,Actual rentals paid by tenants for main residence,Total quintile,2014
+0.03080662526190281,26,,NIC,240,382,261939,29184,331,Rural,Nicaragua,Actual rentals paid by tenants for main residence,Quintile 2,2014
+0.07596825063228607,26,,NIC,240,383,261939,29184,331,Rural,Nicaragua,Actual rentals paid by tenants for main residence,Quintile 3,2014
+0.014773907139897346,26,,NIC,240,384,261939,29184,331,Rural,Nicaragua,Actual rentals paid by tenants for main residence,Quintile 4,2014
+0.14000378549098969,26,,NIC,240,381,261939,29184,331,Rural,Nicaragua,Actual rentals paid by tenants for main residence,Quintile 5,2014
+0.0695628821849823,26,,NIC,240,379,261939,29184,331,Rural,Nicaragua,Actual rentals paid by tenants for main residence,Total quintile,2014
+1.325337529182434,26,,NIC,240,380,261939,29184,330,Urban,Nicaragua,Actual rentals paid by tenants for main residence,Quintile 1,2014
+0.9870793223381042,26,,NIC,240,382,261939,29184,330,Urban,Nicaragua,Actual rentals paid by tenants for main residence,Quintile 2,2014
+0.830851137638092,26,,NIC,240,383,261939,29184,330,Urban,Nicaragua,Actual rentals paid by tenants for main residence,Quintile 3,2014
+0.895267903804779,26,,NIC,240,384,261939,29184,330,Urban,Nicaragua,Actual rentals paid by tenants for main residence,Quintile 4,2014
+1.5320382118225098,26,,NIC,240,381,261939,29184,330,Urban,Nicaragua,Actual rentals paid by tenants for main residence,Quintile 5,2014
+1.204889178276062,26,,NIC,240,379,261939,29184,330,Urban,Nicaragua,Actual rentals paid by tenants for main residence,Total quintile,2014
+0.0318794772028923,26,,NIC,240,380,261940,29184,327,National,Nicaragua,Imputed rentals of owner-occupiers for main residence,Quintile 1,2014
+0.058285050094127655,26,,NIC,240,382,261940,29184,327,National,Nicaragua,Imputed rentals of owner-occupiers for main residence,Quintile 2,2014
+0.07021287828683853,26,,NIC,240,383,261940,29184,327,National,Nicaragua,Imputed rentals of owner-occupiers for main residence,Quintile 3,2014
+0.09158381074666977,26,,NIC,240,384,261940,29184,327,National,Nicaragua,Imputed rentals of owner-occupiers for main residence,Quintile 4,2014
+0.10721941292285919,26,,NIC,240,381,261940,29184,327,National,Nicaragua,Imputed rentals of owner-occupiers for main residence,Quintile 5,2014
+0.08614750951528549,26,,NIC,240,379,261940,29184,327,National,Nicaragua,Imputed rentals of owner-occupiers for main residence,Total quintile,2014
+0.018813148140907288,26,,NIC,240,380,261940,29184,331,Rural,Nicaragua,Imputed rentals of owner-occupiers for main residence,Quintile 1,2014
+0.021342840045690536,26,,NIC,240,382,261940,29184,331,Rural,Nicaragua,Imputed rentals of owner-occupiers for main residence,Quintile 2,2014
+0.02444111928343773,26,,NIC,240,383,261940,29184,331,Rural,Nicaragua,Imputed rentals of owner-occupiers for main residence,Quintile 3,2014
+0.02653992921113968,26,,NIC,240,384,261940,29184,331,Rural,Nicaragua,Imputed rentals of owner-occupiers for main residence,Quintile 4,2014
+0.04462415724992752,26,,NIC,240,381,261940,29184,331,Rural,Nicaragua,Imputed rentals of owner-occupiers for main residence,Quintile 5,2014
+0.030896032229065895,26,,NIC,240,379,261940,29184,331,Rural,Nicaragua,Imputed rentals of owner-occupiers for main residence,Total quintile,2014
+0.08415544033050537,26,,NIC,240,380,261940,29184,330,Urban,Nicaragua,Imputed rentals of owner-occupiers for main residence,Quintile 1,2014
+0.08887014538049698,26,,NIC,240,382,261940,29184,330,Urban,Nicaragua,Imputed rentals of owner-occupiers for main residence,Quintile 2,2014
+0.10155850648880005,26,,NIC,240,383,261940,29184,330,Urban,Nicaragua,Imputed rentals of owner-occupiers for main residence,Quintile 3,2014
+0.11621745675802231,26,,NIC,240,384,261940,29184,330,Urban,Nicaragua,Imputed rentals of owner-occupiers for main residence,Quintile 4,2014
+0.11063458770513535,26,,NIC,240,381,261940,29184,330,Urban,Nicaragua,Imputed rentals of owner-occupiers for main residence,Quintile 5,2014
+0.1052880585193634,26,,NIC,240,379,261940,29184,330,Urban,Nicaragua,Imputed rentals of owner-occupiers for main residence,Total quintile,2014
+11.082976341247559,26,,NIC,240,380,261947,29184,327,National,Nicaragua,Total expenditure on actual rentals for the main residence,Quintile 1,2014
+12.663191795349121,26,,NIC,240,382,261947,29184,327,National,Nicaragua,Total expenditure on actual rentals for the main residence,Quintile 2,2014
+13.948328971862793,26,,NIC,240,383,261947,29184,327,National,Nicaragua,Total expenditure on actual rentals for the main residence,Quintile 3,2014
+16.99639320373535,26,,NIC,240,384,261947,29184,327,National,Nicaragua,Total expenditure on actual rentals for the main residence,Quintile 4,2014
+21.96982765197754,26,,NIC,240,381,261947,29184,327,National,Nicaragua,Total expenditure on actual rentals for the main residence,Quintile 5,2014
+17.68727684020996,26,,NIC,240,379,261947,29184,327,National,Nicaragua,Total expenditure on actual rentals for the main residence,Total quintile,2014
+9.962053298950195,26,,NIC,240,380,261947,29184,331,Rural,Nicaragua,Total expenditure on actual rentals for the main residence,Quintile 1,2014
+10.712574005126953,26,,NIC,240,382,261947,29184,331,Rural,Nicaragua,Total expenditure on actual rentals for the main residence,Quintile 2,2014
+11.39026927947998,26,,NIC,240,383,261947,29184,331,Rural,Nicaragua,Total expenditure on actual rentals for the main residence,Quintile 3,2014
+11.14076042175293,26,,NIC,240,384,261947,29184,331,Rural,Nicaragua,Total expenditure on actual rentals for the main residence,Quintile 4,2014
+15.432660102844238,26,,NIC,240,381,261947,29184,331,Rural,Nicaragua,Total expenditure on actual rentals for the main residence,Quintile 5,2014
+12.494050979614258,26,,NIC,240,379,261947,29184,331,Rural,Nicaragua,Total expenditure on actual rentals for the main residence,Total quintile,2014
+13.7224760055542,26,,NIC,240,380,261947,29184,330,Urban,Nicaragua,Total expenditure on actual rentals for the main residence,Quintile 1,2014
+14.593355178833008,26,,NIC,240,382,261947,29184,330,Urban,Nicaragua,Total expenditure on actual rentals for the main residence,Quintile 2,2014
+17.07088851928711,26,,NIC,240,383,261947,29184,330,Urban,Nicaragua,Total expenditure on actual rentals for the main residence,Quintile 3,2014
+18.56061553955078,26,,NIC,240,384,261947,29184,330,Urban,Nicaragua,Total expenditure on actual rentals for the main residence,Quintile 4,2014
+23.49917221069336,26,,NIC,240,381,261947,29184,330,Urban,Nicaragua,Total expenditure on actual rentals for the main residence,Quintile 5,2014
+19.486345291137695,26,,NIC,240,379,261947,29184,330,Urban,Nicaragua,Total expenditure on actual rentals for the main residence,Total quintile,2014
+2.8461086750030518,26,,PAN,241,380,261939,29177,327,National,Panama,Actual rentals paid by tenants for main residence,Quintile 1,2007
+2.603921890258789,26,,PAN,241,382,261939,29177,327,National,Panama,Actual rentals paid by tenants for main residence,Quintile 2,2007
+2.9415812492370605,26,,PAN,241,383,261939,29177,327,National,Panama,Actual rentals paid by tenants for main residence,Quintile 3,2007
+4.754235744476318,26,,PAN,241,384,261939,29177,327,National,Panama,Actual rentals paid by tenants for main residence,Quintile 4,2007
+5.66752815246582,26,,PAN,241,381,261939,29177,327,National,Panama,Actual rentals paid by tenants for main residence,Quintile 5,2007
+4.673316478729248,26,,PAN,241,379,261939,29177,327,National,Panama,Actual rentals paid by tenants for main residence,Total quintile,2007
+0.22311913967132568,26,,PAN,241,380,261940,29177,327,National,Panama,Imputed rentals of owner-occupiers for main residence,Quintile 1,2007
+0.20515665411949158,26,,PAN,241,382,261940,29177,327,National,Panama,Imputed rentals of owner-occupiers for main residence,Quintile 2,2007
+0.18679820001125336,26,,PAN,241,383,261940,29177,327,National,Panama,Imputed rentals of owner-occupiers for main residence,Quintile 3,2007
+0.1801796853542328,26,,PAN,241,384,261940,29177,327,National,Panama,Imputed rentals of owner-occupiers for main residence,Quintile 4,2007
+0.1360078603029251,26,,PAN,241,381,261940,29177,327,National,Panama,Imputed rentals of owner-occupiers for main residence,Quintile 5,2007
+0.16308821737766266,26,,PAN,241,379,261940,29177,327,National,Panama,Imputed rentals of owner-occupiers for main residence,Total quintile,2007
+13.163447380065918,26,,PAN,241,380,261947,29177,327,National,Panama,Total expenditure on actual rentals for the main residence,Quintile 1,2007
+13.403008460998535,26,,PAN,241,382,261947,29177,327,National,Panama,Total expenditure on actual rentals for the main residence,Quintile 2,2007
+13.584416389465332,26,,PAN,241,383,261947,29177,327,National,Panama,Total expenditure on actual rentals for the main residence,Quintile 3,2007
+15.870840072631836,26,,PAN,241,384,261947,29177,327,National,Panama,Total expenditure on actual rentals for the main residence,Quintile 4,2007
+19.409530639648438,26,,PAN,241,381,261947,29177,327,National,Panama,Total expenditure on actual rentals for the main residence,Quintile 5,2007
+17.0054988861084,26,,PAN,241,379,261947,29177,327,National,Panama,Total expenditure on actual rentals for the main residence,Total quintile,2007
+0.47918617725372314,26,,PRY,242,380,261939,29181,327,National,Paraguay,Actual rentals paid by tenants for main residence,Quintile 1,2011
+1.053242564201355,26,,PRY,242,382,261939,29181,327,National,Paraguay,Actual rentals paid by tenants for main residence,Quintile 2,2011
+1.3845477104187012,26,,PRY,242,383,261939,29181,327,National,Paraguay,Actual rentals paid by tenants for main residence,Quintile 3,2011
+1.6397968530654907,26,,PRY,242,384,261939,29181,327,National,Paraguay,Actual rentals paid by tenants for main residence,Quintile 4,2011
+2.299102783203125,26,,PRY,242,381,261939,29181,327,National,Paraguay,Actual rentals paid by tenants for main residence,Quintile 5,2011
+1.6947005987167358,26,,PRY,242,379,261939,29181,327,National,Paraguay,Actual rentals paid by tenants for main residence,Total quintile,2011
+0.11356361955404282,26,,PRY,242,380,261939,29181,331,Rural,Paraguay,Actual rentals paid by tenants for main residence,Quintile 1,2011
+0.12041548639535904,26,,PRY,242,382,261939,29181,331,Rural,Paraguay,Actual rentals paid by tenants for main residence,Quintile 2,2011
+0.30909523367881775,26,,PRY,242,383,261939,29181,331,Rural,Paraguay,Actual rentals paid by tenants for main residence,Quintile 3,2011
+0.4911682903766632,26,,PRY,242,384,261939,29181,331,Rural,Paraguay,Actual rentals paid by tenants for main residence,Quintile 4,2011
+0.5547529458999634,26,,PRY,242,381,261939,29181,331,Rural,Paraguay,Actual rentals paid by tenants for main residence,Quintile 5,2011
+0.3915897607803345,26,,PRY,242,379,261939,29181,331,Rural,Paraguay,Actual rentals paid by tenants for main residence,Total quintile,2011
+1.6700302362442017,26,,PRY,242,380,261939,29181,330,Urban,Paraguay,Actual rentals paid by tenants for main residence,Quintile 1,2011
+1.8259100914001465,26,,PRY,242,382,261939,29181,330,Urban,Paraguay,Actual rentals paid by tenants for main residence,Quintile 2,2011
+1.91390061378479,26,,PRY,242,383,261939,29181,330,Urban,Paraguay,Actual rentals paid by tenants for main residence,Quintile 3,2011
+2.1176648139953613,26,,PRY,242,384,261939,29181,330,Urban,Paraguay,Actual rentals paid by tenants for main residence,Quintile 4,2011
+2.6084656715393066,26,,PRY,242,381,261939,29181,330,Urban,Paraguay,Actual rentals paid by tenants for main residence,Quintile 5,2011
+2.193593740463257,26,,PRY,242,379,261939,29181,330,Urban,Paraguay,Actual rentals paid by tenants for main residence,Total quintile,2011
+0.03065074421465397,26,,PRY,242,380,261940,29181,327,National,Paraguay,Imputed rentals of owner-occupiers for main residence,Quintile 1,2011
+0.03281458094716072,26,,PRY,242,382,261940,29181,327,National,Paraguay,Imputed rentals of owner-occupiers for main residence,Quintile 2,2011
+0.02994445525109768,26,,PRY,242,383,261940,29181,327,National,Paraguay,Imputed rentals of owner-occupiers for main residence,Quintile 3,2011
+0.033517565578222275,26,,PRY,242,384,261940,29181,327,National,Paraguay,Imputed rentals of owner-occupiers for main residence,Quintile 4,2011
+0.04380418732762337,26,,PRY,242,381,261940,29181,327,National,Paraguay,Imputed rentals of owner-occupiers for main residence,Quintile 5,2011
+0.03678429126739502,26,,PRY,242,379,261940,29181,327,National,Paraguay,Imputed rentals of owner-occupiers for main residence,Total quintile,2011
+0.02713083289563656,26,,PRY,242,380,261940,29181,331,Rural,Paraguay,Imputed rentals of owner-occupiers for main residence,Quintile 1,2011
+0.03239469975233078,26,,PRY,242,382,261940,29181,331,Rural,Paraguay,Imputed rentals of owner-occupiers for main residence,Quintile 2,2011
+0.03321617469191551,26,,PRY,242,383,261940,29181,331,Rural,Paraguay,Imputed rentals of owner-occupiers for main residence,Quintile 3,2011
+0.028020735830068588,26,,PRY,242,384,261940,29181,331,Rural,Paraguay,Imputed rentals of owner-occupiers for main residence,Quintile 4,2011
+0.03148924931883812,26,,PRY,242,381,261940,29181,331,Rural,Paraguay,Imputed rentals of owner-occupiers for main residence,Quintile 5,2011
+0.030666617676615715,26,,PRY,242,379,261940,29181,331,Rural,Paraguay,Imputed rentals of owner-occupiers for main residence,Total quintile,2011
+0.032138485461473465,26,,PRY,242,380,261940,29181,330,Urban,Paraguay,Imputed rentals of owner-occupiers for main residence,Quintile 1,2011
+0.030481023713946342,26,,PRY,242,382,261940,29181,330,Urban,Paraguay,Imputed rentals of owner-occupiers for main residence,Quintile 2,2011
+0.03464342653751373,26,,PRY,242,383,261940,29181,330,Urban,Paraguay,Imputed rentals of owner-occupiers for main residence,Quintile 3,2011
+0.037241410464048386,26,,PRY,242,384,261940,29181,330,Urban,Paraguay,Imputed rentals of owner-occupiers for main residence,Quintile 4,2011
+0.04675539955496788,26,,PRY,242,381,261940,29181,330,Urban,Paraguay,Imputed rentals of owner-occupiers for main residence,Quintile 5,2011
+0.039126429706811905,26,,PRY,242,379,261940,29181,330,Urban,Paraguay,Imputed rentals of owner-occupiers for main residence,Total quintile,2011
+10.067346572875977,26,,PRY,242,380,261947,29181,327,National,Paraguay,Total expenditure on actual rentals for the main residence,Quintile 1,2011
+10.43292236328125,26,,PRY,242,382,261947,29181,327,National,Paraguay,Total expenditure on actual rentals for the main residence,Quintile 2,2011
+11.444426536560059,26,,PRY,242,383,261947,29181,327,National,Paraguay,Total expenditure on actual rentals for the main residence,Quintile 3,2011
+12.449045181274414,26,,PRY,242,384,261947,29181,327,National,Paraguay,Total expenditure on actual rentals for the main residence,Quintile 4,2011
+15.579143524169922,26,,PRY,242,381,261947,29181,327,National,Paraguay,Total expenditure on actual rentals for the main residence,Quintile 5,2011
+13.107266426086426,26,,PRY,242,379,261947,29181,327,National,Paraguay,Total expenditure on actual rentals for the main residence,Total quintile,2011
+9.246956825256348,26,,PRY,242,380,261947,29181,331,Rural,Paraguay,Total expenditure on actual rentals for the main residence,Quintile 1,2011
+10.34554672241211,26,,PRY,242,382,261947,29181,331,Rural,Paraguay,Total expenditure on actual rentals for the main residence,Quintile 2,2011
+10.233534812927246,26,,PRY,242,383,261947,29181,331,Rural,Paraguay,Total expenditure on actual rentals for the main residence,Quintile 3,2011
+10.723054885864258,26,,PRY,242,384,261947,29181,331,Rural,Paraguay,Total expenditure on actual rentals for the main residence,Quintile 4,2011
+12.37053108215332,26,,PRY,242,381,261947,29181,331,Rural,Paraguay,Total expenditure on actual rentals for the main residence,Quintile 5,2011
+11.03566837310791,26,,PRY,242,379,261947,29181,331,Rural,Paraguay,Total expenditure on actual rentals for the main residence,Total quintile,2011
+10.733962059020996,26,,PRY,242,380,261947,29181,330,Urban,Paraguay,Total expenditure on actual rentals for the main residence,Quintile 1,2011
+10.93420124053955,26,,PRY,242,382,261947,29181,330,Urban,Paraguay,Total expenditure on actual rentals for the main residence,Quintile 2,2011
+13.0877103805542,26,,PRY,242,383,261947,29181,330,Urban,Paraguay,Total expenditure on actual rentals for the main residence,Quintile 3,2011
+13.354350090026855,26,,PRY,242,384,261947,29181,330,Urban,Paraguay,Total expenditure on actual rentals for the main residence,Quintile 4,2011
+16.335861206054688,26,,PRY,242,381,261947,29181,330,Urban,Paraguay,Total expenditure on actual rentals for the main residence,Quintile 5,2011
+13.900373458862305,26,,PRY,242,379,261947,29181,330,Urban,Paraguay,Total expenditure on actual rentals for the main residence,Total quintile,2011
+1.178742527961731,26,,PER,244,380,261939,29189,327,National,Peru,Actual rentals paid by tenants for main residence,Quintile 1,2019
+1.6644693613052368,26,,PER,244,382,261939,29189,327,National,Peru,Actual rentals paid by tenants for main residence,Quintile 2,2019
+1.5594416856765747,26,,PER,244,383,261939,29189,327,National,Peru,Actual rentals paid by tenants for main residence,Quintile 3,2019
+1.6892821788787842,26,,PER,244,384,261939,29189,327,National,Peru,Actual rentals paid by tenants for main residence,Quintile 4,2019
+2.5018117427825928,26,,PER,244,381,261939,29189,327,National,Peru,Actual rentals paid by tenants for main residence,Quintile 5,2019
+1.9452425241470337,26,,PER,244,379,261939,29189,327,National,Peru,Actual rentals paid by tenants for main residence,Total quintile,2019
+0.05920041352510452,26,,PER,244,380,261939,29189,331,Rural,Peru,Actual rentals paid by tenants for main residence,Quintile 1,2019
+0.06792902946472168,26,,PER,244,382,261939,29189,331,Rural,Peru,Actual rentals paid by tenants for main residence,Quintile 2,2019
+0.09143847227096558,26,,PER,244,383,261939,29189,331,Rural,Peru,Actual rentals paid by tenants for main residence,Quintile 3,2019
+0.11820094287395477,26,,PER,244,384,261939,29189,331,Rural,Peru,Actual rentals paid by tenants for main residence,Quintile 4,2019
+0.2310180813074112,26,,PER,244,381,261939,29189,331,Rural,Peru,Actual rentals paid by tenants for main residence,Quintile 5,2019
+0.13729740679264069,26,,PER,244,379,261939,29189,331,Rural,Peru,Actual rentals paid by tenants for main residence,Total quintile,2019
+2.2493693828582764,26,,PER,244,380,261939,29189,330,Urban,Peru,Actual rentals paid by tenants for main residence,Quintile 1,2019
+1.89496648311615,26,,PER,244,382,261939,29189,330,Urban,Peru,Actual rentals paid by tenants for main residence,Quintile 2,2019
+1.6185340881347656,26,,PER,244,383,261939,29189,330,Urban,Peru,Actual rentals paid by tenants for main residence,Quintile 3,2019
+2.0590455532073975,26,,PER,244,384,261939,29189,330,Urban,Peru,Actual rentals paid by tenants for main residence,Quintile 4,2019
+2.5311262607574463,26,,PER,244,381,261939,29189,330,Urban,Peru,Actual rentals paid by tenants for main residence,Quintile 5,2019
+2.1594159603118896,26,,PER,244,379,261939,29189,330,Urban,Peru,Actual rentals paid by tenants for main residence,Total quintile,2019
+0.02793259546160698,26,,PER,244,380,261940,29189,327,National,Peru,Imputed rentals of owner-occupiers for main residence,Quintile 1,2019
+0.03165499493479729,26,,PER,244,382,261940,29189,327,National,Peru,Imputed rentals of owner-occupiers for main residence,Quintile 2,2019
+0.03480188176035881,26,,PER,244,383,261940,29189,327,National,Peru,Imputed rentals of owner-occupiers for main residence,Quintile 3,2019
+0.038251329213380814,26,,PER,244,384,261940,29189,327,National,Peru,Imputed rentals of owner-occupiers for main residence,Quintile 4,2019
+0.04399353265762329,26,,PER,244,381,261940,29189,327,National,Peru,Imputed rentals of owner-occupiers for main residence,Quintile 5,2019
+0.03827253729104996,26,,PER,244,379,261940,29189,327,National,Peru,Imputed rentals of owner-occupiers for main residence,Total quintile,2019
+0.028424985706806183,26,,PER,244,380,261940,29189,331,Rural,Peru,Imputed rentals of owner-occupiers for main residence,Quintile 1,2019
+0.030622847378253937,26,,PER,244,382,261940,29189,331,Rural,Peru,Imputed rentals of owner-occupiers for main residence,Quintile 2,2019
+0.033828217536211014,26,,PER,244,383,261940,29189,331,Rural,Peru,Imputed rentals of owner-occupiers for main residence,Quintile 3,2019
+0.03901669383049011,26,,PER,244,384,261940,29189,331,Rural,Peru,Imputed rentals of owner-occupiers for main residence,Quintile 4,2019
+0.05435193330049515,26,,PER,244,381,261940,29189,331,Rural,Peru,Imputed rentals of owner-occupiers for main residence,Quintile 5,2019
+0.04080758988857269,26,,PER,244,379,261940,29189,331,Rural,Peru,Imputed rentals of owner-occupiers for main residence,Total quintile,2019
+0.027505038306117058,26,,PER,244,380,261940,29189,330,Urban,Peru,Imputed rentals of owner-occupiers for main residence,Quintile 1,2019
+0.03177281469106674,26,,PER,244,382,261940,29189,330,Urban,Peru,Imputed rentals of owner-occupiers for main residence,Quintile 2,2019
+0.03464803099632263,26,,PER,244,383,261940,29189,330,Urban,Peru,Imputed rentals of owner-occupiers for main residence,Quintile 3,2019
+0.03869173675775528,26,,PER,244,384,261940,29189,330,Urban,Peru,Imputed rentals of owner-occupiers for main residence,Quintile 4,2019
+0.04390854015946388,26,,PER,244,381,261940,29189,330,Urban,Peru,Imputed rentals of owner-occupiers for main residence,Quintile 5,2019
+0.03797223046422005,26,,PER,244,379,261940,29189,330,Urban,Peru,Imputed rentals of owner-occupiers for main residence,Total quintile,2019
+8.215131759643555,26,,PER,244,380,261947,29189,327,National,Peru,Total expenditure on actual rentals for the main residence,Quintile 1,2019
+10.627161979675293,26,,PER,244,382,261947,29189,327,National,Peru,Total expenditure on actual rentals for the main residence,Quintile 2,2019
+12.52457046508789,26,,PER,244,383,261947,29189,327,National,Peru,Total expenditure on actual rentals for the main residence,Quintile 3,2019
+14.470847129821777,26,,PER,244,384,261947,29189,327,National,Peru,Total expenditure on actual rentals for the main residence,Quintile 4,2019
+18.54859161376953,26,,PER,244,381,261947,29189,327,National,Peru,Total expenditure on actual rentals for the main residence,Quintile 5,2019
+14.76502799987793,26,,PER,244,379,261947,29189,327,National,Peru,Total expenditure on actual rentals for the main residence,Total quintile,2019
+4.783893585205078,26,,PER,244,380,261947,29189,331,Rural,Peru,Total expenditure on actual rentals for the main residence,Quintile 1,2019
+5.024789333343506,26,,PER,244,382,261947,29189,331,Rural,Peru,Total expenditure on actual rentals for the main residence,Quintile 2,2019
+5.3435468673706055,26,,PER,244,383,261947,29189,331,Rural,Peru,Total expenditure on actual rentals for the main residence,Quintile 3,2019
+5.710653781890869,26,,PER,244,384,261947,29189,331,Rural,Peru,Total expenditure on actual rentals for the main residence,Quintile 4,2019
+7.2033891677856445,26,,PER,244,381,261947,29189,331,Rural,Peru,Total expenditure on actual rentals for the main residence,Quintile 5,2019
+5.940981864929199,26,,PER,244,379,261947,29189,331,Rural,Peru,Total expenditure on actual rentals for the main residence,Total quintile,2019
+11.560383796691895,26,,PER,244,380,261947,29189,330,Urban,Peru,Total expenditure on actual rentals for the main residence,Quintile 1,2019
+12.627920150756836,26,,PER,244,382,261947,29189,330,Urban,Peru,Total expenditure on actual rentals for the main residence,Quintile 2,2019
+13.749093055725098,26,,PER,244,383,261947,29189,330,Urban,Peru,Total expenditure on actual rentals for the main residence,Quintile 3,2019
+15.587348937988281,26,,PER,244,384,261947,29189,330,Urban,Peru,Total expenditure on actual rentals for the main residence,Quintile 4,2019
+19.07455062866211,26,,PER,244,381,261947,29189,330,Urban,Peru,Total expenditure on actual rentals for the main residence,Quintile 5,2019
+15.810343742370605,26,,PER,244,379,261947,29189,330,Urban,Peru,Total expenditure on actual rentals for the main residence,Total quintile,2019
+5.557913780212402,26,,DOM,264,380,261939,29188,327,National,Dominican Republic,Actual rentals paid by tenants for main residence,Quintile 1,2018
+5.318259239196777,26,,DOM,264,382,261939,29188,327,National,Dominican Republic,Actual rentals paid by tenants for main residence,Quintile 2,2018
+5.395303726196289,26,,DOM,264,383,261939,29188,327,National,Dominican Republic,Actual rentals paid by tenants for main residence,Quintile 3,2018
+4.866485595703125,26,,DOM,264,384,261939,29188,327,National,Dominican Republic,Actual rentals paid by tenants for main residence,Quintile 4,2018
+4.889134407043457,26,,DOM,264,381,261939,29188,327,National,Dominican Republic,Actual rentals paid by tenants for main residence,Quintile 5,2018
+5.082118511199951,26,,DOM,264,379,261939,29188,327,National,Dominican Republic,Actual rentals paid by tenants for main residence,Total quintile,2018
+1.9766560792922974,26,,DOM,264,380,261939,29188,331,Rural,Dominican Republic,Actual rentals paid by tenants for main residence,Quintile 1,2018
+1.772916316986084,26,,DOM,264,382,261939,29188,331,Rural,Dominican Republic,Actual rentals paid by tenants for main residence,Quintile 2,2018
+1.5177632570266724,26,,DOM,264,383,261939,29188,331,Rural,Dominican Republic,Actual rentals paid by tenants for main residence,Quintile 3,2018
+1.8054962158203125,26,,DOM,264,384,261939,29188,331,Rural,Dominican Republic,Actual rentals paid by tenants for main residence,Quintile 4,2018
+1.3561359643936157,26,,DOM,264,381,261939,29188,331,Rural,Dominican Republic,Actual rentals paid by tenants for main residence,Quintile 5,2018
+1.6028379201889038,26,,DOM,264,379,261939,29188,331,Rural,Dominican Republic,Actual rentals paid by tenants for main residence,Total quintile,2018
+6.600837707519531,26,,DOM,264,380,261939,29188,330,Urban,Dominican Republic,Actual rentals paid by tenants for main residence,Quintile 1,2018
+6.1823930740356445,26,,DOM,264,382,261939,29188,330,Urban,Dominican Republic,Actual rentals paid by tenants for main residence,Quintile 2,2018
+6.140588283538818,26,,DOM,264,383,261939,29188,330,Urban,Dominican Republic,Actual rentals paid by tenants for main residence,Quintile 3,2018
+5.391593933105469,26,,DOM,264,384,261939,29188,330,Urban,Dominican Republic,Actual rentals paid by tenants for main residence,Quintile 4,2018
+5.230410099029541,26,,DOM,264,381,261939,29188,330,Urban,Dominican Republic,Actual rentals paid by tenants for main residence,Quintile 5,2018
+5.658540725708008,26,,DOM,264,379,261939,29188,330,Urban,Dominican Republic,Actual rentals paid by tenants for main residence,Total quintile,2018
+0.021093787625432014,26,,DOM,264,380,261940,29188,327,National,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Quintile 1,2018
+0.022785235196352005,26,,DOM,264,382,261940,29188,327,National,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Quintile 2,2018
+0.021954303607344627,26,,DOM,264,383,261940,29188,327,National,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Quintile 3,2018
+0.024046458303928375,26,,DOM,264,384,261940,29188,327,National,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Quintile 4,2018
+0.022175684571266174,26,,DOM,264,381,261940,29188,327,National,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Quintile 5,2018
+0.02251846343278885,26,,DOM,264,379,261940,29188,327,National,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Total quintile,2018
+0.030945833772420883,26,,DOM,264,380,261940,29188,331,Rural,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Quintile 1,2018
+0.030943818390369415,26,,DOM,264,382,261940,29188,331,Rural,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Quintile 2,2018
+0.029761886224150658,26,,DOM,264,383,261940,29188,331,Rural,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Quintile 3,2018
+0.032390788197517395,26,,DOM,264,384,261940,29188,331,Rural,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Quintile 4,2018
+0.034849073737859726,26,,DOM,264,381,261940,29188,331,Rural,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Quintile 5,2018
+0.03249340504407883,26,,DOM,264,379,261940,29188,331,Rural,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Total quintile,2018
+0.018325453624129295,26,,DOM,264,380,261940,29188,330,Urban,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Quintile 1,2018
+0.021071869879961014,26,,DOM,264,382,261940,29188,330,Urban,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Quintile 2,2018
+0.02008906379342079,26,,DOM,264,383,261940,29188,330,Urban,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Quintile 3,2018
+0.022001663222908974,26,,DOM,264,384,261940,29188,330,Urban,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Quintile 4,2018
+0.02109050378203392,26,,DOM,264,381,261940,29188,330,Urban,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Quintile 5,2018
+0.02086588740348816,26,,DOM,264,379,261940,29188,330,Urban,Dominican Republic,Imputed rentals of owner-occupiers for main residence,Total quintile,2018
+12.585957527160645,26,,DOM,264,380,261947,29188,327,National,Dominican Republic,Total expenditure on actual rentals for the main residence,Quintile 1,2018
+13.342752456665039,26,,DOM,264,382,261947,29188,327,National,Dominican Republic,Total expenditure on actual rentals for the main residence,Quintile 2,2018
+13.382169723510742,26,,DOM,264,383,261947,29188,327,National,Dominican Republic,Total expenditure on actual rentals for the main residence,Quintile 3,2018
+14.152104377746582,26,,DOM,264,384,261947,29188,327,National,Dominican Republic,Total expenditure on actual rentals for the main residence,Quintile 4,2018
+16.406728744506836,26,,DOM,264,381,261947,29188,327,National,Dominican Republic,Total expenditure on actual rentals for the main residence,Quintile 5,2018
+14.694345474243164,26,,DOM,264,379,261947,29188,327,National,Dominican Republic,Total expenditure on actual rentals for the main residence,Total quintile,2018
+9.161937713623047,26,,DOM,264,380,261947,29188,331,Rural,Dominican Republic,Total expenditure on actual rentals for the main residence,Quintile 1,2018
+9.416606903076172,26,,DOM,264,382,261947,29188,331,Rural,Dominican Republic,Total expenditure on actual rentals for the main residence,Quintile 2,2018
+9.28259563446045,26,,DOM,264,383,261947,29188,331,Rural,Dominican Republic,Total expenditure on actual rentals for the main residence,Quintile 3,2018
+10.219585418701172,26,,DOM,264,384,261947,29188,331,Rural,Dominican Republic,Total expenditure on actual rentals for the main residence,Quintile 4,2018
+11.12192440032959,26,,DOM,264,381,261947,29188,331,Rural,Dominican Republic,Total expenditure on actual rentals for the main residence,Quintile 5,2018
+10.17383098602295,26,,DOM,264,379,261947,29188,331,Rural,Dominican Republic,Total expenditure on actual rentals for the main residence,Total quintile,2018
+13.555042266845703,26,,DOM,264,380,261947,29188,330,Urban,Dominican Republic,Total expenditure on actual rentals for the main residence,Quintile 1,2018
+14.351663589477539,26,,DOM,264,382,261947,29188,330,Urban,Dominican Republic,Total expenditure on actual rentals for the main residence,Quintile 2,2018
+14.270903587341309,26,,DOM,264,383,261947,29188,330,Urban,Dominican Republic,Total expenditure on actual rentals for the main residence,Quintile 3,2018
+14.634414672851562,26,,DOM,264,384,261947,29188,330,Urban,Dominican Republic,Total expenditure on actual rentals for the main residence,Quintile 4,2018
+17.108333587646484,26,,DOM,264,381,261947,29188,330,Urban,Dominican Republic,Total expenditure on actual rentals for the main residence,Quintile 5,2018
+15.44327163696289,26,,DOM,264,379,261947,29188,330,Urban,Dominican Republic,Total expenditure on actual rentals for the main residence,Total quintile,2018
+3.1587822437286377,26,,URY,258,380,261939,29186,327,National,Uruguay,Actual rentals paid by tenants for main residence,Quintile 1,2016
+3.3868460655212402,26,,URY,258,382,261939,29186,327,National,Uruguay,Actual rentals paid by tenants for main residence,Quintile 2,2016
+3.42099666595459,26,,URY,258,383,261939,29186,327,National,Uruguay,Actual rentals paid by tenants for main residence,Quintile 3,2016
+2.9784975051879883,26,,URY,258,384,261939,29186,327,National,Uruguay,Actual rentals paid by tenants for main residence,Quintile 4,2016
+2.2885048389434814,26,,URY,258,381,261939,29186,327,National,Uruguay,Actual rentals paid by tenants for main residence,Quintile 5,2016
+2.8480021953582764,26,,URY,258,379,261939,29186,327,National,Uruguay,Actual rentals paid by tenants for main residence,Total quintile,2016
+0.10394061356782913,26,,URY,258,380,261940,29186,327,National,Uruguay,Imputed rentals of owner-occupiers for main residence,Quintile 1,2016
+0.0805230438709259,26,,URY,258,382,261940,29186,327,National,Uruguay,Imputed rentals of owner-occupiers for main residence,Quintile 2,2016
+0.08558791875839233,26,,URY,258,383,261940,29186,327,National,Uruguay,Imputed rentals of owner-occupiers for main residence,Quintile 3,2016
+0.08811794221401215,26,,URY,258,384,261940,29186,327,National,Uruguay,Imputed rentals of owner-occupiers for main residence,Quintile 4,2016
+0.09961719810962677,26,,URY,258,381,261940,29186,327,National,Uruguay,Imputed rentals of owner-occupiers for main residence,Quintile 5,2016
+0.0925632119178772,26,,URY,258,379,261940,29186,327,National,Uruguay,Imputed rentals of owner-occupiers for main residence,Total quintile,2016
+18.052001953125,26,,URY,258,380,261947,29186,327,National,Uruguay,Total expenditure on actual rentals for the main residence,Quintile 1,2016
+18.568639755249023,26,,URY,258,382,261947,29186,327,National,Uruguay,Total expenditure on actual rentals for the main residence,Quintile 2,2016
+19.661359786987305,26,,URY,258,383,261947,29186,327,National,Uruguay,Total expenditure on actual rentals for the main residence,Quintile 3,2016
+20.52303695678711,26,,URY,258,384,261947,29186,327,National,Uruguay,Total expenditure on actual rentals for the main residence,Quintile 4,2016
+21.933998107910156,26,,URY,258,381,261947,29186,327,National,Uruguay,Total expenditure on actual rentals for the main residence,Quintile 5,2016
+20.484338760375977,26,,URY,258,379,261947,29186,327,National,Uruguay,Total expenditure on actual rentals for the main residence,Total quintile,2016
